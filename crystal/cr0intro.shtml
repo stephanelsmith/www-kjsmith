@@ -1,0 +1,120 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio: a non-commercial web page presenting unique content about crystal radios I have personally designed and built.  How to measure and test crystal radios. Measurement results on various diodes, crystals, and vacuum tube detectors.</TITLE>
+<META Name="description" Content="a non-commercial web page presenting unique content about crystal radios I have personally designed and built.  How to measure and test crystal radios. Measurement results on various diodes, crystals, and vacuum tube detectors.">
+<META Name="keywords" Content="Crystal Radio, audio amplifier, wave trap, radio testing and measurement, diode test, vacuum tube diode, crystal diode, steel galena">
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=left SRC="earthre.gif">
+<H2>Introduction to Kevin's Crystal Radios<br clear=left>
+</H2>
+
+
+<h4>
+
+<IMG align=right SRC="skew.jpg">
+
+ANNOUNCEMENT<br>
+I have recently taken all the content contained here in my Crystal Radio site and organized it into a professionally bound hardcover book.  If you are anything like me then you probably enjoy taking a book down off the shelf when you need a handy reference, or just browsing.  It is a bit pricy as I have chosen to retain all the color images, but I encourage to you check it out.  The Lulu Bookstore site for the book can be found here: 
+<A HREF="https://www.lulu.com/en/us/shop/kevin-j-smith/crystal-radio-handbook/hardcover/product-k64j4p.html?page=1&pageSize=4">(Print on Demand)</a> <p> 
+<hr>
+<p>
+In March of 2009 while shopping for some sensors on ebay, quite on a lark I typed "Crystal Radio" as a search term not really knowing what to expect.  My search was not totally random, I have always been interested in radio communications and in radio propagation as a geophysical probe of the ionosphere, <A HREF="/~kjsmith/radio/r0ctnts.shtml">(more about that here).</a>  Additionally as a child I had once a small "Spy Pen" crystal radio what always facinated me, and as an adult I had given a crystal radio toy kit to my second son who showed much interest in computers and electrical things.  He has since gone on to his Master's degree in EE and now works designing computer chips for Intel in Silicon Valley.  So, maybe it was the radio?  <p>
+
+Vaguely I thought to find a crystal radio or radio kit of some sort to play with, something more serious than a cheap plastic toy.  What I found was suprising, so much there.  I explored the listings, odds and ends mostly of course, its ebay after all, and a few completed radios new and vintage, and one in partictular which caught my eye.  There were several kits by someone calling himself Xtalman including one he calls Dunwoody which seemed to exactly fit my idea, a kit, easy enough for a beginner but serious enough to satisfy a more educated mind.  I decided to pull the trigger, the radio was offered "buy it now", so I did!  So began my journey into a black hole of interest, somebody really ought to post warnings on all crystal radios..  "WARNING, may cause serious refocusing of lifestyle".    <p>
+
+In the time since, I have plunged deeply into the web literature, joined the Xtal Set Society, and built homebrews of my own in addition to purchasing a few sets, (described separately).  In the following pages I present each radio with the ideas and motavations that move me to own, admire, and use them.  It has become a facinating journey for me which I wish to share so that others may understand and catch the bug for themselves, so that other radio builders may view and comment, with suggestions perhaps for improvement, and so us newbies may heed the WARNING, and STILL take the plunge!  <p>
+I would love to hear from you if you have comments or questions.  Please write me at the following:  <IMG SRC="kjadd.jpg"> 
+
+
+
+<hr size=10>Crystal Radio Handbook, this web page, hardbound!. <p>
+
+<A HREF="handbook.shtml"><img border=0 SRC="/~kjsmith/crystal/CRHBbtn.jpg"</a>
+<A HREF="handbook.shtml">CRYSTAL RADIO HANDBOOK..</a>  Available in hardcover to add to your library.....<p>
+
+<hr size=10>Testing new ideas / Thoughts, speculations, ideas, ravings... / designs for upcomming projects. <p>
+
+<A HREF="lab.shtml"><img border=0 SRC="/~kjsmith/crystal/btnlab.jpg"</a>
+<A HREF="/~kjsmith/crystal/lab.shtml">RADIO LABORATORY..</a>  Know thy radio.....<p>
+<A HREF="catalog.shtml"><img border=0 SRC="/~kjsmith/crystal/btncat.jpg"</a>
+<A HREF="/~kjsmith/crystal/catalog.shtml">A Library of Crystal Hookups and Theory:..</a><p>
+<A HREF="sgalena.shtml"><img border=0 SRC="/~kjsmith/crystal/btngal.jpg"</a>
+<A HREF="/~kjsmith/crystal/sgalena.shtml">A Geological look at Steel Galena...</a><p>
+<A HREF="kgow.shtml"><img border=0 SRC="/~kjsmith/crystal/btnpst.jpg"</a>
+<A HREF="/~kjsmith/crystal/kgow.shtml">KGOW1650, a local PEST!!..</a><p>
+<A HREF="jmrd.shtml"><img border=0 SRC="/~kjsmith/crystal/pjd0.jpg"</a>
+<A HREF="/~kjsmith/crystal/jmrd.shtml">JACQUEMARD..</a>  The good Professeur's French Rig for MW/LW..<p>
+<A HREF="ack.shtml"><img border=0 SRC="/~kjsmith/crystal/btncat.jpg"</a>
+<A HREF="/~kjsmith/crystal/ack.shtml">Acknowledgements:..</a> (and useful links) <p>
+
+<hr size=10>Radios I have built with my own little mitts:<p>
+
+<A HREF="spark.shtml"><img border=0 SRC="/~kjsmith/crystal/btnspk.jpg"</a>
+<A HREF="/~kjsmith/crystal/spark.shtml">SPARK GAP TRANSMITTER..</a>  A Spark-Gap Transmitter project...<p>
+<A HREF="dunwoody.shtml"><img border=0 SRC="/~kjsmith/crystal/btndun.jpg"</a>
+<A HREF="/~kjsmith/crystal/dunwoody.shtml">DUNWOODY..</a>  A tale of my entry into the world of Crystal Radio<p>
+<A HREF="mystery.shtml"><img border=0 SRC="/~kjsmith/crystal/btnmys.jpg"</a>
+<A HREF="/~kjsmith/crystal/mystery.shtml">MYSTERY..</a>  My first homemade, Proton's Mystery<p>
+<A HREF="homebrew.shtml"><img border=0 SRC="/~kjsmith/crystal/btnhbw.jpg"</a>
+<A HREF="/~kjsmith/crystal/homebrew.shtml">HOME BREW..</a>  A double tuned set / prototyping testbed.<p>
+<A HREF="deforest.shtml"><img border=0 SRC="/~kjsmith/crystal/btndft.jpg"</a>
+<A HREF="/~kjsmith/crystal/deforest.shtml">DE FOREST..</a>  A showcase for some lovely vintage components.<p>
+<A HREF="brt.shtml"><img border=0 SRC="/~kjsmith/crystal/btnbrt.jpg"</a>
+<A HREF="/~kjsmith/crystal/brt.shtml">BREMER-TULLY..</a>  Bank-wound inductor, vintage components seeking their place..<p>
+<A HREF="sw2.shtml"><img border=0 SRC="/~kjsmith/crystal/btndxr.jpg"</a>
+<A HREF="/~kjsmith/crystal/sw2.shtml">GLOBAL DX'TER..</a>  Riding on the High Road<p>
+<A HREF="flm.shtml"><img border=0 SRC="/~kjsmith/crystal/btnflm.jpg"</a>
+<A HREF="/~kjsmith/crystal/flm.shtml">FLEMING..</a>  The first electronic detector, Fleming's amazing valve.<p>
+<A HREF="minstrel.shtml"><img border=0 SRC="/~kjsmith/crystal/mbt1.jpg"</a>
+<A HREF="/~kjsmith/crystal/minstrel.shtml">MINSTREL BOY..</a>  Triple-tuned link-coupled set veiled in green.<p>
+<A HREF="ham.shtml"><img border=0 SRC="/~kjsmith/crystal/tham.jpg"</a>
+<A HREF="/~kjsmith/crystal/ham.shtml">HAMMARLUND..</a>  Double-tuned set with Hammarlund caps.<p>
+<A HREF="teflon.shtml"><img border=0 SRC="/~kjsmith/crystal/tef5.jpg"</a>
+<A HREF="/~kjsmith/crystal/teflon.shtml">TEFLON..</a>  High-performance Double-tuned set, Contest Worthy.<p>
+<A HREF="telefunken.shtml"><img border=0 SRC="/~kjsmith/crystal/tfktmb.jpg"</a>
+<A HREF="/~kjsmith/crystal/telefunken.shtml">TELEFUNKEN..</a>  Another Mystery set, powerd by vacuum technology..<p>
+
+<A HREF="blitz.shtml"><img border=0 SRC="/~kjsmith/crystal/blitz0.jpg"</a>
+<A HREF="/~kjsmith/crystal/telefunken.shtml">BIG LITZ..</a>  A venture into performance..<p>
+
+<hr size=10>
+
+<A HREF="kpb02.shtml"><img border=0 SRC="/~kjsmith/crystal/kpbbtn.jpg"</a>
+<A HREF="/~kjsmith/crystal/kpb02.shtml">KPB-02 Matching Transformer..</a>  Delivering the most power to my ear.<p>
+<A HREF="wt.shtml"><img border=0 SRC="/~kjsmith/crystal/btnwt.jpg"</a>
+<A HREF="/~kjsmith/crystal/wt.shtml">WAVE TRAP..</a>  Problems eliminated<p>
+<A HREF="wtpro.shtml"><img border=0 SRC="/~kjsmith/crystal/wtp9btn.jpg"</a>
+<A HREF="/~kjsmith/crystal/wtpro.shtml">PRO WAVE TRAP..</a>  Playing with the big boys now...<p>
+<A HREF="amp.shtml"><img border=0 SRC="/~kjsmith/crystal/btnamp.jpg"</a>
+<A HREF="/~kjsmith/crystal/amp.shtml">AUDIO AMPLIFIER..</a>  For those times when....<p>
+<A HREF="lcoil.shtml"><img border=0 SRC="/~kjsmith/crystal/btnvrm.jpg"</a>
+<A HREF="/~kjsmith/crystal/lcoil.shtml">LOADING COIL..</a>  A Vintage Variometer finds a happy home.<p>
+<A HREF="minilab.shtml"><img border=0 SRC="/~kjsmith/crystal/minl3b.jpg"</a>
+<A HREF="/~kjsmith/crystal/minilab.shtml">MINILABS..</a>  A toy Crystal Radio my son made.<p>
+<A HREF="sleeper.shtml"><img border=0 SRC="/~kjsmith/crystal/btnslp.jpg"</a>
+<A HREF="/~kjsmith/crystal/sleeper.shtml">SLEEPER #1..</a>  Cheap shot, but it's a radio!<p>
+
+<hr size=10>Radios I have acquired (read: paid waaay too much for, with no regrets)<p>
+<A HREF="steinite.shtml"><img border=0 SRC="/~kjsmith/crystal/btnstn.jpg"</a>
+<A HREF="/~kjsmith/crystal/steinite.shtml">STEINITE..</a>  Vintage radio from the mid-1920's<p>
+<A HREF="ars.shtml"><img border=0 SRC="/~kjsmith/crystal/btnars.jpg"</a>
+<A HREF="/~kjsmith/crystal/ars.shtml">AMERICAN RADIO STORES..</a> Another vintage radio from the mid-1920's<p>
+<A HREF="bbc.shtml"><img border=0 SRC="/~kjsmith/crystal/btnbbc.jpg"</a>
+<A HREF="/~kjsmith/crystal/bbc.shtml">BBC COMMERATIVE..</a>  A bit of a mystery this one..<p>
+
+<hr size=15>
+
+</h4><h3>
+<A HREF="/~kjsmith/crystal/kjcrystal.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/kjsmith/html/footer.shtml" -->
+
+</HTML>

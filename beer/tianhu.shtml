@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, tianhu beer, china</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Tianhu Beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/tianhu.jpg" alt="tianhu beer label"></a><p>
+<IMG SRC="/~kjsmith/beer/tianhu2.jpg" alt="tianhu beer label"></a></center>
+<hr size=15>
+<H3>
+In Liaoning Province lies the coal city of Fushun.  In this city they have dug one of the largest open pits for coal ever made, its gigantic and all dug with those itty-bitty shovels.  Its a geologic process!  We visited there many times over the years trying to interest the Chinese in our technology for which the coal chemistry of the deposit was uniquely suited.  Dealing with Chinese can be difficult, they are tough customers and we never managed to convince.  Pity, but we DID manage to share with them any number of drinks.  Through it all I have a good memory of Fushun's own Tianhu beer.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

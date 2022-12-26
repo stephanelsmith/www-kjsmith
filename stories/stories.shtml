@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>kjs Writings, authored by yours truly</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H1>Snapshots, a random walk down memory lane..</H1>
+<h2>Stories written about interesting moments in my life, (to me at least, perhaps to you too...)</h2>
+<hr size=15>
+
+<H3><p>
+<a href="adams.shtml">Adams<br></a> <i>(The day the mountain spoke)</i><p>
+<a href="bear.shtml">Grizzly<br></a> <i>(Grinning down a bear in Glacier National Park)</i><p>
+<a href="witch.shtml">The Congo<br></a> <i>(Witch Doctor of the Mayombe)</i><p>
+<a href="hawk.shtml">Hawk<br></a> <i>(A contest of wills in the Arizona desert)</i><p>
+<a href="bighorn.shtml">Bighorn<br></a> <i>(Eye to eye in the desert, an unexpected encounter)</i><p>
+<a href="helens.shtml">St Helens<br></a> <i>(A winter climb becomes a trial for survival)</i><p>
+<a href="missoula.shtml">Missoula<br></a> <i>(An ode to winter, the joys of Montana)</i><p>
+<a href="rosario.shtml">Rosario<br></a> <i>(Scuba diving in Washington State's Puget Sound)</i><p>
+<a href="flight.shtml">Flight<br></a> <i>(Thrown from a pickup, the world seen at 40 mph)</i><p>
+<a href="sunrise.shtml">Sunrise<br></a> <i>(Sunrise, a chance alignment from Adams to St Helens)</i><p>
+<a href="sahara.shtml">Sahara<br></a> <i>(A geologic mission to Algeria's "Grand Sud")</i><p>
+<a href="tour.shtml">Tour<br></a> <i>(An unauthorized trip across the Cascades to Seattle)</i><p>
+<a href="pins.shtml">Pins<br></a> <i>(My secret to attracting the attention of lovely women revealed, Algiers)</i><p>
+<a href="hawaii.shtml">Hawaii<br></a> <i>(A childhood dream can come true, a journey to the Big island)</i><p>
+<a href="fish.shtml">Fish<br></a> <i>(Swimming with a trout!)</i><p>
+<a href="eclipse.shtml">Eclipse<br></a> <i>(Helena Montana, when day became night became day again)</i><p>
+<a href="gold.shtml">Gold<br></a> <i>(About the afternoon I spent sitting by a river of running gold)</i><p>
+</center>
+
+<hr size=15>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a>
+</H3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

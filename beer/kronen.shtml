@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, kronenbourg beer, france</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Kronenbourg</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/kronen.jpg" alt="kronenbourg beer label"></a></center>
+<hr size=15>
+<H3>
+Kronenbourg, now a suburb of Strasbourg, lies a couple of klicks from the village of Illkirch-Graffenstaden where my mother-in-law is from.  A crown jewel of Alsace, it is a strong lager with a well earned reputation as France's premier beer.  This label was taken from an export bottle and really needs to be replaced by the real 1664 label.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

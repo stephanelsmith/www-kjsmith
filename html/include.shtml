@@ -1,0 +1,6 @@
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

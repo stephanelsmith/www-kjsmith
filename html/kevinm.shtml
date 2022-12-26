@@ -1,0 +1,23 @@
+<HTML>
+<HEAD>
+<TITLE>kjs kevin main</TITLE>
+<BODY BACKGROUND="/~kjsmith/graphics/phot.gif"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>The Author....</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/html/ks2.jpg"></center>
+
+<hr size=15>
+<H3>Kevin Smith, born in Yakima, Washington<P>
+
+<hr size=15>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

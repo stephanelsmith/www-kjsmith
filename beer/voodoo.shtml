@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, blackened voodoo beer, louisiana</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Blackened Voodoo Beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/voodoo.jpg" alt="blackened voodoo beer label"></a></center>
+<hr size=15>
+<H3>
+From way down yonder in New Orleans the Dixie Brewing Company produces this fine beer with its fine label, Blackened Voodoo.  Bryan Lastraps contributes this label after a recent holiday down dixie-way.  He didnt say that much about the beer, but the label is just SO cool..  The scan really dosnt do it justice as it has a metallic silver backing upon which the design is printed.  <p>
+kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

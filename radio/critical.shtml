@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, ft colins-houston circuit analysis</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Supplemental Records</H2>
+<hr size=15>
+<H3>
+
+<hr>
+<center><IMG SRC="critical.gif" alt="Graphical presentation of the relationships between the frequency, ionosphere electron density, and propagation incident angle measured from vertical" width=547 height=375></center>
+<hr>
+Graphical presentation of the relationships between the frequency, ionosphere electron density, and propagation incident angle measured from vertical are given in the expression:<br>
+Nec = 1.2 x 10^4 v^2 cos^2 a  ...(from Tascione, 1988)<p>
+
+For the given circuit parameters:<br>
+	v = 15.000 MHz<br>
+	a = 72 d ...(h = 230 KM)<p>
+Then the Critical ionosphere density from the formula is<br>
+	Nec = 2.59 x 10^5 cm^-3.<p>
+
+For densities lower than that value the signal will pass out of the ionosphere into space.  For densities above that value the signal will continue to propogate, but with increasing absorbtion on this circuit.<p>
+
+<hr size=25>
+<A HREF="r2radio.shtml">Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>
+</HTML>

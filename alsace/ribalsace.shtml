@@ -1,0 +1,86 @@
+<HTML>
+<HEAD>
+<TITLE>kjs alsace: ribeaupierre</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H1>Histoire de l'Alsace</H1></center><P>
+
+<hr size=15>
+
+<H2>Arbre généalogique de la Maison de Ribeaupierre d'Alsace<p></H2><p>
+<H3>
+<p><hr size=5><br>
+<IMG align=right SRC="rptlpic.jpg">
+<p>
+<h3><A HREF="/~kjsmith/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
+<hr size=5>
+
+Cette page ce présente un arbre généalogique des Ribeaupierre, Maison noble d'Alsace du XIIe au XVIIe siècle. Je l'ai construit à partir des références listées ci-dessous principalement pour obtenir un aperçu plus complet. Cette arbre reprend où l'arbre d'Eguisheim se termine. Ici, j'ai créé une table plus professionnelle sans ajouter de liens familiaux à d'autres familles nobles importantes. Les principales données de référence proviennent d'une excellente publication Web du CV Rappoltstein de l'Association des étudiants catholiques allemands (chronik.rappoltstein.de). D'autres références sont utilisées pour vérifier et ajouter de la profondeur.  <p>
+
+Note: J'ai des réserves sur le CV Rappoltstein. Même si je pense que les données et les analyses sont excellentes et qu’elles les ont incorporées avec reconnaissance, le groupe lui-même me trouble quelque peu. Ils semblent un peu trop conservateurs, et pour l'Allemagne, je m'inquiète des choses trop conservatrices (en fait, je m'inquiète des choses trop conservatrices à peu près partout). Dans leurs publications traitant du XXe siècle*, j'ai l’impression ils suffre «Jahres der Trauer 1918» un peu de trop de la «perte» de leurs frères à Elsaß.<br>
+L'Allemagne a déjà essayé l'Anschluss, cela n'a pas bien fonctionné pour eux. Je pense que le temps du deuil est passé. Laissez-le tranquille maintenant.<p>
+*Voir "Das Ende in Straßburg - Rappoltsteiner Chronik.pdf"<p>
+Mes références historiques concernant le Ribeaupierre se trouvent dans le tome VI ci-dessus. <p>
+
+<center><IMG SRC="/~kjsmith/alsace/LesRibeaupierre.jpg" alt="Arbre généalogique de la Maison de Ribeaupierre d'Alsace"></center><p>
+
+<H4>
+
+Principle References utilized:<p>
+Stammfolge der Herren von Rappoltstein<br>
+chronik.rappoltstein.de<br>
+https://www.yumpu.com/de/document/view/17344281/a7b-stammfolge-der-herren-von-rappoltstein-von-den-anfangen-bis-/5<p>
+
+Généalogie de la Famille de Ribeaupierre<br>
+Mémoires de la Société d'Archéologie Lorraine et du Musée ..., Volume 23<br>
+Par Société d'Archéologie Lorraine<br>
+https://books.google.fr/books?id=VsNYAAAAcAAJ&pg=PA307&dq=Jean+jacques+de+Ribeaupierre+%C3%A9pousa&hl=fr&sa=X&ei=s_gkVJScCtKoogSCkoCgCw#v=onepage&q=%22g%C3%A9n%C3%A9alogie%20suivante%22&f=true<p>
+
+Bruno von Rappoltstein<br>
+Power Relationships in Later Medieval Alsace<br>
+Geoffrey Carter<br>
+https://core.ac.uk/download/pdf/6116347.pdf<p>
+
+La légende des deux frères de Ribeaupierre<br>
+http://legende-et-realite.blogspot.com/2009/10/la-legende-des-deux-freres-de.html<p>
+
+Famille de Ribeaupierre<br>
+Wikipedia.fr<br>
+https://fr.wikipedia.org/wiki/Famille_de_Ribeaupierre<p>
+
+L'Alsace à l'avant-scène des Guerres de religion : La Nouvelle Jérusalem, Eleutheroville et les Schelmes <br>
+Georges Bischoff <br>
+https://alsace.revues.org/1526 <p>
+
+Ribeauvillé - Vallée du Strengbach - Alsace.<br>
+http://ekladata.com/Hg0VhVL3VkscpL6w885gDDLfnf4/isite-de-ibo.pdf<p>
+
+Histoire de Sainte-Marie-aux-Mines<br>
+Wikipedia.fr<br>
+https://fr.wikipedia.org/wiki/Histoire_de_Sainte-Marie-aux-Mines<p>
+
+Château de Saint-Ulrich<br>
+Wikipedia.fr<br>
+https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saint-Ulrich<p>
+
+Die Herren zu Rappoltstein<br>
+http://chronik.rappoltstein.de/7%20Herren.pdf<p>
+</H4>
+<H3>
+
+kjs<br>
+2017<p>
+
+<hr size=15>
+<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<hr size=5>
+<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

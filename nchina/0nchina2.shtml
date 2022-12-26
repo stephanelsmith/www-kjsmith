@@ -1,0 +1,29 @@
+<HTML>
+<HEAD>
+<TITLE>kjs china photo gallery</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+
+<hr size=15>
+<center><H2>China Photo Gallery</H2></center>
+
+<hr size=15>
+
+<h3>I have had the fortunate luck to make many visits to China from 1998 until the present.  My travels have taken me across the northern stretches of China from Urumqi in central asia to Shanghai in the east and Harbin in the northeast, (map below).  Along the way I have come to know the wonderful hospitality of the Chinese people, their love of food and eating, and the deep history they draw upon to form their culture. I have even managed to pick up a few words and phrases of chinese, zhen de!<p>
+It is impossible to capture the flavor and visual variety of China in only a few photos, but I try to select a few that are special to me in order to give an impression, through my eyes, of my many adventures in the middle kingdom. The photos thus are selected to give a flavor of my trips, my work, people I have worked with, or just scenes that have special memories. These represent My China, the China I have come to know.  As I have been lucky to have such wonderful adventures, I wish to share with all and so make my appreciation known.
+<br>kjs<p>
+<hr size=5>
+<center><H2><img src=/~kjsmith/nchina/0china.jpg></a></H2></center>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,93 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, diode model</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="lab0.jpg">
+<H2>Part I: Diode Test and Protocol
+</H2>
+
+<H4>
+The following explains my first attempt to compare a measured diode characteristics with calculated plots based on the Shockley Equation.  <p>
+
+I have been taking  serious look into diode modeling and measurement recently in an attempt to better understand these solid-state successors to the humble crystal and cat's whisker detector.  There is much good information on diodes to be found in many excellent web sites of course, but there is nothing quite like actually making the measurements and working with them to get a good feel.  This page reports some of my protocols and test setups which I have found to be useful.  <p>
+
+<IMG align=left SRC="tstd.jpg"><br>
+This is a very simple circuit allowing power input, attaching a diode for testing, and sampling both the curent and voltage across the diode under test, (DUT).  I made a simple modification by adding a voltage divider, about 20:1 at the power input.  The power supply can be connected either at the front across the divider, or after the divider in front of the 100k current limiting resistor for higher voltage readings.  I get the input voltage from a modest 18V, 2A regulated DC power supply.  This unit has both volt and amp controls with digital readouts, nice to use and dosnt take up much room on my desk.  Here is a case where I recommend you look at getting a new unit.  I looked long and hard on ebay, but found few bargins and few units with the same features.  Still, the supply regulator was never designed to adjust the output to precise small values making it somewhat difficult/tedious to adjust.  Adding a small rheostat to the test jig may aid for making fine adjustments on the voltage.  Another piece of equipment you will need for this test is an amp meter.  At first I used a nice small digital meter I found new on ebay for $15 shipping included.  It reads amps to a lowest range of 200uA, more than enough precision for the task.  For that price get two.  Later as I got to making more precision measurements for the determination of diode n and Is I aquired a Keithley 195A bench volt/amp meter with very high input impedence.  The DVM is, of course, my trusty Keithley workhorse.<p>
+I have received occasional criticism for the simple test jig with the suggestion that proper measurements cannot be taken with the jig as-is.  I note that, while the test setup is simple, the instrumentation is high quality and performs the job well.  I have had the opportunity to collaborate with Mike Tuggle, comparing our respective measurements.  Even my early characteristic curves taken with the small amp meter compare well and provide a good view of the diode and determination of the diode Rs series resistance.  The detail n and Is measurements presented here essentially match, though at somewhat less precision, those data from Mike.  The reader should have some assurance that the data and measurements found on this page are vetted and reliable.<p>
+
+Easy protocol as follows:<p>
+
+1) Set up the test with the diode and meters clipped to the jig.<br>
+2) Adjust the power supply until the reading on the DVM meter is where you plan to measure. Adjust the voltage (DVM readout) in steps from 0 to 1.0 Volt in 0.1 V increments and record the current (Amps) in a spreadsheet.<br>
+3) Repeat at each tenth volt recording while the spreadsheet makes a sweet graph.<p>
+
+With this protocol you get a good look at the diode Current to Voltage (I/V) Characteristic out to about 1.5 V or slightly higher, well into the region where series resistance dominates the curve.  This curve unfortunately does not communitate much about how well the diode will perform under small signal reception with a crystal radio.  For this kind of information one needs to push the simple test jig described above somewhat further, down to low voltage / low current regions where DX level signals predominate.  To understand your diode and to better match your diode with the set, the needed information concerns the diode resistance at the zero-crossing point, Ro, or Rd depending on the source of information you are using.  The value of Ro cannot be measured directly but may be calculated from I/V measurements at very low currents.<p>
+
+Most probably the single best web article for the measurement of diode Is and n parameters is given by Ben Tongue in his <A HREF="http://www.bentongue.com/xtalset/16MeaDio/16MeaDio.html">Article 16</a>.   In this article he describes an interesting circuit for the measurement as well as protocols for making them.  For my purposes I did not wish to make this a construction project and felt I might get along with good quality meters and my already-built "Diode Test Jig".  Essentially Ben Tongue's method consists of making two precision measurements of Voltage and Current through a diode at small signal levels, essentially about 3 and 6 times Is (sufficiently low that the voltage drop across the series resistance Ro can be ignored).  The measurements are then substituted into the Shockley equation   Is*{exp[(qe/(n*k*T))*(V-I*Rs)]-1}  and solved simultaneously for the two data pairs.  Mike Tuggle has provided a nice excel spreadsheet to do the math.  This spreadsheet, <A HREF="http://www.bentongue.com/xtalset/16MeaDio/Cal_n_Is.xls">Cal_n_Is.xls</a> forms the basis of my technique and I am thus indebted to both Ben Tongue and Mike Tuggle for making this project feasable.  <p>
+
+In addition to simply calculating the main parameters Is and n, I also wished to measure enough points to plot a characteristic curve, and to compare the measured curve with one calculated directly from the Shockley equation.  My first spreadsheet then combined Tongue/Tuggle calculation protocol and a graphical view of the match between measured and theoretical.  I did make a few methodology modifications which I thought/hoped would allow added accuracy:  <p>
+1) Using the full Shockly equation without simplifing for an assumed 25dC room temperature. While the 25dC assumption is generally good and probably within the measurement error (or perhaps not), including the actual measured temperature eliminates doubts of innacuracies due to this parameter. With the power of PC's and spreadsheets there is no reason simplify the equation. <br>
+2) Used Vd = 0.04 and 0.05 V (adequately close to Ben Tongue's recommended 0.039 and 0.055 V) whenever possible. Note for some diodes with significantly different forward voltage drops, Si diodes in partictular I had to use higher values for Vd. <br>
+3) Reporting: I decided that, as there is no unique solution to n and Is, each is dependant on the valuse Vd and Id, I feel that reporting both Vd and Id is necessary for repeatability. Naturally I also include the ambient temperature in the report as well, and<br>
+4) I included a calculation for Ro (or Rg if you are using Tongue's reference) as that is the goal of the exercise.  <br>
+A screen shot shown below: <p><IMG align SRC="DiodeModel.jpg"><p>
+
+To use the sheet one need only adjust the voltage Vd to that shown in the first column and record the current Id.  If only Vd1/Vd2 and Id1/Id2 are measured then the next step is to adjust the value for "n" until the match between the two equations is exact.  I even provided a simple ratio calculation to easily test for a match. <br>
+While the math is good and results excellent, I quickly found a couple deficiencies in my method, <br>
+1) measurements require high precision and its nearly impossible to land EXACTLY at the voltage required.  I needed only to get quite close, let the meters stabilize for 2 - 5 minutes, and then record BOTH Vd and Id.  <br>
+2) the work is rather tedious and, for a large number of diodes it pays dividends to measure only the needed Vd and Id and let the plot aside.  My second spreadsheet thus dispenses with the plot. It is with my second spreadsheet that all my data tables and results are posted.<br>
+3) better comparisons between diodes can be made if one targets specific Currents rather than Voltages, discussion on this below.<p>
+A view of my current data reporting spreadsheet showing ALL input parameters as well as determined values of n, Is, and Rd.<br>
+Data input fields in blue: (target Id1 close to 1.0 uA and Id2 close to 0.5 uA).<br>
+Calculated fields in red and black.<br>
+Adjustment field "n" in green: (adjust value of n until the ratio of the two calculations = exactly 1).<p>
+<p><IMG align SRC="datout.jpg"><br>
+(Note: the engineers in the crowd will have noticed in the above report than I am carrying a degree of precision not justified by the level of accuracy in my measurements.  The final results of n, Is, and Rd should be rounded off to not more than three significant figures.)<br>
+A copy of my spreadsheet can be downloaded here:<A HREF="/~kjsmith/crystal/Cal_n_Is_Rd.xls"> Cal_n_Is_Rd.xls</a><p>
+ 
+While measuring a good number of diodes, both Germanium, Schottky, Silicon, and even a few LED's, I noted that Tongue's recommended measurements at Vd = 0.039 and 0.055 V resulted in current reports spread out over more than two orders of magnitude.  As the determination of Is and n is not unique but a function of Id, I felt uneasy by this method.  While most Germanium diodes I have measured have a fairly narrow range of Forward Voltage drops, (Vf), that of Schottky's can range up to a tenth of a volt.  This is the factor responsible for the huge range of measured Id values, see the following plot of I/V characteristics for some selected diodes:
+<p><IMG align SRC="ddiv1.jpg"><p>
+In order to get what I feel is a better comparison between diodes, I have decided to target not some pre-determined voltage, but rather target currents of Id = 0.5 and 1.0 uA.  On the above plot on the right (with Log Id vs Vd scale) it will be clear that I am aiming at the same part of the characteristic curve regardless of Vf.  Hopefully this will allow good comparison between diodes with rather different Vf, even as far as including Silicon and LED's in my mix.  Still, on study of the plot above, I must note that the Germanium characteristic at 0.5 to 1.0 uA appears to be curving towards its zero-crossing.  Perhaps targeting an amp range between 3.0 and 5.0 uA would have been better, still thinking here, on va voir....<p>
+
+Shockley equation   Id = Is*{exp[(qe/(n*k*T))*(V-I*Rs)]-1}  <br>
+where:<br>
+n = ideality factor<br>
+Is = Saturation current in Amps<br>
+Id = Diode Current in Amps<br>
+Vd = Diode Voltage<br>
+k = boltzmann = 1.38E-23 J/K<br>
+T = temp K = 300<br>
+K = dC + 273.15 Kelvin<br>
+qe = electron charge = 1.609E-19 cmb <p>
+
+Often simplified to:<br>
+Id = Is*(exp(Vd/(0.0256789*n))-1)<p>
+
+Diode Resistance Rd = VT * n / Is<br>
+Where:<br>
+T = 300K<br>
+VT = k*T/qe = 0.0256789<br>
+SO: Rd = k * T / qe * n / Is <p>
+
+Ebers-Moll equation Vf = m (kTq) ln [(If / Is) +1]<p>
+<hr>
+<IMG align SRC="lab2.jpg"><br> Photo of the lab with my diode test jig, amp meter, and diode vacuum tubes under test.<p>
+
+<IMG SRC="bar3e.jpg">
+
+<hr>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/lab.shtml">Return to Lab..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

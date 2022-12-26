@@ -1,0 +1,12 @@
+<html>
+<HEAD>
+<TITLE>kjs international photo gallery</TITLE>
+
+</HEAD>
+
+
+<frameset cols="150,*">
+ <FRAME  NAME="menu" SRC="/~kjsmith/imagint/imagint1.shtml">
+ <FRAME  NAME="pres" SRC="/~kjsmith/imagint/imagint2.shtml">
+</frameset>
+<NOFRAME>

@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs china photo gallery, East China</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Turpan, Xinjiang</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/nchina/1x_tpn.jpg" alt="Turpan, Xinjiang"></center>
+
+<hr size=15>
+<H3>In central asia it was common to engineer and build very long tunnels, or qanats to bring water from melting snows in the high mountains down to the arid plains.  here we visit one such a system near the town of Turpan.  The water from melting snow is cool, potable and refreshing.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

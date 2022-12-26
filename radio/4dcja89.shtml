@@ -1,0 +1,24 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, signal strength map for dec 89 - jan 90</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Supplemental Records</H2>
+<hr size=15>
+<H3>
+
+<hr>
+<center><IMG SRC="4dcja89.gif" alt="Map for the winter 88/89" width=553 height=485></center>
+<hr>
+Map for the winter 88/89 which shows the typical short openings and strong signals.  Major flares on 30 Dec, 88, 1802 UT (1202 CST); 06 Jan, 90, 1805 UT (1205 CST); 13 Jan, 89, 1734UT (1134 CST); and 27 Jan, 89, 1917UT (1317 CST).  Solar flux during the period was understandably high hovering between 154 and 170 in early December, jumping to 180 to 290 through January 89.
+
+<hr size=15>
+<A HREF="r3flare.shtml">Return..</a><br></h3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

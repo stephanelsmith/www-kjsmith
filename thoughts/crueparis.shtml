@@ -1,0 +1,61 @@
+<HTML>
+<HEAD>
+<TITLE>kjs Writings, crues de paris</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/book.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+</HEAD>
+
+<H2>Crues de la Seine a Austerlitz, Paris.</H2><P>
+<h3>
+
+I watch the French news broadcast of TV5 every evening with my wife.  The recent flooding in Paris, (Jan 2018) takes up a lot of air time as one might expect.  I cannot help but smile each time I hear the commentators attribute the flooding to Global Warming.  Everyone in their audience must be nodding their heads in silent agreement, something MUST be done to stop the menace!  <p>
+For me? I just go look a bit at the actual data.  It would seem a reasonable thing to do.  
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/thoughts/CruesParis.jpg"></center>
+
+<hr size=5>
+
+One can readily see that, with the rising global temperatures since the instrumental record began around 1880, there has been a dramatic rise in both frequency and magnitude of flooding of the Seine River in Paris, or maybe not...  <p>
+On peut facilement voir que, avec l'augmentation des températures mondiales depuis le début de l'enregistrement instrumental autour de 1880, il y a eu une augmentation spectaculaire de la fréquence et de l'ampleur des inondations de la Seine à Paris, ou peut-être pas ... <p>
+
+<pre>
+Donnees Austerlitz:  
+B. Gaspard, 1954		1649-1945	https://www.shf-lhb.org/articles/lhb/pdf/1954/01/lhb1954005.pdf 
+EPTB Seine Grands Lacs, 2013	1955-2001	http://seinegrandslacs.fr/sites/default/files/papi_seineetmarnefranciliennes_131131.pdf 
+
+Donnees Temp: 
+NASA Goddard Institute for Space Studies	https://data.giss.nasa.gov/gistemp/ 
+</pre>      
+
+<hr size=15>
+A look at the full dataset for the Seine at Austerlitz station, Paris.  <p>
+<center><IMG SRC="/~kjsmith/thoughts/fulldata.jpg"></center>
+
+<hr size=5>
+
+An apparent change in reporting takes place around 1800.  Prior to 1800 only floods with amplitudes greater than 7 meters appear to be reported at Austerlitz station.  After 1800 flood amplitudes down to 5 meters are included.  <p>
+
+A possible confounding factor in the above data, especially the frequency data, concerns the construction of navigation/flood control dams on the rivers flowing into the Seine.  The following table shows the current situation:<p>
+<pre>
+Les barrages		mis en service	fleuve			
+Panneciere			1949	Yonne
+Seine Morge			1966	Seine
+Marne Giffaumont		1974	Marne
+Radonvilliers/Brevonnes		1991	Aube
+La Bassee			2020	Seine (pas en service)
+</pre>
+Although these dams are as much for navigation as for flood control, they certainly do influence the frequency of floods, especially smaller floods, (less than 6m at Austerlitz).  The floods of 2016 and 2018 were both characterized by having the reservoirs at about 95% capacity at the time of heavy rains.  The dams thus quickly filled and the rivers then behaved essentially as if the dams were not present.  Filling the dams early is normal management as the water is needed later in the summer/fall to maintain the water level in the Seine for navigation.  
+<p>
+<hr size=5>
+
+Kevin Smith     01/2018<p>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

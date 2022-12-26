@@ -1,0 +1,12 @@
+<html>
+<HEAD>
+<TITLE>kjs western usa photo gallery</TITLE>
+
+</HEAD>
+
+
+<frameset cols="150,*">
+ <FRAME  NAME="menu" SRC="/~kjsmith/imagnw/imagnw1.shtml">
+ <FRAME  NAME="pres" SRC="/~kjsmith/imagnw/imagnw2.shtml">
+</frameset>
+<NOFRAME>

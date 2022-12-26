@@ -1,0 +1,44 @@
+<h4>
+<center>
+.::. <a href="/~kjsmith/html/site.shtml" target= _parent>Sitemap</a> 
+.::. <a href="/~kjsmith/imagint/imagint0.shtml" target= _parent>International Pix</a> 
+.::. <a href="/~kjsmith/imagnw/imagnw0.shtml" target= _parent>Western US Pix</a>
+.::. <a href="/~kjsmith/pinhole/pin0.shtml" target= _parent>Pinhole Pix</a> 
+.::. <a href="/~kjsmith/crystal/kjcrystal.shtml" target= _parent>Crystal Radio</a> 
+.::. <br>  
+.::. <a href="/~kjsmith/stories/stories.shtml" target= _parent>Snapshots</a>
+.::. <a href="/~kjsmith/thoughts/think.shtml" target= _parent>Thoughts</a>
+.::. <a href="/~kjsmith/beer/beer0.shtml" target= _parent>Beer Labels</a> 
+.::. <a href="/~kjsmith/minerals/min0.shtml" target= _parent>Petrology</a> 
+.::. <a href="/~kjsmith/radio/kjradio.shtml" target= _parent>Ionosphere</a>.::.<p> 
+</center>
+<hr>
+
+</h4>
+</body>
+
+
+<script language="javascript" type="text/javascript" src="http://analytics.live.com/Analytics/msAnalytics.js"></script>
+<script language="javascript" type="text/javascript">
+    msAnalytics.ProfileId = 'CFA8';
+    msAnalytics.TrackPage();
+</script>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1868766-1";
+urchinTracker();
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4775869-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</html>

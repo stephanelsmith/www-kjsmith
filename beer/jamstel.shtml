@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, amstel beer, jordan</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Amstel</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/jamstel.jpg" alt="amstel beer label"></a></center>
+<hr size=15>
+
+<H3>
+Another member of the Amstel juggernaut, this is the only beer available in Jordan.  Bottled by The General Investment Co. in Jordan, you may find their page at <a href="http://www.gicjo.com" target= _parent>www.gicjo.com</a>.  There you can find information on the hstory of beer, take a quiz and win a t-shirt, have some humor and a few links, and learn a good deal more about The General Investment Co, Jordan's first private-sector joint venture.
+Mr. Fuad Abu-Jabber the brewery owner is a facinating man, it was a pleasure having met him.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

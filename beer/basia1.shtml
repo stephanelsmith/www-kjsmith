@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>kjs Beer Labels</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+</HEAD>
+<h2>Menu</h2>
+<hr size=15>
+<p><H4><p>
+<a href=/~kjsmith/beer/sandpiper.shtml target=pres>Sandpiper<br> </a>India<p> 
+<a href=/~kjsmith/beer/xxxx.shtml target=pres>XXXX Gold<br></a>Australia<p>
+<a href=/~kjsmith/beer/tubs.shtml target=pres>Seinlager, Light Ice <br></a>New Zealand<p>
+<a href=/~kjsmith/beer/united.shtml target=pres>Kingfisher and Black Label<br> </a>India<p> 
+<a href=/~kjsmith/beer/ash.shtml target=pres>Spight's<br></a>New Zealand<p>
+<a href=/~kjsmith/beer/lagunabay.shtml target=pres>Laguna Bay Pale Ale<br></a>Australia<p>
+<a href=/~kjsmith/beer/singha.shtml target=pres>Singha<br></a>Thailand<p>
+<a href=/~kjsmith/beer/sheaf.shtml target=pres>Sheaf Stout<br></a>Australia<p>
+<a href=/~kjsmith/beer/kirin.shtml target=pres>Kirin Ichiban<br></a>Japan<p>
+<a href=/~kjsmith/beer/hahn.shtml target=pres>Hahn Super Dry<br></a>Australia<p>
+<a href=/~kjsmith/beer/kovalev4.shtml target=pres>Kazakh<br></a>Kazakhstan<p>
+<a href=/~kjsmith/beer/cascade.shtml target=pres>Cascade<br></a>Australia<p>
+<a href=/~kjsmith/beer/chang.shtml target=pres>Chang<br></a>Thailand<p>
+<a href=/~kjsmith/beer/waikato.shtml target=pres>Waikato <br></a>New Zealand<p>
+<a href=/~kjsmith/beer/cobra.shtml target=pres>Cobra<br></a>India<p>
+<a href=/~kjsmith/beer/royal.shtml target=pres>Royal Challenge<br></a>India<p>
+<a href=/~kjsmith/beer/ctiger.shtml target=pres>Tiger<br></a>Singapore<p>
+</h4>
+<hr size=15>
+</frameset>
+<NOFRAME>
+
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+</HTML>

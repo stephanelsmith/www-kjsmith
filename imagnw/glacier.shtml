@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs western usa photo gallery, logan pass, glacier national park, montana</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Logan Pass, Glacier National Park</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagnw/glacier.jpg" alt="Logan Pass, Glacier National Park"></center>
+
+<hr size=15>
+<H3>Bearhat towers in the distance above the Continental Divide.  These rocks were sediments laid down in a quiet sea over a billion years ago, heaved skyward tens of millions ot years ago, and sculpted by ice 10,000 years ago.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

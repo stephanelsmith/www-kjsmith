@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs international photo gallery, sydney, australia</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Sydney Harbor</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagint/sharbor.jpg" alt="Sydney Harbor"></center>
+
+<hr size=15>
+<H3>Sydney is Australia's window on the world and leading city.  Proud of its heritage, location down under, and near ideal climate, Sydney welcomes the international visitor with lavish opulance. Sydney is the symbol of all that is modern in Australia, and the Opera House and Harbor Bridge are the symbols of Sydney itself.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,31 @@
+Excite
+http://www.excite.com/search.gw?search=&trace=1&x=88&y=9
+
+Lycos People find
+http://ahoy.cs.washington.edu:6060/
+
+Webcrawler
+http://webcrawler.com/cgi-bin/WebQuery?search=&trace=1&x=87&y=9
+
+** Infoseek
+http://www.infoseek.com/
+
+** World Wide Web Yellow Pages
+http://www.mcp.com/newriders/wwwyp/
+
+WWW Worm
+http://www.goto.com/
+
+Magellan
+http://www.mckinley.com/
+
+Galaxy
+http://galaxy.einet.net/
+
+Apollo
+http://www.apollo.co.uk/
+
+Information Super Library
+
+Ahoy! the Homepage finder
+http://ahoy.cs.washington.edu:6060/

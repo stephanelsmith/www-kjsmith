@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, minilab</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="minl5.jpg">
+<H2>MiniLabs Toy Crystal Radio
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+
+<h4>
+No, this is not a set I built myself.  This is a set I bought for my second son when he was 7 or 8 years old.  Cleaning out the kids old stuff recently unearthed this and I rescued it for my radio collection.  As seen in the photos below it is not in good shape and I cannot vouch for the earphone.  What I do know is that my son built it and it worked fine for him.<p>
+Part of the set problems stem from when he, on some kid whim, decided to see what would happen should he put the antenna and ground leads into a wall electricty socket.  Good thing I didnt know about it!  The photos show the white antenna and ground leads to be burnt and about 20 to 50 windings of the coil are fried and without their coating.  He was certainly curious about electricty!  I reckon curiosity is a good thing, the basis for making a great engineer. Good news it that he went on to get his MS in Electrical Engineering and a good job at Intel in Analog Processor Design.  He now has his own startup, <A HREF="http://www.integratedbionics.com">Integrated Bionics</a>.  Go check it out!
+<p>
+<hr size=15>
+
+Portrait of the Wreck..<p>
+<IMG SRC="minl1.jpg"><p>
+<br><IMG SRC="minl2.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr>
+Circuit Diagram of same.
+<br><IMG SRC="minl4.jpg">
+<IMG SRC="bar3e.jpg">
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

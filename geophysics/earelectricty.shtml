@@ -1,0 +1,44 @@
+<HTML>
+<HEAD>
+<TITLE>kjs geophysics</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/geophysics/bgmag.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="inductions.jpg">
+<H2>Earth Electricty</H2>
+<H4><A HREF="/~kjsmith/geophysics/geophysics.shtml">Back to Lab..</a><br>
+<hr>
+
+Monitoring Telluric Currents<p>
+
+<IMG SRC="pulsations.jpg"><p>
+The shallow crust and surface of the earth host interesting natural electric currents.  These "Telluric" currents have been, and remain, a source of much wild speculation and interest as well as scientific study.  I challenge you to go Google "telluric" and I guess most of what you will find is spooky nonsense, wild ravings, and conspiracy theories.  This page is concerned with an attempt at a scientific look at telluric currents. <p>
+Telluric currents in the earth result from changes in the geomagnetic field which in turn induces currents in the earth, when then set up magnetic fields which induce currents in..  Telluric currents are induced currents and as such their variations can mimic variations in the earth's magnetic fiend.  The chart above is an example of short-period geomagnetic variations called pulsations.  Similar pulsations can be recorded in telluric surveys and this was a principal goal of my experiment. <p>
+My setup consists of four copper ground rods, two about 100ft apart in a NS axis and two also about 100ft apart along an EW axis.  I simply hooked up an AD interface to each set and recorded the potential difference for each axis.  No other electronics and circuitry were involved, which may account for much of the trouble, eventually burning out the AD interface.  As in many of my readings, I read the interface many times a second and sampled every few minutes in order to beat down noise. 
+<p>
+<IMG SRC="telluriclog0.jpg"><p>
+The chart above is a record from 25 May, 2003. I plot the NW and EW potentials and calculate two additional parameters, Vmax and Declination Vmax.  I had also hoped to note changes in declination and magnitude as storms approached, but it turned out that the setup is highly sensitive to moisture and the rains associated with storms obliterated any signal.  The declination Dmax though does appear to resemble a solar quiet response.  I was not able to get enough consistency to determine to my satisfaction whether this is indeed the case.
+<p>
+<IMG SRC="telluriclog1.jpg"><p>
+From two days prior to the above chart, now 24 May, 2003 the climate conditions were essentially similar, but in this record the sprinkler system ran from just after 7:00 to 9:00 am.  This application of fresh water to the surface caused a dramatic anomaly to the data.  With rain the charts became uninterpretable.  In all, I feel this project suffered from a severe lack of good engineering ideas on how to set up a proper survey, or how to take the measurements.  I did appear to manage a good watering indicator though...
+<p>
+
+Thank you for visiting my geophysical project pages.
+<p>
+<hr>
+kjs 2017 <p>
+<hr size=15>
+</h4><h3>
+<A HREF="/~kjsmith/geophysics/geophysics.shtml">Return to Lab..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

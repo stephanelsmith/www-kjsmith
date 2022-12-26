@@ -1,0 +1,73 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, jacquemard</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="pjd.jpg">
+<H2>Professeur Jacquemard Poste a Galene
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+
+<h4>
+A bit of a mystery this one, I am hankering to build a breadboard repro of the set if only to play with this bizarre (to me) circuit.<p>
+
+data and information on the set is not small, but not enough:<p>
+
+from the schematic:<br>
+L1: form 25mm dia, 68mm long selenoid, 170 turns 4/10 wire<br>
+    calculation- 0.4mm-26awg wire, 220uH coil<br>
+L2: ID 25mm, W 8mm.  OD, #turns, guage not given<br>
+L3: ID 20mm, OD 34mm.  W, #turns, guage not given<p>
+
+estimation from photo:<br>
+L2: OD about 32-35mm, wire guage is small in the 32+ range<br>
+L3: W maybe 6-8mm, wire guage is small in the 32+ range<p>
+
+from book:<br>
+MW = 545 - 1500 Kc<br>
+LW = 157 - 272 Kc<p>
+
+from calculations:<br>
+MW tuning with 220uH typically 365 - 450 pF<p>
+
+from clues in the two publications<br>
+1. most Vcaps are 450pF<br>
+2. most GO coils 120turns x two coils<p>
+
+calculations from above:<br>
+LW tuning with assumed 450pF cap is 2300 - 2400 uH<p>
+
+<IMG SRC="bar3e.jpg"><hr>
+<p>The following photos show the set and the references mentionned above.<p>
+(some useful translations for my anglophone friends:<br>
+PO = Petits Ondes = Short waves [so named prior to the utility of the HF bands was known]<br>
+GO = Grandes Ondes = Long Waves<br>
+Bobine Addition = Additional Coil)<p>
+<p><hr size=15>
+
+Jacquemard Schematic and layout..
+<br><IMG SRC="PosteJacmart4.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr>
+Circuit Analysis/Redraws of above..
+<br><IMG SRC="CircuitAnalysis.jpg">
+<p><IMG SRC="CircuitAnalysis2.jpg">
+<IMG SRC="bar3e.jpg"><hr>
+Innards Photograph from an actual set..
+<br><IMG SRC="PosteJacmart3.jpg">
+<IMG SRC="bar3e.jpg"><hr>
+
+<hr size=15><h3>
+A link back to my Crystal Radio Pages found here:<br>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+</H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

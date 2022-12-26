@@ -1,0 +1,40 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Bilgerin</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Bilgerin.png"alt="Bilgerin"></a></center>
+<p>
+ 
+(Alsace: Haut-Ehenheim) <p>
+D'argent à trois chevrons de sable, à la bordure d'or.<br>
+Cimier: un homme issant, habillé de sable, au rabat d'argent, coiffé d'un chapeau de sable, retroussé d'argent, tenant de sa main dextre un bourdon de pélerin, la senestre appuyée sur sa hanche<p>
+
+Kegelin, 1790:  Cette Famille portoit autrefois le surnom d'Ehenheim le haut (Ober-Ehenheim) ou elle avoit demeuré, y ayant encore en cette ville une rue apellée du nom de cette famille, Bilger-gass, Rue du Pelerin.  Ces nobles ont aussi fait des largesses considerables au monastere des Sts. Agnes et Marguerite a Strasbourg, ou l'on voit de leurs tombeaux dans le choeur de cette église.  J'en rapporte ici les inseriptions telles que je les ai copie.
+
+<p>
+
+Source:<br>
+Kegelin, 1790:<br>
+Siebmacher, 1769/1871:<br>
+Reitstap, 1887:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

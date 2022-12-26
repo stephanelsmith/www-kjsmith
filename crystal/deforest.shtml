@@ -1,0 +1,71 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, deforest</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="defr0.jpg">
+<H2>De Forest, Vintage beauty
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+<h4>
+My latest effort, I call this my “DeForest” after the principal component of the radio.  Over the last few months of visiting ebay and finding essential radio parts and browsing, I have stumbled across an occasional vintage piece that I just loved and needed to bid aggressively on.  My intent is not to just stash these in a drawer somewhere for the pleasure of owning, but to use them in projects.  This project is built around a lovely De Forest Radio Telephone and Telegraph Company Vario-Coupler.  The vario-coupler, wound in beautiful apple-green silk covered wire 24 gauge or so, has a tapped primary stator measured at 560 uH and an untapped internal rotor of 285 uH.  Other vintage components in this set include a Windham square-law tuning variable capacitor, 20 to 550 pF, and an Atwater-Kent 3 ¼ inch tuning knob.  The second 3 inch knob on the vario-coupler is a vintage Radion Dial made by the American Hard Rubber Co.  <p>
+
+I built the radio according to Sleeper hook-up #18.  It is a fairly straightforward hookup but with sophisticated features including a double-tuned design, a tapped primary tuned via single and multiple taps, and variable coupling.  The secondary coil is tuned with a vintage variable capacitor.  As the secondary coil is the rotor inside the primary, there is no provision for tapping and the detector circuit is connected to the top of the coil.  This set could use some selectivity enhancement circuitry I suppose, but oh well... <p>
+
+As most of the components for this set were ready made, the construction planning felt a bit much like assembling a kit.  I had originally intended to use modern tap-selector switches as well.  In order to make the construction challenging, and more importantly, to maintain the vintage look and feel of the set, I quickly abandoned the modern switches and chose to fabricate instead classical wiper switches in the early style.  Of course, I also include my own style cat’s whisker and SPDT knife switching to a more modern diode.  The diode is my only nod to post war technology.  In the crystal cup I have some lovely Utah steel galena potted in wood’s metal, finely crystalline, hot as hell all over its surface.  <p>
+
+As one can clearly see, my obvious preference is for the breadboard style of early radio.  Much of the fascination and beauty of these sets lies in the component hardware.  To enclose them behind panels or put them in boxes seems such a waste.  The base is a box with about ¼ inch of space inside to hide the bolts and wires.  I did need a small panel to place the wiper switches on.  This is made of 1/8 inch black Delrin plastic resin, a very hard and nice to work with material.  In fact though, it is a bit too shiny, too “plasticy” for my taste.  Well, that is what I had.  <p>
+
+Fabricating the wiper switches, buttons, and leads to the inductor was an odyssey in its own right, amply satisfying my desire for more challenge.  Attaching the leads to the primary, soldering without damaging the windings, and the added touch of shrink-wrap “mittens” was a labor of love.  I do hope it is justified by the final presentation.  The rest of the construction and wiring was a piece of cake by comparison.  The wiper switch knobs are wood with a felt buffer against the panel.  Behind the panel compression springs keep a steady pressure on each switch.  The wood knobs have a nice easy action, the switch passing readily between contact buttons. <p>
+
+The radio works quite well, in its tightly-coupled setting it is quite sensitive with a strong signal.  Its selectivity on the other hand leaves much to be desired.  This can be expected from the circuit layout with only the secondary circuit capacitively tuned and the detector tied at the top.  I was hoping that by varying the coupling I could achieve some increase in selectivity, but it de-tunes the station with an additional unacceptable loss of sensitivity.  Take this outside the urban environment with such crowded airwaves and the set ought to perform admirably.  Signals come in strong with the steel galena nearly as well as with the diode.  I like this set.
+<p><hr size=15>
+
+Portrait of set, ummmm..
+<br><IMG SRC="defr1.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr>
+
+View from above highlighting the tap wiring, SO much work!
+<br><IMG SRC="defr2.jpg">
+<IMG SRC="bar3e.jpg"><hr>
+
+View from behind with my cat's whisker crystal detector, SPDT knife and 1N34A diode.
+<br><IMG SRC="defr3.jpg"><p>
+
+De Forest circuit diagram (aka Sleeper #18).
+<br><IMG SRC="defrc.jpg"><br>
+
+<IMG SRC="bar3e.jpg"><hr size=5>
+<IMG align=left SRC="defper.jpg"><IMG align=left SRC="def30.jpg">
+Performance summary of my DeForest is really just abysmal, it has a low set QL of 7 reflecting a huge bandwidth of 165 KHz but my sensitivity calculation is 37% for the condition of tight coupling.  This set clearly trades Q and bandwidth for sensitivity.  The set is technically double tuned with variable capacitance in the detector circuit and variable inductance via taps on the antenna circuit.  The inductors are loosely coupled via rotating the inner inductor with respect to the outer.  What I discover in fact is that rotating the inductor changes the tuning and so it "feels" more like a variometer rather than a variocoupler.  Rotating the rotor 30 degrees to loosen the coupling does not narrow the bandwidth, in fact it increases to 395 KHz.  I have much to test still on this set, it is a disappointment as I expected a much better QL. Measurements were made with the detector circuit farily optimized for a test frequency of about 1100 kHz, but I wonder if I can better optimize the tap settings for the antenna circuit.  More to come. <br clear=left><p>     
+<IMG SRC="bar3e.jpg"><hr>
+
+</h4><p>
+<h2>
+What’s in a name?
+</h2><h4>
+The name De Forest in the history of radio is one few engineers can hear without a fairly strong opinion.  Dr. Lee De Forest is the acknowledged inventor of the triode radio tube.  De Forest however, is NOT the inventor of the oscillating and regenerative feedback circuit, which forms the basis of all radio amplification and truly opened radio to a mass mode of communication.  This honor goes to E.H. Armstrong, the man who dug into the tube and worked out correctly for the first time its basic theory and operation.  The two men fought a bitter 19-year litigation battle over this honor that in the end was awarded to De Forest by the Supreme Court in what amounts to a technicality.  <p>
+From what I have read of De Forest’s writings, patents, and exchanges with Armstrong in the Proceedings of the Society of Radio Engineers, it is pretty clear that De Forest never really understood how his tubes worked.  So, he was never in a position to develop the tubes to their full potential.  Armstrong for his part seems to have treated De Forest with academic contempt.  Armstrong went on to invent the super-heterodyne (1918) and super-regenerative (1922) amplifier circuits and created almost single-handedly FM radio (1933) as we know it today.  His life ended in tragedy, representing the closing chapter in the age of great individual inventors, finally crushed by the greed of corporate America.  Virtually all advances following his were the product of team efforts in company or government research laboratories.  <p>
+If therefore you have misgivings as to my honoring De Forest with a radio, please understand I do so not for his Supreme Court victory but to honor the inventor of the triode tube, a debt which even Armstrong would always acknowledge.  Should you still feel uncertain, then just enjoy the sweet irony in honoring the father of the triode tube with a crystal radio.  <p>
+
+<IMG SRC="defr4.jpg">
+<IMG SRC="defr5.jpg">
+<p>
+<IMG SRC="bar3e.jpg">
+<hr>
+<p><IMG SRC="ptrdf.jpg"><p>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

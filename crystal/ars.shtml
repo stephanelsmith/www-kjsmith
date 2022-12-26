@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, american radio stores inc</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="ars0.jpg">
+<H2>American Radio Stores, Inc.
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+<h4>
+
+An interesting vintage crystal set recently came up for bidding on Ebay, an <u>American Radio Stores, Inc</u> radio in good working condition.  This set interested me because, from the photos provided, it looked to have a fairly classic 1920's circuit with tuning accomplished via two switches to taps on the coil.  I presumed that they are units and 10's taps as outlined on the classic Bureau of standards Circuar #121 set.  A modest bid brought the radio to my doorstep a couple weeks later.  <p>
+Looking at the radio when it arrived showed me that this was, even for the time, a fairly inexpensive set lightly built with cheap but workable parts.  As expected, the radio has fair sensitivity and abysmal selectivity.  (Recall, I bought it for the classic design not its DX potential).  Somewhat to my consternation, the front panel was attached to the box by four small brads that could not be removed.  No chance to view the inductor in the interior without compromising the vintage nature of the radio. I agonized over the question of whether to tear into the box or preserve the radio.  After deliberating some 30 - 40 nanoseconds I was scheming for the most efficient and least destructive procedure to access the interior.  My handy Dremmel neatly sliced the small brads one by one leaving no marks on the box or panel.<p>
+Inside I expected to find a typical tapped selenoid, the box is certainly large enough for one.  What I found suprised and rather shocked me. It still does!  The coil is bundle-wound, a mass of 26-30 dcc wire about 2.25 inches diameter.  I was unaware that such a design would work.  It is impossible to check how the tap wires are attached, they seem to just get wound into the coil with no apparent connection.  It appears to be continuous wires from one switch set wound around and around and then exiting to the second switch set.  That sounds like eight independent coils wound together.  Another odd circuit characteristic is the fact that the tap points between the two tap switches are wired to each other (see photo and schematic).  Perhaps connecting in such a manner combines them into a single longer coil, hard to speculate.  How this coil works is different from anything I have experienced in crystal radio.   Completing the schematic, rectification takes place via an ordinary cat's whisker and small potted galena crystal, whew!  This is certainly an interesting design if not otherwise efficient or selective.  It is a welcome addition to my small menagerie of vintage sets.  
+<p>
+
+<IMG SRC="ars2.jpg"><p>
+<IMG SRC="ars3.jpg"><p>
+<hr>
+
+Circuit schematic for the set.<p>
+<IMG SRC="arsc.jpg"><p>
+Portrait, set and box.<p>
+<IMG SRC="ars1.jpg"><p>
+
+<IMG SRC="bar3e.jpg">
+
+<hr>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

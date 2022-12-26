@@ -1,0 +1,35 @@
+<HTML>
+<HEAD>
+<TITLE>kjs Beer Labels</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+</HEAD>
+<h2>Menu</h2>
+<hr size=15>
+<p><H4><p>
+<a href=/~kjsmith/beer/brahma.shtml target=pres>Chopp Brahma<br></a>Brazil<p>
+<a href=/~kjsmith/beer/pacena.shtml target=pres>Paceña<br></a>Bolivia<p>
+<a href=/~kjsmith/beer/quilmes.shtml target=pres>Quilmes<br></a>Argentina<p>
+<a href=/~kjsmith/beer/pilsener.shtml target=pres>Pilsener<br> </a>Ecuador<p>
+<a href=/~kjsmith/beer/imperial.shtml target=pres>Imperial<br></a>Argentina<p>
+<a href=/~kjsmith/beer/pacifico.shtml target=pres>Pacifico Clara<br></a>Mexico<p>
+<a href=/~kjsmith/beer/brasil.shtml target=pres>Bohemia and Cerpa<br></a>Brazil<p>
+<a href=/~kjsmith/beer/carib.shtml target=pres>Carib<br></a>Trinidad<p>
+<a href=/~kjsmith/beer/antarctica.shtml target=pres>Antarctica<br></a>Argentina<p>
+<a href=/~kjsmith/beer/corsaire.shtml target=pres>Corsaire<br></a>Guadeloupe<p>
+<a href=/~kjsmith/beer/bolivian.shtml target=pres>Paceña<br></a>Bolivia (2)<p>
+<a href=/~kjsmith/beer/pilsener.shtml target=pres>Pilsener<br> </a>Ecuador<p>
+<a href=/~kjsmith/beer/solera.shtml target=pres>Solera<br></a>Venezuela<p>
+<a href=/~kjsmith/beer/modelo.shtml target=pres>Negra Modelo<br></a>Mexico<p>
+</h4>
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+</HTML>

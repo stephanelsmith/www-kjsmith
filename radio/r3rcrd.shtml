@@ -1,0 +1,41 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, 3.1 daily record</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Daily Record</H2>
+<hr size=15>
+<H3>
+My study utilizes the WWV time standards beacon at Ft. Collins, Colorado.  That transmitter emits at 2.500, 5.000, 10.000, 15.000, and 20.000 MHz.  I monitor the 15 MHz signal which provides a strong signal at my station in Houston, Texas.  10MHz openings last longer into the night but would be useless for flare detecting at that time as the sun has set!  I use a Yaesu FRG7700 receiver which is not terribly expensive and extremely stable once it has warmed up.<p>  
+The interface between the receiver and computer uses a voltage to ohms converter which proved very acceptable but, being a resistance device, was suseptable to temperature induced drift.  In Houston that was generally only a problem in the spring or fall where large changes in day to day temperature are typical in the Gulf of Mexico's battle against the continent for dominance of the climate of the region.  I made occasional calabrations as necessary to the interface and kept the base level within a narrow range.  The following list gives the correspondence between the digital signal strength readings presented on the charts and the radio's S-meter output:
+<pre>
+		S-meter		Computer
+		  S0		  60
+		  S3		  79
+		  S5		  90
+		  S7		 101
+		  S9		 112
+		 +10db		 132
+		 +20db		 157
+</pre>
+<hr size=15>
+<center><IMG SRC="17feb89.gif" alt="record of 17 feb, 1989" width=626 height=412></center>
+<hr>
+The above record shows a fairly "classic" responce for a 15 hour run.  In all my runs regardless of duration I collected 3200 samples only.  That was an expedient to simplify the programming, keep the record within the memory limits of a Commodore 64, and have a simple multiple of the high-resolution screen's 320 pixel width.  For a nominal 15 hour run that translates to about one record each 17 seconds which is more than sufficient for the project.  In addition, I actually sampled continuously between saves and read the average of many readings for each saved record.  Even then, there is considerable fading and short second to minute scale noise which accounts for the "grassy" surface.<p>
+Note also two important features of the record, the very sharp discontinuities at the beginning and end of the "opening", and the general sag or lower strength of the signal at mid-day.  More on the discontinuities later, the sag itself is due to increased absorbtion by the lower D layer at it reached full ionization near midday and dissipates by the afternoon.  There is an assymetry to the opening as well with a longer period of strong signal in the evening than in the morning.  I attribute this to the geometry of the Houston-Ft. Collins curcuit with Ft. Collins being to the west.  By the time the F layer ionizes in the morning at a point halfway between Houston and Ft. Collins, the lower D layer is already ionized, conversely, in the evening there is still a couple of good hours remaining for the F layer after the D has dissipated. <p> 
+Base level, (S0) on this record is 58, the solar flux that day was quite high at 239 and the geomagnetic field was quiet.  The resulting record is pretty close to ideal which is actually quite unusual.  In all, the project ran for nearly four years from just after sunspot minimum to past sunspot maximum and resulted in nearly 200 weekly records.  The next section provides additional views giving a flavor of the variability possible, and why.<p>
+
+
+<hr size=25>
+<A HREF="r3seasn.shtml">Next: Seasonal variations..</a><br>
+<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

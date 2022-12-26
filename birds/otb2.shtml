@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs Bird Photos</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>A small gallery of birds taken here and there, non-garden birds</H2></center>
+<hr size=15>
+<H2><center><img src=/~kjsmith/graphics/bird.jpg></a></center></H2>
+
+<h3>
+Here presented are a few of my photos of birds taken variously here and there, Seattle, France or wherever.  I make a separate page here to distinguish from my garden-specific bird photo set elsewhere. These are just for fun and sharing, I hope you enjoy.  Cheers!<p>
+kjs<p>
+
+<hr size=15>
+<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

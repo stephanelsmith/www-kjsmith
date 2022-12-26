@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, luoyanggong beer, china</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Luoyanggong Beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/luoyanggong.jpg" alt="luoyanggong beer label"></a></center>
+<hr size=15>
+<H3>
+Our work in China scouting coal mines for application of internal new technology took us to many interesting and out of the way places.  It also took us to some of the most touristic venues in China.  One trip to visit coal mines in central China took us to Luoyang, the ancient capitol of China.  In and around this city are numerous world-famous heritage sites.  We were busy visiting what we could on our time off, and working hard when we had to.  Luoyanggong Beer keep us going!
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

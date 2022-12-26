@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<TITLE>kjs bismallah</TITLE>
+<BODY BACKGROUND="/~kjsmith/graphics/power.gif"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+</HEAD>
+
+<center><H2>Bismallah</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/graphics/basm.gif" alt="bismallah"></center>
+
+<hr size=15>
+<H3>In the Name of God, the Merciful, the Compassionate<br>
+With these words begins a text which changed the course of world history..
+
+<hr size=25>
+
+While the Cybermuslim page is no longer online, I have found the following page to be very good for those wanting to know about the world of Islam, its culture, peoples, and its living religion. <A HREF="http://www.muslims.org/">http://www.muslims.org/</a><p>
+
+<hr size=15>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

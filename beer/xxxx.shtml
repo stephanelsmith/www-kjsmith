@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, xxxx, Australia</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>XXXX Gold</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/xxxxgold.jpg" alt="XXXX Beer Label"></a></center>
+<hr size=15>
+<H3>
+XXXX Gold lovingly brewed in Brisbane, Queensland Australia..<br>
+While in Brisbane reviewing geological data on the basins of Queensland recently, I was frequently refreshed by the cool good taste of XXXX Gold.<p>
+kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, 1.1 introduction</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Fun with radio, a hobbist's dash into the ionosphere..</H2>
+
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="27logo.gif"> <br clear>
+</td></tr></table>
+This is the tale of a project long in the making, nurchered over three years of thinking and patience, of persistant attention, and finally of research and discovery.  I hope it will facinate and inspier the reader as much as it did myself.<p>
+The object of this study was to observe solar flares via shortwave radio.  The technique, described in an article by Mr. John Hudak, (Sky and Telescope, Nov. 1984), involves monitoring the shortwave signal of a distant beacon and looking for a characteristic fadeout signature indicative of a solar flare.  The equipment utilized in the article included a shortwave receiver and a chart recorder.  I was interested in this project and had the necessary receiver, but no chart recorder so things merely stewed in my mind.  It would not be easy or practical to purchase a chart recorder for a single purpose.  Instead I considered ways of utilizing a Commodore 64 computer for the purpose of recording the data.<p>
+Things stood that way for three years until one day while shopping with my family I picked up a Radio Electronics magazine quite on a lark.  Reading it later at home I was quite stunned to find an article by Dr. Frank Maloney which described a scanner controller project for use with a Commodore 64.  Two circuits were presented of which, one was an interface between the radio automatic gain control (AGC) and a C64 computer "paddle" port.  I suspected that the unit would work as well with my Yaesu 7700 shortwave receiver and there followed correspondence with Dr. Maloney.  He was a great help and in fact he had the same radio.  The circuit had one major drawback from my perspective, it was battery operated and I was proposing to make regular observations of 15 plus hours duration.  Finally the solution came in the form of a modification by my clever brother in Seattle allowing the interface to run off the 11vDC power supply or the radio itself.<p>
+With the hardware in place after my years of waiting, I was ready to go to work.  September 1987 was only a year past the minimum between sunspot cycles 21 and 22 and the solar activity was still fairly low, but picking up rapidly.  My goals included both detecting flares and a more general one of observing radio propagation variation from minimum to maximum in the sunspot cycle, a project therefor lasting several years.  In actual fact I gathered data weekly from September 1987 until July of 1991.  Each Friday early I would switch on the computer and radio and, with a homebrew Basic program, monitered WWV's signal at 15MHz.<p>
+
+A technical note on the interface.  The device works by taking the variable voltage output of the receiver's AGC circuit, accessable easily from the rear of the unit, and converting it to a variable resistance.  The Commodore 64 computer gameport could read both joysticks and the even-then obsolete game "paddles" which worked on resistance.  The computer read the resistance and converted it to digital values, a built-in <a href="interface.shtml">analog to digital interface</a>.  <p>
+
+A true confession, while I can ponder for hours the possible physical reasons behind a discontinuity in the data, I personally get little pleasure from soldering two wires together.  With modern pentium PC computers its probably best just to purchase a manufactured A/D circuit and concentrate on the science.  My own C64 retired soon after the end of this study in 1991.<p>
+
+<hr size=25>
+<A HREF="r1def.shtml">Next: Some Definitions..</a><br>
+<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

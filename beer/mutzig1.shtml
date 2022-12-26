@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, mutzig beer, france</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Mützig beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/mutzig1.jpg" alt="mutzig beer label"></a></center>
+<hr size=15>
+<H3>
+Mützig from Alsace, another minnow swallowed by the Amstel shark.  I am always reminded of a pub on a crossroads I passed outside Colmar with a Mützig banner.  It wasn't until 15 years later that I finally tried the beer, (maybe that explains things...).
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, kgow</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="kgow1.jpg">
+<H2>Some thoughts on KGOW 1560 "The Game".
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+<h4>
+
+Over the months of playing with my hobby, my radios, learning, reading, i have come across a small fly in the ointment of an otherwise very enjoyable hobby.  From time to time while listening to my radios I would find the airwaves filled with a single station, KGOW blasting across my entire tuning range.  It was curious and interesting at first, radios would receive strong clear signals with or without a crystal or rectifier which seemed to me thoroughly at odds with what I supposed I was learning about how radios work.  Discussions on Rap-n-Tap provided some, but not deep insights into my problem.  Mostly I was advised to check twice and thrice all my connections.  The most frustratingly bothersome aspect was that, it affected all my radios.  Maybe my antenna and/or ground was responsible.  Even when hooking up my "Sleeper #1" (shunting a diode across the phones) gave me the problem, in fact gave me the problem in spades.  Turns out I am able to receive KGOW clearly merely by attaching the antenna and ground across the phones, no diode, no nada.<p>
+Looking somewhat deeper into the mystery, I chose to look closer, not at my antenna and ground, but at the BC band itself.  Using my Icon R75 and RxPlus software, I made a band scan of the BC activity.  What I found was most troubling for my location.  The plot below shows a screen capture of the scan.  Clearly KGOW stands out 2 to 3 times stronger than any other local station.  It dominates the scene and saturates my post.  More disturbingly, it takes the joy out of the hobby.  Mercifully, my handy dandy wave trap goes a long way to solve much of the trouble, but not far enough.  I need to direct my efforts in trapping this station now. <p>
+Question: Is this spectrum normal?  Is it common for one station to so dominate the scene?  I sometimes wonder if they arent cheating on their power output there.  I know, probably not.  My next project may be finding a way to use this energy to charge my batteries or light my house, or heck, to power my radios!  The following plot shows that while by day I am merely in trouble, at night things are near hopeless.  The band scan is a night spectrum. Sad thing is, I don't partictularily care to listen to sports on radio, (or television for that matter). <p>
+<IMG SRC="kgow2.jpg"><br>
+<IMG SRC="kgow3.jpg"><p>
+
+<IMG SRC="bar3e.jpg">
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

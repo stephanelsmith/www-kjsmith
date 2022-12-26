@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs international photo gallery, les saras, congo</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>The children of the village of Les Saras</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagint/congo3.jpg" alt="The children of the village of Les Saras"></center>
+
+<hr size=15>
+<H3>Everywhere we traveled in the Congo the children were always a pleasure.  Often as we entered a village we would see them running and waving at us, shouting to us in their excitement.  Objects of their curiousity, they would gather around us where they could.  Smiles were never far.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

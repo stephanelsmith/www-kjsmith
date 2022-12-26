@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs western usa photo gallery, mt. st. helens, washington</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Sunrise on St. Helens</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagnw/sr-helen.jpg" alt="Sunrise on St. Helens"></center>
+
+<hr size=15>
+<H3>Climbing Mt. St. Helens was an annual ritual when I was in school.  The north slope was the main route and the mountain was an easy, and often crowded ascent.  Here as we strike camp the morning competition for the summit can already be seen against the dawn sky.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<TITLE>kjs international photo gallery, St. Kevin's Kitchen, Ireland</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Oratory at Glendalough</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagint/irekev.jpg" alt="Oratory at Glendalough"></center>
+
+<hr size=15>
+
+<H3>Founded by St Kevin in the sixth century, the Glendalough monastary remains a reflective haven south of busy Dublin in Ireland's Wicklow Mountains.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

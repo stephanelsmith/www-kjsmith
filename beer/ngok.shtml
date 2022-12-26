@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, ngok beer, congo</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Ngok' Beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/ngok.jpg" alt="ngok' beer label"></a></center>
+<hr size=15>
+<H3>
+Brewed in Pointe Noire, the Congo, this label is a common sight on tables at the Plage Sportif resturant where my colligues and I would decompress after long hours reviewing geological data in the Hydro-Congo office.  This brew adds to the memory of a special visit I made east of Brazzaville to visit a local personality on the <A HREF=/~kjsmith//stories/witch.shtml> Mayombe</a> plateau.<p>
+It is a fairly strong beer brewed in one of the two breweries of the Congo. The label I find just great with a strong clean design immediately recognizable.  
+<br>kjs<P>
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, united breweries,india</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>From India's United Breweries, Kingfisher and Black Label Beer</H2></center>
+
+<hr size=15><h3><center>
+<IMG SRC="/~kjsmith/beer/kingfisher.jpg" alt="Kingfisher Beer Label"></a>
+<hr>
+<IMG SRC="/~kjsmith/beer/kalyani.jpg" alt="Kalyani Black Label"></a></center>
+</center><hr size=5>
+I am told that the traveler to India must be careful of what they eat, enjoy the sights and don't drink the water.  On a recent visit to India, both in city and countryside I had no problems whatsoever and I ate heartily of the wonderful local cuisine wherever I went.  But then, I always drank the local brew which will never let you down!  Kingfisher and Black Label are available in most watering holes and if you are lucky, you might find a waiter who can actually manage to remove a label.  
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

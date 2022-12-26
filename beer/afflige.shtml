@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, affligem, Belgium</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Affligem Blond</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/afflige.jpg" alt="Affligem Beer Label"></a></center>
+<hr size=15>
+<H3>
+Affligem Blond, from the Affligem Abbey, brewed by Benedictine monks since 1074.<br>I occasionally receive email asking how I remove the labels from the bottles.  The answer is situational, for tropical beers the combination of humidity and poor quality glue is usually enough. For most northern bottles it requires boiling in a pot of water. Finally there is patience.  This Affligem label was slowly and patiently removed my colligue Brian Tepper whilst sipping the brew one sunny afternoon on the beach at Scheveningen. A bit rough about the edges, but treasured all the more for the effort rendered.<p>
+kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

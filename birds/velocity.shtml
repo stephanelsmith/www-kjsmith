@@ -1,0 +1,51 @@
+<HTML>
+<HEAD>
+<TITLE>kjs bird photos, level flight velocity</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Birding by Impressionn</H2></center>
+<H3>
+<hr size=15>
+Thoughts concerning visual estimation of bird distance and size.<p>
+
+I have occasionally read that one cannot expect to estimate the size or distance of a bird seen in flight.  The reason for this is basic, in flight there are no points of reference with which to make this judgment.  I have always felt this doesn't make complete sense, that is, I have always felt I could in a relative way, have a good impression of both size and distance. So, I have begun to think more on this question.<p>
+
+Given I could take some arbitrary geometric object and magically suspend it in the air, It does stand to reason that, all things being equal, it would not be possible for someone to guess the size and/or distance.  But, not all things are equal.  The farther away an object is the more air rests between it and the observer.  The more air, the more particulates, aerosols, etc and the more general haze.. A point of reference.  Additionally, one's eyes have limited resolution and so as the object becomes more distant, the fuzzier it appears.  Probably other references also exist in this basic example. <p>
+
+With birds the above references still apply, and many more in addition that aid in establishing a good impression of both size and distance of the bird under observation.  Things like knowing what kind of bird one is observing at least down to the family level and thus prior knowledge of typical bird size, that combined with the angular size of the bird in question gives a rough impression of distance. <p>
+
+Additionally, birds are not magically suspended in the air, they fly.  While not all birds fly at the same speed, there is a fairly narrow range of speeds birds use for efficient level flight.  I found a nice tabulation of airspeed, mass, wingspan and area for some 140 species of birds across the taxonomic spread*.  The following chart summarizes Level flight versus Wing loading.  (Wing loading is the wing area divided by the bird mass). It stands to reason that birds that are particularly heavy with respect to their wing area must fly faster to maintain efficient flight.  Interestingly, for Gulls, Terns, Falcons, Hawks, Eagles, Crows and Songbirds, the range of level flight speed is fairly narrow, from 23 to 35 mph or so, (27.5 ± 0.5 mph average and one standard deviation).  Geese, Ducks, Waders, and sundry water birds have typically higher wing loading and fly with greater speed, 35 to 45 plus mph, (36.4 ± 1.0 mph).  <p>
+
+<center><IMG SRC="/~kjsmith/birds/Velocity1.jpg"alt="Level flight: Wingspan versus Airspeed"></a><p></center><p>
+
+A bar graph illustrates this quite effectively.  For many birds then we see them in flight and as they move they pass us by with angular speed, that is, they may zip by quickly or slowly.  Given that most are flying at a narrow range of speeds centered on 27 mph, the angular speed with which they pass is directly related to their distance.  That is, just seeing them fly gives an instant impression of their distance independent of haze, resolution, or even species.  <p>
+
+Next to the bar chart I provide a graph of my own calculation of Distance versus Angular velocity. The curves show a simple power-relationship between distance and angular velocity for any given flight speed.  In color I present the 25, 27.5, and 30 mph curves.  25-30 mph covers a large part of the bird community.  The curves indicate that judging distance is pretty straightforward given an observation.  The faster you see the bird fly, the farther it is.  That information coupled with the bird angular size gives an estimate of the bird size as well.  With experience one may readily judge that swallow that just flew past to be a largish martin or some other swallow.  <p>
+
+<center><IMG SRC="/~kjsmith/birds/Velocity3.jpg"alt="Level flight: Wingspan versus Airspeed"><IMG SRC="/~kjsmith/birds/Velocity4.jpg"alt="Level flight: Wingspan versus Airspeed"></a><p></center><p>
+
+The experienced bird watcher is using all this information, not consciously maybe, but using it nonetheless.  He or she will have an instant impression of the bird size, distance, and family if not genus/species.  The rest of the observation is spent confirming this first impression.
+<p>
+
+<hr>
+*Flight Speeds among Bird Species: Allometric and Phylogenetic Effects., PLoS Biology, Aug 2007, v5, n8. by: Thomas Alerstam, Mikael Rosén, Johan Bäckman, Per G. P. Ericson, Olof Hellgren.
+<p>
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+</h3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

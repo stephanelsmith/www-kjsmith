@@ -1,0 +1,47 @@
+<HTML>
+<HEAD>
+<TITLE>kjs bird photos, roost ring</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>NEXRAD, Roost Rings over NW Houston</H2></center>
+<H3>
+<hr size=15>
+For the month of August I have been noticing most mornings on the NOAA weather radar a persistent "roost ring" located in northwest Houston in the vicinity of the Willowbrook Mall.  The ring appears between 6:30 and 6:45 am and grows until around 7:15 or so.  Early in the month the ring was centered somewhat east of the mall and by late Aug has moved a few miles west southwest of the mall.<p>
+
+I created the following animated gif showing a beautiful "textbook perfect" example of the roost ring developing the morning of 27 August, 2016.  The ring, centered over Houston's Willowbrook Mall area, is due to Purple Martins in taking off from their roost for their daily foraging.  The first indication on the radar starts about 6:37 am CDT and grows until 7:22 (when I stopped tracking).  Range circles every 10 Miles.<p>
+<center><IMG SRC="/~kjsmith/birds/27Aug2016base.gif"alt="27 Aug 2016 base reflectivity"></a><p></center><p>
+The next animated gif shows the radial velocity for the same event.  Here one can readily see the birds moving both towards (green) as well as away (red) from the radar site located in SE Houston. Note the general direction of cloud movement is from NNE to SSW.<p>
+<center><IMG SRC="/~kjsmith/birds/27Aug2016rdvl.gif"alt="27 Aug 2016 relative velocity"></a><p></center><p>
+
+Elevation calculations for the signature:<br>
+Nominal elevation angle is 0.55 deg<br>
+Radar elevation 18 ft<p>
+
+6:37 am <br>
+Distance to center 44 mi. (radar to roost);	Elev 2250 ft<br>
+7:27 am <br>
+Inner ring distance 25 mi.;	Elev 1300 ft<br>
+Outer ring distance 65 mi.;	Elev 3300 ft<p>
+
+The above calculations suggest most of the reflection returns are from Martins flying at an average elevation of 2250 ft, ranging between 1300 and 3300 ft.  (This is for those birds giving returns on radar only, not ALL the birds from the roost.)  The ring diameter grows to 40 miles (20 mi radius) in 50 minutes time, or 24 mph average radial flight velocity.  As the birds do not fly exactly radial from the origin, they must be flying somewhat faster than this.  References give typical Martin level flight velocity about 27 mph, in good accord with my radar-based calculation!<p>
+<hr>
+Purple Martins are common in Houston and the Willowbrook area roost site is well known.  The local Audubon Chapter hosts an annual Purple Martin Migration Madness Party several Saturday nights at the site each August.<p>
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+</h3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

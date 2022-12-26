@@ -1,0 +1,41 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Hunnenweiler</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Hunnenweiler.png"alt="Hunnenweiler"></a></center>
+
+<p>
+
+(Alsace)<p>
+D'azur à la bande d'argent, chargé de trois chapeaux de fer de gueules, posés dans le sens de la bande.<br>
+Cimier: un buste d'homme, curonné d'or, habillé aux armes de l'écu, les cheveux d'or tresses.<p>
+
+Kegelin, 1790:  Famille noble dont je n'ai trouvé que le nom et les armes.  Elisabeth de Hunnenweiler femme de Thiery de Hungerstein en 1428, Jacques vivoit en 1443.
+
+<p>
+
+Source:<br>
+Kegelin, 1790:<br>
+Siebmacher, 1769/1871:<br>
+Reitstap, 1887:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, 4.2 ionosonde</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Poor Man's Ionosonde</H2>
+<hr size=15>
+<H3>
+My reading suggested a solution to the ionization problem described in the previous section.  This solution dispenced with the notion that the jump in signal strength was caused by some jump in F layer ionization.  It can be found in the relationship between the main parameters affecting propagation: Nec - electron density (cm^-3), v - frequency, and a - incident angle measured from vertical.  The expression is as follows:<p>
+<center> Nec = 1.2 x 10^4 v^2 cos^2 a</center><p>
+If this expression were true, then it was simple to devise a test to confirm it.  If the ionization truly proceeded at a much slower rate, it should affect different radio frequencies at different times, in a regular manner. The beacon, WWV, transmits as previously stated at several frequencies, 2.5, 5.0, 10.0, 15.0, and 20.0 MHz.  With this beacon, I could maintain the same basic circuit geometry.  In mid November, 1988 I conducted a series of recordings at 5.0, 10.0, 15.0, and 20.0 MHz which, when plugged into the above expression gave me discreet electron densities.  
+<br><pre>
+      F Elev  Angle a 	Frequency
+			5 MHz  10 MHz  15 MHz  20 MHz
+	250	71	3.34+E4	
+	240	71	       1.24+E5
+	230	72		       2.59+E5
+	220	73			       4.26+E5		
+</pre><br>
+The signal jump would give me the exact time that the F layer passed the calculated <A HREF="r4ion.shtml">critical density</a>.  The following chart is my curve of the diurnal change in density, a sort of "Poor-man's" ionosonde.
+<hr>
+<center><IMG SRC="ionprobe.gif" alt="curve of the diurnal change in ionosphere density" width=594 height=381></center>
+<hr>
+The plot shows that the ionosphere goes through a morning period of fairly rapid ionization peaking perhaps around 10am CST (1600UT).  Then the process stops and reverses, going through a slower recombination period in the evening and into the night until near ionosphere sunrise the process again reverses and repeats the rapid ionization.  This plot in fact compares quite well to published mid-lattitude ionosonde data such as Olivier and others, 1988. It is even possible, where circumstances permit, to see more rapid ionospheric variations as described in the following section.
+
+<hr size=25>
+<A HREF="r4waves.shtml">Next: Density waves..</a><br>
+<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

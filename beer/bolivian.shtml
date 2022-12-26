@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, pacena, bolivia</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Paceña Tropical Extra</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/bolivian.jpg" alt="pacena beer label"></a></center>
+<hr size=15>
+<H3>
+Paceña Tropical Extra.  This label we found less often that the more typical Centenario.  I am not sure I noticed the difference in taste but then, I never attempted a comparison.  An excellent beer which accompanied many evening conversations under tropical stars.
+<p>You can visit the official CBN (Cervecería Boliviana Nacional S.A.) website at <a href="http://www.cbn-bo.com" target= _parent>www.cbn-bo.com</a> My thanks to Richard Melgarejo, CBN webmaster for providing the link.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

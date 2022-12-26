@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs western usa photo gallery, mt shuksan, washington</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Mt. Shuksan</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagnw/shuksun.jpg" alt="mt shuksan, washington"></center>
+
+<hr size=15>
+<H3>Majestic in its mantle of snow, Shuksan mountain rises from the north Cascades a little south of the Canadian border.  Unlike the many famous volcanic cones of the region, this massif rose from the tectonic forces of collision along the leading edge of the North American continent.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

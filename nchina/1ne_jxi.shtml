@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs china photo gallery, Northeast China</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Jixi, Northeast China</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/nchina/1ne_jxi.jpg" alt="Jixi, Northeast China"></center>
+
+<hr size=15>
+<H3>Jixi is a provincial town in far eastern Heilongjiang Province about 100Km from the Russian border.  I visited on a coal mine sampling trip and while there during a spring snow flurry I saw from my hotel window this private moment between mother and daughter. Like a voyeur I made this photo and then closed my curtians.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,35 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, brazilian beer labels</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>From Gé Van Opstal, recently returned from Brazil</H2></center>
+
+<hr size=15>
+<center>
+<IMG SRC="/~kjsmith/beer/bohemia.jpg" alt="bohemia beer label"></a>
+<hr size=5>
+<IMG SRC="/~kjsmith/beer/cerpa.jpg" alt="cerpa beer label"></a></center>
+<hr size=15>
+<H3>
+One more big contribution to this page by my friend Gé.  He, along with colligues Keith Morris and Brian Lastraps have been down in Sao Paulo working long hours negotiating with Petro Bras.  Between stressful sessions at the negotiating table and relaxation on the golf course (yes, the truth is out...), they found enough time to drink the hearty beers of their hosts. <br>
+Again I am indebtted to you Gé for the labels.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

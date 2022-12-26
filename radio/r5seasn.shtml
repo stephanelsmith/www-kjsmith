@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, 5.1 signal strength versus season</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Signal Strength by Season</H2>
+<hr size=15>
+<H3>
+After spending some four years collecting and analysing propagation data, it is reasonable to have a few observations concerning the subject.  I have often read general statements concerning propagation versus time of year and solar cycle, so how did this study compare?  Keep in mind that the entire data set is from a single circuit, Ft. Collins, Colorado to Houston, Texas, and that it is for a single frequency, 15.000 MHz.  While it cannot be generalized to all HF radio, it provides a good test under semi-controled conditions.  Another assumption that is implicit in all this data is that the transmitted power remained constant over the whole period.  I will make that assumption while noting that I did not ever confirm it to be true.<p>
+The following charts addresses the question of signal strength and opening hours versus season.  Color coding provides an indication of the variation due to solar flux, but this will be explored more in the next section.<p>
+<hr>
+<center><IMG SRC="bymo1720.gif" alt="signal strength versus season" width=626 height=412></center>
+<hr>
+This chart, already presented in section 3.2, clearly shows that the summer season does not provide the same signal strength that can be found in winter.  In general summer openings have low signal strength and greater variation from day to day.  Overall they are less dependable.  The chart distunguishes data collected under conditions of different levels of solar flux, (low flux in green to high flux in red).  Curiously, there is a clear association between the strongest signals and the lowest levels of solar flux. 
+<hr>
+<center><IMG SRC="openbymo.gif" alt="opening hours versus season" width=626 height=412></center>
+<hr>
+When plotting the length of time of the openings by season the situation is reversed with longer openings showing a weak but real preference to the summer season.  This results principally from the longer time of ionizing radiation on the ionosphere, but in this case moderate to high levels of solar flux can add one to two hours of additional opening per day.  I agree with the oft-stated general conclusion that winter is the best time for long distance communication by HF radio, but given the scatter I would temper that by addressing more closely the question of solar activity.
+
+<hr size=25>
+<A HREF="r5actv.shtml">Next: Signal strength by solar activity..</a><br>
+<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

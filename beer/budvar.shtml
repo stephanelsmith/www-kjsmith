@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, budvar beer, czech republic</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Budweiser Budvar Beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/budvar.jpg" alt="budvar beer label"></a></center>
+<hr size=15>
+<H3>
+Another contribution from SEPIV's own Bryan Lastraps, recently returned from London.  There he has sampled this great Czech beer, the original Budweiser, or so the barkeep informs him.  A good lager, or so Bryan informs me...  My thanks again!<p>
+kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

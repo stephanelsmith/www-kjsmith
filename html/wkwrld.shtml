@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>kjs work experience locator page</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/phot.gif"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Visual bearings on places I have studied.</H2></center>
+
+<hr size=15>
+<H3>
+
+<center>
+<IMG SRC="/~kjsmith/graphics/wworld.jpg" alt="map of areas which i have studied"></a>
+</center>
+
+<hr size=15>
+<H3>
+The Oil Patch according to Kevin Smith.  Places visited and/or just studied while working domestic and international exploration for Shell US and Royal Dutch Shell.
+<P>
+
+<hr size=15>
+<A HREF="/~kjsmith/html/bio.shtml">Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

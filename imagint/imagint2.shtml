@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+<TITLE>kjs international photo gallery</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+
+<hr size=15>
+<center><H2>International Photo Gallery</H2></center>
+
+<hr size=15>
+<center><H2><img src=/~kjsmith/imagint/photos.gif></a></H2></center>
+
+<h3>I have been very lucky in being able to travel to many interesting and, for me at least, exotic countries.  This page represents my attempt to give back and share with others some of the experiences and sights I have seen.  All the photos shown were taken by me on various trips and are only a small subset of my total collection.  I hope you enjoy, email if you have questions or are looking for some subject in partictular.. Perhaps I can accomodate your request.<br>kjs<p>
+<center><H2><img src=/~kjsmith/graphics/pworld.jpg></a></H2></center>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

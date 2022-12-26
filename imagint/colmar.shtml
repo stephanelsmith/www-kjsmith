@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs international photo gallery, colmar, france</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Colmar, France</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagint/frcolmar.jpg" alt="colmar, france"></center>
+
+<hr size=15>
+<H3>Dinner is prepared in one of the elegant 17th century houses which make up the heart of the city.  Colmar is the capitol of Frances's Alsatian wine district.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

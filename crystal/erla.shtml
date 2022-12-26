@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, erla</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="erla0.jpg">
+<H2>Erla Condencer / Toroidal Coil, a beaut!
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+<h4>
+Erla toroidal air-core coil.  On ebay not too long back came up for sale three interesting Erla condencer/coil units with a striking orange dcc wire toroidal form.  To bid on all three would be greedy, but I was agressive and successful on the single.  I can find no specifications or information on these coils on the web so everything I show here is a reslt of my own tests and measurements.<p>
+
+The capacitor is a standard vintage unit, fairly large (3 1/2 by 2 by 2), with a range from 30 to 410 pF. I wish the low end went a bit lower, but oh well.  That was the easy part.  The coil has five connections and I quickly assumed, as per my earlier Bremer - Tully, that I would be dealing with two coils, one with a tap.  Such is indeed the case. The connections are labeled F,N,G,B, and P on the rim.  Connections to the windings for the most part are hidden from view.   Measurements with my meter reveal the following:  F-G 220 uH, F-N 160 uH, N-G 50 uH, and B-P 40 uH.  No other combinations work.  From this data I can conclude that there are two coils, a Primary P-B and a tuning Secondary F-G with a tap at N, (look carefully at the second photo, you can see both coils).  I connected the coils to my breadboard in a standard configuration as shown in the photos.  The antenna and ground connected to the Primary.  The Secondary connected to the detector circuit with the diode connected to the tap at N.  The radio works very nicely tuning most of the BC band, I will need to trap the local blowtoarch to check if I can truly get to the bottom of the band. <p>
+
+This will make a lovely radio when the time comes!<p>
+<IMG SRC="erla1.jpg"><p>
+<IMG SRC="erla2.jpg"><p>
+<IMG SRC="erla3.jpg"><p>
+<IMG SRC="bar3e.jpg">
+
+<hr>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

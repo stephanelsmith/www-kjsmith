@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, steelgalena</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="gal0.jpg">
+<H2>Some thoughts on "Steel Galena" and its use as a crystal detector/rectifier for radio waves.
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+
+<h4>
+I have recently become interested in crystal radios and am especially interested in the "cystal" in the radio.  This is due to my background as a geologist / mineralogist / petrologist / oil exploration geologist.  I have read in several radio websites concerning steel galena describing it as argentiferous as well as fine grained and useful as an excellent detector with numerous hot spots.  While commonly associated with silver ores, I have never read of galena itself as being much silver bearing as a mineral.  This puzzle sent me to the web to see what I could find on this "steel" variety.  <p>
+
+Steel Galena does indeed associate most closely with silver ore deposits, especially in the classic Rocky Mountain silver districts like Leadville in Colorado, Coeur d'Alene in Idaho, and Tintic / Park City of Utah.  In all cases the ore bodies themselves are in sheared and altered sedimentary rocks.  Mineralization is due to hydrothermal movements of water with movement aided by the sheared, and crushed zones having fine to extremely fine grain size, hence its name "steel".  <p>
+
+To give a sense of the deposits themselves I wish to quote a couple accurate petrological descriptions:<p>
+
+Waldschmidt, 1921: Hecla East Vein, Coeur d'Alene<br>
+"The coarsest galena examined showed cleavage faces from 2 to 4 mm, square, but generally it is much finer grained than this.  The fine-grained galena is commonly known as steel galena because freshly fractured surfaces have a steel-like luster.  In all the specimens examed, this steel galena appeared to be in an intimate mixture of galena, tetrahedrite, sphalerite, pyrite, gnague, and other minerals present in the ore."....<br>
+"It appears that the original ore body consisted chiefly of galena, sphalerite, pyrite, pyrrhotite, tetrahedrite, freibergite, quartz and siderite.  When movement took place along the O'Neil Fault and possibly along with minor slips, the ore body was greatly crushed, during which time the galena acted as a putty-like mass for the suspension of broken fragments of the harder minerals.  This breaking resulted in the formation of the typical steel galena."....<p>
+
+In this ore, galena is NOT the silver-bearing mineral.  Rather, the silver is in the freibergite and to a lesser extent in the tetrahedrite.  Very interesting.  Quoting from classic mineralogy texts on galena I find the following:<p>
+Dana's Manual of Minerology: (Hurlbut)<br>
+"Pb 86.6, S 13.4 per cent.  Silver is usually present, probably as admixtures of silver minerals such as argentite or tetrahedrite."<p>
+Elements of Mineralogy: (Mason and Berry)<br>
+"Commonly, galena is very nearly pure PbS.  The silver, arsenic, and antimony reported in chemical analyses are largely due to the inclusions of argentite of tetrahedrite, small amounts of which are difficult to detect in a black opaque mineral."<p>
+An Introduction to the Rock Forming Minerals: (Deer, Howie and Zussman)<br>
+"Substitution of other atoms for lead in galena is not very extensive.  Among the elements which do accur in small amounts are: Sb, As, Bi, Ag, Ti, Zn, Cd, Fe, Mn and Cu.  In many cases these may be present in impurity minerals (acanthite Ag2S, sphalerite, chalcopyrite, etc.) rather than in the galena structure."<p>
+
+
+Why is this interesting for the radio engineer?  The following is my own theory, (speculation mostly).   Most of you who have worked with galena detectors have noted that hot spots generally occur on or adjacent to fractures, lines or discontinuities on the crystal face, seldomly on the smooth lustrous face itself.   Rectification occurs at the junction of two minerals, or of a mineral with a cat's whisker metal.  Many explanations have been offered, most having to do with the position and nature of the crystal lattice at the point of contact, and the perceived presence of "impurities" (atoms other than lead) in the galena crystal matrix.  As noted above, "Steel Galena" is a often an ore of silver containing not only galena, but abundant admixtures of associated minerals generally too small to see and thus seldomly described except in detailed mining reports as above.  In addition, the very small grain size of common steel galena allows numerous physical and mineral discontinuities on the small detector surface area, and thus numerous hot spots.  I speculate that many/most of these hot spots may in fact be at the junctions of galena and other minerals along with the light contact of the ever-so-sharp cat's whisker itself.  Other galena (lead) deposits such as the Missouri / Tri-State region are not associated with silver mineralization (Tri-State ores typically have only about 30ppm Ag).  These show large museum quality crystal faces but have poor detector properties.<p>
+
+Steel galena is difficult to find for sale due primarily to its lack of excellent crystal cleavage.  Galena, as is well known, has beautiful LARGE crystal structure.  Who would buy that ugly-looking grey junk?<p>
+
+Kevin<p>
+
+<hr size=10>
+
+From Leadville Colorado, the specimens below are the best examples of "steel galena" I have yet come across.  The samples have a dull weathered surface skin deep hiding a massive, fine-grained lead-silver mining ore of a classic Rocky Mountain type.  On a fresh surface the sample has a fine texture and flat grey color.  This is not museum material, and its difficult (to impossible) to locate on ebay, but its the real mccoy when it comes to crystal radio.  Don't even bother with the pretty pretty Missoury galena, it rightly belongs behind a glass display, not in a radio.  Chips from this sample, potted in woods metal, rectifies strongly almost regardless of where the cat's whisker touches, instant sound.<p>
+<IMG SRC="steel2.jpg"><p>
+<IMG SRC="steel4.jpg">
+
+<p><hr>
+Steel Galena from the Tintic Mining District, a classic silver locality in Utah. (The excessively sparkally surface in the photo is from the flash.) Note also the presence of Anglesite alteration, (the clearish anglesite crystals separated from the galena by a dark finer grained almost greenish alteration zone). This is good radio material, but you may need hunt a bit more for hot spots than the finer-grained stuff above. <p>
+<IMG SRC="gal1.jpg"><p>
+
+<IMG SRC="bar3e.jpg">
+<hr>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+Steel Galena Notes off the web:<p>
+
+Silver-Bearing Inclusions in "Argentiferous" Galena from the Silvermine District in Southeastern Missouri.  Gasparrini, C, and Lowell, GR., 1985, Canadian Minerologist, v.23, pp 99-102.<br>
+Abstract:<br>
+Galena from Sn-W greisen veins in the Silvermine District of southeastern Missouri contains between 1 and 3 kg/tonne Ag and carries trace amounts of Bi, Sb, Sn,  As, Fe, Cu, Zn, and Au (up to 11g/tonne). Such galena, long considered argentiferous, has been examined optically at 1250x and by SEM up to 12,500x.  It clearly contains two types of minute inclusions: round blebs and rods.  Their distribution in rows suggests an exsolution origin.  Optical properties and electron-microprobe/SEM-EDS analyses indicate that one of the cryptic phases in argentiferous tetrahedrite containing variable amounts of silver (up to approximately 15%) and the other is a Cu-Fe-Sn-S mineral, very likely mawsonite.  Neither phase has been previously reported from this locality.  Repeated analyses of homogenous domains within the galena failed to detect any silver above the limits of detection of the electron microprobe (approximately 0.02%).<p>
+
+
+USGS Bull 625, 1917<br>
+Galena of the Coeur d'Alene District contains appreciable silver, is generally not so well crystallized, and has a much less perfect cleavage.  <p>
+
+Mineral Deposits, Waldemar Lindgren, 1919<br>
+Steel galena owes its fine-grained texture either to mechanical deformation of larger crystals or to a beginning transformation to anglesite.  It is supposed to be rich in silver but this is by no means always true.
+PbS+4O=PbSO4 (Anglesite)<p>
+
+Geology of Colorado and Western are Deposits By Arthur Lakes, 1893.<br>
+A coarse galena is generally poor in silver, while fine grained "steel galena" is generally rich in silver, but the reverse may also be the case. <p>
+
+Waldschmidt, 1921. Hecla East Vein, Coeur d'Alene<br>
+The coarsest galena examined showed cleavage faces from 2 to 4 mm, square, but generally it is much finer grained than this.  The fine-grained galena is commonly known as steel galena because freshly fractured surfaces have a steel-like luster.  In all the specimens examed, this steel galena appeared to be in an intimate mixture of galena, tetrahedrite, sphalerite, pyrite, gnague, and other minerals present in the ore.<br>
+It appears that the original ore body consisted chiefly of galena, sphalerite, pyrite, pyrrhotite, tetrahedrite, freibergite, quartz and siderite.  When movement took place along the O'Neil Fault and possibly along with minor slips, the ore body was grreatly crushed, during which time the galena acted as a putty-like mass for the suspension of broken fragments of the harder minerals.  This breaking resulted in the formation of the typical steel galena.<p>
+
+Great mining camps of Canada 1. The history and geology of the Keno Hill Silver Camp, Yukon Territory.<br>
+Keno Hill mineralization "silver-lead-zinc veins in lastic metasedimentary terranes". 
+Galena is present mainly as the common coarse-grained, well-crystallized and friable type, but also displays several other textures, such as fine-grained, sheared, massive, and 'steel' (a dense, extremely fine-grained, almost cryptocrystalline type). Sheared and steel galena textures were caused by post-ore shearing of coarse-grained galena and it was not uncommon to find the three varieties side-by-side. These textural variations had important implications for exploration because the more massive and free-grained types, which are less friable, were not affected as much by oxidation. As galena was released by erosion from the oxidized vein subcrops, it tended to develop a protective white rind of the Pb sulfate anglesite, and to collect downhill from the vein as a dispersion (float) train. <p>
+
+THE GEOLOGY AND MINERAL DEPOSITS OF THE TOBY-HORSETHIEF CREEK MAP AREA, NORTHERN PURCELL MOUNTAINS, SOUTHEAST BRITISH COLUMBIA., OPEN FILE 1990-26. By Alasdaire Pope<br>
+mine consist of massive panidiomorphic galena, sphalerite, pyrite, sucrosic cerussite and banded dolomite, galena, sphalerite and pyrite. In hand specimens bleischweif texture (steel galena), indicating deformation by simple shear (McClay, 1980) is frequently seen.<p>
+
+PROCEEDINGS OF THE THIRTY-THIRD ANNUAL MEETING OF THE N4INERALOGICAL SOCIETY OF AMERICA AT BOSTON, MASSACHUSETTS. <br>NATIVE LEAD, PRESIDIO COUNTY, TEXAS JORRN T. I_ONSDALAEN D KATHRYNO . DICKSON
+University of Texas, Austin, Texas<br>
+Approximately 3,000 pounds of ore containing native lead was recovered from three small tabular ore bodies in the western part of the shafter District, presidio county, Texas. Two of the ore bodies were vein-like in limestone with clay gouge walls. The metallic lead was localized at the centers of the veins. The third ore body was flat lying disk-shaped about 4 feet thick with a surface area of 1,600 square feet. The native lead occurred along a part of the margin of the ore body in a zone about 9 inches thick separated from the wall rock by clay gouge. The ore generally was argentiferous steel galena partly or completely altered to cerussite and anglesite with minor minerals including wulfenite, litharge (?), quartz and limonite. The native lead occurred as threads, sheets to one-half inch thick and pods up to 4xIX2.S inches.<p>
+
+</HTML>

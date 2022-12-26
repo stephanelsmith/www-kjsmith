@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, library</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="cats.jpg">
+<H2>My library of Crystal Radio Hookups and theory...
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+
+<h4>
+This section of my page started out as a place to put my compilation of crystal radio circuits.  That compilation became a catalog featuring circuit diagrams hand-drawn by myself from various sources (as indicated on each page, see catalog reference).  When I first entered the crystal radio hobby, I was amazed and more than a bit intimidated by the sheer variety of circuit possibilities.  I began to make my own circuit drawings in order to get a handle on this in addition to finding interesting circuits to construct myself.  <p>
+
+To organize the circuits from fairly easy to rather complicated, I put together a simple classification based on the number of Inductors and Tuning Capacitors in each circuit and a few of their main distinguishing features.  Better classifications may exist, but this works well enough for my purpose.  A legend follows so anyone may break the code.  The catalog provides only minimal information about each circuit.  Although an experienced builder may make the calculations to build a radio from the data provided, I mostly intend this for information only.  I highly recommend if you wish build a set to consult the original reference. <p>
+
+Later as my experience and familiarity with crystal radio has grown, and after having built and tested a certain number of sets, more detailed and technical information has become necessary.  Scouring the web has turfed up an amazing number of extremely well written and helpful web resources.  While the number of excellent web sites is large, there have been a certain few that I found myself returning to time and again.  From these I would print out large sections and read carefully, scribbling notes on the side, generating more questions and learning, learning, always learning.  <p> 
+
+Eventually I began to assemble what were, to me, the most useful and informative pages into a handy book format.  I decided to print the darned thing out to keep as a sort of Crystal Radio Handbook, something to take with me on the go, or just to read on the couch.  I am NOT a "kindle" type..  The project was no trivial thing.  I knew what I wanted, but casting everything into a common (more or less) format, organizing things, formatting figures, etc, it was a lot of work.  For my handbooks, a glance at the table of contents shows a book organized to lead the reader along the path I followed.  The authors are many and I wish to thank 10,000 times all the people who have contributed so much to this hobby on the web.  My apologies if I did not choose your pages for the book, the choices of what to include and what to leave out was purely my own.  The final Handbooks, there are many now, I feel represent university-level material from advanced introductory to university senior / graduate presentations on Crystal Radio.  Published handbooks on crystal radio are traditionally directed  primarily to the "boy scientist" adolescent, introductory in nature.   I hope this these handbooks fill a gap rather than pander. <p>
+
+Finally, to help as reference, I eventually formatted two particularly interesting web pages as complete volumes in themselves.  Ben Tongue's pages are essential reading for the serious hobbiest, even if over my head, (read.. waaaaaaay over my head).  At nearly 400 pages, I have broken it into two volumes.  Kenneth Khun's web book is just great, technical, but not overly, well explained as one would expect from a professor.  Thanks for your efforts and for all those others whose pages I missed. <p>
+
+I intend these documents to be printed on double-side letter paper, folded over or cut in half and then bound.  The foldbook paging system in the document only makes sense when this is done. Printing instructions below:<p>
+
+Kevin Smith <p>
+<hr>
+<A HREF="/~kjsmith/crystal/.handbook01.pdf">Crystal Radio Handbook: V1 Catalog of Crystal Radio Hook-Ups   </a><br>(ready for printing and binding..129pp) pdf format, 3.30 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook02.pdf">Crystal Radio Handbook: V2 Crystal Radio Theory  </a> A Handbook of useful technical articles, <br>(Bookfold format for printing, 272pp).pdf format, 2.34 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook03.pdf">Crystal Radio Handbook: V3 Solid-State and Vacuum Diodes  </a> A Handbook of useful technical articles,<br> (Bookfold format for printing, 268pp). pdf format, 4.47 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook04.pdf">Crystal Radio Handbook: V4 Antenna / Ground and Antenna Tuning  </a> A Handbook of useful technical articles,<br> (Bookfold format for printing, 164pp). pdf format, 2.13 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook05.pdf">Crystal Radio Handbook: V5 Inductance, Inductors, and Measuring Q  </a> Technical look at Coils,<br> 
+(Bookfold format for printing, 253pp). pdf format, 4.19 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook06.pdf">Crystal Radio Handbook: V6 Radio Wave Propagation  </a> A walk down memory lane, historical and personal, <br>(Bookfold format for printing, 284pp). pdf format, 16.9 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook07.pdf">Crystal Radio Handbook: V7 Vacuum Diodes  </a> Dedicated entirely to vacuum diodes, <br>
+(Bookfold format for printing, 272pp). pdf format, 12.40 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook08.pdf">Crystal Radio Handbook: V8 Resonance  </a> Resonance and Coupled Circuits, <br>
+(Bookfold format for printing, 252pp). pdf format, 17.70 meg size<p>
+
+<A HREF="/~kjsmith/crystal/.handbook09.pdf">Crystal Radio Handbook: V9 Capacitor Losses and Wire Resistance </a> The other side of Q, <br>
+(Bookfold format for printing, 222pp). pdf format, 2.32 meg size<p>
+
+<IMG SRC="bar3e.jpg"><p>
+<A HREF="/~kjsmith/crystal/khunengineering.pdf">Kenneth Khun's Web Book on Crystal Radio Engineering  </a><br>(ready for printing and binding.., 113pp), pdf format, 1.11 meg size<p>
+<A HREF="/~kjsmith/crystal/tongue1engineering.pdf">Ben Tongue's Web Book on Crystal Radio Systems Volume I  </a><br>(ready for printing and binding.., 185pp)' pdf format, 1.37 meg size<p>
+<A HREF="/~kjsmith/crystal/tongue2engineering.pdf">Ben Tongue's Web Book on Crystal Radio Systems Volume II  </a><br>(ready for printing and binding.., 208pp)' pdf format, 1.59 meg size<p>
+<A HREF="/~kjsmith/crystal/vargasengineering.pdf">Ramon Vargas Patron's Web Book Contributions to Crystal Radio </a><br>(ready for printing and binding.., 111pp)' pdf format, 1.65 meg size<p>
+<IMG SRC="bar3e.jpg"><p>
+
+<A HREF="/~kjsmith/crystal/.handbook10.pdf">Crystal Radio Handbook: V10 This Web Page..  </a>Because I'm so vain.., 260pp<br>
+pdf format, 7.31 meg size<p>
+
+<hr><p><IMG SRC="library.jpg"><p>
+<hr>
+Printing / Binding Instructions:<p>
+1. Choose "fit to page" in print menu. <br>
+2. Print document double sided on letter size paper. <br> 
+3. Cut the entire printed document in half. <br> 
+4. Fold over making sure the page numbering is continuous. <br> 
+5. For the cover: Print just the first page on card stock paper Cut the cover in half as well. <br>
+6. Assemble the covers on the document. <br> 
+7. Punch the left side for a binding, spiral or comb as desired. <br>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,11 @@
+<html>
+<HEAD>
+<TITLE>kjs pinhole photograph gallery</TITLE>
+</HEAD>
+
+
+<frameset cols="150,*">
+ <FRAME  NAME="menu" SRC="/~kjsmith/pinhole/pin1.shtml">
+ <FRAME  NAME="pres" SRC="/~kjsmith/pinhole/pin2.shtml">
+</frameset>
+<NOFRAME>

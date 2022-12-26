@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+<TITLE>kjs crystal radio, amplifier</TITLE>
+
+<BODY BACKGROUND="crbk1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="amp0.jpg">
+<H2>A breadboard Audio Amplifier
+</H2>
+<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<hr>
+
+<h4>
+A little project stemming from my persistant difficulty in hearing. (Losing one's hearing is never fun to admit, but combined with crystal radio, well, its trouble!)  I hope I do not offend any "purists" with this project. Still, I understand that many crystal radio owners keep a small amplifier too, for "those times" when, well, you know.. So, this amplifier project, its for, well, those times.. (I suspect Radio Shack would have discontinued their nifty Mini Amplifier years ago had it not been for the crystal radio community.)<p>
+
+My idea was to build my own unit rather than use a store-bought amplifier.  Additionally, I wished to put my own stamp on it, make it unique.  I started with a kit for the basic layout and electronics.  I wanted to base things on the NI LM386 chip which is a good part and hard to break.  I found several distributers of what appears to me as the exact same kit and so chose the cheapest $6 dollar kit.  NI sells the LM386 for 34 cents a pop and would even provide a few "samples" but then I would be stuck laying things out and wireing.. Been there, done that.  A printed circuit board is just SO much easier to use. <p>
+
+One of my inspirations for this project also stems from the nature of modern electronics in general, and the Radio Shack mini amplifier in partictular. Using my RS mini, I am always struck by the contrast between electronics new and old. With crystal radios one builds with passion, creating something more than a mere radio, but a work of art, a piece of furniture.  Still, the technology itself is primitive dating back to the dawn of radio.  When I look at the mini amplifier, it looks like a toy yet inside there is the most wonderful technology, solid state integrated circuitry. We take this advanced technology and slap it inside a cheap plastic box, an appliance.  Naturally, I don't complain about the price, but for my project I wish for something above.<p>
+
+The solution struck me as obvious, give the same care and respect for the amplifier as I do the radio.  I also sought to maintain a "vintage" visual aspect for the unit, breadboard layout, antique binding posts and a large adequate volume control knob, (the pitiful volume control wheel on my RS mini has already come apart once and threatens to break at any time).  I wanted a nice lacquered base and sturdy speaker enclosure.  The enclosure was the main challenge.  I finally ended up with a heavy plactic goblet from a local thrift shop cut down to a tapered cylinder into which the speaker can be placed tightly.  The rest of the set is modular with plug-in connections for the audio in, power, speaker, and volume control potentiometer.  A question, do I add a brass knife switch for the on-off?  I worry I am out of room on the base.  Still pondering this. <p>
+ 
+I was initially worried that the audio input impedance may cause me trouble.  I read so much about this, impedance matching, transformers, etc etc, almost a fetish really.  I have subsequently learned that the LM386 input impedance is about 800 Megohms, the 10k pot being the limiting factor.  So, with considerable relief, I concluded this ought not present any problems with the crystal radio circuits.  I find the amplifier works very nicely with my radios.  The sound is as good as the Radio Shack unit. <p>
+
+The amplifier certainly adds to the vintage "look" of my setup.  Well, you be the judge, I hope I come close, please check out the photos...
+<p><hr size=15>
+
+From the front, wooden base, full display of components, big adequate volume control..
+<br><IMG SRC="amp1.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr>
+
+It even looks nice from behind, vintage binding posts, naturally..
+<br><IMG SRC="amp2.jpg">
+<IMG SRC="bar3e.jpg"><hr>
+
+Schematic of the kit, (AnyKits.com) A005.  The kit is configured with a maximum gain between 45 and 50, too high for headphones but too low really for listening with the speaker easily.  You will note the location of R1 (in series with a 10uF capacitor) between pins 1 and 8 on the LM386.  If you short the resistor leaving only the capacitor, then the gain will increase to the maximum of 200.  If you do such a project, I recommend you download the LM386 datasheet from National Instruments.
+<br><IMG SRC="ak05.jpg">
+<IMG SRC="bar3e.jpg"><hr>
+
+<hr size=15><h3>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

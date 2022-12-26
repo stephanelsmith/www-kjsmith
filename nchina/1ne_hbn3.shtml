@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs china photo gallery, Northeast China</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Harbin, Northeast China</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/nchina/1ne_hbn3.jpg" alt="Harbin, Northeast China"></center>
+
+<hr size=15>
+<H3>Harbin is a facinating city.  It was just a fishing village on the Songhua River (with a different name) until the Russians settled it in 1898 or so as their conquest of northern Manchuria.  It was built in classic western style in the 1920's and 30's just like much of western North America and shares many archetectural elements while also having many elements of an eastern European style.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

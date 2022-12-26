@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, sanhe and luhui beer, china</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>From Shentoe in Shanxi Province</H2></center>
+
+<hr size=15><h3><center>
+<IMG SRC="/~kjsmith/beer/sanhe.jpg" alt="Sanhe beer label"></a>
+</center><hr>
+Sanhe Beer
+<hr size=5><center>
+<IMG SRC="/~kjsmith/beer/luhui.jpg" alt="Luhui beer label"></a></center>
+<hr>
+Luhui (Aloe) Beer
+
+<hr size=15>
+Two labels from the small town of Shentoe in Shanxi Province.  These are both smooth and very tasty beers which cheered me and my colligues while working in China's western wilds.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

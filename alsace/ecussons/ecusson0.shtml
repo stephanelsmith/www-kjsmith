@@ -1,0 +1,19 @@
+<html>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+<META Name="description" Content="nobiliaire de la noblesse d'Alsace">
+<META Name="keywords" Content="nobiliaire, Alsace">
+
+</HEAD>
+
+
+<frameset cols="250,*">
+ <FRAME  NAME="menu" SRC="/~kjsmith/alsace/ecussons/ecusson1.shtml">
+ <FRAME  NAME="pres" SRC="/~kjsmith/alsace/ecussons/ecusson2.shtml">
+</frameset>
+<NOFRAME>
+
+
+<h4>
+
+</HTML>

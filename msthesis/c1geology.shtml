@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<TITLE>kjs ruby mountains geology</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/msthesis/bgthesis1.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H1>Hinch Creek area Geology, Ruby Mountains Montana</H1></center><P>
+<center><H2>Basement Geoloical Map</H2></center><P>
+<p><hr size=15><br>
+
+<p>
+<h3><A HREF="/~kjsmith/msthesis/msthesis.shtml">Back to Master's Thesis main page..</a><br>
+<hr size=5>
+
+<p>
+Geological map drafted from my original field notes and maps.
+<p>
+
+<center><IMG SRC="/~kjsmith/msthesis/GeologyMapC.jpg" alt="Hinch Creek Geology"></center><p>
+
+kjs<br>
+2021<p>
+<hr size=15>
+<A HREF="/~kjsmith/msthesis/msthesis.shtml">Back to Master's Thesis main page</a><p>
+<hr size=5>
+<A HREF="/~kjsmith/html/main.shtml">Return to Main...</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Lentzlin</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Lentzlin.png"alt="Lentzlin"></a></center>
+
+<p>
+
+(Alsace)<p>
+De gueules à quatrefeuilles d’azur boutonnée d’argent.<p>
+
+Kegelin, 1790:  Ancienne et noble Famille éteinte depuis se seizieme siecle, qui ne se trouve pas dans la colléction de Bernard Hertzog.  Quoiqu'elle ait été établie en Alsace dés l'année 1352, ou Rodolphe Lentzlin fut fait Stettmeistre de Strasbourg, au quel succéderent en cette dignité, Jean Lentzlin en 1370, et Nicolas en 1436.
+
+<p>
+
+Source:<br>
+Kegelin, 1790:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs china photo gallery, East China</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Heavanly Lake, Xinjiang</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/nchina/1x_hvl1.jpg" alt="Heavanly Lake, Xinjiang"></center>
+
+<hr size=15>
+<H3>Secluded high in the Bogda Shan, Heavanly Lake lays still covered with its icy blanket of winter.  The monks in the monestary must live on love and fresh air.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

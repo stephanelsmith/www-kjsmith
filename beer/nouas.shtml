@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, nouas beer, algeria</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Nouas beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/nouas.jpg" alt="nouas beer label"></a></center>
+<hr size=15>
+<H3>
+Nouas is the only brew available at the El Jazir (St. George) Hotel in Algiers. Your first encounter with it is always memorable, the hint of formaldehyde, the little lumps of yeast rolling around the bottle (assuming you got a green one), and that taste...  Actually the second bottle is tolerable.  Your second evening arrives forewarned and the suprise is over.  By the end of the week you actually look forward to getting to the hotel and having a brew.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

@@ -1,0 +1,29 @@
+<HTML>
+<HEAD>
+<TITLE>kjs bird photos, Incomming</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Incomming missile!</H2></center>
+<h3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/graphics/cdnl4.jpg"alt="Cardinal"></a></center><p>
+It's a bird! It's a plane! It's.. a rocket?... No wait, it IS a bird! ..INCOMMING!!
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

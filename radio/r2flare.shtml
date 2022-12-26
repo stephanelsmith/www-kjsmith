@@ -1,0 +1,28 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, 2.1 solar flares</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Solar Flares</H2>
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="sflare.jpg"> <br clear>
+</td></tr></table>
+The study of solar flares is driven by both practical as well as scientific reasons.  Flares are explosive eruptions of energy on the surface of the sun.  These releases are the most powerful form of solar activity and occasionally have severe impact on terresterial communications and power distribution.  Tight magnetic fields associated with active reagions on the sun form sunspots.  These magnetic fields become twisted and kinked, storing tremendous amounts of energy.  The process that causes the flare energy release is not well understood, and no predictive model exists which allows scientists to know in advance when or where a flare will erupt.<p>
+The energy released in a flare occures over the full spectrum of wavelengths from the radio to visible, to ultraviolet and x-ray.  By far the major release of energy is in the shorter wavelength ultraviolet and x-ray regions.  Ultraviolet energy radiates away from the sun at the speed of light and, upon impacting the earth's ionosphere 8 minuts later, rapidly ionizes all levels disrupting communication.  Charged particles released in the outburst take longer, arriving about 1 to 4 days after a major flare.  They interact with the earth's magnetic field causing further communications disruptions and auroral displays.  <p>
+Fortunately, flares last only a short time, up to several hours in their extended, or "main" phase after the initial burst.  Given their terrestial effects and short duration, flares have long been a welcome challenge to amateurs observing at both visible and radio wavelengths. Visible-light observers generally monitor the sun in Hydrogen-alpha light where the flares shine brightest.  Radio observation has traditionally utilized the very low frequency band.  According to Mr. Hudak, (Sky and Telescope, 1984) this method requires a radio-quiet observing site, something simply not available to most amateurs today.  This report describes observations using his method of shortwave fadeout to detect flares.  In addition, the data gathered reveal several other interesting phenomona which I describe as well.<p>
+
+<hr size=25>
+<A HREF="r2ion.shtml">Next: Earth's ionosphere..</a><br>
+<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

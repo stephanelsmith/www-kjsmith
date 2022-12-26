@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, augustiner weissbier, germany</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Augustiner Weissbier</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/augustiner.jpg"alt="Augustiner Label"></a></center>
+<hr size=15>
+<H3>
+This summer of 2001 while my family was visiting family in Munich they learned about beer gardens and other pleasures found in bavaria.  My son had a great time with his cousins comparing cultural restrictions from each side of the atlantic.  While Stéphane cannot drink beer legally in the USA, he can drive where he pleases.  Cousins Sébestian and Caroline can spend all the time they please in the beer garden as long as they ride their bicycles, its not legal for them to drive.  Which is the better solution?  Another mystery.. Viva la différence, its what makes travel such a wonderful thing.  This label was added to my collection by my own son, with thanks, from papa.
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

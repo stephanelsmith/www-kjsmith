@@ -1,0 +1,45 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, 1.2 definitions</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Some Definitions</H2>
+<hr size=15>
+<H3>
+Sunspot Number<br>
+This is a measure of the number and area of both individual sunspots and sunspot groups.  Naturally this is based on visual observations from a number of observatories, the data reduced and averaged.  Sunspot numbers were introduced in 1848 by the Swiss astronomer J.R. Wolf and have been calculated, with caution, back to around 1610 making this the longest continuous record of solar activity available.  Sunspot numbers range from lows near 0 to highs over 200 during maximums of solar activity.<p>
+Solar Flux<br>
+In many ways similar to the sunspot number, and well correlated, the solar flux index is a measure of solar radio flux at a frequency of 2800MHz, or 10.7 cm as it is commonly called.  This measure was introduced in 1947 at Ottawa, Canada and has obvious advantages over the sunspot number in that it does not rely on visual, often subjective observations.<p>
+K indices (K, Kp)<br>
+Quasi-logarithmic index of geomagnetic activity relative to quiet levels for a local recording station.  These measurements are taken over a 3-hour period and reported on a scale of 0 to 9.  Planetary (Kp) values are determined from data from 12 to 13 stations worldwide.  This indice was begun in 1949 at the Institut für Geophysic, Göttingen University, Germany.<p>
+A indices (a, A, ap, and Ap)<br>
+Indices derived from the K index but converted to a linear scale as follows:
+<pre>
+K    0    1    2    3    4    5    6    7    8    9
+a    0    3    7   15   27   48   80  140  240  400
+</pre>
+The Ap, or planetary A index is an average daily report which I have commonly used to indicate geomagnetic conditions.  The equavelant values are defined thus:
+<pre>
+		Ap	Condition	
+		0-7 	Quiet
+		8-15 	Unsettled
+		16-29	Active
+		30-49	Minor Geomagnetic Storm
+		50-100	Major Geomagnetic Storm
+		>100	Severe Geomagnetic Storm
+</pre><p>
+
+
+<hr size=25>
+<A HREF="r1bib.shtml">Next: Short Bibliography..</a><br>
+<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

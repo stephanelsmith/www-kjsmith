@@ -1,0 +1,563 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="KJSResume_files/filelist.xml">
+<title>Kevin J</title>
+<BODY BACKGROUND="res.gif" BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Registered User</o:Author>
+  <o:LastAuthor>Kevin Smith</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>26</o:TotalTime>
+  <o:Created>2006-11-05T21:03:00Z</o:Created>
+  <o:LastSaved>2006-11-05T21:03:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>833</o:Words>
+  <o:Characters>4752</o:Characters>
+  <o:Company>Approved Company</o:Company>
+  <o:Lines>39</o:Lines>
+  <o:Paragraphs>11</o:Paragraphs>
+  <o:CharactersWithSpaces>5574</o:CharactersWithSpaces>
+  <o:Version>11.6408</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:windowtext;
+	mso-fareast-language:EN-US;}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-fareast-language:EN-US;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{color:red;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-fareast-language:EN-US;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:12340243;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2109862704 117193284 -848631092 644877344 -1836524182 -1514602784 1783534592 1808592040 -2143489604 1267208936;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1175150590;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-890324898 1976047842 110267552 1291097726 -278093744 -1238839684 648190480 -334595644 -196298316 -1006439020;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1571816812;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2075866272 -975825844 9493998 -1816782836 129765242 272295774 -2011416054 416597854 -533570424 1016351860;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:1928808369;
+	mso-list-type:hybrid;
+	mso-list-template-ids:100306048 -1419612558 -1368206522 -1365583204 1345063558 660122290 -114421204 1704230032 571639728 -601078524;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link=red vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span lang=NL
+style='mso-bidi-font-size:13.5pt;mso-ansi-language:NL'>Kevin J. Smith<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>SUMMARY<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><span class=GramE><b><span style='mso-bidi-font-size:
+18.0pt'>Professional geologist with broad-based experience in both domestic and
+international oil and gas exploration.</span></b></span><b><span
+style='mso-bidi-font-size:18.0pt'> <span class=GramE>Proven track record of
+regional and prospect identification, evaluation, and acquisition.</span> Work
+effectively in inter-disciplinary teams and have led important contract study
+projects for foreign national oil companies. Major technical strengths include
+expertise in complex structural settings, geochemical methods, and carbonate <span
+class=SpellE>stratigraphy</span>. Additional strengths are a high degree of
+cultural sensitivity and fluency in French.<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>PROFESSIONAL</span></b><b><span
+style='mso-bidi-font-size:10.0pt'> </span></b><b><span style='mso-bidi-font-size:
+18.0pt'>EXPERIENCE<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Shell
+EP Company, EPW, SURE Unconventional resources, Houston, TX<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Staff
+Geologist 2001-Present <o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Chief
+SURE geologist on international evaluations for Oil Shale, Coal, and Heavy Oil
+Accumulations.<span style='mso-spacerun:yes'>  </span>.<o:p></o:p></span></b></p>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Chief geologist on the SURE Northeast China oil shale play resulting in
+the signing of a Joint Venture in September 2005 and commencement of drilling
+operations in June, 2006.<o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Worked together with Greg Lynch (SCAN) on the <span class=SpellE>Grosmont</span>
+heavy oil accumulation in Alberta.<span style='mso-spacerun:yes'>  </span>Work
+formed the basis of the current Project North funded since late 2005.<span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Continued Jordan oil shale evaluation expanding the region of
+exploration opportunity from the Dead Sea uplift to the vast central Jordan
+platform resulting in a new SURE exploration play funded since 2006.<o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Continued the Australia Queensland oil shale evaluation: Acquired data
+from QERL allowing SURE to eliminate the traditional <span class=SpellE>ois</span>
+shale playground as not suitable to ICP and to focus on the large <span
+class=SpellE>Duaringa</span> basin, project to be funded late 2006 or early
+2007.<o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Worked on the joint SURE and SCAN Viking Pilot Project startup giving
+essential evaluation of the trap parameters and geological model for the
+reservoir engineering effort.<o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Assisted on the Venezuela <span class=SpellE>Faja</span> Belt
+discussions with PDVSA and created a geological model for reservoir
+engineering.<o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Reviewed applicability of coal resources to ICP development and
+evaluated potential coal ICP regions in China and India.<o:p></o:p></span></h2>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:10.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Shell
+EP Development Company, Bellaire Technology Center, Houston, TX<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Staff
+Geologist 1999-2001 <o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b>Research study on the origin and prediction
+of biogenic-derived gas accumulations in the shallow and deepwater Gulf of
+Mexico.<span style='mso-spacerun:yes'>  </span></b><b><span style='mso-bidi-font-size:
+18.0pt'><o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Shell
+EP International Ventures, Inc. (Royal Dutch Shell), Houston, TX<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Staff
+Geologist 1997-1999 <o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Provided
+geological evaluations in an interdisciplinary environment, working on both
+long-term maturation projects and short-term opportunity screening teams.<o:p></o:p></span></b></p>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Led the geotechnical effort on the Trinidad deepwater bid-round resulting
+in Shell’s successful acquisition of Block 25a. <o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Substantially lowered the technical risk on the Trinidad Deepwater Bid
+round project through participation in an industry <span class=SpellE>seabottom</span>
+coring effort. <o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Identified a major new oil shale deposit in Jordan with recoverable
+reserve potential greater than 20 billion barrels. <o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Identified and confirmed the presence of previously unmapped oil shale
+deposits in China <span class=SpellE>Liaoning</span> Province. <o:p></o:p></span></h2>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><span class=SpellE><b><span style='mso-bidi-font-size:
+18.0pt'>Pecten</span></b></span><b><span style='mso-bidi-font-size:18.0pt'>
+International Company (Shell Oil USA), Houston, TX<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Staff
+Geologist 1989-1996<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Conducted
+exploration activities in the Africa and South America regions including
+farm-in opportunities, bid-rounds, and study contracts for foreign national oil
+companies.<o:p></o:p></span></b></p>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l3 level1 lfo2;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-bidi-font-size:18.0pt'>Improved
+<span class=SpellE>Pecten&#25263;</span> understanding of <span class=SpellE>Algeria&#25263;</span>
+Sahara basins by leading joint <span class=SpellE>Pecten/Sonatrach</span>
+studies of districts 6/2 and 8/9. Studies were completed on time and on budget.
+<o:p></o:p></span></b></p>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l3 level1 lfo2;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:18.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+18.0pt'>Conducted simultaneous translation during talks and negotiations with <span
+class=SpellE>Sonatrach</span> representatives. <o:p></o:p></span></h2>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l3 level1 lfo2;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b>Developed strategy and policy recommendations
+dealing with international</b> <b><span style='mso-bidi-font-size:18.0pt'>political
+risk assessment and mitigation procedures. <o:p></o:p></span></b></p>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l3 level1 lfo2;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-bidi-font-size:18.0pt'>Led
+studies and opportunity evaluations in West Africa from the Ivory Coast, Ghana,
+Equatorial Guinea, to the Congo, <span class=SpellE>Cabinda</span>, and Angola.
+<o:p></o:p></span></b></p>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l3 level1 lfo2;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-bidi-font-size:18.0pt'>Recommended
+the acquisition of La <span class=SpellE>Loeme</span> oilfield as <span
+class=SpellE>Pecten&#25263;</span> entrance into the Congo. <o:p></o:p></span></b></p>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l3 level1 lfo2;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-bidi-font-size:18.0pt'>Facilitated
+Shell <span class=SpellE>Egypt&#25263;</span> successful acquisition of Nile
+offshore Rosetta Block by providing the geological and geochemical analysis in
+a joint <span class=SpellE>Pecten</span>/Shell Egypt evaluation.. <o:p></o:p></span></b></p>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l3 level1 lfo2;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-bidi-font-size:18.0pt'>Led
+the evaluation of <span class=SpellE>Ecuador&#25263;</span> <span class=SpellE>Oriente</span>
+Basin for the Round 6 Bidding. <o:p></o:p></span></b></p>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l3 level1 lfo2;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-bidi-font-size:18.0pt'>Coordinated
+the study agreement with <span class=SpellE>Bolivia&#25263;</span> YPFB to
+study the Chaco basin and disturbed belt which provided the basis for
+subsequent partnering and drilling operations. <o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Shell
+Western Exploration and Production <span class=SpellE>Inc.,Houston</span>, TX <o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Senior
+Geologist 1981-1989<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Supervised
+exploration projects, prospect generation, seismic and lease acquisition in
+basins of the Rocky Mountain Region.<o:p></o:p></span></b></p>
+
+<p style='margin-left:.5in;text-indent:-.25in;mso-outline-level:3;mso-list:
+l2 level1 lfo4;tab-stops:list .5in'><![if !supportLists]><span
+style='font-size:10.0pt;mso-bidi-font-size:18.0pt;font-family:Symbol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;mso-bidi-font-weight:
+bold'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><b><span style='mso-bidi-font-size:18.0pt'>Acquired
+a leasehold position on a variety of carbonate prospects in the Paradox basin
+of southeast Utah. <o:p></o:p></span></b></p>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l2 level1 lfo4;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
+font-weight:normal;mso-bidi-font-weight:bold'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'>Supervised <span class=SpellE>Shell&#25263;</span> Columbia River Basin
+project, integrating all prior Shell drilling and seismic to direct new seismic
+acquisition and prepare 3 prospects for drilling. <o:p></o:p></span></h2>
+
+<h2 style='margin-left:.5in;text-indent:-.25in;mso-list:l2 level1 lfo4;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:10.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;
+font-weight:normal;mso-bidi-font-weight:bold'><span style='mso-list:Ignore'>·<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style='font-size:12.0pt;mso-bidi-font-size:
+10.0pt'>Generated leads and prospects in the Utah and Wyoming <span
+class=SpellE>Overthrust</span> Belts using both geological and geophysical
+criteria. <o:p></o:p></span></h2>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><span class=SpellE><b><span lang=FR
+style='mso-bidi-font-size:18.0pt;mso-ansi-language:FR'>Hesca</span></b></span><b><span
+lang=FR style='mso-bidi-font-size:18.0pt;mso-ansi-language:FR'> <span
+class=SpellE>Resources</span>. (TRV <span class=SpellE>Minerals</span>),
+Vancouver, BC <o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Assistant
+Geologist Summer 1980<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Gold
+prospecting on the Golden Door Property, reconnaissance and prospect-scale
+geologic mapping, selecting locations of samples to be taken for assay.<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>EDUCATION<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>University of Montana, Missoula, Montana<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><span
+class=SpellE><b><span style='mso-bidi-font-size:18.0pt'>M.S.Geology</span></b></span><b><span
+style='mso-bidi-font-size:18.0pt'>, 1980<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>Thesis: Petrology and Origin of Precambrian
+Metamorphic Rocks in the Eastern Ruby Mountains, SW Montana.<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>Western Washington University, Bellingham,
+Washington<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><span
+class=SpellE><b><span style='mso-bidi-font-size:18.0pt'>B.S.Geology</span></b></span><b><span
+style='mso-bidi-font-size:18.0pt'>, 1977<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:10.0pt'>&nbsp;<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center;mso-outline-level:3'><b><span
+style='mso-bidi-font-size:18.0pt'>CORPORATE TRAINING SEMINARS<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Exploration
+and Production Economics Negotiation Skills Workshop<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Covey
+&quot;Seven Habits&quot; Seminar Leadership Skills Workshop<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:3'><b><span style='mso-bidi-font-size:18.0pt'>Communications
+and Presentations Workshops<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>

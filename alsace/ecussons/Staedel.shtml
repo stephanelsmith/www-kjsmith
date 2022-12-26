@@ -1,0 +1,40 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Staedel</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Staedel.png"alt="Staedel"></a></center>
+
+<p>
+(Strasbourg) <p>
+Parti d'or et de sable à la chaumière d'argent ajourée de sable, la porte d'or barrée de gueules et le toit en pavillon chaumé au naturel.<br>
+Cimier: la maison de l'écu, entre un vol, chaque aile répetant les armes de l'écu (sur l'aile dextre l'ordre des maux est interverti). <br>
+Lambrequins: d'or et de sable.<p>
+
+Lehr, 1870: La famille STAEDEL, qui est, de toutes, celle qui a donné le plus d'ammeistres à la république, a compté, pendant plus de deux siècles, parmi les plus riches et les plus considérables de Strasbourg. Elle ne s'est éteinte qu'assez récemment. On connaît sa généalogie depuis 1497.
+
+<p>
+
+Source:<br>
+Lehr, 1870:<br>
+Reitstap, 1887:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

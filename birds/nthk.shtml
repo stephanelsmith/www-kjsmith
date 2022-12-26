@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<TITLE>kjs bird photos, Nighthawk</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Nighthawk, Katy, TX</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/graphics/nthk.jpg"alt="Nighthawk"></a></center>
+<hr size=15>
+<H3>
+Photographing birds as they fly overhead, sometimes quite high, is a thankless task.  Mostly I get blurry images I can barely identify the bird in.  Sometimes better.  <p>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/graphics/nthkcht.jpg"alt="Nighthawk Chart"></a></center>
+<hr size=15>
+Reslts from two seasons of evening nighthawk watching.  The migration periods are clearly seen in this chart.  Note, I have chosen to indicated in small red dots those evenings where I was making observations but no nighthawks were seen.  This needs to be distinguished from evening where I was not making observations.<p>
+
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

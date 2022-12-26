@@ -1,0 +1,12 @@
+<html>
+<HEAD>
+<TITLE>kjs photo gallery</TITLE>
+
+</HEAD>
+
+
+<frameset cols="150,*">
+ <FRAME  NAME="menu" SRC="/~kjsmith/stuff/viewpix1.shtml">
+ <FRAME  NAME="pres" SRC="/~kjsmith/stuff/viewpix2.shtml">
+</frameset>
+<NOFRAME>

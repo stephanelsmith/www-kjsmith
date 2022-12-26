@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs western usa photo gallery, mesa verde, colorado</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Cliff Palace at Mesa Verde</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/imagnw/nmex1.jpg" alt="Cliff Palace at Mesa Verde"></center>
+
+<hr size=15>
+<H3>Once a prosperous center of native Pueblo culture, the region was abandoned around the 1200's for reasons still not entirely clear. Their constructions give permanent witness to the genuis of the pueblo peoples.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

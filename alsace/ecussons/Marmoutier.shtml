@@ -1,0 +1,41 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>l'Abbaye de Marmoutier</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Marmoutier.png"alt="l'Abbaye de Marmoutier"></a></center>
+
+<p>
+
+D’azur au portail d’église romane de trois portes d'argent, ouvert, ajouré et maçonné de sable, posé sur une terrasse de sinople. <p>
+
+Marmoutier est un ancien monastère. Ce monastère fut fondé dès 589 par des moines irlandais, saint Colomban en tête.<p>
+
+Après un premier incendie, la reconstruction est entreprise en 724 sous la direction de l'abbé Maur qui lui donne son nom Mauri monasterium, le monastère de Mauri. Les habitants y sont appelés Maurimonastériens en référence à ce nom.<p>
+
+L'église abbatiale fut consacrée en 971 par Erchenbald, évêque de Strasbourg. C'est de cette dernière époque et du XIe siècle que date la magnifique façade que l'on peut encore admirer aujourd'hui. 
+
+<p>
+
+Source:<br>
+https://fr.wikipedia.org/wiki/Marmoutier_(Bas-Rhin):<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

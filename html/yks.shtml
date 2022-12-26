@@ -1,0 +1,22 @@
+<HEAD>
+<TITLE>kjs Yves</TITLE>
+<BODY BACKGROUND="/~kjsmith/graphics/phot.gif"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Yves and Rosemary</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/graphics/ynr.jpg" alt="Yves and Rosemary"></center>
+
+<hr size=15>
+<H3>Yves with his fiancee Rosemary.  Save the date, 10 April, 2010!  Yves, the eternal student, is back at UTHSC getting a specialization in Prothsodontics.<P>
+
+<hr size=15>
+<A HREF="/~kjsmith/html/bio.shtml">Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

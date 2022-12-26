@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<TITLE>kjs alsace: timeline</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H1>Histoire de l'Alsace</H1></center><P>
+
+<p><hr size=15><br>
+<IMG align=right SRC="prmns.jpg">
+<p>
+<h3><A HREF="/~kjsmith/alsace/almisc0.shtml">Retour à Mélange..</a><br>
+<hr size=5>
+
+<p>
+En lisant des livres ou des articles concernant l'histoire de l'Alsace, j'ai toujours besoin d'un contexte. Une carte ou un calendrier m'aident toujours à garder un contexte spatial et temporel lors de la lecture d'événements passés. Je suis plus susceptible de me rappeler "quand et où" si je le vois visuellement pendant que je lisais. J'ai mis en place Le tableau ci-dessous quant j'ai commencé mes études d'Alsace sérieusement. Je donne d'abord quelques événements pour la Gaule romaine, les royaumes francs, la monarchie française et le Saint-Empire romain germanique. C'est le contexte géographique plus large dans lequel l'histoire de l'Alsace s'est déroulée. Puis je fais de même pour l'Alsace, en capturant quelques uns des principaux acteurs, les dates de fondation des abbayes et des châteaux, les dates de construction des églises et des cathédrales, les différentes guerres, etc.<p>
+Le graphique est loin d'être complet. Par exemple, j'inclus huit abbayes bien que je connaisse quelque 61 total qui ont été fondés en Alsace. Cependant, le graphique donne des impressions immédiates. On voit rapidement qu'il y a eu une première période de construction des abbayes entre le VIIe et le IXe siècle. Les châteaux ont été construits du XIe au XIIIe siècle pour la plupart. Ces idées sont importantes. La période abbatiale précoce était une période où les seigneurs franais consolidaient leurs royaumes, christianisant et exerçant un contrôle. Les premiers monastères ont été fondés pour la plupart par des moines irlandais et / ou iro-mérovingiens avec une orientation missionnaire et plus itinérante dans leur règle. La sédentarisation des bénédictins ne survint que plus tard, alors que les seigneurs féodaux limitaient les mouvements et mettaient l'accent sur le développement de l'agriculture par rapport à l'évangélisation.  <p>
+
+<center><IMG SRC="/~kjsmith/alsace/tmalsace.jpg" alt="Alsace Timeline"></center><p>
+
+kjs<br>
+2016<p>
+<hr size=15>
+<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<hr size=5>
+<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

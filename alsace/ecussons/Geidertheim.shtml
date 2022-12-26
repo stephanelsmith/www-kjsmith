@@ -1,0 +1,40 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Geidertheim</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Geidertheim.png"alt="Geidertheim"></a></center>
+
+<p>
+
+(Alsace)<p>
+Parti d'azur à issant l'aigle d'argent et d'or à issant la lion de gueules.<br>
+Cimier: un homme issant, habillé de l'écu, curonné d'or.<p>
+
+Kegelin, 1790:  Village à une demi lieue de Brumat, appartenant aux Nobles de Gottesheim et de Weitersheim; à eut autrefois des Seigneurs particuliers.  Jean de Geidertheim etoit senateur noble à Strasbourg en 1365.  Cunon fut tué à la bataille de Sempach en 1386.
+
+<p>
+
+Source:<br>
+Kegelin, 1790:<br>
+Siebmacher, 1769/1871:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

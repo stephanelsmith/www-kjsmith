@@ -1,0 +1,44 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Baumgartner / Baumgärtner de Reinstetten</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Baumgartner.png"alt="Baumgartner"></a>
+<IMG SRC="/~kjsmith/alsace/ecussons/BaumgartnerdR.png"alt="Baumgartner"></a></center>
+<p>
+
+Baumgartner (Strasbourg). <br>
+D'azur à un arbre de sinople, issant d'une haie d'osiers alésée d'or. <br>
+Cimier: les meubles de l'écu, entre deux proboscides, coupées alternativement d'or et d'azur.<p>
+
+Baumgärtner de Reinstetten (Strasbourg).<br>
+D'azur à un arbre d'or issant d'un tertre de trois coupeaux de gueules, Bourlet d'azur et d'or. <br>
+Cimier: les meubles de l'écu, entre deux proboscides, coupées alternativement d'or et d'azur. <br>
+Lambrequins: d'or et d'azur.
+
+<p>
+
+Source:<br>
+Lehr, 1870;<br>
+Reitstap, 1887;<br>
+Siebmacher, 1769/1871:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

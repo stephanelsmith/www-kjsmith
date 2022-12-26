@@ -1,0 +1,79 @@
+<HTML>
+<HEAD>
+<TITLE>kjs bookmarks</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="http://www.hia.net/kjsmith/bm.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+<H2>Just Some Bookmarks</H2>
+<hr size=25>
+
+<h3>
+<A HREF="http://www.hia.net/kjsmith/bookmark.shtml">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b> Kevin Smith's Bookmarks
+</b><br></A> Here is my fr'real actual bookmark sheet.<p>
+
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>La page de Georges Brassens</b><br> Home Page dedicated to the French poet and singer Georges Brassens.<br>Sadly, page now defunct..  oh well...<p>
+
+<A HREF="http://www.aardvarkelectric.com/amelia">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b> *AmeliaLand* *A Love of Monsters*
+</b><br></A> A different space wherein one will find monsters, adventures, and perhaps more than you'd want to know about Amelia.<p>
+
+<A HREF="http://www.wolfe.net/~joe/yak/yakinfo.shtmll">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>Palm Springs, Washington</b><br></A> An unofficial page of my hometown, Yakima, Washington.<p>
+
+<A HREF="http://www.sdv.fr">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>Dernières Nouvelles d'Alsace</b><br></A> My wife's hometown newspaper from Alsace.. en français, bien sur!<p>
+
+<A HREF="http://web.urec.fr/france/france.shtmll">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>La France</b><br></A> A nice port of entry to web sites in France.<p>
+
+<A HREF="http://www.ecotopia.com/hubbert/">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>The Global Hubbert Peak</b><br></A> An important message (ok, somewhat left of center) concerning "the" impending second oil price shock.<p>
+
+<A HREF="http://nssdc.gsfc.nasa.gov/planetary/pages.shtmll">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>NASA Planetary Pages</b><br></A> Planetary pages, information and images from the National Space Science Data Center.<p>
+
+<A HREF="http://www.blackmirages.com">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>Black Mirages, Alain Paris</b><br></A>a "reference site for everybody that has a tender place, some love, memories, or dreams of the African continent". <p>
+
+<A HREF="http://bang.lanl.gov/solarsys/">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>Views of the Solar System</b><br></A> An educational tour of the solar system, very well done.<p>
+
+<A HREF="http://www.mysite.com/crowsnest/">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>Crow's Nest </b><br></A> Where you meet sweet Jan Crow and share a little of her interests.<p>
+
+<A HREF="http://www.uoknor.edu/cybermuslim/">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>Dunya </b><br></A> An excellent resource on Islamic culture and beliefs.<p>
+
+<A HREF="http://www.intellicast.com/weather/intl/">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>INTELLICast World Weather
+</b><br></A> A great Weather Web Site, current satellite images.<p>
+
+<A HREF="http://dieoff.org/page1.shtml">
+<img border=0 align=left src="btn.gif" width=109 height=50>
+<b>Brain Food!
+</b><br></A> An Eco-Manifesto, this page is just so silly, lots of animated icons and links to environmental opinion.<p>
+
+<hr size=15>
+<A HREF="http://www.hia.net/kjsmith/main.shtml">Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

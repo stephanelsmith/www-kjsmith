@@ -1,0 +1,12 @@
+<html>
+<HEAD>
+<TITLE>kjs china photo gallery</TITLE>
+
+</HEAD>
+
+
+<frameset cols="150,*">
+ <FRAME  NAME="menu" SRC="/~kjsmith/nchina/0nchina1.shtml">
+ <FRAME  NAME="pres" SRC="/~kjsmith/nchina/0nchina2.shtml">
+</frameset>
+<NOFRAME>

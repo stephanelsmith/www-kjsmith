@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs china photo gallery, East China</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Urumqi, Xinjiang</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/nchina/1x_umq.jpg" alt="Urumqi, Xinjiang"></center>
+
+<hr size=15>
+<H3>Young women of the city of Urumqi (Wulumqi) practice the latest steps of a dance unaware of the western geologist viewing from above.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

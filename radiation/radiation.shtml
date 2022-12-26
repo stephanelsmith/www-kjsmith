@@ -1,0 +1,57 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radiation</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/radiation/bg1sym.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="radsym.jpg">
+<H2>So I bought a Geiger Counter, now what?</H2>
+<h4>
+Fun with Radiation<p>
+I am writing this page in order to give some fun project ideas in the event you have a counter and an interest in radiation.  It is all around us in fact!  I have been interested in this mysterious subject for about as long as I can remember, from the deepest cold war days when building "fallout shelters" was quite fashionable.  My high school physics class helped stoke my interest further with an excellent teacher and very cool instruments. Then of course, life began to get in the way and the interest smoldered underground for many years.  <p>
+Some years back I saw a cool counter offered online and I just had to have it.  No projects in mind, just possibilities, so many possibilities.  I wish to offer here some descriptions of a few of the uses I have made for this instrument.  There is much more to be done than I show here, but it may be a good start.  <p>
+Enjoy..<p>
+kjs 2017 <p>
+
+<IMG SRC="bar3e.jpg"><p>
+The following pages should lead you through an initial understanding of your local background radiation environment, looking at different sorts of radioactive sources, absorption tests and finally measuring radiation from outer space!  Through it all I try to explain what I have learned, use a little math, show how ignorant I am concerning statistics, and have great fun with radiation.<p>
+
+
+<A HREF="background.shtml"><img border=0 SRC="/~kjsmith/radiation/bgbtn.jpg"</a>
+<A HREF="/~kjsmith/radiation/background.shtml">BACKGROUND..</a> Know your local radiation background..<p>
+
+<A HREF="sources.shtml"><img border=0 SRC="/~kjsmith/radiation/srsbtn.jpg"</a>
+<A HREF="/~kjsmith/radiation/sources.shtml">SOURCES..</a> Measuring different radiation sources..<p>
+
+<A HREF="absorption.shtml"><img border=0 SRC="/~kjsmith/radiation/absbtn.jpg"</a>
+<A HREF="/~kjsmith/radiation/absorption.shtml">ABSORPTION..</a> Absorption, breaking out the components..<p>
+
+<A HREF="muons.shtml"><img border=0 SRC="/~kjsmith/radiation/muonbtn.jpg"</a>
+<A HREF="/~kjsmith/radiation/muons.shtml">MUONS..</a> Measuring Cosmic Ray muons..<p>
+<p>
+
+<hr size=5>
+Photos of the Instrument:<br>
+<IMG SRC="MuonLab.jpg"><p>
+The photo shows the basic counter (perched atop a second identical counter in muon-detection mode with a coincidance-box in the forground).  Basic measurements are made with a single unit only.<p>
+To convert the CPM data presented in the following pages, Black Cat provides the following calibrations:<br>
+<pre>
+        Cs137                   Co60
+        mR/hr       uSv/hr      mR/hr       uSv/hr
+GM-45   0.000333    0.00333     0.000277    0.00277
+</pre><p>
+All equipment are available from:<p>
+Black Cat Systems GM-45 Geiger Counter <br>
+http://www.blackcatsystems.com/GM/GeigerCounters.html<p>
+
+<hr size=15>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

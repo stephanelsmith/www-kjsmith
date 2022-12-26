@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<TITLE>kjs petrography Marble</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/minerals/m13-3er.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Murphy Marble</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/minerals/w-96.jpg"></a></center>
+<hr size=15>
+<H3>
+A rock consisting essentially of a mosaic of twinned calcite crystals with minor interspersed flakes of muscovite mica.  I find the colors of the central grain especially attractive.<br>
+kjs<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

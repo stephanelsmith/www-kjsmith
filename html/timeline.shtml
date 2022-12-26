@@ -1,0 +1,32 @@
+<HTML>
+<HEAD>
+<TITLE>kjs timeline, 4000 years of world history</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>AN OUTLINE OF WORLD HISTORY FOR THE LAST 4000 YEARS</H2></center><P>
+
+<hr size=15>
+<H3>BACKGROUND NOTE:<p>
+This chart is the result of notes I made while reading various general texts as noted in the bibliography.  I intend this chart to serve as a study aid both by providing a regional historical context easily referred to while reading, and also as a start for more in-depth studies.<p>
+
+I have chosen to include the names of people who have contributed to civilization either politically, or via the arts, or sciences.  This chart reflects my own conviction that historical progress is as much the result of individuals as of mass trends.  The choices of who to include and who to omit are my own and others may not always agree, and will certainly note the conspicuous absence of notes from Japan and Southeast Asia, (hopefully to be found on a future version).<p>
+
+I hope that the reader finds this chart of use and a stimulation to pursue their own research to complete the names of those whom I have left out.<p>
+
+Kevin Smith,  3/98<P>
+
+<hr size=15>
+<center><a href="timeline.pdf">TIMELINE</a>, Timeline.PDF 173 k file loads quickly<br></center>
+<center><a href="timebib.shtml">Bibliography</a>, List of books from which the chart derives<br></center>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

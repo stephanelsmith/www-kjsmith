@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>kjs work experience locator page</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/phot.gif"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Visual bearings on places I have lived or visited.</H2></center>
+
+<hr size=15>
+<H3>
+
+<center>
+<IMG SRC="/~kjsmith/graphics/pworld.jpg" alt="map of locations visited worldwide"></a>
+</center>
+
+<hr size=15>
+<H3>
+I have indeed been fortunate in the places I have seen.  The above map clearly indicates a bias towards the western US over the east, a sprinkling over South America and Africa, and Western Europe somewhat better seen.  This still leaves Eastern Europe and Central Asia, much of Africa, and Southeast Asia.
+<P>
+
+<hr size=15>
+<A HREF="/~kjsmith/html/bio.shtml">Go back....</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

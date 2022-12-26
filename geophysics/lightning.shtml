@@ -1,0 +1,59 @@
+<HTML>
+<HEAD>
+<TITLE>kjs geophysics</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/geophysics/bgmag.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="lgtnbg.jpg">
+<H2>Global Electric Circuit: Lightning</H2>
+<H4><A HREF="/~kjsmith/geophysics/geophysics.shtml">Back to Lab..</a><br>
+<A HREF="/~kjsmith/geophysics/geomagnetism.shtml">On to Geomagnetism..</a><br>
+<hr>
+
+Ligntning<p>
+
+<br> 
+<IMG SRC="lightning.jpg"><p>
+Lightning has elicited awe and fear in humans since the dawn of history.  It is hard to witness a violent storm and not be moved by the natural power.  It should be no surprise then that lightning has been an object of scientific observation and study for, well, probably since the dawn of history.  This page does not pretend to summarize modern research or provide a broad introduction into lightning phenomena, but rather to give some interesting results from my own observations.  In order to better understand and give some context though, I will provide some small background notes on the topic.<p>
+The above diagram provides a good summary of the charge conditions within a large thundercloud system.  Concentrations of negative and positive charges within the cloud and on the surface below build to the point where a breakdown in the insulating properties on the intervening air.  Where breakdowns occur paths can form for electric discharges.  <p>
+Generally, the upper portions of the clouds collect positive charge while the base of the cloud shows an excess of negative charge.  The surface of the earth generally shows excess positive charge and most ground strikes lower negative charge to the ground.  As the storm approaches a position on the surface, electrification increases and the ground becomes increasingly positive.  Breakdown occurs both from cloud downwards and from ground upwards until they meet and a pathway forms allowing the return stroke to occur.  This discharge readjusts the charges and the process starts again.  With these large charge gradients the possibility to measure electric fields is good.  <p>
+For my experiments I utilized the field probe described in the previous page along with two additional pieces of equipment.  1) From Stormwise (www.stormwise.com) I purchased a simple device called their "lightning detector" appropriately enough, and 2) I recorded atmospherics (sferics) with a shortwave receiver.  The receiver allowed detection of discharges out probably over one hundred miles.  As a storm approached the record is just continuous sferic noise.  The detector and my probe provided similar response to more proximate conditions, but as a storm passed over my location even these devices showed nearly continuous discharges, separating individual discharges with difficulty.  <p>
+<p>
+<IMG SRC="log14mar.jpg"><p>
+The first record above shows a good storm passing overhead.  Unfortunately the meter was not working at first and I only recorded discharges for the latter part of the storm.  The early record comes from the radio (orange curve) tuned to about 2.212 MHz, a commercial dead zone ideal for sferic work, and from the lightning detector (blue curve).  It is clear that the radio is considerably more sensitive and picks up many more strokes.  As the storm move proximate to my position the ground charge becomes strongly positive and the lightning detector "base level" begins to rise.  Note that both the radio and detector use the left side scale from 0 to 5 volts and that the scale increases DOWNWARD.  I am not fully certain how the detector functions electronically so I cannot explain why the base level changes as it does, but I am certain it is due to changes in the ground charge.  In the latter portion of the storm my probe data kicks in and one can observe that the "base" also is variable and tracks that of the detector.  
+<p>
+<IMG SRC="log14mard.jpg"><p>
+A detail from the above record demonstrates that the detector is only slightly more sensitive that my probe but that the radio is picking up two to three times as many strokes.  An interesting observation is also seen in that the detector circuitry maintains a near 5v output (I ran it with a 5v dc power supply) and each stroke causes a drop in output.  Only one polarity may be observed.  My probe on the other hand appears to show both positive and negative deviations from the base.  The majority of discharges cause a positive deflection (increased voltage) and I presume they result from lowering negative charge to ground, typical lightning.  But, many of my events show either both a negative then positive deviation, or a negative deviation only.  This could be an indication of positive to ground discharges.  Unsure on this.
+<p>
+<IMG SRC="log10apr.jpg"><p>
+The above record shows a stronger and significantly more exciting storm that passed right over with a strike close enough to knock out (temporarily) the lightning detector and radio and eventually the whole power was lost.  Sometime later the power returned and I continued recording with the probe.  I was worried about the detector and was definitely protecting the expensive radio, the antenna I disconnected!<p>
+As in the previous record both the detector and probe show a base level change as the storm starts its closest approach to my station.  As the detector drops to about 1v with each stroke, when the base approaches that level it does not function well as a "detector" any more.  <p>
+Of great interest to me is the probe record at the trailing period of the storm.  The large majority of the events show negative deflections until about 21.00 CST, then they become positive once again.  At the bottom of this page I show two very detail records from that period of time.  
+<p>
+<IMG SRC="ngs1.jpg"><p>
+21.10 CST record showing what I consider to be "typical" discharges lowering negative charge to ground.  Deflections on the order of 100 to 600 mV.
+<p>
+<IMG SRC="pgs2.jpg"><p>
+20.50 CST record showing possible positive discharge to ground strokes with deflections 100 to 700 mV. 
+<p>
+<hr size=5>
+Having seen the Global Electric Circuit and its battery, we now turn to Geomagnetism.
+
+<p>
+<hr>
+kjs 2017 <p>
+<hr size=15>
+</h4><h3>
+<A HREF="/~kjsmith/geophysics/geophysics.shtml">Return to Lab..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

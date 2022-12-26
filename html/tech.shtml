@@ -1,0 +1,56 @@
+<HTML>
+<HEAD>
+<TITLE>kjs technical pages</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/techbak.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+</HEAD>
+
+<center>
+<A HREF="kevinm.shtml"><img border=0 SRC="/~kjsmith/graphics/ks4.gif" alt="Kevin" WIDTH=436 HEIGHT=171></a>
+<IMG align=left SRC="/~kjsmith/graphics/earthre.gif"><p><hr>
+<P><H1>WELCOME...to Kevin's Technical Pages</H1><P>
+<IMG SRC="/~kjsmith/graphics/bar1e.jpg"></center>
+
+<H2>This alternate entry takes a backdoor into my technical ravings, if you dare!</H2>
+<H3><P>
+<h4>
+<A HREF="/~kjsmith/crystal/cr0intro.shtml"><img border=0 SRC="/~kjsmith/graphics/tfktm.jpg"</a><a href="/~kjsmith/crystal/cr0intro.shtml">Crystal Radio</a>, An obsession...<br>
+<p>
+<A HREF="/~kjsmith/radio/r0ctnts.shtml"><img border=0 SRC="/~kjsmith/graphics/sflares.jpg"</a><a href="/~kjsmith/radio/r0ctnts.shtml">Radio Detection</a>, of Solar Flares.<br>
+<p>
+<A HREF="/~kjsmith/radiation/radiation.shtml"><img border=0 SRC="/~kjsmith/graphics/radbot.jpg"</a><a href="/~kjsmith/radiation/radiation.shtml">Radiation</a>, I bought a Geiger counter...  now what???.<br>
+<p>
+<A HREF="/~kjsmith/geophysics/geophysics.shtml"><img border=0 SRC="/~kjsmith/graphics/geocool.jpg"</a><a href="/~kjsmith/geophysics/geophysics.shtml">Geophysical</a> monitoring, Electrical and Magnetic Environments.<br>
+<p>
+<A HREF="/~kjsmith/minerals/min0.shtml"><img border=0 SRC="/~kjsmith/graphics/s56btn.jpg"</a><a href="/~kjsmith/minerals/min0.shtml">Petrology</a> the Geologist recalls his origins...<br>
+<p>
+<A HREF="msthesis.pdf"><img border=0 SRC="/~kjsmith/graphics/mthesis.jpg"</a><a href="msthesis.pdf">Origin of Pre-Cambrian rocks in SW Montana</a>, Masters Thesis. (PDF file, 9 meg).<br>
+<p>
+<A HREF="/~kjsmith/stories/eclipse.shtml"><img border=0 SRC="/~kjsmith/graphics/eclipbtn.jpg"</a><a href="/~kjsmith/stories/eclipse.shtml">Eclipse 1979</a>, A fine morning in Montana.<br>
+
+</H3>
+<H2>Thank You for visiting..  </H2>
+
+<H3>I hope you enjoyed the stay and saw/read something of interest.  If you did and have any questions email me at  
+<A HREF ="mailto:kj-smith@sbcglobal.net">kj-smith@sbcglobal.net</A> 
+and I'll be glad to reply.<P>
+
+<center><IMG SRC="/~kjsmith/graphics/bar1e.jpg"></center><p>
+"If the privleged order were removed, the nation would not be something less, but something more."<br>
+Abbé Sieyès: Emmanuel Joseph Sieyès<br>
+What Is the Third Estate? 1789<p>
+(...and if the 1% were removed?)<p>
+
+<center><IMG SRC="/~kjsmith/graphics/bar1e.jpg"></center>
+
+<h3>This page has been accessed "several" times since <!--#echo var="DATE_LOCAL" --><br>
+<p>
+
+</h3> <p><IMG align=left SRC="/~kjsmith/graphics/cpyrt.jpg">
+<IMG align=right SRC="/~kjsmith/graphics/seal.jpg"><br>
+
+<h4>
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

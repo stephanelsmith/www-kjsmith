@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>kjs china photo gallery, North China</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Anjaling Mine, North China</H2></center><P>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/nchina/1n_anj.jpg" alt="Anjaling Mine, North China"></center>
+
+<hr size=15>
+<H3>A giant shovel sits temporalily idle at the start of a shift. Not on the travel agenda for most tourists visiting China, Anjaling open pit mine is an efficient operation developed with western methodology and money.  This is one of the most productive mines in all of China.<P>
+
+<hr size=15>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

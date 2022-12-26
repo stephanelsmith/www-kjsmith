@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Malterer / Maller / Maler</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Malterer.png"alt="Malterer"></a></center>
+
+<p>
+(Alsace)<p>
+De sable à la roue de moulin d'or. <br>
+Cimier: un buste d'homme, posé de profil, habillé aux armes de l'écu, coiffé d'un bonnet pointu de sable, retroussé d'or.<p>
+
+Lehr, 1870: NICOLAS MALLER, sénateur en 131 1, stettmeistre en 1324, 1329. SCHACHMANN MALLER, stettmeistre en 1406.
+
+<p>
+
+Source:<br>
+Lehr, 1870:<br>
+Reitstap, 1887:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

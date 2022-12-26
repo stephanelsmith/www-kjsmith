@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares, interface</TITLE>
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Supplemental Records</H2>
+<hr size=15>
+<H3>
+
+<hr>
+<center>
+<IMG SRC="schematic.jpg" alt="Interface Schematic Diagram" width=320 height=240><br>
+Schematic Diagram of the completed interface, (Larger image available on request).<br>
+<hr>
+<IMG SRC="c64port.jpg" alt="C-64 Paddle Port Diagram" width=320 height=240><br>
+Commodore 64 Paddle Port Diagram.<br>
+<hr>
+<IMG SRC="frg7700acc.jpg" alt="FRG-7700 accessory port diagram" width=320 height=240><br>
+FRG-7700 Accessory Port Diagram.<br>
+<hr>
+<IMG SRC="interface.jpg" alt="Completed interface" width=320 height=240><br>
+Completed interface.<br>
+</center>
+<hr size=15>
+<A HREF="r1intro.shtml">Return..</a><br></h3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

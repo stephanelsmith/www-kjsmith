@@ -1,0 +1,38 @@
+<HTML>
+<HEAD>
+<TITLE>kjs thoughts page</TITLE>
+<BODY BACKGROUND="/~kjsmith/graphics/book.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+</HEAD>
+
+<H2>Some thoughts..</H2><P>
+<H3>
+The following essays and/or snippits of information were written at various times over the last 5 to 10 years.  They reflect things that interest me, concern me, or my occasional frustrations while working within "corporate" America.  I offer motivating references or just blow off some steam.  In any case these are thoughts for the record.
+<center>
+<center><IMG SRC="/~kjsmith/graphics/bar4e.jpg"></center>
+<p>
+<a href="iraq.shtml">Iraq:<br></a> Terrorist threat against America.<p>
+<a href="onepercent.shtml">One Percent:<br></a> Readings from Barbara Tuchman.<p>
+<a href="right.shtml">Right behavior:<br></a> An absolute law, formula we all need.<p>
+<a href="motavate.shtml">Motivation:<br></a> How to get the most out of your workforce.<p>
+<a href="creed.shtml">Niceaen Creed:<br></a> When there was one Christian Church.<p>
+<a href="forests.shtml">Deforestation:<br></a> Politics and dishonesty on a global scale.<p>
+<a href="kenza.shtml">Kenza:<br></a> By Matoub Lounes.<p>
+<a href="review.shtml">Annual performance reviews:<br></a> My modest proposal.<p>
+<a href="puter.shtml">Artificial intelligence:<br></a> A day in the Twilight Zone...<p>
+<a href="diver.shtml">Diversity:<br></a> What does this mean really, I mean honestly..<p>
+<a href="leader.shtml">Leadership:<br></a> You know it when you see it, but what is it?<p>
+<a href="warming.shtml">Its time to take a stand:<br></a> On the causes of global warming.<p>
+<a href="kwanza.shtml">Kwanza:<br></a> African-American holiday of the first Fruit.<p>
+<a href="hoffer.shtml">The True Believer:<br></a> By Eric Hoffer, 1951.<p>
+<a href="snewsr.shtml">The New Adult Relationship:<br></a> By Phil Caroll, formerly CEO of Shell Oil.<p>
+<a href="honest.shtml">Honesty:<br></a> Characteristics I look for, but seldomly find in American management.<p>
+<a href="crueparis.shtml">something MUST be done..<br></a> Crues de la Seine a Austerlitz, Paris.<p>
+</center>
+<center><IMG SRC="/~kjsmith/graphics/bar5e.jpg"></center><hr size=15><h3>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

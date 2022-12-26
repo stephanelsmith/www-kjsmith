@@ -1,0 +1,23 @@
+<html>
+<HEAD>
+<TITLE>kjs petrology, a non-commercial page providing unique content and photographs of rocks and minerals in thin-section photo micrographs and sketches made while studying for my Master's Degree in geology.</TITLE>
+<META Name="description" Content="a non-commercial web page presenting unique content and photographs of rocks and minerals in thin-section photo micrographs and sketches made while studying for my Master's Degree in geology.">
+<META Name="keywords" Content="petrology, petrography, photo-micrograph, tourmaline, granophyere, rhyolite, dunite, perthite, andesite, schist, sillimanite, marble, gneiss, granulite">
+
+</HEAD>
+
+
+<frameset cols="130,*">
+ <FRAME  NAME="menu" SRC="/~kjsmith/minerals/min1.shtml">
+ <FRAME  NAME="pres" SRC="/~kjsmith/minerals/min2.shtml">
+</frameset>
+<NOFRAME>
+
+
+
+
+
+
+
+
+

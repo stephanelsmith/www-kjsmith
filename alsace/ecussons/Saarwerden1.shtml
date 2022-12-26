@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<TITLE>kjs nobiliaire d'alsace</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Saarewerden</H2></center>
+<H3>
+<hr size=15>
+<center><IMG SRC="/~kjsmith/alsace/ecussons/Saarwerden1.png"alt="Saarewerden"></a></center>
+
+<p>
+
+(Lorraine) <p>
+De sable à l'aigle bicéphale éployé d‘argent, becqué et membré de gueules, chargé sur sa poitrine d'un croissant du meme.<br>
+Cimier: un mitre épiscopal d'argent, bordé d‘or, sommé d’un panache de sable.
+
+<p>
+
+Source:<br>
+Reitstap, 1887:<p>
+
+kjs<br>
+2018<p>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<hr size=5>
+</h3><h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

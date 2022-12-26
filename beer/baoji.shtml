@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<TITLE>kjs beer label, baoji beer, china</TITLE>
+
+<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<center><H2>Baoji Beer</H2></center>
+
+<hr size=15>
+<center><IMG SRC="/~kjsmith/beer/baoji.jpg" alt="baoji beer label"></a></center>
+<hr size=15>
+<H3>
+Returning to Beijing from field work in central China, we took a lunch in the town of Baoji in Henan Province prior to our destination of Xi'an that evening.  It was well over 40dC outside, it is the hottest region of China I was told.  At the local resturant they served a cold tasty local brew, Baoji beer.  It hit the spot!
+<br>kjs<P>
+
+<hr size=15>
+</frameset>
+<NOFRAME>
+<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<hr>
+<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<p>
+<h4><I>Copyright,<br>KJ Smith</I></h4>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>

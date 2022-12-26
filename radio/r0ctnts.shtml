@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE>kjs radio detection of solar flares: a non-commercial web page presenting unique content about a multi-year study I made on detecting solar flares via shortwave fadeout technique.</TITLE>
+<META Name="description" Content="a non-commercial web page presenting unique content about a multi-year study I made on detecting solar flares via shortwave fadeout technique.">
+<META Name="keywords" Content="Solar flare, shortwave fadeout, ionosphere, shortwave propogation, ionosonde, signal strength, circuit, seasonal variations, ionospheric density wave">
+
+<BODY BACKGROUND="27bg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<hr size=15>
+<IMG align=right SRC="earthre.gif">
+<li><H2>Solar Flare detection by Shortwave Radio
+</H2></li>
+<h3>
+<ul><li>1...Introduction</li>
+<ul><li>1.1...<A HREF="r1intro.shtml">Fun with radio, a hobbist's dash into the ionosphere..</a></li>
+<li>	1.2...<A HREF="r1def.shtml">Some Definitions</a></li>
+<li>    1.3...<A HREF="r1bib.shtml">Short Bibliography</a></li>
+</ul><p>
+<li>2...Background</li>
+<ul><li>2.1...<A HREF="r2flare.shtml">Solar flares</a></li>
+<li>	2.2...<A HREF="r2ion.shtml">Earth's ionosphere</a></li>
+<li>	2.3...<A HREF="r2radio.shtml">Radio wave propogation</a></li>
+</ul><p>
+<li>3...Solar flare detection by shortwave radio</li>
+<ul><li>3.1...<A HREF="r3rcrd.shtml">Daily record</a></li>
+<li>	3.2...<A HREF="r3seasn.shtml">Seasonal variations</a></li>
+<li>	3.3...<A HREF="r3flare.shtml">Flare responce</a></li>
+<li>	3.4...<A HREF="r3field.shtml">Unsettled to active field responce</a></li>
+</ul><p>
+<li>4...Serendipity</li>
+<ul><li>4.1...<A HREF="r4prob.shtml">Ionization Problem</a> </li>
+<li>	4.2...<A HREF="r4sonde.shtml">Poor man's Ionosonde</a></li>
+<li>	4.3...<A HREF="r4waves.shtml">Density waves</a></li>
+</ul><p>
+<li>5...Some general observations concerning radio propogation</li>
+<ul><li>5.1...<A HREF="r5seasn.shtml">Signal strength by season</a></li>
+<li>	5.2...<A HREF="r5actv.shtml">Signal strength by solar activity</a></li>
+<li>	5.3...<A HREF="r5noise.shtml">The "grass", noise revealed</a></li>
+</ul><p>
+<li>6...Postscript 2010</li>
+<ul><li>6.1...<A HREF="r6sonde.shtml">Monitoring with the Icon R75</a></li>
+</ul><p>
+</ul></ul>
+<hr size=15>
+<A HREF="/~kjsmith/radio/kjradio.shtml">Return..</a><br>
+<hr>
+<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+
+</HTML>
