@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs western usa photo gallery, fisher towers, utah</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+<BODY BACKGROUND="imagnw/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Fisher Towers after the storm</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagnw/utah.jpg" alt="fisher towers, utah"></center>
+<center><IMG SRC="/imagnw/utah.jpg" alt="fisher towers, utah"></center>
 
 <hr size=15>
 <H3>Who said that great photographs are the result of painstaking labor and years of effort?  While I will not put that down, I also suspect that luck can play an important roll!  This shot was the result of being in the right place at the right time, and naturally with good equipment.  I was driving north out of Moab one evening when I got caught in a thunderstorm.  It was just breaking up as I drove past Fisher Towers and a glorious double rainbow framed the towers.  The effect of the rainbow with the washed out area on the inside and the dense color saturation between the two arcs is textbook.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

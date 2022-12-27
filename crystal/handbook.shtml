@@ -7,21 +7,21 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="hndbk0cor.jpg">
+<IMG align=right SRC="/hndbk0cor.jpg">
 <H2>Crystal Radio Handbook...
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 
 <h4>
 I have finally taken this entire web page on Crystal Radio and converted it into an actual f'real book. This book is now available in hardbound format with color printing. Printing in color is a bit pricy but preserves the integrity of the original work. Please note that I have priced the book at cost, that is, at NO profit to myself. The money you pay goes to the printing and merchandizing. I am indeed stunned at just how large a take the merchants insist upon! Anyway, I wish to see as many of these books in print as possible so I do my part.  <p>
 The links below take you to either of two marketplaces, the Lulu Bookstore (where the book is printed), or Amazon. I am having a bit of difficulty with Amazon at the moment but the book seems to still be listed, just not searchable. I am trying to rectify this. The prices are comparable, Amazon lists somewhat more expensive but offers free shipping, the inverse with respect to Lulu. Take your pick!<p>
 
-<A HREF="https://www.lulu.com/en/us/shop/kevin-j-smith/crystal-radio-handbook/hardcover/product-k64j4p.html?page=1&pageSize=4"><img border=0 SRC="/~kjsmith/crystal/CRHBbtn.jpg"</a>
-<A HREF="https://www.lulu.com/en/us/shop/kevin-j-smith/crystal-radio-handbook/hardcover/product-k64j4p.html?page=1&pageSize=4">CRYSTAL RADIO HANDBOOK..</a>  Available from Lulu bookstore.....<p>
+<A HREF="/https://www.lulu.com/en/us/shop/kevin-j-smith/crystal-radio-handbook/hardcover/product-k64j4p.html?page=1&pageSize=4"><img border=0 SRC="/crystal/CRHBbtn.jpg"</a>
+<A HREF="/https://www.lulu.com/en/us/shop/kevin-j-smith/crystal-radio-handbook/hardcover/product-k64j4p.html?page=1&pageSize=4">CRYSTAL RADIO HANDBOOK..</a>  Available from Lulu bookstore.....<p>
 
-<A HREF="https://www.amazon.com/gp/product/1716244471?pf_rd_r=7X2813BGXFH8W0BGB2XH&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=c49f5516-6be8-4f0e-bc77-d7865177583a&pd_rd_w=2E1Ce&pd_rd_wg=OfXKJ&ref_=pd_gw_unk"><img border=0 SRC="/~kjsmith/crystal/CRHBbtn.jpg"</a>
-<A HREF="https://www.amazon.com/gp/product/1716244471?pf_rd_r=7X2813BGXFH8W0BGB2XH&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=c49f5516-6be8-4f0e-bc77-d7865177583a&pd_rd_w=2E1Ce&pd_rd_wg=OfXKJ&ref_=pd_gw_unk">CRYSTAL RADIO HANDBOOK..</a>  Available from Amazon.....<p>
+<A HREF="/https://www.amazon.com/gp/product/1716244471?pf_rd_r=7X2813BGXFH8W0BGB2XH&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=c49f5516-6be8-4f0e-bc77-d7865177583a&pd_rd_w=2E1Ce&pd_rd_wg=OfXKJ&ref_=pd_gw_unk"><img border=0 SRC="/crystal/CRHBbtn.jpg"</a>
+<A HREF="/https://www.amazon.com/gp/product/1716244471?pf_rd_r=7X2813BGXFH8W0BGB2XH&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=c49f5516-6be8-4f0e-bc77-d7865177583a&pd_rd_w=2E1Ce&pd_rd_wg=OfXKJ&ref_=pd_gw_unk">CRYSTAL RADIO HANDBOOK..</a>  Available from Amazon.....<p>
 
 ABSTRACT: An advanced handbook for Crystal Radio intended for the serious beginner to the veteran user. This book contains project ideas and notes interspersed with technical discussions on the theoretical basis for different aspects of the radio hobby. Discussions introduce mathematical formulas and spreadsheet models to illustrate concepts from antenna/ground, resonance, diode (solid state and vacuum), capacitance, coil Q, and audio impedance matching. Basically a technical look at crystal radio from the antenna to your ear. Also included is a small catalog of crystal hookups and a fun discourse on detecting solar flares with shortwave radio.<p>
 
@@ -31,11 +31,11 @@ kjs, 05/2021<p>
 
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

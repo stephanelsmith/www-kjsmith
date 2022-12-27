@@ -2,89 +2,89 @@
 <HEAD>
 <TITLE>kjs Beer Labels</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 <h2>Menu</h2>
 <hr size=15>
 <p><H4><p>
-<a href=/~kjsmith/beer/rainier.shtml target=pres>Rainier<br></a>Seattle<p>
-<a href=/~kjsmith/beer/cmeihe.shtml target=pres>Meihe Fresh<br></a>China<p>
-<a href=/~kjsmith/beer/ngok.shtml target=pres>Ngok'<br></a>Congo<p>
-<a href=/~kjsmith/beer/beninois.shtml target=pres>Beninoise<br></a>Benin<p>
-<a href=/~kjsmith/beer/smiths.shtml target=pres>Smith's Black<br></a>Portland<p>
-<a href=/~kjsmith/beer/shinerss.shtml target=pres>Shiner Summer<br></a>Texas<p>
-<a href=/~kjsmith/beer/pacena.shtml target=pres>Paceña<br></a>Bolivia<p>
-<a href=/~kjsmith/beer/chimay.shtml target=pres>Chimay<br></a>Belgium<p>
-<a href=/~kjsmith/beer/cshentoe.shtml target=pres>Sanhe and Luhui<br></a>China<p>
-<a href=/~kjsmith/beer/stella.shtml target=pres>Stella<br></a>Egypt<p>
-<a href=/~kjsmith/beer/quilmes.shtml target=pres>Quilmes<br></a>Argentina<p>
-<a href=/~kjsmith/beer/phovey.shtml target=pres>Tusker Export and Pilsner<br></a>Keyna<p>
-<a href=/~kjsmith/beer/ursus.shtml target=pres>Ursus<br></a>Romania<p>
-<a href=/~kjsmith/beer/kwiecien.shtml target=pres>Okocim, Zabrze<br> </a> Poland<p> 
-<a href=/~kjsmith/beer/cvalor.shtml target=pres>Valor<br></a>China<p>
-<a href=/~kjsmith/beer/sandpiper.shtml target=pres>Sandpiper<br> </a>India<p> 
-<a href=/~kjsmith/beer/pilsener.shtml target=pres>Pilsener<br> </a>Ecuador<p>
-<a href=/~kjsmith/beer/csnowf.shtml target=pres>Snowflake<br></a>China<p>
-<a href=/~kjsmith/beer/xxxx.shtml target=pres>XXXX Gold<br></a>Australia<p>
-<a href=/~kjsmith/beer/kovalev1.shtml target=pres>Molodechnenskoye and Alivaria<br></a>Belarus<p>
-<a href=/~kjsmith/beer/jmorse.shtml target=pres>Docicky<br></a>Czech Republic<p>
-<a href=/~kjsmith/beer/duvel.shtml target=pres>Duvel<br></a>Belgium<p>
-<a href=/~kjsmith/beer/wulveryck.shtml target=pres>Bock du Moulin, La Comète<br></a>France<p>
-<a href=/~kjsmith/beer/guinness.shtml target=pres>Guinness<br></a>Ireland<p>
-<a href=/~kjsmith/beer/zywiec.shtml target=pres>Zywiec<br></a>Poland<p>
-<a href=/~kjsmith/beer/chunshengpi.shtml target=pres>Chunshengpi<br></a>China<p>
-<a href=/~kjsmith/beer/farsons.shtml target=pres>Farson's<br></a>Malta<p>
-<a href=/~kjsmith/beer/imperial.shtml target=pres>Imperial<br></a>Argentina<p>
-<a href=/~kjsmith/beer/vb.shtml target=pres>Victoria Bitter<br></a>Australia<p>
-<a href=/~kjsmith/beer/kronen1.shtml target=pres>1664<br></a>Alsace<p>
-<a href=/~kjsmith/beer/nouas.shtml target=pres>Nouas<br></a>Algeria<p>
-<a href=/~kjsmith/beer/leffe.shtml target=pres>Leffe Blonde<br></a>Belgium<p>
-<a href=/~kjsmith/beer/tubs.shtml target=pres>Seinlager, Light Ice <br></a>New Zealand<p>
-<a href=/~kjsmith/beer/ziggy.shtml target=pres>Ziggy Socky <br></a>USA<p>
-<a href=/~kjsmith/beer/kronen2.shtml target=pres>Kronenbourg<br></a>Alsace<p>
-<a href=/~kjsmith/beer/kovalev2.shtml target=pres>Mozyr'skoye and Slutskaye<br></a>Belarus<p>
-<a href=/~kjsmith/beer/cxingdao.shtml target=pres>Xingdao<br></a>China<p>
-<a href=/~kjsmith/beer/ancre.shtml target=pres>Ancre<br></a>Alsace<p>
-<a href=/~kjsmith/beer/c1tsingt.shtml target=pres>Tsingtao<br></a>China<p>
-<a href=/~kjsmith/beer/arriaga.shtml target=pres>El Aguila Negra, Aguila Amstel<br></a>Spain<p>
-<a href=/~kjsmith/beer/janneke.shtml target=pres>Janneke<br></a>Netherlands<p>
-<a href=/~kjsmith/beer/tuskar.shtml target=pres>Tusker <br></a>Kenya<p>
-<a href=/~kjsmith/beer/united.shtml target=pres>Kingfisher and Black Label<br> </a>India<p> 
-<a href=/~kjsmith/beer/brasil.shtml target=pres>Bohemia and Cerpa<br></a>Brazil<p>
-<a href=/~kjsmith/beer/jmorse2.shtml target=pres>Orval, Trappistes Rochefort<br></a>Belgium<p>
-<a href=/~kjsmith/beer/olympia.shtml target=pres>Olympia<br></a>Olympia<p>
-<a href=/~kjsmith/beer/ash.shtml target=pres>Spight's<br></a>New Zealand<p>
-<a href=/~kjsmith/beer/carib.shtml target=pres>Carib<br></a>Trinidad<p>
-<a href=/~kjsmith/beer/voodoo.shtml target=pres>Blackened Voodoo<br></a>Louisania<p>
-<a href=/~kjsmith/beer/hougaer.shtml target=pres>Hougaerdse DAS<br></a>Belgium<p>
-<a href=/~kjsmith/beer/mutzig1.shtml target=pres>Mutzig<br></a>Alsace<p>
-<a href=/~kjsmith/beer/afflige.shtml target=pres>Affligem<br></a>Belgium<p>
-<a href=/~kjsmith/beer/kovalev3.shtml target=pres>Klinskoye<br></a>Russia<p>
-<a href=/~kjsmith/beer/waikato.shtml target=pres>Waikato <br></a>New Zealand<p>
-<a href=/~kjsmith/beer/anchor.shtml target=pres>Anchor Steam<br></a>San Francisco<p>
-<a href=/~kjsmith/beer/jamstel.shtml target=pres>Amstel<br></a>Jordan<p>
-<a href=/~kjsmith/beer/cobra.shtml target=pres>Cobra<br></a>India<p>
-<a href=/~kjsmith/beer/corsaire.shtml target=pres>Corsaire<br></a>Guadeloupe<p>
-<a href=/~kjsmith/beer/bolivian.shtml target=pres>Paceña<br></a>Bolivia (2)<p>
-<a href=/~kjsmith/beer/amstel.shtml target=pres>Amstel<br></a>Congo<p>
-<a href=/~kjsmith/beer/ducal.shtml target=pres>Ducal<br></a>Bolivia<p>
-<a href=/~kjsmith/beer/augustiner.shtml target=pres>Augustiner<br></a>Germany<p>
-<a href=/~kjsmith/beer/royal.shtml target=pres>Royal Challenge<br></a>India<p>
-<a href=/~kjsmith/beer/ctiger.shtml target=pres>Tiger<br></a>Singapore<p>
-<a href=/~kjsmith/beer/dom.shtml target=pres>Dommelsch<br></a>Netherlands<p>
-<a href=/~kjsmith/beer/shiner.shtml target=pres>Shiner<br></a>Texas<p>
-<a href=/~kjsmith/beer/modelo.shtml target=pres>Negra Modelo<br></a>Mexico<p>
-<a href=/~kjsmith/beer/budvar.shtml target=pres>Budvar<br></a>Czech Republic<p>
-<a href=/~kjsmith/beer/heineken.shtml target=pres>Heineken<br></a>Netherlands<p>
-<a href=/~kjsmith/beer/lonestar.shtml target=pres>Lonestar<br></a>Texas<p>
+<a href=/beer/rainier.shtml target=pres>Rainier<br></a>Seattle<p>
+<a href=/beer/cmeihe.shtml target=pres>Meihe Fresh<br></a>China<p>
+<a href=/beer/ngok.shtml target=pres>Ngok'<br></a>Congo<p>
+<a href=/beer/beninois.shtml target=pres>Beninoise<br></a>Benin<p>
+<a href=/beer/smiths.shtml target=pres>Smith's Black<br></a>Portland<p>
+<a href=/beer/shinerss.shtml target=pres>Shiner Summer<br></a>Texas<p>
+<a href=/beer/pacena.shtml target=pres>Paceña<br></a>Bolivia<p>
+<a href=/beer/chimay.shtml target=pres>Chimay<br></a>Belgium<p>
+<a href=/beer/cshentoe.shtml target=pres>Sanhe and Luhui<br></a>China<p>
+<a href=/beer/stella.shtml target=pres>Stella<br></a>Egypt<p>
+<a href=/beer/quilmes.shtml target=pres>Quilmes<br></a>Argentina<p>
+<a href=/beer/phovey.shtml target=pres>Tusker Export and Pilsner<br></a>Keyna<p>
+<a href=/beer/ursus.shtml target=pres>Ursus<br></a>Romania<p>
+<a href=/beer/kwiecien.shtml target=pres>Okocim, Zabrze<br> </a> Poland<p> 
+<a href=/beer/cvalor.shtml target=pres>Valor<br></a>China<p>
+<a href=/beer/sandpiper.shtml target=pres>Sandpiper<br> </a>India<p> 
+<a href=/beer/pilsener.shtml target=pres>Pilsener<br> </a>Ecuador<p>
+<a href=/beer/csnowf.shtml target=pres>Snowflake<br></a>China<p>
+<a href=/beer/xxxx.shtml target=pres>XXXX Gold<br></a>Australia<p>
+<a href=/beer/kovalev1.shtml target=pres>Molodechnenskoye and Alivaria<br></a>Belarus<p>
+<a href=/beer/jmorse.shtml target=pres>Docicky<br></a>Czech Republic<p>
+<a href=/beer/duvel.shtml target=pres>Duvel<br></a>Belgium<p>
+<a href=/beer/wulveryck.shtml target=pres>Bock du Moulin, La Comète<br></a>France<p>
+<a href=/beer/guinness.shtml target=pres>Guinness<br></a>Ireland<p>
+<a href=/beer/zywiec.shtml target=pres>Zywiec<br></a>Poland<p>
+<a href=/beer/chunshengpi.shtml target=pres>Chunshengpi<br></a>China<p>
+<a href=/beer/farsons.shtml target=pres>Farson's<br></a>Malta<p>
+<a href=/beer/imperial.shtml target=pres>Imperial<br></a>Argentina<p>
+<a href=/beer/vb.shtml target=pres>Victoria Bitter<br></a>Australia<p>
+<a href=/beer/kronen1.shtml target=pres>1664<br></a>Alsace<p>
+<a href=/beer/nouas.shtml target=pres>Nouas<br></a>Algeria<p>
+<a href=/beer/leffe.shtml target=pres>Leffe Blonde<br></a>Belgium<p>
+<a href=/beer/tubs.shtml target=pres>Seinlager, Light Ice <br></a>New Zealand<p>
+<a href=/beer/ziggy.shtml target=pres>Ziggy Socky <br></a>USA<p>
+<a href=/beer/kronen2.shtml target=pres>Kronenbourg<br></a>Alsace<p>
+<a href=/beer/kovalev2.shtml target=pres>Mozyr'skoye and Slutskaye<br></a>Belarus<p>
+<a href=/beer/cxingdao.shtml target=pres>Xingdao<br></a>China<p>
+<a href=/beer/ancre.shtml target=pres>Ancre<br></a>Alsace<p>
+<a href=/beer/c1tsingt.shtml target=pres>Tsingtao<br></a>China<p>
+<a href=/beer/arriaga.shtml target=pres>El Aguila Negra, Aguila Amstel<br></a>Spain<p>
+<a href=/beer/janneke.shtml target=pres>Janneke<br></a>Netherlands<p>
+<a href=/beer/tuskar.shtml target=pres>Tusker <br></a>Kenya<p>
+<a href=/beer/united.shtml target=pres>Kingfisher and Black Label<br> </a>India<p> 
+<a href=/beer/brasil.shtml target=pres>Bohemia and Cerpa<br></a>Brazil<p>
+<a href=/beer/jmorse2.shtml target=pres>Orval, Trappistes Rochefort<br></a>Belgium<p>
+<a href=/beer/olympia.shtml target=pres>Olympia<br></a>Olympia<p>
+<a href=/beer/ash.shtml target=pres>Spight's<br></a>New Zealand<p>
+<a href=/beer/carib.shtml target=pres>Carib<br></a>Trinidad<p>
+<a href=/beer/voodoo.shtml target=pres>Blackened Voodoo<br></a>Louisania<p>
+<a href=/beer/hougaer.shtml target=pres>Hougaerdse DAS<br></a>Belgium<p>
+<a href=/beer/mutzig1.shtml target=pres>Mutzig<br></a>Alsace<p>
+<a href=/beer/afflige.shtml target=pres>Affligem<br></a>Belgium<p>
+<a href=/beer/kovalev3.shtml target=pres>Klinskoye<br></a>Russia<p>
+<a href=/beer/waikato.shtml target=pres>Waikato <br></a>New Zealand<p>
+<a href=/beer/anchor.shtml target=pres>Anchor Steam<br></a>San Francisco<p>
+<a href=/beer/jamstel.shtml target=pres>Amstel<br></a>Jordan<p>
+<a href=/beer/cobra.shtml target=pres>Cobra<br></a>India<p>
+<a href=/beer/corsaire.shtml target=pres>Corsaire<br></a>Guadeloupe<p>
+<a href=/beer/bolivian.shtml target=pres>Paceña<br></a>Bolivia (2)<p>
+<a href=/beer/amstel.shtml target=pres>Amstel<br></a>Congo<p>
+<a href=/beer/ducal.shtml target=pres>Ducal<br></a>Bolivia<p>
+<a href=/beer/augustiner.shtml target=pres>Augustiner<br></a>Germany<p>
+<a href=/beer/royal.shtml target=pres>Royal Challenge<br></a>India<p>
+<a href=/beer/ctiger.shtml target=pres>Tiger<br></a>Singapore<p>
+<a href=/beer/dom.shtml target=pres>Dommelsch<br></a>Netherlands<p>
+<a href=/beer/shiner.shtml target=pres>Shiner<br></a>Texas<p>
+<a href=/beer/modelo.shtml target=pres>Negra Modelo<br></a>Mexico<p>
+<a href=/beer/budvar.shtml target=pres>Budvar<br></a>Czech Republic<p>
+<a href=/beer/heineken.shtml target=pres>Heineken<br></a>Netherlands<p>
+<a href=/beer/lonestar.shtml target=pres>Lonestar<br></a>Texas<p>
 </h4>
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 

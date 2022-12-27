@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs beer label, snow beer, china</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Snow Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/snow.jpg" alt="snow beer label"></a><p>
-<IMG SRC="/~kjsmith/beer/snow2.jpg" alt="snow beer label"></a><p>
-<IMG SRC="/~kjsmith/beer/snow3.jpg" alt="snow beer label"></a></center>
+<center><IMG SRC="/beer/snow.jpg" alt="snow beer label"></a><p>
+<IMG SRC="/beer/snow2.jpg" alt="snow beer label"></a><p>
+<IMG SRC="/beer/snow3.jpg" alt="snow beer label"></a></center>
 <hr size=15>
 <H3>
 Another Jilin joint-venture brew, this beer can be found throughout northeast China.  Its a cool smooth beer and we drank a lot on our missions in Liaoning and Jilin Provinces.  Even found this served in Beijing, its that good!
@@ -20,14 +20,14 @@ Another Jilin joint-venture brew, this beer can be found throughout northeast Ch
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

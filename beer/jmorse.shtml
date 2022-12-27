@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, docicky beer, czech republic</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>From John Morse in Belgium</H2></center>
 
 <hr size=15><h3><center>
-<IMG SRC="/~kjsmith/beer/docicky.jpg" alt="Docicky Beer Label"></a>
+<IMG SRC="/beer/docicky.jpg" alt="Docicky Beer Label"></a>
 </center><hr>
 Says John:<br>
 Ah, now this was a find... at a hotel restaurant in Kutna Hora, Czech Republic. This is a local brew, available in light and dark versions. Seemingly every Czech beer we tried was superior to the last. This and Budvar were our facorites.
@@ -21,14 +21,14 @@ John, my sincere thanks for the scans.
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

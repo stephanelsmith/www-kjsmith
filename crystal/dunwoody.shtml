@@ -7,46 +7,46 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="dunwoody0.jpg">
+<IMG align=right SRC="/dunwoody0.jpg">
 <H2>Dunwoody, a kit from Borden Radio right here in Houston
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 
 <h4>
-My first real intro to this facinating world of crystal radio came with a set I purchased on Ebay from <A HREF="http://www.xtalman.com/">Borden Radio Company</a>, Lance Borden.  Lance is an engineer at NASA and radio amateur with a business selling crystal radio's and parts.  When I first ordered my kit he was very helpful and encouraged me quite a lot.  I appreciate the well-designed radio as much as his help in my introduction.  The radio itself is a single-tuned set with dual 365 caps tuning on the antenna and detector sides of the single coil.  The coil features numerous taps, a concept I was quite unfamiliar with and curious about when I first considered the set for purchase.  I figured I had much to learn and the set seems a good and serious way to begin.<br>
-The Dunwoody comes with a 1N34A diode detector, two 365 variable capacitors, fahnestock clips, a sturdy cardboard coil form and magnet wire to make the inductor.  The included instructions are clear and easy to follow.  One item not included or part of the radio is a crystal detector, but the instructions give a hint by stating that the spacing for the germanium detector are the same as for a Philmore detector.  That sent me to the web and introduced me to the crystal in crystal radio. I thoroughly had the bug by this time as I searched for, and eventually acquired a Philmore detector and crystal. In fact the galena crystal is remarkably hot and often performs every bit, in my opinion, as well as my germanium diode.  This has led me back to my roots as a <A HREF="/~kjsmith/minerals/min0.shtml">minerologist</a> as well.  In my fun I have subsequently learned to pot my own crystal detectors in woods metal, and tested a number of minerals as detectors, though in no systematic way.  I did immediately notice that Galena and Pyrite, the most frequently cited minerals as detectors, are metallic sulfides so I have acquired additional samples of Stibnite, Molybdnite, Argentite, and Acanthite, only successful with the Molybinite.  Seems a high degree of symmetry is needed as well.  <p>
+My first real intro to this facinating world of crystal radio came with a set I purchased on Ebay from <A HREF="/http://www.xtalman.com/">Borden Radio Company</a>, Lance Borden.  Lance is an engineer at NASA and radio amateur with a business selling crystal radio's and parts.  When I first ordered my kit he was very helpful and encouraged me quite a lot.  I appreciate the well-designed radio as much as his help in my introduction.  The radio itself is a single-tuned set with dual 365 caps tuning on the antenna and detector sides of the single coil.  The coil features numerous taps, a concept I was quite unfamiliar with and curious about when I first considered the set for purchase.  I figured I had much to learn and the set seems a good and serious way to begin.<br>
+The Dunwoody comes with a 1N34A diode detector, two 365 variable capacitors, fahnestock clips, a sturdy cardboard coil form and magnet wire to make the inductor.  The included instructions are clear and easy to follow.  One item not included or part of the radio is a crystal detector, but the instructions give a hint by stating that the spacing for the germanium detector are the same as for a Philmore detector.  That sent me to the web and introduced me to the crystal in crystal radio. I thoroughly had the bug by this time as I searched for, and eventually acquired a Philmore detector and crystal. In fact the galena crystal is remarkably hot and often performs every bit, in my opinion, as well as my germanium diode.  This has led me back to my roots as a <A HREF="/minerals/min0.shtml">minerologist</a> as well.  In my fun I have subsequently learned to pot my own crystal detectors in woods metal, and tested a number of minerals as detectors, though in no systematic way.  I did immediately notice that Galena and Pyrite, the most frequently cited minerals as detectors, are metallic sulfides so I have acquired additional samples of Stibnite, Molybdnite, Argentite, and Acanthite, only successful with the Molybinite.  Seems a high degree of symmetry is needed as well.  <p>
 The following photos are of the radio as originally constructed and a couple morphs as I learned to love this great hobby.
 <p><hr size=15>
 
 My Dunwoody in its original configuration as per the kit instructions.  Clearly seen is my first-ever attempt at winding a coil, first attempt at taps in said coil, and a fine radio just the same.  
-<br><IMG SRC="dw0.jpg">
-<IMG SRC="bar3e.jpg"><hr>
+<br><IMG SRC="/dw0.jpg">
+<IMG SRC="/bar3e.jpg"><hr>
 
 The radio now has a NOS Philmore crystal detector stand.  In this photo I am testing a Pyrite crystal sitting on a crumpled aluminum foil bed, successfully detecting 1590 Khz locally here in Houston.  In the background is my trusty Icon R75 giving me the straight poop on what station I am listening to.  I was never really happy with the Philmore crystal holder though, it had to be improved.
-<br><IMG SRC="dw1.jpg">
-<IMG SRC="bar3e.jpg"><hr>
+<br><IMG SRC="/dw1.jpg">
+<IMG SRC="/bar3e.jpg"><hr>
 
 Current configuration on the Dunwoody now sporting a good brass crystal cup with set screw, also I have lifted the coil off the wood base with 1/4" standoffs. I am not sure how much of a difference that made, but seems good practice. This photo of the set taken while prototyping a homebrew detector stand of my own. I figured if I was to become a radio builder, I would need master the detector.  I am a geologost so no radio is a crystal radio without a crystal, I mean, an actual crystal!  
-<br><IMG SRC="dw2.jpg"><p>
+<br><IMG SRC="/dw2.jpg"><p>
 
 <hr>
 Circuit schematic for the set.<p>
-<IMG SRC="dwc.jpg"><p>
-<IMG align=left SRC="dunper.jpg">
+<IMG SRC="/dwc.jpg"><p>
+<IMG align=left SRC="/dunper.jpg">
 Performance summary of my Dunwoody is so so with a set Q (loaded) of 18 but my sensitivity calculation is 17%, not so great.  This may be all that can be wrung out of a single-coil radio, who knows?  Most of my radio's have higher sensitivity so this set definitely benefits from my audio amplifier.    <br clear=left>
 <p>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 <hr>
-<p><IMG SRC="ptrdw.jpg"><p>
+<p><IMG SRC="/ptrdw.jpg"><p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

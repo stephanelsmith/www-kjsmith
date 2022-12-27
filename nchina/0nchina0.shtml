@@ -6,7 +6,7 @@
 
 
 <frameset cols="150,*">
- <FRAME  NAME="menu" SRC="/~kjsmith/nchina/0nchina1.shtml">
- <FRAME  NAME="pres" SRC="/~kjsmith/nchina/0nchina2.shtml">
+ <FRAME  NAME="menu" SRC="/nchina/0nchina1.shtml">
+ <FRAME  NAME="pres" SRC="/nchina/0nchina2.shtml">
 </frameset>
 <NOFRAME>

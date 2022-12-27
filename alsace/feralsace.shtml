@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs alsace: ferrette</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -12,9 +12,9 @@
 <H2>Arbre généalogique de la Maison de Ferrette, Comtes de Ferrette en Sundgau<p></H2><p>
 <H3>
 <p><hr size=5><br>
-<IMG align=right SRC="ferpic.jpg">
+<IMG align=right SRC="/ferpic.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
+<h3><A HREF="/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
 <hr size=5>
 
 Je présente ici un arbre généalogique pour la Maison de Ferrette du sud de l'Alsace (comté de Ferrette). La famille contrôlait le comté du Sundgau alsacien pendant un peu plus de 200 ans avant de disparaître. Jeanne, la dernière Ferrette a épousé Albert II des Habsbourg et donc le titre "comte de Ferrette" est passé aux famille des Habsbourg. Cela dura jusqu'à la fin de la guerre de 30 ans quant les Habsbourg cédant leur titre de «comte de Ferrette» à Louis XIV de France. Louis la donné au cardinal Mazarin comme reconnaissance pour ses service. À partir de là, le comté a été transféré à Monaco. Alors que la France ne reconnaît aucune revendication de Monaco à des terres en Alsace, le titre "comte de Ferrette" demeure.<p>
@@ -23,7 +23,7 @@ Il y a une question concernant Hildegarde, comtesse de Ferrette. Elle apparaît d
 
 J'ai trouvé deux anciennes références: «Études historiques sur l'ancienne Lorraine, tome I», par Victor de Saint-Mauris, 1861; et «des Antiquités de la maison de France et des maisons méridionales et carliennes» par Gilbert-Charles Le Gendre, 1739. Chaque référence donne le titre à Hugues comme comte de Ferrette et Hildegarde reçoivent le titre comtesse de Ferrette d'Hugues par mariage. C'est pour moi une solution plus logique. Cela semblerait laisser le comté de Ferrette à mains des Eguisheim suivant Eberhard IV, Hugues II, Hugues IV et enfin Hildegarde d'Eguisheim qui a épousé Richwin, comte de Scarpone. Tous suggèrent que Richwin a en fait reçu le titre d'Hildegarde d'Eguisheim par mariage. Le comté de Ferrette s'est détaché des comtes d'Eguisheim et est devenu dépendant des comtes de Scarpone / Mousson / Montbéliard à cette époque.  <p>  
 
-<center><IMG SRC="/~kjsmith/alsace/LesFerrette.jpg" alt="Arbre généalogique de la Maison de Ferrette"></center><p>
+<center><IMG SRC="/alsace/LesFerrette.jpg" alt="Arbre généalogique de la Maison de Ferrette"></center><p>
 
 <H4>
 Références utilisées:<p>
@@ -82,12 +82,12 @@ kjs<br>
 2017<p>
 
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine....</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

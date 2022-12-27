@@ -6,7 +6,7 @@
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
-<H2><A HREF="resshm.htm">
+<H2><A HREF="/resshm.htm">
 Shell USA work experience summary.</a></H2><P>
 
 <hr size=15>
@@ -37,10 +37,10 @@ November 1995 to Present<br>
 West Africa Project:  Congo Basin/Transform Margin new venture study.  Emphesis on the evaluation of existing sub-commercial discoveries for potential development.  Main diciplines include reservoir engineering and detailed volumetric calculations.<P>
 </h4>
 <hr size=15>
-<h3><A HREF="/~kjsmith/html/resume.shtml">Go back....</a></H3>
+<h3><A HREF="/html/resume.shtml">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -11,24 +11,24 @@
 <H3>
 Solar activity can cause cause disruptions of the earth's magnetic field leading to choppy or poor openings.  The usual cause of these disruptions is the interaction of charged particles expelled from the sun by flares with the earth's ionosphere.  Being charged, they carry magnetic field lines from the sun and distort the local earth field lines.  The effects are most pronounced when the sun's magnetic poles are reversed with respect to the earth's.  Even when sunspot activity seems low particles can still be ejected through coronal holes and disrupt local conditions.
 <hr>
-<center><IMG SRC="15jan88.gif" alt="record of 15 January, 1988" width=626 height=412></center>
+<center><IMG SRC="/15jan88.gif" alt="record of 15 January, 1988" width=626 height=412></center>
 <hr>
 This record of 15 January, 1988 was taken on the last day of a major geomagnetic storm.  The planetary "Ap" value, (a measure of geomagnetic activity) was a high 45.  The openings here are choppy, short lived but still with good signal strengths typical of a winter record.
 <hr>
-<center><IMG SRC="15jun90.gif" alt="record of 15 June, 1990" width=626 height=412></center>
+<center><IMG SRC="/15jun90.gif" alt="record of 15 June, 1990" width=626 height=412></center>
 <hr>
 Another storm ending on 15 June, 1990 in the summer season has in this record nearly wiped out the opening totally.  Ap for the record also a high 47.  Similarily, the flare and storm on <a href="26may90.shtml">26 May, 1990</a> with an Ap=38 had terrible results for communications.
 <hr>
-<center><IMG SRC="01sep90.gif" alt="record of 01 September, 1990" width=626 height=412></center>
+<center><IMG SRC="/01sep90.gif" alt="record of 01 September, 1990" width=626 height=412></center>
 <hr>
 This record for 01 September, 1990 indicates that not all geomagnetic activity necessarily destroys propagation.  This day with Ap=26 had conditions ranging from quiet to major storm yet the openings remain generally good.  Geomagnetic storms in fact can be quite local and do not a priori indicate poor communications.  Recall that my recordings only probe a small portion of the ionosphere located about halfway between Ft. Collins, Colorado and Houston, Texas.  
 
 <hr size=25>
-<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

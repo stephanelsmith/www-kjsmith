@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs alsace: ribeaupierre</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -13,9 +13,9 @@
 <H2>Arbre généalogique de la Maison de Ribeaupierre d'Alsace<p></H2><p>
 <H3>
 <p><hr size=5><br>
-<IMG align=right SRC="rptlpic.jpg">
+<IMG align=right SRC="/rptlpic.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
+<h3><A HREF="/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
 <hr size=5>
 
 Cette page ce présente un arbre généalogique des Ribeaupierre, Maison noble d'Alsace du XIIe au XVIIe siècle. Je l'ai construit à partir des références listées ci-dessous principalement pour obtenir un aperçu plus complet. Cette arbre reprend où l'arbre d'Eguisheim se termine. Ici, j'ai créé une table plus professionnelle sans ajouter de liens familiaux à d'autres familles nobles importantes. Les principales données de référence proviennent d'une excellente publication Web du CV Rappoltstein de l'Association des étudiants catholiques allemands (chronik.rappoltstein.de). D'autres références sont utilisées pour vérifier et ajouter de la profondeur.  <p>
@@ -25,7 +25,7 @@ L'Allemagne a déjà essayé l'Anschluss, cela n'a pas bien fonctionné pour eux. Je
 *Voir "Das Ende in Straßburg - Rappoltsteiner Chronik.pdf"<p>
 Mes références historiques concernant le Ribeaupierre se trouvent dans le tome VI ci-dessus. <p>
 
-<center><IMG SRC="/~kjsmith/alsace/LesRibeaupierre.jpg" alt="Arbre généalogique de la Maison de Ribeaupierre d'Alsace"></center><p>
+<center><IMG SRC="/alsace/LesRibeaupierre.jpg" alt="Arbre généalogique de la Maison de Ribeaupierre d'Alsace"></center><p>
 
 <H4>
 
@@ -75,12 +75,12 @@ kjs<br>
 2017<p>
 
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

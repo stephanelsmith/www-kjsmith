@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs bird photos, Sittelle Torchepot </TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Sittelle Torchepot, Alsace</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/stle1.jpg"alt="Sittelle Torchepot"></a></center>
+<center><IMG SRC="/graphics/stle1.jpg"alt="Sittelle Torchepot"></a></center>
 <hr>
-<center><IMG SRC="/~kjsmith/graphics/stle2.jpg"alt="Sittelle Torchepot"></a></center>
+<center><IMG SRC="/graphics/stle2.jpg"alt="Sittelle Torchepot"></a></center>
 <hr size=15>
 <H3>
 
@@ -21,14 +21,14 @@ A Sittelle Torchepot, or common Nuthatch forages for grains and other goodies in
 
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

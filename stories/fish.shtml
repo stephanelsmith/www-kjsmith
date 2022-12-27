@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, white salmon creek, washington</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 <hr size=15>
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="/~kjsmith/graphics/fish.jpg"> <br clear>
+<img SRC="/graphics/fish.jpg"> <br clear>
 </td></tr></table>
 
 When I worked for the Forest Service in the Cascades of
@@ -23,7 +23,7 @@ town of Willard.  Along one side of the compound ran a
 mountain stream.  My friends and I who worked there would
 often spend evenings around the stream as it was very
 relaxing.  On weekends we would have things to do, 
-<A HREF="/~kjsmith/imagnw/helens1.shtml">
+<A HREF="/imagnw/helens1.shtml">
 mountains to climb</a> , civilization to visit and the stream was usually
 on its own.  One weekend I stayed at the compound and spent
 a lot of time exploring the area, including the stream.  I
@@ -54,11 +54,11 @@ me that day as it provided a new jewel in my cache of
 experiences.<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/stories/stories.shtml">Go back....</a></H3><P>
+<A HREF="/stories/stories.shtml">Go back....</a></H3><P>
 <hr size=15>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

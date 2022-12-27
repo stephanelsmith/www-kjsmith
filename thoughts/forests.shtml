@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, deforestation</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/book.jpg"
+<BODY BACKGROUND="/graphics/book.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -94,9 +94,9 @@ mind in the effort:<p>
 20 August, 1993<p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

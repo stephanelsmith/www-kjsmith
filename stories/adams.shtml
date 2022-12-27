@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, mt adams, washington</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="/~kjsmith/graphics/adams.jpg"> <br clear>
+<img SRC="/graphics/adams.jpg"> <br clear>
 </td></tr></table>
 
 My summers during the time I was in university were spent living
@@ -70,11 +70,11 @@ Perhaps we had not "conquered" the mountain, perhaps we had merely
 been allowed by its grace to feel the wind of the summit.<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/stories/stories.shtml">Go back....</a></H3><P>
+<A HREF="/stories/stories.shtml">Go back....</a></H3><P>
 <hr size=15>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

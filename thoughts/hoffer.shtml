@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, eric hoffer</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/book.jpg"
+<BODY BACKGROUND="/graphics/book.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -34,9 +34,9 @@
 "The True Believer: Thoughts on the Nature of Mass Movements" by Eric Hoffer, 1951.<br>  Harper and Row, Publishers, New York and Evanston
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

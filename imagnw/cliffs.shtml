@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs western usa photo gallery, cliffs of eastern washington</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+<BODY BACKGROUND="imagnw/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Eastern Washington</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagnw/cliffs.jpg" alt="cliffs of eastern washington"></center>
+<center><IMG SRC="/imagnw/cliffs.jpg" alt="cliffs of eastern washington"></center>
 
 <hr size=15>
 <H3>Much of Washington state east of the Cascades consists of semi-arid steppe.  Along most stretches of the Columbia river in this region you may find stark cliffs of black basalt which flowed out across the basin as a molten lake just a few million years ago.  Cold today, this bedrock provides the excellent fertility for the many crops produced in the state.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

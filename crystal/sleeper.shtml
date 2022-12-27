@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="slpr0.jpg">
+<IMG align=right SRC="/slpr0.jpg">
 <H2>Sleeper #1
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 
 <h4>
@@ -20,20 +20,20 @@ As shown, the radio passes most loudly a local powerhouse spanish format station
 <p><hr size=15>
 
 Sleeper #1
-<br><IMG SRC="slpr1.jpg"><p>
-<br><IMG SRC="slpr2.jpg"><p>
+<br><IMG SRC="/slpr1.jpg"><p>
+<br><IMG SRC="/slpr2.jpg"><p>
 The hookup in its parallel and series configuragions.  In either case I really cannot hear any signal with just a headphone or crystal earplug.  With amplification I can get good signal strength with the parallel hookup giving slightly more sensitivity than the series hookup.  <p>
-<br><IMG SRC="slper.jpg"><p>
+<br><IMG SRC="/slper.jpg"><p>
 Hooking parallel configuration to my signal generator can give an idea of the performance of the radio across the spectrum.  I measured the mV output in 100 KHz increments from 500 to 2300 KHz.  Across the broadcast band the set has faitly flat responce with a slight tendancy to resonance about 1500 KHz and then increasing sensitivity from 1900 KHz on up.  Keep in mind that the set is hooked to a dummy antenna rather than my actual long wire.  Still this gives an idea of the overall untuned nature of the circuit.<p> When I hook in a series configuraiton I am unable to get a measurement, only 0V DC output.  I am working on why this may be the case.  Drives me nuts.<p)
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

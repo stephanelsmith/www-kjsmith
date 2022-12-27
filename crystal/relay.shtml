@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="idbl.jpg">
+<IMG align=right SRC="/idbl.jpg">
 <H2>Coil Interrupter
 </H2>
-<h4><A HREF="/~kjsmith/crystal/spark.shtml">Back to Spark..</a><br></h4>
+<h4><A HREF="/crystal/spark.shtml">Back to Spark..</a><br></h4>
 <hr>
 <H4>
 
@@ -18,7 +18,7 @@ In order to function properly an induction coil requires an interrupter circuit.
 
 It would be lovely if cycle timing were the only constraint, general purpose relays typically run around 60Hz.  Indeed this was my initial design, woe is me.  Another concern the interrupter needs to deal with is the presence of a back emf from the induction coil primary winding.  With a 100:1 turns ratio, a coil that sends a 45kV pulse out the secondary will also send back to the interrupter a 450V pulse.  Small general purpose relay contactors remain rather close together even at their widest separation and so are prone to arcing with modest voltages.  When I first hooked up my relay I got modest sparking from the gap and contact arcing that was quickly burning up the relay.  It was my belief that the capacitor was there to slow the process and allow time for the relay contacts to separate before the back emf hit.  I tried capacitors of increasingly high capacitance, they did not cure the problem.  It was time to hit books and work the test bench.<p>
 
-<IMG align=left SRC="crly.jpg"> What follows was a better understanding of relays in general, and SPDT relays wired in a buzzer configuration in particular.  An SPDT relay has a common contactor set between two posts.  The contactor has a spring which keeps it in contact with one of the posts, the "Normally Closed" (NC) position.  The other post thus represents the "Normally Open" (NO) position.  The relay also contains a small coil that, when energized will push the contactor towards the NO position and so breaking the NC contact.  In a buzzer configuration, breaking the NC contact also de-energizes the relay coil so there will be no more push towards the NO post.  The contactor will use what little momentum it has to oppose the spring and move to the NO position.  In reality this momentum is not sufficient and so no contact with the NO post is ever made.  This is why one always uses the NC post with the SPDT buzzer relay.  A further negative consequence of this is that the contactor never separates far from the NC post.  The close proximity allows breakdown of the dielectric potential of the air between the posts and arcing to occur.<p>
+<IMG align=left SRC="/crly.jpg"> What follows was a better understanding of relays in general, and SPDT relays wired in a buzzer configuration in particular.  An SPDT relay has a common contactor set between two posts.  The contactor has a spring which keeps it in contact with one of the posts, the "Normally Closed" (NC) position.  The other post thus represents the "Normally Open" (NO) position.  The relay also contains a small coil that, when energized will push the contactor towards the NO position and so breaking the NC contact.  In a buzzer configuration, breaking the NC contact also de-energizes the relay coil so there will be no more push towards the NO post.  The contactor will use what little momentum it has to oppose the spring and move to the NO position.  In reality this momentum is not sufficient and so no contact with the NO post is ever made.  This is why one always uses the NC post with the SPDT buzzer relay.  A further negative consequence of this is that the contactor never separates far from the NC post.  The close proximity allows breakdown of the dielectric potential of the air between the posts and arcing to occur.<p>
 
 Solutions to this arcing problem come in two flavors, the dielectric and the contactor separation.  One solution used in high power relays is to enclose the contactors in a high-dielectric oil to suppress arcing.  This is very effective but the fluid is difficult to work with, expensive, and it slows the contact frequency greatly.  Recall that I am seeking at least a 60Hz contact frequency.  Another way is to place the contactors in a vacuum.  While not as good a dielectric as oil, it is significantly better than air and has the advantages of being easy to work with and maintains high frequency operation.  Several companies manufacture vacuum relays and, while expensive, this is the route I chose. Note: there is of course a third solution to abandon relays and go solid state.  This is fine if all you desire is cool sparks, but it is not in my directive.<p>
 Even vacuum relays when wired as a buzzer have the contact separation problem. If the contactors remain very close then arcing can still cause trouble.  One needs to force the contactor to move <u>all the way</u> to the NO contact with each cycle for maximum contactor separation.  The method to force the contactor to move to the fully open as well as fully closed position, allowing maximum separation, is to wire two relays in series.  The resulting contact frequency (duty cycle) will be half that of a single relay.  Happily the vacuum relays operate at a frequency of about 200-240Hz.  That provides a 100-120Hz operation in a two-relay configuration, very sweet.  Additionally, the two-relay output consists of a nice square-wave signal bringing joy to the professional radio engineer.  I know this because the circuit configuration was suggested to me by my clever elder radio engineer brother.  Fei chang gan xie!  Of course, this solution doubles the expense of an already expensive relay.  I have tried the configuration with general purpose relays and find the resulting 30Hz operation unacceptably slow.<p>
@@ -26,24 +26,24 @@ One final and somewhat late note concerning the vacuum relays.  These relays, (G
 
 So, would Fleming recognize this?  It is where I push the boundaries as I doubt that vacuum relays existed in his time.  Still, relay action was well understood in Fleming's day.  As for enclosing them in a vacuum?  Well, I defend myself by stating that Fleming himself invented the vacuum diode.  Enclosing electrical devices into vacuum bulbs was not a new idea even then.  So, while the vacuum relay may not have existed, relays themselves did and Fleming would have been comfortable with the vacuum technology.  I think...<p>
 Circuit diagram of the power module indicating the wiring concept for the two-relay solution.  And finally, a photo of the set with the two relays in position and ready to go.<p>
-<IMG SRC="dspk.jpg"><p>
-<IMG SRC="pspk3.jpg"><p>
+<IMG SRC="/dspk.jpg"><p>
+<IMG SRC="/pspk3.jpg"><p>
 
 Finally, a small gallery of relays, and even an old auto vibrator that were tested in my quest for the ideal interrupter.<p>
-<IMG SRC="ivacg.jpg"><IMG SRC="ivack.jpg"><IMG SRC="iboc.jpg"><IMG SRC="iomr.jpg"><IMG SRC="iomr2.jpg"><IMG SRC="iomr3.jpg"><IMG SRC="ipbr.jpg"><IMG SRC="ivib.jpg"><p>
+<IMG SRC="/ivacg.jpg"><IMG SRC="/ivack.jpg"><IMG SRC="/iboc.jpg"><IMG SRC="/iomr.jpg"><IMG SRC="/iomr2.jpg"><IMG SRC="/iomr3.jpg"><IMG SRC="/ipbr.jpg"><IMG SRC="/ivib.jpg"><p>
 
 <p>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/spark.shtml">Return..</a><br>
+<A HREF="/crystal/spark.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

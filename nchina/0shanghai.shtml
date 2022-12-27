@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, shanghai</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Map of Shanghai</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/0shanghai.jpg" alt="shanghai map"></center>
+<center><IMG SRC="/nchina/0shanghai.jpg" alt="shanghai map"></center>
 
 <hr size=15>
 <H3>A week stopover between Queensland and Northeast China, I took my leave to see this fabled city of business and sin.  The sin is gone but buisness and moderninity have returned to stay.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

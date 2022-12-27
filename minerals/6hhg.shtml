@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs petrography Hornblend Hypersthene Granulite</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/minerals/m13-3er.jpg"
+<BODY BACKGROUND="minerals/m13-3er.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Hornblend Hypersthene Granulite</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/minerals/6hhg.jpg"></a></center>
+<center><IMG SRC="/minerals/6hhg.jpg"></a></center>
 <hr size=15>
 <H3>
 The sample here contains essentially all hypersthene with minor relict hormblend seen with its green tone.  Hornblende and hypersthene have basically the same chemical formula with hornblend having some water in its structure and a more open crystal lattice.  Hypersthene by contrast has a compact and more dense structure and lacks any water.  As conditions progress with increasing burial and tectonic pressure the hornblende will recrystallize, release what water is there and form hypersthene in compact granulitic texture.  <p>
@@ -20,13 +20,13 @@ My Master's Thesis consisted of mapping, collecting, studying, and analysing num
 My study was to document these ancient events and to determine, via study of the minerology, the conditions of temperature and pressure under which these minerals originally formed and to find evidence, if possible, of the original sedimentary nature of the section.<br>
 kjs<P>
 <p>For those interested in the bitter detail on the petrology and origin of Gneiss and associated rocks, at least from one specific ancient locality, see my 
-<A HREF=http://www.lessmiths.com/~kjsmith/html/msthesis.pdf target= _parent>Master's Thesis....</a><p>
+<A HREF=/http://www.lessmiths.comhtml/msthesis.pdf target= _parent>Master's Thesis....</a><p>
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

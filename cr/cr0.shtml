@@ -4,7 +4,7 @@
 <META Name="description" Content="Photos from our recent visit to the natural paradice of Costa Rica.">
 <META Name="keywords" Content="costa rica">
 
-<BODY BACKGROUND="/~kjsmith/cr/crb.jpg"
+<BODY BACKGROUND="cr/crb.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -12,27 +12,27 @@
 <H2>Some Photos from Costa Rica!<br clear=left>
 </H2>
 <h4>
-<IMG align=right SRC="us1.jpg">
+<IMG align=right SRC="/us1.jpg">
 This February 2015 my wife and I enjoyed an excellent holiday with a Caravan Tour to Costa Rica.  Here are a few photos of the wonderful places we visited in this tropical paradice, enjoy! This page is a work ongoing and for the moment I have worked up only my better bird photos.  One are two are actually pretty good..<br>
 <p>
 
-I would love to hear from you if you have comments or questions.  Please write me at the following:  <IMG SRC="/~kjsmith/crystal/kjadd.jpg"> 
+I would love to hear from you if you have comments or questions.  Please write me at the following:  <IMG SRC="/crystal/kjadd.jpg"> 
 
 <hr size=10><h3>
-<A HREF="/~kjsmith/cr/cr0b.shtml">Tropical Birdies..</a>  Because they are just so interesting!.....<p>
-<A HREF="/~kjsmith/cr/cr0p.shtml">Tropical paradice..</a>  For your Viewing Pleasure.....<p>
+<A HREF="/cr/cr0b.shtml">Tropical Birdies..</a>  Because they are just so interesting!.....<p>
+<A HREF="/cr/cr0p.shtml">Tropical paradice..</a>  For your Viewing Pleasure.....<p>
 
 </h3><h4>
 <hr size=5>
 
-<IMG SRC="crm.jpg">
+<IMG SRC="/crm.jpg">
 
 <hr size=15>
 
 </h4><h3>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

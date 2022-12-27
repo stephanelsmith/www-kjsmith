@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, Guangzhou</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Fisherwoman, Zhuhai</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1g_zhi.jpg" alt="Fisherwoman, Zhuhai"></center>
+<center><IMG SRC="/nchina/1g_zhi.jpg" alt="Fisherwoman, Zhuhai"></center>
 
 <hr size=15>
 <H3>Sitting on the southwest edge of the Pearl River Estuary lies the resort city of Zhuhai, last stop in China before entering the enclave of Macao.  Opposite the estuary on the east side lies Macao's more famous cousin, Hong Kong.  Here we see the fisherwoman statue, symbol of Zhuhai.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

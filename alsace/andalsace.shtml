@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs alsace: andlau</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -13,9 +13,9 @@
 <H2>Arbre généalogique de la Maison d'Andlau<p></H2><p>
 <H3>
 <p><hr size=5><br>
-<IMG align=right SRC="andpic.jpg">
+<IMG align=right SRC="/andpic.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
+<h3><A HREF="/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
 <hr size=5>
 
 Les Andlau sont une famille noble alsacienne connue depuis le haut Moyen Âge, Rodolph I mourut après 1208. Le château d'Andlau est un monument emblématique d'Alsace situé dans les Vosges entre les villes de Sélestat et d'Obernai. Le site et la famille sont associés depuis le tout début du Moyen Âge à la célèbre abbaye de Hohenburg à mont Sainte-Odile. Cette région alsacienne a toujours joué un rôle dans la politique locale et les nobles qui ont protégé l'abbaye ont été des acteurs incontournables. <p>
@@ -23,7 +23,7 @@ Les Andlau sont une famille noble alsacienne connue depuis le haut Moyen Âge, Ro
 Dans mes recherches pour l'arbre généalogique, j'ai trouvé beaucoup d'informations sur la famille concerant de nombreuses branches distinctes au cours de près de 800 ans d'histoire familiale continue. La Maison d'Andlau existe encore à ce jour, une réalisation très remarquable. En travaillant l'arbre par contre, j'ai trouvé impossible de tracer chaque branche dans l'espace que je m'étais attribué. Les branches qui restent sont indiquées par des flèches bleues sur le graphique et mes notes complètes, y compris toutes les branches (pour lesquelles j'ai des informations), se trouvent dans le lien "PDF Input Notes".
 <p>
 
-<center><IMG SRC="/~kjsmith/alsace/LesAndlau.jpg" alt="Arbre généalogique de la Maison d'Andlau"></center><p>
+<center><IMG SRC="/alsace/LesAndlau.jpg" alt="Arbre généalogique de la Maison d'Andlau"></center><p>
 
 <H4>
 Références utilisées:<p>
@@ -69,12 +69,12 @@ kjs<br>
 2017<p>
 
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

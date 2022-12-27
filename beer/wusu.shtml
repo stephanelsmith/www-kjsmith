@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs beer label, wusu beer, china</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Wusu Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/wusu.jpg" alt="wusu beer label"></a><p>
-<IMG SRC="/~kjsmith/beer/wusu2.jpg" alt="wusu beer label"></a></center>
+<center><IMG SRC="/beer/wusu.jpg" alt="wusu beer label"></a><p>
+<IMG SRC="/beer/wusu2.jpg" alt="wusu beer label"></a></center>
 <hr size=15>
 <H3>
 Another central asian brew from the city of Urumqi in China's Xinjiang Province.  Its an arid warm climate, this brew keeps you from getting too dry.  Urunqi is an interesting place, it is located qithin a couple hundred klicks of the ominously sounding "Continental Pole of Inaccessability".  I am not joking!  That pole is a curious mathematical construct that allows one to find that spot on the face of the earth that is farthest and most remote from any ocean or sea.  My work took me into the Bogda Shan even a bit closer to the CPI.  So, no matter how remote the outpost, there is always a beer to drink....
@@ -19,14 +19,14 @@ Another central asian brew from the city of Urumqi in China's Xinjiang Province.
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="amp0.jpg">
+<IMG align=right SRC="/amp0.jpg">
 <H2>A breadboard Audio Amplifier
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 
 <h4>
@@ -28,23 +28,23 @@ The amplifier certainly adds to the vintage "look" of my setup.  Well, you be th
 <p><hr size=15>
 
 From the front, wooden base, full display of components, big adequate volume control..
-<br><IMG SRC="amp1.jpg"><p>
-<IMG SRC="bar3e.jpg"><hr>
+<br><IMG SRC="/amp1.jpg"><p>
+<IMG SRC="/bar3e.jpg"><hr>
 
 It even looks nice from behind, vintage binding posts, naturally..
-<br><IMG SRC="amp2.jpg">
-<IMG SRC="bar3e.jpg"><hr>
+<br><IMG SRC="/amp2.jpg">
+<IMG SRC="/bar3e.jpg"><hr>
 
 Schematic of the kit, (AnyKits.com) A005.  The kit is configured with a maximum gain between 45 and 50, too high for headphones but too low really for listening with the speaker easily.  You will note the location of R1 (in series with a 10uF capacitor) between pins 1 and 8 on the LM386.  If you short the resistor leaving only the capacitor, then the gain will increase to the maximum of 200.  If you do such a project, I recommend you download the LM386 datasheet from National Instruments.
-<br><IMG SRC="ak05.jpg">
-<IMG SRC="bar3e.jpg"><hr>
+<br><IMG SRC="/ak05.jpg">
+<IMG SRC="/bar3e.jpg"><hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

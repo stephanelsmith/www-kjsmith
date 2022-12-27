@@ -1,24 +1,24 @@
 <HTML>
 <HEAD>
 <TITLE>kjs pinhole photograph gallery, lightening</TITLE>
-<BODY BACKGROUND="/~kjsmith/pinhole/back.jpg"
+<BODY BACKGROUND="pinhole/back.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><h3>Sténopé, a Gallery of pinhole photograpy... <br>Lightening groundstrike..</H3></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/pinhole/p7bolt.jpg" alt="pinhole photograph gallery, lightening"></center>
+<center><IMG SRC="/pinhole/p7bolt.jpg" alt="pinhole photograph gallery, lightening"></center>
 
 <hr size=15>
 <H3>In the May 2001 issue of Scientific American it was reported that Houston has the highest incidence of lightening groundstrikes in North America.  For the local pinhole photographer "flash" photography seems a natural.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

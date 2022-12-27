@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, Northeast China</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Jilin, Northeast China</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1ne_jln.jpg" alt="Jilin, Northeast China"></center>
+<center><IMG SRC="/nchina/1ne_jln.jpg" alt="Jilin, Northeast China"></center>
 
 <hr size=15>
 <H3>The city of Jilin on the Songliao River is the old capitol of Jilin Province.  There each year on the West Mountain Buddhist Temple is a festival which I have the fun to see.  Here a young woman hangs a card with her wishes for a good future (I presume).  This is common practice I learn at festivals in China and as you see in the photo, she is only one of thousands to place her wishes on the wall.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

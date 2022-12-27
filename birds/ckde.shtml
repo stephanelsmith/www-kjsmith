@@ -2,21 +2,21 @@
 <HEAD>
 <TITLE>kjs bird photos, Carolina Chickadee</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Carolina Chickadee, Houston</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/ckde.jpg"alt="Carolina Chickadee"></a><p>
-<IMG SRC="/~kjsmith/graphics/ckde2.jpg"alt="Carolina Chickadee"></a><p>
-<IMG SRC="/~kjsmith/graphics/ckde4.jpg"alt="Carolina Chickadee"></a></center>
+<center><IMG SRC="/graphics/ckde.jpg"alt="Carolina Chickadee"></a><p>
+<IMG SRC="/graphics/ckde2.jpg"alt="Carolina Chickadee"></a><p>
+<IMG SRC="/graphics/ckde4.jpg"alt="Carolina Chickadee"></a></center>
 <hr size=15>
 <H3>
 Our garden chickadee's are very discreet eaters.  Unlike the other birds who land on the feeder and proceed to binge on the sunflower seeds, occasionally jostling and chasing away other birds, the chickadee's zoom in from a nearby branch, quickly choose a seed and then fly off to eat it.  This behavior is not random, the little birds are unable to crack the seeds in their tiny beaks.  Once they get to a nice safe branch with their seed, they place it between their feet against the branch and proceed to peck at it like itty-bitty woodpeckers till the shell gives way and they get a tasty treat.  I think this is why they clearly prefer the yellow feeder, it hangs from a tree which offers many safe nearby branches for them to hide in.  These cheery little characters will always be welcome.<p>
 
-<center><IMG SRC="/~kjsmith/graphics/ckde-cht.jpg"alt="Carolina Chickadee"></a></center><br>
+<center><IMG SRC="/graphics/ckde-cht.jpg"alt="Carolina Chickadee"></a></center><br>
 Stats show our Chickadees to be few, just one to three birds, but present most of the time except autumn.  A second dip in frequency in May-June seems unusual, no explanation from me!<p>
 
 <br>kjs<P>
@@ -24,14 +24,14 @@ Stats show our Chickadees to be few, just one to three birds, but present most o
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

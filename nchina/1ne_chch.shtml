@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, Northeast China</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Changchun, Northeast China</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1ne_chch.jpg" alt="Changchun, Northeast China"></center>
+<center><IMG SRC="/nchina/1ne_chch.jpg" alt="Changchun, Northeast China"></center>
 
 <hr size=15>
 <H3>Winter portrait of Changchun showing the modern television tower in the distance and the Jilin University Hospital in the foreground. The archectetural style of the building reveals it to be a former Japanese structure built during the occupation. In fact the building used to be the Military Ministry of the Manchuguo Puppet State.  The Japanese occupation weighs heavily on the city of Changchun with archectetural reminders located throughout the city.  I pray that such horrors may never happen again!<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

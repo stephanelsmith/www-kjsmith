@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, pilsener, ecuador</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Cerveza Pilsener</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/pilsener.jpg"alt="Pilsener Label"></a></center>
+<center><IMG SRC="/beer/pilsener.jpg"alt="Pilsener Label"></a></center>
 <hr size=15>
 <H3>
 It is 12 years since I first visited Quito in Ecuador.  On that first visit I enjoyed the local beer but did not take any labels.  It was only later, in Bolivia that I had the idea to collect labels off the bottles I drank.  Now, much later I again have had the opportunity to work on, and visit, Ecuador.  Here is the label for Cerveza Pilsener, a fine brew which satisfied me both in Quito and in the Amazon while conducting my geological investigations.  
@@ -18,14 +18,14 @@ It is 12 years since I first visited Quito in Ecuador.  On that first visit I en
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

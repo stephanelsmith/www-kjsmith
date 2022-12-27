@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, performance review</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/book.jpg"
+<BODY BACKGROUND="/graphics/book.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -30,9 +30,9 @@ My proposal seeks to identify quality and leadership without recourse to cronyis
 kjs 11/97<p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

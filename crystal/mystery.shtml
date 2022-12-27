@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="mys0.jpg">
+<IMG align=right SRC="/mys0.jpg">
 <H2>My first homemade, A Mystery Set
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 
 <h4>
@@ -18,28 +18,28 @@ Having made the Dunwoody and experienced the thrill of listening to the local br
 My intent, after studying so many variations of this set was to settle on the original set as published in the 1932 Brisbane Sunday Mail.  If I can do well, then only can I consider modifications.  My plan was to take the basic circuit, but otherwise use my own forms and wire, calculating appropriate inductor dimentions and winding specific for my needs.  I sought a square coil with large dimentions, 8cm mailing tube wound with 18 AWG magnet wire, switchable detector between a diode and homebrew, and a lovely vintage 500pF cap, all displayed on a breadboard box with wireing hidden inside.  <br>
 The risk here was inexperience and it certainly came home!  My 18 AWG wire turns per inch were rather different from values assumed in the "Professor Coyle" spreadsheet, both because the sheet assumes bare wire and because my ability to close wind is not that great!  My first attempt was for experience, but not for getting a useful coil.  Rethinking and adjusting allowed success, almost, on the second attempt and I got 46 out of a planned 48 turns on the main coil.  Assembly was difficult but in the end I had a lovely set that wouldn't bring in anything!  Well, almost nothing, some weak interfering stations at the cap's full-open position.  My first photo is of this incarnation. <br> 
 <hr>
-<br><IMG SRC="mys1.jpg">
-<IMG SRC="bar3e.jpg"><hr>
+<br><IMG SRC="/mys1.jpg">
+<IMG SRC="/bar3e.jpg"><hr>
 More study, more puzzling over the problem, more calculations, more frustration, more more study.. Did I say that?  Short of complete disassembly, which I was loath to do, I was unsure where to go with it.  Reading all I could, I came across a set with a modification with a second cap tuning the antenna, this I could test!  My antenna, by the way, is a 100ft 14g stranded insulated copper wire with an additional 30ft or so of lead-in.  Tuning the antenna seemed promising and when placing a cap the set suddenly found its voice!  With a working radio, I had the dilemma of what to do with the case.  No second cap would fit.  The large vintage capacitor could easily be replaced by two small modern caps though and testing showed that in reality they tuned very effectively with a dual-gang capacitor which is what I settled for in the end.  The set still dosnt tun below about 700 Khz or so.  Posing the question on the Xtal Set Societie's excellent discussion forum Rap'n Tap brought elightenment from Golfguru who wisely asked the length of my winding, pointing out that the inductance of the coil should be calculated from the total length of the windings, INCLUDING the bifilar primary.  Running back to Professor Coyle with a 3.27 inch length gave me 112 uH and a lower tuning range of 660 kH or so.  So, "Mystery" solved...  <p>
 The following is a final schematic of the set and photos of the set as it exists.  I listen to it most evenings as I work.<p>
 
-<br><IMG SRC="mysc.jpg"><p>
-<IMG align=left SRC="myper.jpg">
+<br><IMG SRC="/mysc.jpg"><p>
+<IMG align=left SRC="/myper.jpg">
 Performance summary for the radio.  My Mystery set, despite initial mis-calculations on the coil winding specs, turns out to be a fair performer.  the bandwidth around a nominal 1100Khz is 43Khz giving a set Q of 26.  This result is superior to both my DeForest and my kit Dunwoody, not bad for a first try!  Sensitivity comes in at 19%, second after the DeForest.  So, I consider this a successful entry into the world of scratch-built crystal radios.<br clear=left><p>
-<IMG SRC="bar3e.jpg"><p>
-<IMG SRC="mys2.jpg"><p>
-<p><IMG SRC="mys3.jpg">
+<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="/mys2.jpg"><p>
+<p><IMG SRC="/mys3.jpg">
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 <hr>
-<p><IMG SRC="ptrmy.jpg"><p>
+<p><IMG SRC="/ptrmy.jpg"><p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

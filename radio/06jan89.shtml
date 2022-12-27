@@ -11,14 +11,14 @@
 <H3>
 
 <hr>
-<center><IMG SRC="06jan89.gif" alt="06jan89" width=627 height=413></center>
+<center><IMG SRC="/06jan89.gif" alt="06jan89" width=627 height=413></center>
 <hr>
 Major flare at 1805UT, (1205 CST).  Also note the evening signal dropout and return.
 
 <hr size=15>
-<A HREF="r3flare.shtml">Return..</a><br></h3>
+<A HREF="/r3flare.shtml">Return..</a><br></h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

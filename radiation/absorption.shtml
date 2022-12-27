@@ -2,28 +2,28 @@
 <HEAD>
 <TITLE>kjs radiation</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/radiation/bg1sym.jpg"
+<BODY BACKGROUND="radiation/bg1sym.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="bgabplot.jpg">
+<IMG align=right SRC="/bgabplot.jpg">
 <H2>Radiation Absorption Experimentation</H2>
-<H4><A HREF="/~kjsmith/radiation/radiation.shtml">Back to Lab..</a><br>
-<A HREF="/~kjsmith/radiation/muons.shtml">On to Muons..</a><br>
+<H4><A HREF="/radiation/radiation.shtml">Back to Lab..</a><br>
+<A HREF="/radiation/muons.shtml">On to Muons..</a><br>
 <hr>
 
 Absorption of Radiation (Attenuation)<p>
 
 We have seen how to look at background radiation and what it can teach us about the statistical analysis of radiation data, and we have looked at a few commonly available radioactive sources and why the variety isotopes is so limited.  This experiment should allow one to look more deeply into the nature of the radiation itself.  Any text concerning ionizing radiation will explain the three particles, or types of radiation involved 1) Alpha: two protons and two neutrons, essentially a helium nucleus, 2) Beta: a single electron for each beta decay, and 3) Gamma: a "ray" or photon particle defined by its energy state more than by a physical characteristic.  <p>
 Most texts explaining radiation will include a required diagram like that shown at the upper left.  Here one sees alpha particles stopped by a sheet of paper while a sheet of aluminum will stop a beta particle.  Only a substantial thickness of lead can stop the mighty gamma.  This diagram implies (incorrectly) a sort of step-wise relation and suggests, or at least suggested to me, an interesting experiment.  Measure the total CPM of a sample, then re-measure with a sheet of paper to block out the alpha, and finally re-re-measure with a sheet of aluminum to block out alpha plus beta.  With this data one would be able (were it true) to extract the counts for alpha, beta, and gamma by difference. <p> 
-<IMG align=left SRC="zdensities.jpg"><p>
+<IMG align=left SRC="/zdensities.jpg"><p>
 If you try this you will quickly discover things do not work this way.  Every measurement with a different absorber will yield a different count.  Being systematic here will pay dividends.  Getting organized, I began by building the inventory of absorbers in the photo below.  These range from a single piece of light tissue paper to a 1/4 inch slab of lead.  I was seeking to assemble a set of absorbers with a very wide variety densities and masses.  I figured the greater the mass, the greater the absorption.  My materials are included in the table at left giving the density carefully measured and/or researched.  I also give the atomic number although I did not make use of this information in my experiment.  <p>
 The setup consists of the Geiger counter laying flat on a table with an open wire platform one centimeter above to hold the radioactive sample.  Between the platform and the counter was a space into which I placed the absorbers.  I ran the experiment twice, once with a uranium sample and once with a thorium sample.  At the bottom of the page is a detail listing of the experimental program consisting of a full 42 measurements with different absorbers and absorber combinations.  Each measurement was integrated over 15 minutes so, from the background study, I expect my precision to be plus or minus 5%.  To get greater precision would require too much time.  As things turned out, this works quite well. <p> 
-<IMG SRC="absorbers.jpg"><p>
+<IMG SRC="/absorbers.jpg"><p>
 
 I will go straight to the results before discussion the theoretical underpinnings.  The following chart plots all the measurements in terms of CPM versus absorber mass.  The mass is a simple calculation based on the density, thickness, and collecting area for each measurement, and tabulated at the bottom table.  It is immediately apparent that two separate trends in the data are present, this got interesting!  While my interpretations and conclusions are plastered all over the plot, please bear with me for an explanation for how I got there.  Theoretical underpinnings will come next.  <p>
-<IMG SRC="uraniumplt.jpg"><p>
+<IMG SRC="/uraniumplt.jpg"><p>
 
 The plot above shows the main trends with an inset for a more detail look at the corner near the Y-intercept.  I interpret the two trends as those for Gamma and Beta radiation.  My instrument and measurement setup is very challenged for Alpha radiation, although, pushing things, I suggest some 3% just the same.  <p>
 Below I have a table for the U-238 decay chain and below that a chart I found a few years back in a spreadsheet for which I neglected to note the reference.  Still, this chart, and the U-238 decay chain table tell me that uranium decay should produce all three types of radiation with gamma at 12%, beta at 42% and alpha at 46% of the total.  As my setup detects alpha poorly, I have re-normalized this to show, without alpha, the expected radiation should be some 23% gamma and 77% beta.  My own data suggests 23% gamma, 74% beta with a possible 3% alpha, pretty close!  <p>
@@ -47,9 +47,9 @@ Attenuation coefficients are particle energy specific and these numbers would ap
 Given the information I have on absorber Z, density, mass, and attenuation, I suspect there may be enough to calculate the average particle energy as well, but I have not found the "right" reference to go farther.
 
 <p>
-<IMG SRC="udecays.jpg"><p>
-<IMG SRC="Udecay.jpg"><p>
-<IMG SRC="fullparams.jpg"><p>
+<IMG SRC="/udecays.jpg"><p>
+<IMG SRC="/Udecay.jpg"><p>
+<IMG SRC="/fullparams.jpg"><p>
 
 This has been great good fun.  Now to get serious and try to do something useful with Muons next.
 <p>
@@ -57,13 +57,13 @@ This has been great good fun.  Now to get serious and try to do something useful
 kjs 2017 <p>
 <hr size=15>
 </h4><h3>
-<A HREF="/~kjsmith/radiation/radiation.shtml">Return to Lab..</a><br>
+<A HREF="/radiation/radiation.shtml">Return to Lab..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs ruby mountains geology</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/msthesis/bgthesis1.jpg"
+<BODY BACKGROUND="msthesis/bgthesis1.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -11,24 +11,24 @@
 <p><hr size=15><br>
 
 <p>
-<h3><A HREF="/~kjsmith/msthesis/msthesis.shtml">Back to Master's Thesis main page..</a><br>
+<h3><A HREF="/msthesis/msthesis.shtml">Back to Master's Thesis main page..</a><br>
 <hr size=5>
 
 <p>
 Location map of all stations visited in the field. A "station" was a spot on the ground where I stopped to note the rock type, along with geological notes, or make strike and dip measurements.
 <p>
 
-<center><IMG SRC="/~kjsmith/msthesis/StationsMapC.jpg" alt="Hinch Creek Geology"></center><p>
+<center><IMG SRC="/msthesis/StationsMapC.jpg" alt="Hinch Creek Geology"></center><p>
 
 kjs<br>
 2021<p>
 <hr size=15>
-<A HREF="/~kjsmith/msthesis/msthesis.shtml">Back to Master's Thesis main page</a><p>
+<A HREF="/msthesis/msthesis.shtml">Back to Master's Thesis main page</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Return to Main...</a></H3>
+<A HREF="/html/main.shtml">Return to Main...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

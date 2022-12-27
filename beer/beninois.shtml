@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, beninoise, benin</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>La Béninoise Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/beninois.jpg" alt="beninoise beer label"></a></center>
+<center><IMG SRC="/beer/beninois.jpg" alt="beninoise beer label"></a></center>
 <hr size=15>
 <H3>
 Imagine getting off an Air Afrique jet at the Cotonou airport while in route from Pointe Noire to Paris.  The night air is heavy with the heat and humidity as you walk across the tarmac to the transit lounge for dinner.  Inside the temperature increases with the presence of so many people.  As you wait at a table you try not to move, uncomfortable in the stifiling heat and drenched in perspiration.  Finally the waiter arrives and places a cold Béninoise on the table before you.. you are going to survive.
@@ -18,14 +18,14 @@ Imagine getting off an Air Afrique jet at the Cotonou airport while in route fro
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

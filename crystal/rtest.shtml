@@ -7,17 +7,17 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="dmy.jpg">
+<IMG align=right SRC="/dmy.jpg">
 <H2>Radio Test
 </H2>
-<H4><A HREF="/~kjsmith/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 OK, now that you have built a radio, or several, how do they perform?  Without a bit of objective testing you will never really know.  I have often read descriptions of radio performance such as "tunes very sharply" or "separates two closely spaced stations" and/or etc.  These are qualitative descriptions that do not really give you much information.  To know your radio, it takes some measuring.  I am making the assumption here that, as a homebrew radio builder, you will find tinkering and measuring your sets just as interesting as their design and construction... and listening!<p>
 
 For testing, I have pretty much lifted the excellent procedure outlined by Charles Lauter with a few modifications to suit my own quirks.  I will give my own protocol but first let’s look at the needed equipment and test setup.  Testing a crystal set requires two pieces of homemade equipment, 1) a dummy antenna in front of the set which allows measurement points, and 2) a measurement load at the back end.  Other pieces of equipment include a signal generator, an rms voltmeter (or oscilloscope), a resistance meter, and a good digital voltmeter.  Circuit schematics for the homebrew components are shown below.  <p>
 
-<IMG align SRC="tsts.jpg"><br>
+<IMG align SRC="/tsts.jpg"><br>
 For the tests I originally found an old analog signal generator on ebay which I sadly discovered to be wholly inadequate. The unit was by no means cheap but the dial was difficult to read with any precision and the "play" in the dial made readings hopelessly inaccurate. Finally, it gave no indication of the attenuation or voltage output levels, rms or pp, of the signal. I have since found a nice, reasonably-priced new digital unit, (max's out at 2Mhz so strictly for AM band work) that gives good digital output with voltage level in pp, and can even produce different wave forms. I recommend if you are seeking to equip your lab, go this way from the start! <p>
 
 To calculate the signal input power you will need a good rms voltmeter.  This is a non-trivial item and, after my experience with the vintage signal generator I was leery of getting a used meter.  In any case, an expensive dedicated single-use piece of equipment seemed extravagant.  For this measurement I have found entirely acceptable results using an oscilloscope which, of course, is useful for so much more and belongs in your lab regardless!<p>
@@ -54,7 +54,7 @@ Test Protocol as follows:<p>
 
 Having built a fair number of sets, and with varying quality, all the above protocol was developed to test my sets.  What follows now is a discussion of how my sets stack up against each other and some notes on what one may expect in a crystal radio performance-wise.  I give a summary table below of the essential data gathered on each of my sets.<p>
 Table 1<br>
-<IMG align SRC="tbfig6.jpg"><p>
+<IMG align SRC="/tbfig6.jpg"><p>
 
 The above table of measurements were made at a nominal frequency of 1100khz and input voltage of 0.2Vpp as indicated on a digital signal generator following the protocol outlined. I give the radio name under test should you wish to refer to my pages for more on each set.  The columns as follows: <p>
 Vin = 0.2V pp (0.71mV rms)<br>
@@ -70,36 +70,36 @@ Rd = Diode junction resistance Rd used in the set <p>
 From the data above some interesting observations can be made. <p>
 
 Figure 1. <br>   
-<IMG align SRC="msfig1.jpg"><p>
+<IMG align SRC="/msfig1.jpg"><p>
 
 In figure 1 above I show the relation of the input power versus the set resistance. The quality of the fit reflects that fact that this is largely a calculated value, but it does illustrate the importance of having a low input impedance to match that of the antenna. This is not often considered in discussions on impedance matching but is critically important. The antenna has an impedance in the 25 - 50 ohm range, not easy to get this in a set without quality parts and construction. My sets typically have an input impedance in the low 100’s ohms and only two of my sets really get down to the 50-60 ohm range giving a good match to the antenna.  Both of these are double-tuned sets with a tuggle front end.  <p>
 If you are serious about getting DX and doing a lot of heavy lifting, you will need a good antenna tuner as part of your set design.<p>
 
 Figure 2. <br>
-<IMG align SRC="msfig2.jpg"><p>
+<IMG align SRC="/msfig2.jpg"><p>
 
 At the back end of the set things get a bit messier and are not east to show with a simple two-component plot.  Here I have chosen to highlight the importance of the proper load resistance on the set loaded Q. In my set testing I have tried to pay close attention to the importance of the load on the tank and diode.  Early on I considered construction of an output transformer unit that would work with different radio’s as well as with different phones.  Such a design can be found on Ben Tongue’s excellent and highly technical web site.  The plans were well beyond what I was able/willing to take on so I turned my attention to discovering just what load resistance exactly do my sets require for maximum power transfer.  After all, if I found only a small range typical values, I might design a generic transformer that would work well with many or all minus the complicated switching.  <p>
 
-<IMG align=right SRC="msfig5.jpg">
+<IMG align=right SRC="/msfig5.jpg">
 In my testing protocol therefore, I included the important step of determining the optimum load resistance for the set under test conditions. I certainly part company with the school of thought that says to test all sets exactly the same way, including same diode (1N34A typically) and same test load. Sets are designed to work best when impedance matched and at the back end that generally means a load matched to the tank/diode combination that delivers the maximum power.  At right I show a small plot where I varied the load resistance over a wide range and calculated the output power of the set.  (I give the plot with both a linear and a more appropriate log scale).  This should demonstrate the importance of optimizing the load resistance.<p>
 
 Optimum load resistance depends on both the tank Q and that portion of the diode detecting the signal.  That in turn depends on the signal level.  Very weak signals will be rectified in the square-law region of the diode characteristic and require relatively high (and variable) load resistances.  Normal to strong signals will be rectified primarily along the peak-detection portion of the diode characteristic and require lower load resistance with less variation.  Not shown in the above spreadsheet, I also ran measurements with a 2.0Vpp input.  With this stronger signal, rectification was taking place farther out on the diode characteristic.  As expected, the measured optimal load resistances for this case was similar to or lower than that for the 0.2Vpp input case.  <p>
 With all that said, the plot is messy but the impression is that of increasing Q with increasing Rl.  I view the plot as having a number of small groupings of measurements with similar conditions, each showing higher Q’s associated with higher load resistance.<p>
 
 Figure 3. <br>
-<IMG align SRC="msfig3.jpg"><p>
+<IMG align SRC="/msfig3.jpg"><p>
 
 Figure 3 is most obvious with the clear benefit of good set efficiency on output power. An efficient set will better approach the maximum power transfer desired.  High Q plays a part here.  Still, there is always the tradeoff between selectivity (high Q) and sensitivity.  An efficient set delivers more power to the load, but to go after Q you will ultimately be sacrificing sensitivity.<p>
 
 Figure 4. <br>
-<IMG align SRC="msfig4.jpg"><p>
+<IMG align SRC="/msfig4.jpg"><p>
 
 Here in figure 4 I look at Sensitivity versus Selectivity.  For sensitivity I take the power output in uW (all set tests use the same input power), and for selectivity I take the calculated Q at -3 dB.  My data indicates there may be an upper limit (given my test conditions) to the sensitivity for any set unloaded Q.  The red diamonds are my "good technique" radios.  Note that it is always possible with a little effort (poor design/materials/technique) to construct a set that underperforms, the grey crosses indicate that I have built my fair share!  Still, the overall compromise between sensitivity and selectivity is a physical reality in the hobby.   Recall that the above is for the 1100Khz frequency and that Q is a function of frequency.  <p>
 
 In order to explore this final conclusion, I have taken a look at Dave Schmarder’s excellent bandwidth analysis of his #50 contest set.  This set is a superb work of craftsmanship and skill, experience and usage of the best ($$$) materials available.  I take this to be just about the most of what can wrung out of the sky with a crystal radio.  Dave’s protocol is rather different from my own and he did not make a specific -3dB bandwidth measurement so what I do from here on takes many liberties with his work, my sincere apologies in advance!<p>
 
 Figure 5.<br>
-<IMG align SRC="Dave50sen.jpg"><p>
+<IMG align SRC="/Dave50sen.jpg"><p>
 
 In figure 5 above I have attempted to cast Dave’s measurements into something similar to what I am doing, which is looking at the -3db BW and Q at 1100khz. I finally produced the above spreadsheet where I simply smoothed the data for the 1000khz case and estimated the bandwidth at -3dB. This makes a LOT of assumptions of course. Mostly I assume that the +-10khz measurements are well above the resonance skirt so my smooth curve is not unreasonable. <p>
 
@@ -108,26 +108,26 @@ The #50 set then appears to have, at 1000khz, a -3db bandwidth of around 8-11khz
 In the final figure 6 I have taken my estimated results above and looked at how Q and peak voltage (assuming constant conditions other than the spacing between the antenna and detector units so this ought to reflect power as well). It is quite apparent that the set is rapidly losing output power while Q improvements are flattening out as the spacing between tank and antenna tuner grows to 18 inches. It would appear that a -3db loaded Q of 125 (at 1100Khz) is near the limit of what can be expected in a crystal set. <p>
 
 Figure 6. <br>
-<IMG align SRC="dvfig5.jpg"><p>
-<IMG SRC="bar3e.jpg"><p>
+<IMG align SRC="/dvfig5.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 References:<br>
-<A HREF="http://www.oldradioworld.de/gollum/testing.htm">Great page of Charles Lauter</a><br>
-<A HREF="http://makearadio.com/misc-stuff/bandwidth.php">With much appreciation to Dave Schmarder</a><p>
-<IMG SRC="bar3e.jpg"><p>
+<A HREF="/http://www.oldradioworld.de/gollum/testing.htm">Great page of Charles Lauter</a><br>
+<A HREF="/http://makearadio.com/misc-stuff/bandwidth.php">With much appreciation to Dave Schmarder</a><p>
+<IMG SRC="/bar3e.jpg"><p>
 
-<IMG align SRC="labnew.jpg"><p>
-<IMG align SRC="lab1.jpg"><br> Photo of the lab with my signal generator, artificial antenna, and keithley bench meters.<p>
+<IMG align SRC="/labnew.jpg"><p>
+<IMG align SRC="/lab1.jpg"><br> Photo of the lab with my signal generator, artificial antenna, and keithley bench meters.<p>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/lab.shtml">Return..</a><br>
+<A HREF="/crystal/lab.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

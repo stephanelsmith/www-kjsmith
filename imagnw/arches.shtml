@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs western usa photo gallery, arches national park, utah</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+<BODY BACKGROUND="imagnw/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Arches Nationa Park, Utah.</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagnw/arches.jpg" alt="Arches Nationa Park, Utah"></center>
+<center><IMG SRC="/imagnw/arches.jpg" alt="Arches Nationa Park, Utah"></center>
 
 <hr size=15>
 <H3>Outside the town of Moab sits the facinating park called Arches, celebrated in Edward Abbey's book "Desert Solitaire".  It has often occurred to me that most of the state of Utah could be considered a park, a visit there is highly recommended.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

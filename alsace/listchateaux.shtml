@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs alsace: châteaux</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H1>Châteaux d'Alsace</H1></center><P>
 
 <p><hr size=15><br>
-<IMG align=right SRC="ChDate.jpg">
+<IMG align=right SRC="/ChDate.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/almisc0.shtml">Retour à Mélange..</a><br>
+<h3><A HREF="/alsace/almisc0.shtml">Retour à Mélange..</a><br>
 <hr size=5>
 
 La carte et la liste suivantes comprennent 95 châteaux / châteaux que l'on peut trouver et éventuellement visiter en Alsace. (Certains sont privés et / ou considérés comme trop dangereux et ne sont donc pas disponibles pour la visite). Cette liste est probablement moins de la moitié du nombre total construit au Moyen Age en Alsace, mais ce sont ceux qui existent encore, plus ou moins intacts. Parmi les châteaux classés, 65 se trouvent plus ou moins dans les montagnes. 28 autres sont plus proprement appelés châteaux dans les plaines. Parmi ceux-ci, il en reste, même en ruine, à visiter. En général, ces structures ont été incorporées dans des villes en croissance et ont été soit transformées en bâtiments municipaux, soit nettoyées pour faire place à des bâtiments municipaux. D'autres ont été extraites pour la pierre et / ou défrichées pour la culture. Un rapide coup d'œil sur le graphique à droite suggère que les 13ème et 14ème siècles ont été les plus actifs dans la construction des châteaux. <p>
@@ -21,7 +21,7 @@ L’une des raisons de la densité incroyable de châteaux dans cette région était q
 Les données de la liste proviennent de nombreuses sources, de livres et du Web. Comme toujours avec des informations de ce type, les dates et les fondateurs ne sont pas toujours fiables et tous doivent être pris avec une dose de sel. J'ai rassemblé une très bonne bibliothèque de livres français sur les châteaux alsaciens et j'espère avoir pris un bon départ. Toutes les erreurs sont les miennes.<p>
 <p><hr size=5><br>
 
-<center><IMG SRC="/~kjsmith/alsace/carteChateau.jpg" alt="Châteaux d'Alsace"></center><p>
+<center><IMG SRC="/alsace/carteChateau.jpg" alt="Châteaux d'Alsace"></center><p>
 
 <p><hr size=5><p>
 <pre>
@@ -127,12 +127,12 @@ Wolfisheim	 	XIII	Lichtenstein
 kjs<br>
 2016<p>
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

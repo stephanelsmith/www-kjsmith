@@ -2,19 +2,19 @@
 <HEAD>
 <TITLE>kjs bird photos, Downy Woodpecker</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Downy Woodpecker, Katy</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/dpkr1.jpg"alt="Downy Woodpecker"></a><p>
-<IMG SRC="/~kjsmith/graphics/dpkr2.jpg"alt="Downy Woodpecker"></a></center><p>
+<center><IMG SRC="/graphics/dpkr1.jpg"alt="Downy Woodpecker"></a><p>
+<IMG SRC="/graphics/dpkr2.jpg"alt="Downy Woodpecker"></a></center><p>
 Downy Woodpeckers have been an occasional part of the garden life for years and when I began feeding birds last summer I certainly wished to attract them with a suet feeder.  For nearly 9 months they have ignored and/or avoided the garden and its alluring suet.  Now for the past month a Red-Bellied Woodpecker couple have begun enjoying this feast.  Jealous perhaps, or just by chance, our Downy friend has finally discovered the table.  Bonne appetite!<p>
 
 
-<center><IMG SRC="/~kjsmith/graphics/dpkr-cht.jpg"alt="Downy Woodpecker"></a></center><p>
+<center><IMG SRC="/graphics/dpkr-cht.jpg"alt="Downy Woodpecker"></a></center><p>
 Garden stats on our downy woodpeckers.  Never abundant, generally one induvudual at a time.  He/she/they are most common in summer probably because of available suet to feed youngsters.<p>
 
 <br>kjs<p>
@@ -22,14 +22,14 @@ Garden stats on our downy woodpeckers.  Never abundant, generally one induvudual
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

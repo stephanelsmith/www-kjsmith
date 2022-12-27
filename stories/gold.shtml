@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, white salmon creek, washington</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 <hr size=15>
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="/~kjsmith/graphics/gold.jpg"> <br clear>
+<img SRC="/graphics/gold.jpg"> <br clear>
 </td></tr></table>
 
 When I was working in the mountains of the Cascades near the
@@ -33,7 +33,7 @@ local bar.  Often I would take evening strolls by the stream
 that went by the camp.  In days past the lumbermen of the
 region had built a flume that was fed by that stream to
 deliver logs and cut wood to the mills on the Columbia.  
-<A HREF="/~kjsmith/imagnw/flume.shtml">
+<A HREF="/imagnw/flume.shtml">
 That flume </a> remains in operation, the last working lumber flume in
 the United States.  The stream with it's flume was the place of
 my earthly delight.  There was the dense crowded woods, the
@@ -60,11 +60,11 @@ than monetary and for that time I was certainly one of the
 richest of men on earth.<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/stories/stories.shtml">Go back....</a></H3><P>
+<A HREF="/stories/stories.shtml">Go back....</a></H3><P>
 <hr size=15>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

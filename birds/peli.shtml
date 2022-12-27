@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, white pelican</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -14,11 +14,11 @@ White pelicans have been recovering and returning to many parts of their former 
 My wife and I were honored to participate in this release and the following photos capture in a small way the event.<p>
 
 
-<center><IMG SRC="/~kjsmith/graphics/peli0.jpg"alt="White Pelican"></a><p>
-<IMG SRC="/~kjsmith/graphics/peli1.jpg"alt="White Pelican"></a><p>
-<IMG SRC="/~kjsmith/graphics/peli2.jpg"alt="White Pelican"></a><p>
-<IMG SRC="/~kjsmith/graphics/peli3.jpg"alt="White Pelican"></a><p>
-<IMG SRC="/~kjsmith/graphics/peli4.jpg"alt="White Pelican"></a></center><p>
+<center><IMG SRC="/graphics/peli0.jpg"alt="White Pelican"></a><p>
+<IMG SRC="/graphics/peli1.jpg"alt="White Pelican"></a><p>
+<IMG SRC="/graphics/peli2.jpg"alt="White Pelican"></a><p>
+<IMG SRC="/graphics/peli3.jpg"alt="White Pelican"></a><p>
+<IMG SRC="/graphics/peli4.jpg"alt="White Pelican"></a></center><p>
 
 We wish these pelicans the best of luck!  Would that state and local authorities do more to educate and prevent disturbances to such magnificant birds.
 
@@ -28,14 +28,14 @@ We wish these pelicans the best of luck!  Would that state and local authorities
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

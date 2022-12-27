@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, mt st helens, washington</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 <hr size=15>
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="/~kjsmith/graphics/sthelens.jpg"> <br clear>
+<img SRC="/graphics/sthelens.jpg"> <br clear>
 </td></tr></table>
 
 During my university years in Washington State, I spent a
@@ -79,11 +79,11 @@ myself on the mountain which must remain, perhaps buried in
 the ash, but ever close in my memory.<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/stories/stories.shtml">Go back....</a></H3><P>
+<A HREF="/stories/stories.shtml">Go back....</a></H3><P>
 <hr size=15>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

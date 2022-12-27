@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs alsace: chess</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -12,9 +12,9 @@
 <H2>Une configuration d'échecs à essayer..</H3>
 
 <p><hr size=15><br>
-<IMG align=right SRC="bshp.jpg">
+<IMG align=right SRC="/bshp.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/almisc0.shtml">Retour à Mélange..</a><br>
+<h3><A HREF="/alsace/almisc0.shtml">Retour à Mélange..</a><br>
 <hr size=5>
 
 Je m'demand parfois sur la manière moderne de jouer aux échecs. C'est plus une compétition pour la gloire où même un ordinateur sans âme peut aspirer à devenir un grand maître. Même le sport souvent présenté consistant à renverser le roi de votre adversaire en checkmate. Le mauvais sport en effet et vraiment, pourquoi un roi ne peut-il pas être tué aux échecs? Semble ne plus avoir d'importance.<p>
@@ -43,7 +43,7 @@ Aux côtés de la maison d'Eguisheim, nous avons l'archevêque de Mayence et l'évêq
 
 Les pions sont représentés de chaque côté par les paysans du village. Ce sont la source immédiate de richesse et la source ultime de pouvoir pour la noblesse. Ils sont toujours les premiers à mourir, leurs villages sont les premiers à brûler lorsque de nobles conflits commencent.<p>
 L'échiquier: c'est l'Alsace.<p>
-<center><IMG SRC="/~kjsmith/alsace/chessalsace.jpg"></center><p>
+<center><IMG SRC="/alsace/chessalsace.jpg"></center><p>
 
 Alors: qu'est-ce qui s'est réellement passé?<p>
 Eh bien, l'histoire n'est jamais nette. Les Hohenstaufen étaient une puissance montante en Souabe et avaient le plein soutien de l'empereur, y compris le statut légal de Duc d'Alsace. Ils étaient alliés avec le puissant évêque de Strasbourg. L'Eguisheim n'a jamais vraiment eu de chance et n'a pas pu empêcher l'entrée de Hohenstaufen. Check. Pourtant, ils ont été assez puissants pour survivre et ont entretenu une relation difficile et parfois hostile jusqu'en 1225, lorsque Gertrude, d'Eguisheim, le dernier héritier, meurt sans enfants dans le château de Herrenstein. Check.<p>
@@ -55,15 +55,15 @@ kjs<br>
 
 <hr size=5>
 Ci-dessous se trouve l’échiquier qui met en évidence la puissance d’Eguisheim à son apogée et sa position face aux Hohenstaufen. J'ai cherché à inclure, là où j'ai des preuves positives, les châteaux qui existaient au 11ème siècle, soit avec les Eguisheim (en bleu) ou avec les Hohenstaufen (en marron) ou je ne sais pas (en gris). Les châteaux sous forme de plan ont été construits plus tard. À votre santé!<p>
-<center><IMG SRC="/~kjsmith/alsace/CarteEguisheim.jpg" alt="Carte des Eguisheim en Alsace"></center><p>
+<center><IMG SRC="/alsace/CarteEguisheim.jpg" alt="Carte des Eguisheim en Alsace"></center><p>
 
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine....</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

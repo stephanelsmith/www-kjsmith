@@ -8,8 +8,8 @@
 
 
 <frameset cols="120,*">
- <FRAME  NAME="menu" SRC="/~kjsmith/birds/swb/sw1b.shtml">
- <FRAME  NAME="pres" SRC="/~kjsmith/birds/swb/sw2b.shtml">
+ <FRAME  NAME="menu" SRC="/birds/swb/sw1b.shtml">
+ <FRAME  NAME="pres" SRC="/birds/swb/sw2b.shtml">
 </frameset>
 <NOFRAME>
 

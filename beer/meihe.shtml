@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs beer label, meihe beer, china</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Meihe Fresh Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/meihe.jpg" alt="meihe beer label"></a><p>
-<IMG SRC="/~kjsmith/beer/meihe2.jpg" alt="meihe beer label"></a></center>
+<center><IMG SRC="/beer/meihe.jpg" alt="meihe beer label"></a><p>
+<IMG SRC="/beer/meihe2.jpg" alt="meihe beer label"></a></center>
 <hr size=15>
 <H3>
 There are numerous local breweries throughout China.  Meihe Fresh is brewed in the town of Meihekou in Manchuria, China.  It is an excellent lager beer.  <p>
@@ -20,14 +20,14 @@ With a dry climate and good glues, I was generally unable to remove labels from 
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

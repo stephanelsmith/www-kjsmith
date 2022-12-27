@@ -20,11 +20,11 @@ Tascione, T.F., 1988, Introduction to the Space Environment; Orbit Book Co., Mal
 
 
 <hr size=25>
-<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs international photo gallery, puerto napo, ecuador</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Puerto Napo (Amazonia), Ecuador</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagint/puertonapo.jpg" alt="puerto napo, ecuador"></center>
+<center><IMG SRC="/imagint/puertonapo.jpg" alt="puerto napo, ecuador"></center>
 
 <hr size=15>
 <H3>Near the headwaters of the Napo River lies the town of Puerto Napo.  The Napo River forms one of the many large tributaries flowing into the Amazon.  West of town in the rain forest we found this hamlet with many smiling children.  These kids, like children everywhere, loved to see themselves and when one of the members of our group took several photos with his digital camera, he showed the images to the kids right away.  This brought many smiles and peals of laughter.  They wanted their photo taken many times to see themselves, and we all had a great time.  <P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -2,13 +2,13 @@
 <HEAD>
 <TITLE>kjs Beer Labels</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Beer labels from North America</H2></center>
 <hr size=15>
-<center><H2><img src=/~kjsmith/beer/beer.gif></a></H2></center>
+<center><H2><img src=/beer/beer.gif></a></H2></center>
 
 <h3>
 Here is a rather small assortment of North American Brew Labels I have happened to collect.  Much of my effort was concentrated overseas, I really ought to be more in my own backyard...<p>
@@ -16,11 +16,11 @@ Here is a rather small assortment of North American Brew Labels I have happened 
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

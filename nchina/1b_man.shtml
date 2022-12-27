@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, Beijing</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Hutongs, Beijing</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1b_man.jpg" alt="back streets, Beijing"></center>
+<center><IMG SRC="/nchina/1b_man.jpg" alt="back streets, Beijing"></center>
 
 <hr size=15>
 <H3>While much of life in Beijing has changed and the city re-invents itself every few years, still, the 1970's still weighs heavily on a decreasing few.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

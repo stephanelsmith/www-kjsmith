@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, Beijing</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Temple of Heavan park, Beijing</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1b_gft.jpg" alt="Temple of Heavan park, beijing"></center>
+<center><IMG SRC="/nchina/1b_gft.jpg" alt="Temple of Heavan park, beijing"></center>
 
 <hr size=15>
 <H3>On a visit to the Temple of Heavan we took a walk in the park towards the double-pavilian.  There my wife and daughter were entertained by three lovely young girls who enjoyed to pick flowers to give to the ladies.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

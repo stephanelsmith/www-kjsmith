@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs alsace: abbayes</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H1>Abbayes d'Alsace</H1></center><P>
 
 <p><hr size=15><br>
-<IMG align=right SRC="AbDate.jpg">
+<IMG align=right SRC="/AbDate.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/almisc0.shtml">Retour à Mélange..</a><br>
+<h3><A HREF="/alsace/almisc0.shtml">Retour à Mélange..</a><br>
 <hr size=5>
 
 La carte et la liste suivantes comprennent pratiquement toutes les abbayes et monastères alsaciens, soit 61 au total. Les données et les notes sont extraites d'un article très utile de René Bornert dans la Revue d'Alsace. L'article "Les origines du monachisme en Alsace" est disponible en ligne. https://alsace.revues.org/983. Je recommande fortement cette référence car elle est très complète et informative. <p>
@@ -22,7 +22,7 @@ La localisation de chaque abbaye sur la carte était souvent difficile. Je ne fai
 
 <p><hr size=5><br>
 
-<center><IMG SRC="/~kjsmith/alsace/carteAbbayes.jpg" alt="Abbayes d'Alsace"></center><p>
+<center><IMG SRC="/alsace/carteAbbayes.jpg" alt="Abbayes d'Alsace"></center><p>
 
 <p><hr size=5><p>
 <pre>
@@ -95,12 +95,12 @@ Wissembourg		v 631	fondations irlandaises 				monachisme colombanien
 kjs<br>
 2016<p>
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

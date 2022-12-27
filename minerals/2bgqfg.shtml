@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs petrography Biotite Garnet Quartz Feldspar Gneiss</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/minerals/m13-3er.jpg"
+<BODY BACKGROUND="minerals/m13-3er.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Biotite Garnet Quartz Feldspar Gneiss</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/minerals/2bgqfg.jpg"></a></center>
+<center><IMG SRC="/minerals/2bgqfg.jpg"></a></center>
 <hr size=15>
 <H3>
 This sample consists of biotite in browns, almandine garnet, a denser "high-relief" mineral, minor amounts of magnetite which is opaque and black in transmitted light, and quarts and feldspar as in the first slide.  In this section shows important disequilibrium textures between the biotite and garnet crystals.  In every case the two minerals are separated by a rim of plagioclase.  This allows an accurate estimation of the conditions under which this sample existed by noting the reaction chemistry between the two minerals biotite and garnet.  In this case the garnet is growing at the biotite's expense.  These reactions only occure under very high conditions of temperature and pressure indicating deep burial. <p>  
@@ -20,13 +20,13 @@ My Master's Thesis consisted of mapping, collecting, studying, and analysing num
 My study was to document these ancient events and to determine, via study of the minerology, the conditions of temperature and pressure under which these minerals originally formed and to find evidence, if possible, of the original sedimentary nature of the section.<br>
 kjs<P>
 <p>For those interested in the bitter detail on the petrology and origin of Gneiss and associated rocks, at least from one specific ancient locality, see my 
-<A HREF=http://www.lessmiths.com/~kjsmith/html/msthesis.pdf target= _parent>Master's Thesis....</a><p>
+<A HREF=/http://www.lessmiths.comhtml/msthesis.pdf target= _parent>Master's Thesis....</a><p>
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

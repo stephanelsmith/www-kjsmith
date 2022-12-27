@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs international photo gallery, the hague, netherlands</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>the Binnenhof, Den Haag, Netherlands</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagint/nether1.jpg" alt="the Binnenhof, Den Haag, Netherlands"></center>
+<center><IMG SRC="/imagint/nether1.jpg" alt="the Binnenhof, Den Haag, Netherlands"></center>
 
 <hr size=15>
 <H3>In the heart of the city of The Hague lies the Binnenhof, seat of government for the Netherlands.  The Hof Vijver, or reflecting pond in front of the Parliament buildings freezes over in winter making an excellent outdoor skating area for the local residents and occasional american business traveler.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

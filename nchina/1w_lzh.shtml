@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, East China</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Lanzhou, West China</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1w_lzh.jpg" alt="Lanzhou, West China"></center>
+<center><IMG SRC="/nchina/1w_lzh.jpg" alt="Lanzhou, West China"></center>
 
 <hr size=15>
 <H3>At a resturant in the Yellow River city of Lanzhou miss Li and I are shown the technique of making Lanzhou la mien, or handmade Lanzhou noodles.  With what to my eyes were the same movements of his hands, the artist could pull noodles with any shape from round, square, flat, flat and wide and just about anything in-between. The best part was eating them afterwards!<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

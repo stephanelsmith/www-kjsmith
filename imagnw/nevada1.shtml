@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs western usa photo gallery, grant mountains, nevada</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagnw/e1col.jpg"
+<BODY BACKGROUND="imagnw/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Autumn fantasy in the Grant Mountains</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagnw/nevada1.jpg" alt="Autumn fantasy in the Grant Mountains"></center>
+<center><IMG SRC="/imagnw/nevada1.jpg" alt="Autumn fantasy in the Grant Mountains"></center>
 
 <hr size=15>
 <H3>Aspen trees take fantastic shapes in the alpine groves of Nevada's Basin and Range country.  Autumn light lends a warm glow to complete the scene.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -8,16 +8,16 @@
 <center><H2>Live from Houston.....</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="ks5.jpg"></center>
+<center><IMG SRC="/ks5.jpg"></center>
 
 <hr size=15>
 <H3>..For occasional use only as directed......<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/main.shtml">Go back....</a></H3>
+<A HREF="/main.shtml">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

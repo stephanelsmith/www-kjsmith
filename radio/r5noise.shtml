@@ -11,21 +11,21 @@
 <H3>
 Some final words and observations concerning the "grass", the noise on the records with the very high frequency.  Hidden within that noise lies some interesting signals and an interesting message.  This "noise" seen on the records is in fact just more signal, but at a higher frequency than I have been presenting.  The following charts were made on 04 June, 1988.  They were taken specifically to look at the high frequency content of the signal.  It should be noted that in both charts the signal strength scale remains exactly the same as in all the previous charts so the amplitude of the "noise", the range from crest to node is quite significant when compared to the daily variations being measured.<p>
 <hr>
-<center><IMG SRC="04jun88a.gif" alt="characteristic signature of signal fading" width=626 height=412></center>
+<center><IMG SRC="/04jun88a.gif" alt="characteristic signature of signal fading" width=626 height=412></center>
 <hr>
 In the above case I gathered a standard 3200 points over 29 minutes with no filter giving a half-second period between points.  The chart shows four minutes of data and on it can be seen the characteristic signature of signal fading.  There are in fact two periods of fading superimposed, one of about 50 seconds, the second about 5 seconds.  The fading has the typical rounded crests and sharp drop to the separating nodes.  This pattern results from the beat amplitude of two or more interfering signal frequencies.<p>
 <hr>
-<center><IMG SRC="04jun88b.gif" alt="characteristic signature of signal fading" width=624 height=412></center>
+<center><IMG SRC="/04jun88b.gif" alt="characteristic signature of signal fading" width=624 height=412></center>
 <hr>
 The second chart is from a run of only seven minutes giving about a tenth second interval between readings.  There the fading signature shows with about 50 beats over the two-minute interval shown.  Fading generally results from the interference of the same signal arriving from two paths at the receiver.  A <a href="04jun88c.shtml">power spectrum</a> of the data shows a strong peak around 0.4 hertz corresponding to the dominant beat (25b/m or 0.4b/s).  For a beat to be set up the signals traveling along separate paths, (presumably a single hop and a double hop) they must not merely be arriving slightly out of phase but also with a difference in frequency of 0.4Hz.  That shift is extremely small compared to the 15MHz carrier.  On top of that is a second interesting beat in the amplitude with 40 to 50 second period or about 0.02Hz (also seen on the power spectrum).<p>
 Voila! No noise at all, just signal everywhere. <p>
 
 <hr size=25>
-<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

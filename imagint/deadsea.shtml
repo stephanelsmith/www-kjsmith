@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs international photo gallery, dead sea, jordan</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>The Dead Sea</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagint/deadsea.jpg" alt="dead sea, jordan"></center>
+<center><IMG SRC="/imagint/deadsea.jpg" alt="dead sea, jordan"></center>
 
 <hr size=15>
 <H3>The sun sets over the West Bank as waves wash the Jordan coast.  As recently as 1962 the level was recorded at -396 meters.  Diversions of the Jordan river for human use has stopped most or all replinishment of the sea and the level stands today at -402 meters. It is the lowest place on earth. <P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

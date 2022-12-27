@@ -7,9 +7,9 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="ch05a.jpg">
+<IMG align=right SRC="/ch05a.jpg">
 <H2>A graphical look at Resonance</H2>
-<H4><A HREF="/~kjsmith/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
 <hr><p>
 </h4><h2>Resonance</h2><h4>
 
@@ -36,10 +36,10 @@ f = 1 / 2pi sqrt(LC)<p>
 This is the general formula for resonance.  <p>
 In all the plots from here on I will show sweeps of frequency with impedance or current as the dependant variable.  The point of resonance on each plot should be apparent as that point where the dependant variable reaches its maximum value.  <p>
 
-<p><IMG SRC="bar3e.jpg"><br>
+<p><IMG SRC="/bar3e.jpg"><br>
 </h4><h3>Series RLC</h3><h4><p>
 
-<IMG align=left SRC="SeriesRLC.jpg"><p>
+<IMG align=left SRC="/SeriesRLC.jpg"><p>
 When I set out to program things, I started with the simple series RCL circuit shown on the left.  This circuit is straightforward and the math is pretty easy. <p>
 The formula for the current through a SERIES circuit is:<br>
 I = V / sqrt[R^2 + (XL - XC)^2]<br>
@@ -47,15 +47,15 @@ Since reactances XL = 2pifL and XC = 1/2pifC, the above formula becomes:<br>
 I = V / sqrt[R^2 + (2pifL - 1/(2pifC))^2]<p>
 <br clear=left><p>
 The resonance response with input values often discovered in a crystal set, L = 200 uH, C = 105 pF, and R = 6.9 ohms peaks at a frequency of 1098 KHz with a Q factor of 200.  <p>
-<IMG align SRC="ch00.jpg"><p>
+<IMG align SRC="/ch00.jpg"><p>
 The above plot shows first that it is indeed straightforward to evaluate a circuit in excel, a series circuit anyway.  Further, it gives an indication as to what visualizations can be made.  I plot on the chart the current versus frequency for the same tank with three variations of resistivity which gives three different values of Q.  It is immediately clear that keeping resistance in the circuit low is good for the quality of the set. <p>
 A copy of the series circuit excel spreadsheet can be found here:
 <a href="Series_kjs.xlsx">Series_kjs.xlsx</a><p>
 
-<p><IMG SRC="bar3e.jpg"><br>
+<p><IMG SRC="/bar3e.jpg"><br>
 </h4><h3>Parallel RLC</h3><h4><p>
 
-<IMG align=left SRC="ParallelRLC.jpg"><p>
+<IMG align=left SRC="/ParallelRLC.jpg"><p>
 Having proved that I can simulate a simple series circuit it is time to take it up a notch with a PARALLEL circuit.  Analysis of a parallel circuit is inherently more complicated as it involves imaginary, or complex numbers.  It is necessary to keep close track of the real and imaginary parts of the calculations.  Also, the math dealing with complex numbers is different, especially the rules for multiplication and division.  See my Appendix at the bottom of this page.<p>
 <br clear=left>
 I take the tack of starting with the impedances (Z) of the components and combining them in parallel.  The symbol "||" means to combine in parallel, and "j" means the variable is imaginary.<br>
@@ -69,20 +69,20 @@ Zl = jwL and<br>
 Zc = -j / wC<br>
 w = 2pi * frequency<p>
 
-<IMG align SRC="ch01.jpg"><p>
+<IMG align SRC="/ch01.jpg"><p>
 This plot above for a parallel circuit looks, as it ought, just like that for the series circuit with the same values of L and C.  Note though that parallel R is significantly higher than in the series case.  Parallel resistance is not a measure of the circuit loss but rather how "tight" it is, (spoken as a non-engineer).  You should see that Q values now go up with increasing value of parallel resistance.  <p>
-<IMG align=left SRC="Phasor.jpg"><p>
+<IMG align=left SRC="/Phasor.jpg"><p>
 Additionally in this plot I include the phase of the impedance (for the Q = 550 case).  The diagram at left indicates why it is necessary to keep track of the real (resistance R) and imaginary (reactance X) parts of the equations.  While resistance is a "real" value, reactance consists of inductive XL and capacitive XC parts.  The parts are not necessarily the same and so adding them together does not necessarily equal zero.  Note that, at resonance, they are equal in magnitude but opposite in sign (by convention, XC is negative) and they do add to zero.  Where they have differing magnitudes, the combined impedance Z is the vector sum of the resistance and total reactance (XL + -XC).  Z is the hypotenuse of a right triangle with an interior angle phi.  This is the phase of the circuit.  Where the phase is negative the circuit is capacitive, where the phase is positive the circuit is inductive.  Where XL-XC is very large with respect to R, the phase approaches (but never reaches) plus or minus 90 degrees.  <p>
 A copy of the parallel circuit spreadsheet can be found here:
 <a href="Parallel_kjs.xlsx">Parallel_kjs.xlsx</a>
 <br clear=left><p>
 
-<IMG SRC="bar3e.jpg"><br>
+<IMG SRC="/bar3e.jpg"><br>
 </h4><h3>Coupled Circuits</h3><h4><p>
 
 Time to move to the big leagues with coupling of two circuits.  Here I am afraid my skills prove inadequate and I have turned to Mike Tuggle for help and, ultimately, a spreadsheet to make the needed calculations.  For this I wish to publically acknowledge and thank Mike.  Also to apologize to him for the significant liberties I have taken with said spreadsheet.  <p>
 
-<IMG align=left SRC="zetrm.jpg"><p>
+<IMG align=left SRC="/zetrm.jpg"><p>
 The model is based on Terman 1947 p149, shown at left.  Mike builds a number of equations, the essential ones of which I used as follows:<p>
 Xs = wLs - 1 / (wCs)<br>
 Rcoupl = (wM)^2 * Rs / (Rs^2 + Xs^2)<br>
@@ -92,36 +92,36 @@ Imag = wLp + Xcoupl - 1/(wCp)<br>
 w = 2pi * frequency<p>
 Where the subscripts "s" means secondary circuit and "p" means primary circuit.  M is the Mutual Induction of the two circuits defined as: M = sqrt(Lp*Ls) and is measured in Heneries.  The Coupling Coefficient k indicates the amount of inductive coupling.  This is a fractional value between 0 (no coupling) and 1 (perfect coupling).  The Coupling Factor for the circuit then is defined as follows: M = k * sqrt(Lp*Ls).  <p>
 <br clear=left>
-<IMG align SRC="ch02.jpg"><p>
+<IMG align SRC="/ch02.jpg"><p>
 The plot above presents a generic coupled circuit, over coupled in this case (k = 0.1).  I show the current induced in the secondary and the phase of the circuit impedance. It is interesting to note how the phase passes through zero each time the secondary current curve goes flat (at the crests and troughs).  Crests have the phase ascending through zero while troughs have the phase descending.  <br>  
 Below are two interesting plots with the secondary current and primary current each at three different coupling factors.<p>
 Secondary Circuit:<br>
-<IMG align SRC="ch04.jpg"><p>
+<IMG align SRC="/ch04.jpg"><p>
 Primary Circuit:<br>
-<IMG align SRC="ch03.jpg"><p>
+<IMG align SRC="/ch03.jpg"><p>
 In each plot I show curves with coupling factors of 0.070 (over-coupled), 0.028 (near critically coupled), and 0.010 (loosely coupled).  I find it amazing just how quickly the induced secondary current falls off with lowered coupling.  These plots look quite different from most "generic" cartoon plots and should give pause to note just how little signal one deals with in crystal sets.  Note that critical coupling is when the secondary current attains its greatest value, not necessarily where the double hump disappears.  Kc = 1/sqrt(Qp*Qs).<p>
 
 A copy of the coupled circuit spreadsheet can be found here:
 <a href="Coupled_kjs.xlsx">Coupled_kjs.xlsx</a>
 <br clear=left><p>
 
-<IMG SRC="bar3e.jpg"><br>
+<IMG SRC="/bar3e.jpg"><br>
 </h4><h3>Resonance Modeling</h3><h4><p>
 
 What else can one do with these spreadsheets?  One of my motivations in building spreadsheets is that it allows me to compare measurements from actual radios to their theoretical counterparts.  This allows me to better understand my sets and approach a best guess on certain parameters I might not otherwise be able to measure.  The following few plots take data from a double tuned set that I have made frequency versus DC out at three differing coupling distances, 2 inches between coils (over coupled), 8 inches (presumed near critical), and 14 inches (under coupled).<p>
-<IMG align SRC="ch05.jpg"><p>
+<IMG align SRC="/ch05.jpg"><p>
 The first thing to note on the above plot is that the over-coupled curve is not centered with respect to the loosely coupled curves.  This is a result of my A) not knowing at the time about exactly how the resonance curve splits with over coupling and B) my technique of re-peaking the set before each set of measurements.  It is obvious that after moving the ATU to 2 inches separation, on re-peaking the output, I must have subtracted capacitance shifting the curve upward in frequency until the I got a peak at my desired measurement frequency of 1100 KHz.  I should have made my resonance study earlier!<p>
 
-<IMG align SRC="ch06.jpg"><p>
+<IMG align SRC="/ch06.jpg"><p>
 Looking now at just the measured data from the 14 inch spacing and comparing it to a curve generated with my series resonance spreadsheet.  The data in green is my radio which, at this spacing gave me a set loaded Q = 83.  I used excel's Solver routine on the central three datapoints to search for model parameters L, C and R.  The steep flanks of the measured data were impossible to reproduce, but at least I could see what happens at the -3dB point.  My simulation suggests a resistive loss of 18 ohms and reproduced the Q = 83.  Pretty interesting.  But, before congratulating myself too quickly...<p>
 
-<IMG align SRC="ch07.jpg"><p>
+<IMG align SRC="/ch07.jpg"><p>
 Here I look at the over coupled case.  As before, I am just unable to reproduce the steep flanks of my measured data with such a simple coupled circuit model.  At a 2 inch separation, and looking only at the lower peak (recall my re-peaking), I had measured a Q = 35.  The model does a fairly poor job of simulating this circuit.  Note that in my simulation, I kept the known values of inductance for the two coils.  Additionally I found that solver gave unacceptable values for R1 and so I pegged it at 15 ohms.  I had solver look for k, Ca, E, Cb, and R2.<p>
 
-<IMG align SRC="ch08.jpg"><p>
+<IMG align SRC="/ch08.jpg"><p>
 Just for fun, I let solver run with k, Ca, E, Cb, R1 and R2.  Adding R1 to solver's program really allowed it to nail the data with a close-fit model.  The price?  Look at the resistivity values it chose.  R1 = -507 ohms and R2 = 694 ohms.  Well, at least R2 is not negative!  These results may be telling me something important, but as yet I am too dense to understand.  Or, they may be just what they appear, totally bogus.<p>
 
-<p><IMG SRC="bar3e.jpg"><p>
+<p><IMG SRC="/bar3e.jpg"><p>
 
 Appendix 1:<p>
 Great Fun with Complex Algebra<p>
@@ -250,15 +250,15 @@ http://electronbunker.ca/eb/Bandspreading_3.html<p>
 
 kjs 8/2016<p>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 <hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/lab.shtml">Return..</a><br>
+<A HREF="/crystal/lab.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

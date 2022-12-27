@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs alsace: habsbourg</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -14,12 +14,12 @@
 <H3>
 <p><hr size=5><br>
 <p>
-<h3><A HREF="/~kjsmith/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
+<h3><A HREF="/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
 <hr size=5>
 
 Cet arbre devrait à peu près compléter mes explorations de la noblesse alsacienne.<p>
 
-<center><IMG SRC="/~kjsmith/alsace/FullHabsbourgTree.jpg" alt="Arbre généalogique de la Maison de Habsbourg"></center><p>
+<center><IMG SRC="/alsace/FullHabsbourgTree.jpg" alt="Arbre généalogique de la Maison de Habsbourg"></center><p>
 
 <H3>
 
@@ -27,12 +27,12 @@ kjs<br>
 2020<p>
 
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

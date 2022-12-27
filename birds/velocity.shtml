@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, level flight velocity</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -19,13 +19,13 @@ With birds the above references still apply, and many more in addition that aid 
 
 Additionally, birds are not magically suspended in the air, they fly.  While not all birds fly at the same speed, there is a fairly narrow range of speeds birds use for efficient level flight.  I found a nice tabulation of airspeed, mass, wingspan and area for some 140 species of birds across the taxonomic spread*.  The following chart summarizes Level flight versus Wing loading.  (Wing loading is the wing area divided by the bird mass). It stands to reason that birds that are particularly heavy with respect to their wing area must fly faster to maintain efficient flight.  Interestingly, for Gulls, Terns, Falcons, Hawks, Eagles, Crows and Songbirds, the range of level flight speed is fairly narrow, from 23 to 35 mph or so, (27.5 ± 0.5 mph average and one standard deviation).  Geese, Ducks, Waders, and sundry water birds have typically higher wing loading and fly with greater speed, 35 to 45 plus mph, (36.4 ± 1.0 mph).  <p>
 
-<center><IMG SRC="/~kjsmith/birds/Velocity1.jpg"alt="Level flight: Wingspan versus Airspeed"></a><p></center><p>
+<center><IMG SRC="/birds/Velocity1.jpg"alt="Level flight: Wingspan versus Airspeed"></a><p></center><p>
 
 A bar graph illustrates this quite effectively.  For many birds then we see them in flight and as they move they pass us by with angular speed, that is, they may zip by quickly or slowly.  Given that most are flying at a narrow range of speeds centered on 27 mph, the angular speed with which they pass is directly related to their distance.  That is, just seeing them fly gives an instant impression of their distance independent of haze, resolution, or even species.  <p>
 
 Next to the bar chart I provide a graph of my own calculation of Distance versus Angular velocity. The curves show a simple power-relationship between distance and angular velocity for any given flight speed.  In color I present the 25, 27.5, and 30 mph curves.  25-30 mph covers a large part of the bird community.  The curves indicate that judging distance is pretty straightforward given an observation.  The faster you see the bird fly, the farther it is.  That information coupled with the bird angular size gives an estimate of the bird size as well.  With experience one may readily judge that swallow that just flew past to be a largish martin or some other swallow.  <p>
 
-<center><IMG SRC="/~kjsmith/birds/Velocity3.jpg"alt="Level flight: Wingspan versus Airspeed"><IMG SRC="/~kjsmith/birds/Velocity4.jpg"alt="Level flight: Wingspan versus Airspeed"></a><p></center><p>
+<center><IMG SRC="/birds/Velocity3.jpg"alt="Level flight: Wingspan versus Airspeed"><IMG SRC="/birds/Velocity4.jpg"alt="Level flight: Wingspan versus Airspeed"></a><p></center><p>
 
 The experienced bird watcher is using all this information, not consciously maybe, but using it nonetheless.  He or she will have an instant impression of the bird size, distance, and family if not genus/species.  The rest of the observation is spent confirming this first impression.
 <p>
@@ -38,14 +38,14 @@ The experienced bird watcher is using all this information, not consciously mayb
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 </h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

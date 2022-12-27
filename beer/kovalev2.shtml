@@ -1,18 +1,18 @@
 <HTML>
 <HEAD>
 <TITLE>kjs beer label, mozyr'skoye and slutskaye beer, belarus</TITLE>
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>From Alexey Kovalev in Belarus</H2></center>
 
 <hr size=15><h3><center>
-<IMG SRC="/~kjsmith/beer/mozyrskoye.jpg" alt="Mozyr'skoye beer label"></a>
+<IMG SRC="/beer/mozyrskoye.jpg" alt="Mozyr'skoye beer label"></a>
 </center><hr>
 Mozyr'skoye, or beer from Mozyr'.
 <hr size=5><center>
-<IMG SRC="/~kjsmith/beer/slutskaye.jpg" alt="Slutskaye beer label"></a></center>
+<IMG SRC="/beer/slutskaye.jpg" alt="Slutskaye beer label"></a></center>
 <hr>
 Slutskaye Beer from Slutsk.  Both of these cities, Mozyr' and Slutsk border the Pripyat Marshes of central Europe.  
 
@@ -25,14 +25,14 @@ My sincere thanks to Alexey for the labels.
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

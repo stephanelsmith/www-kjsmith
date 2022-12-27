@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs petrography Quartz Hypersthene Garnet Granulite</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/minerals/m13-3er.jpg"
+<BODY BACKGROUND="minerals/m13-3er.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Quartz Hypersthene Garnet Granulite</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/minerals/5qhgg.jpg"></a></center>
+<center><IMG SRC="/minerals/5qhgg.jpg"></a></center>
 <hr size=15>
 <H3>
 Not all the granulitic samples are without quartz as this sample shows.  Here you see primarily hypersthene with minot quarts and small magnetite grains.  In areas the magnetite becomes abundant and retains a banded texture in memory of its original sedimentary origins as iron hemitite.  <p>
@@ -20,13 +20,13 @@ My Master's Thesis consisted of mapping, collecting, studying, and analysing num
 My study was to document these ancient events and to determine, via study of the minerology, the conditions of temperature and pressure under which these minerals originally formed and to find evidence, if possible, of the original sedimentary nature of the section.<br>
 kjs<P>
 <p>For those interested in the bitter detail on the petrology and origin of Gneiss and associated rocks, at least from one specific ancient locality, see my 
-<A HREF=http://www.lessmiths.com/~kjsmith/html/msthesis.pdf target= _parent>Master's Thesis....</a><p>
+<A HREF=/http://www.lessmiths.comhtml/msthesis.pdf target= _parent>Master's Thesis....</a><p>
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

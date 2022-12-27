@@ -2,25 +2,25 @@
 <HEAD>
 <TITLE>kjs china photo gallery, Northeast China</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Dunhua, Northeast China</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1ne_lili.jpg" alt="Dunhua, Tiger Lili"></center>
+<center><IMG SRC="/nchina/1ne_lili.jpg" alt="Dunhua, Tiger Lili"></center>
 
 <hr size=15>
 <H3>While inspecting the aquisition of a gravity survey near the east Jilin Provincial town of Dunhua I had a chance to go trecking throught the forests and underbrush while following the crew on their route.  On this walk I discovered an old friend from my days working in the Cascade mountains of America's Pacific Northwest, a 
-<a href=/~kjsmith/imagnw/tlilis.shtml target=pres>Tiger Lili</a>.  Of course its only a cousin and not called Tiger lili here, I'll use that name for lack of knowing better.  I have always loved, studied, and photographed wildflowers and it was a special pleasure to see this beautiful lili bright and bold amid the cool greens of the forest understory.<P>
+<a href=/imagnw/tlilis.shtml target=pres>Tiger Lili</a>.  Of course its only a cousin and not called Tiger lili here, I'll use that name for lack of knowing better.  I have always loved, studied, and photographed wildflowers and it was a special pleasure to see this beautiful lili bright and bold amid the cool greens of the forest understory.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

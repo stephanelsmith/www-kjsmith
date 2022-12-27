@@ -2,24 +2,24 @@
 <HEAD>
 <TITLE>kjs china photo gallery, North China</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Shanxi, North China</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/nchina/1n_sxi.jpg" alt="Shanxi, North China"></center>
+<center><IMG SRC="/nchina/1n_sxi.jpg" alt="Shanxi, North China"></center>
 
 <hr size=15>
 <H3>On a local highway in remote Shanxi Province in January what a pleasant suprise, tropical fruit!  Miss Li and Mr Gao are tasting the products with their approval.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

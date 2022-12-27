@@ -10,7 +10,7 @@
 
 <hr size=15>
 <B><FONT SIZE=4><P ALIGN="CENTER">Kevin J. Smith</P>
-</B></FONT><P ALIGN="CENTER"><A HREF="mailto:Kjsmith@hia.net"><FONT SIZE=2>Kjsmith@hia.net</FONT></A></P>
+</B></FONT><P ALIGN="CENTER"><A HREF="/mailto:Kjsmith@hia.net"><FONT SIZE=2>Kjsmith@hia.net</FONT></A></P>
 <P ALIGN="CENTER">&nbsp;</P>
 <B><P ALIGN="CENTER">SUMMARY</P>
 </B><FONT SIZE=2><P>&nbsp;</P>
@@ -80,10 +80,10 @@
 <P ALIGN="JUSTIFY">Communications and Presentations Workshops</P></BODY>
 
 <hr size=15>
-<h3><A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<h3><A HREF="/html/main.shtml">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

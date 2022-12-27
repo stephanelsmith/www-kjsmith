@@ -1,14 +1,14 @@
 <HTML>
 <HEAD>
 <TITLE>kjs beer label, singha, thailand</TITLE>
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Singha Beer, Thailand</H2></center>
 
 <hr size=15><center>
-<IMG SRC="/~kjsmith/beer/singha.jpg" alt="Singha label"></a></center>
+<IMG SRC="/beer/singha.jpg" alt="Singha label"></a></center>
 <hr><h3>
 I love Thai food, I do I do!  Here in Houston Thai resturants usually have one or two Thai export beers available, Singha being the most common.  It cools me off with that spicy good food!
 <br>kjs<P>
@@ -16,14 +16,14 @@ I love Thai food, I do I do!  Here in Houston Thai resturants usually have one o
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

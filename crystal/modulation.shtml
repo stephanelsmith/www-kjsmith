@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="ittybittypic0.jpg">
+<IMG align=right SRC="/ittybittypic0.jpg">
 <H2>Amplitude Modulation Notes:
 </H2>
-<H4><A HREF="/~kjsmith/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 Introduction:<p>
@@ -46,9 +46,9 @@ t = time
 
 In my spreadsheet I use 2pi = 6.283.  Editable inputs consist of Vc, fm, fc, Z, and m. I use arbitrary time increments in hundredths of a second.  This is because it is not reasonable to plot both carrier in Mhz and audio in khz and have a meaningful graphic.  Keep in mind than that the plots presented will be for illustration of concepts and not at actual RF values.  <p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 
-<IMG align=right SRC="InputWaves.jpg"><p>
+<IMG align=right SRC="/InputWaves.jpg"><p>
 Carrier and Audio Waves:<p>
 
 Crystal radio is built on the reception of amplitude modulated radio waves, "radio" (before the introduction of frequency modulation).  Modulating a radio carrier, whether via telegraphic or telephonic methods is a fairly straightforward affair.  Much of the early research and patent work reflected the need for efficient "detection" or rectification in order to receive the information contained.<p>
@@ -66,7 +66,7 @@ The following section considers the modulated wave.<p>
 
 <br clear=right><p>
 
-<IMG align=right SRC="ModulatedWaves.jpg"><p>
+<IMG align=right SRC="/ModulatedWaves.jpg"><p>
 Amplitude Modulated Waves:<p>
 
 When the two waves presented above are combined they result in an amplitude modulated wave.  The charts at right present the resultant wave with three different levels of modulation.  The level of modulation is given by the modulation index, or "m" in the above equations.  This index is the ratio of the carrier wave amplitude (Ac) and the modulating wave amplitude (Am) and can vary from 0 to 1.  Zero being the case of no modulation and one for the maximum modulation where the two amplitudes are the same.  <p>
@@ -96,7 +96,7 @@ It should be evident from the above that the signal power increases with the ind
 
 <br clear=right><p>
 
-<IMG align=right SRC="RectifiedWaves.jpg"><p>
+<IMG align=right SRC="/RectifiedWaves.jpg"><p>
 Rectified Output:<p>
 
 At the receiving end of the circuit it is necessary to rectify the radio signal in order to extract the audio signal.  The following charts present the rectification in two forms.  On top I give the "typical" illustration one might find in almost any radio handbook.  Essentially it is a plot of the modulated signal with all the negative values zeroed out.  Such a plot assumes a "perfect" or ideal rectifier as illustrated next to the chart.  In the ideal characteristic there is zero conductivity for negative voltages and 100% conductivity for positive voltages.  Would that such a rectifier existed!<p>
@@ -118,7 +118,7 @@ Here you can note that a diode has a small reverse current (Is) at negative volt
 
 <br clear=right><p>
 
-<IMG align=right SRC="1e_filtered.jpg"><p>
+<IMG align=right SRC="/1e_filtered.jpg"><p>
 Audio Output:<p>
 
 Finally, the rectified signal must go through a low-pass filter to strip out the carrier and leave only the resulting audio signal.  In this plot I have simply applied a "boxcar" filter to the rectified signal.  Considerable ripple remains on my plot due to the scales chosen.  In an actual signal with the audio wavelength some 200 times the carrier wavelength, the filtering process will leave no trace of the original carrier.  The amplitude of the filtered output, the audio power, is quite a bit lower than the carrier amplitude.  It still amazes me that one can hear anything at all without amplification!
@@ -126,10 +126,10 @@ Finally, the rectified signal must go through a low-pass filter to strip out the
 <br clear=right><p>
 
 
-<IMG align=right SRC="6C19Psum.jpg"><p>
+<IMG align=right SRC="/6C19Psum.jpg"><p>
 Rectification for a 6C19P vacuum diode:<p>
 
-Here, for sake of completeness I include an analysis of signal rectification using a vacuum diode, the 6C19P.  This Russian-made diode is a high-perveance, very sensitive diode for which I include a complete discussion of it characteristic in my section on <A HREF="/~kjsmith/crystal/dvac.shtml">vacuum diodes</a>.  For the most efficient rectification operation the diode characteristic must pass through the I/V origin, zero amps for zero volts.  Vacuum tubes often have a "contact potential" such that for small negative potential on the plate there is a measurable current.  The 6C19P is no exception. When operated at its spec heater voltage of Vh = 6.3V, the contact potential approaches 1mA at zero volts on the plate. By reducing the heat (reducing the heater voltage) this contact potential may be lowered to zero current.  From my measurements a heater voltage Vh = 3.72V gives a characteristic that crosses at the origin.  <p>
+Here, for sake of completeness I include an analysis of signal rectification using a vacuum diode, the 6C19P.  This Russian-made diode is a high-perveance, very sensitive diode for which I include a complete discussion of it characteristic in my section on <A HREF="/crystal/dvac.shtml">vacuum diodes</a>.  For the most efficient rectification operation the diode characteristic must pass through the I/V origin, zero amps for zero volts.  Vacuum tubes often have a "contact potential" such that for small negative potential on the plate there is a measurable current.  The 6C19P is no exception. When operated at its spec heater voltage of Vh = 6.3V, the contact potential approaches 1mA at zero volts on the plate. By reducing the heat (reducing the heater voltage) this contact potential may be lowered to zero current.  From my measurements a heater voltage Vh = 3.72V gives a characteristic that crosses at the origin.  <p>
 
 I use the langmuir-Child Diode law to calculate the rectified output from the same amplitude-modulated signal used in the examples above. To review, this law is based on the observation that a vacuum diode characteristic follows a 3/2 power law.  That is, by plotting current (I) raised to the 2/3 power against V you get a straight line with a slope and Y intercept, (standard form Y = mX + b). Perveance is just m^1.5.  For a given voltage across the plate I = (m * Vp + b)^3/2, where:<br>
 <pre>
@@ -159,16 +159,16 @@ In the lower chart I allow a small contact potential with the equation I = (m * 
 Kevin Smith<br>
 04/2020<p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/lab.shtml">Return..</a><br>
+<A HREF="/crystal/lab.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

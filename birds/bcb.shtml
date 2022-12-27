@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs bird photos, Bronzed Cowbird</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Bronzed Cowbird, Katy Tx</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/bcb1.jpg"alt="Bronzed Cowbird"></a><p>
-<IMG SRC="/~kjsmith/graphics/bcb2.jpg"alt="Bronzed Cowbird"></a><p>
-<IMG SRC="/~kjsmith/graphics/bcb3.jpg"alt="Bronzed Cowbird"></a></center>
+<center><IMG SRC="/graphics/bcb1.jpg"alt="Bronzed Cowbird"></a><p>
+<IMG SRC="/graphics/bcb2.jpg"alt="Bronzed Cowbird"></a><p>
+<IMG SRC="/graphics/bcb3.jpg"alt="Bronzed Cowbird"></a></center>
 <hr size=15>
 <H3>
 Bronzed Cowbirds are a bit of a rarity around Houston.  They are there alright, but a quick look on ebird reveals them to be few and scattered, especially for any "last 30 day" list.  Our visitor has been lurking about and visiting off and on (off mostly) for a few months and seems to be getting a bit used to seeing people on the patio.  He finally posed for a few photos, albeit at a pretty good distance.  Normally I am not fond of the idea of cowbirds on the garden, and we have them much of the time.  But, this bird dosn't appear to be much of a threat.  Mostly its an interesting addition to the garden action.
@@ -20,14 +20,14 @@ Bronzed Cowbirds are a bit of a rarity around Houston.  They are there alright, 
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

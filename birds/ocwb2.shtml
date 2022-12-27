@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Orange Crowned Warbler</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>More Orange Crowned Warblers, Katy, Tx</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/OrangeCrownedWarbler12.jpg"alt="Orange Crowned Warbler"></a><p>
-<IMG SRC="/~kjsmith/graphics/OrangeCrownedWarbler14.jpg"alt="Orange Crowned Warbler"></a></center>
+<center><IMG SRC="/graphics/OrangeCrownedWarbler12.jpg"alt="Orange Crowned Warbler"></a><p>
+<IMG SRC="/graphics/OrangeCrownedWarbler14.jpg"alt="Orange Crowned Warbler"></a></center>
 <hr size=15>
 <H3>
 Its winter 2013-2014 and our friend is back, with his friends!  Last spring before the bird had left for its migration north I had noticed it visiting a jelly feeder I had placed in the garden.  This fall when he (she?) returned it immediately started inspecting all the various hummingbird feeders around the garden.  Recalling its apparent sweet tooth (beak?), I popped the top off one of the hummingbird feeders to see what might happen.  Instant success!  Happy birdy.  The next day saw a friend as well and soon up to four birds were contending for control of the precious fluid.  Not much is written in the guidebooks about this, although I did see mention in Ehrlich etal Birders Handbook.  The garden is becomming a veritable warbler woods with several Orange Crowned, 5-6 Pine, and occasional flocks of Myrtle warblers flitting about all day every day!
@@ -19,14 +19,14 @@ Its winter 2013-2014 and our friend is back, with his friends!  Last spring befo
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

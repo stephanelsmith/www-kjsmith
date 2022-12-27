@@ -2,18 +2,18 @@
 <HEAD>
 <TITLE>kjs home page</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/vw5.jpg"
+<BODY BACKGROUND="/graphics/vw5.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
 <center>
-<A HREF="kevinm.shtml"><img border=0 SRC="/~kjsmith/graphics/ks4.gif" alt="Kevin" WIDTH=436 HEIGHT=171></a>
-<img border=0 SRC="/~kjsmith/graphics/ks5.gif" alt="Welcome" WIDTH=603 HEIGHT=274>
+<A HREF="/kevinm.shtml"><img border=0 SRC="/graphics/ks4.gif" alt="Kevin" WIDTH=436 HEIGHT=171></a>
+<img border=0 SRC="/graphics/ks5.gif" alt="Welcome" WIDTH=603 HEIGHT=274>
 </center>
 <P>
 
 <center><H1>...to Kevin's Home(Page)</H1></center><P>
-<center><IMG SRC="/~kjsmith/graphics/bar1e.jpg"></center>
+<center><IMG SRC="/graphics/bar1e.jpg"></center>
 
 <H2>So, whats in here?  Take a look around...</H2>
 <H3><P>
@@ -22,68 +22,68 @@
 <TABLE BORDER="3" CELLPADDING="0">
 
 <TR ALIGN="center" VALIGN="middle">
-<TD width=5%><A HREF="site.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/site.gif" width=107 height=49></a></TD>
+<TD width=5%><A HREF="/site.shtml"><img border=0 align=middle SRC="/graphics/site.gif" width=107 height=49></a></TD>
 <TD width=25%><h4><a href="site.shtml">Sitemap</a>, All pages on this site.</h4></TD>
-<TD width=5%><A HREF="bio.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/bio.gif" width=110 height=52></a></TD>
+<TD width=5%><A HREF="/bio.shtml"><img border=0 align=middle SRC="/graphics/bio.gif" width=110 height=52></a></TD>
 <TD width=50%><h4><a href="bio.shtml">Biography</a>, Words about kjs.</h4></TD>
 </TR>
 
 <TR ALIGN="center" VALIGN="middle">
-<td width=5%><A HREF="resume.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/resb.gif" width=107 height=50></a></TD>
+<td width=5%><A HREF="/resume.shtml"><img border=0 align=middle SRC="/graphics/resb.gif" width=107 height=50></a></TD>
 <td width=50%><h4><a href="resume.shtml">Resumé</a>, for just in case....</h4></TD>
-<TD width=5%><A HREF="fam.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/ori.gif" width=105 height=48></a></TD>
+<TD width=5%><A HREF="/fam.shtml"><img border=0 align=middle SRC="/graphics/ori.gif" width=105 height=48></a></TD>
 <TD width=25%><h4><a href="fam.shtml">Family</a>, Acknowledgements.</h4></TD>
 </TR>
 
 <TR ALIGN="center" VALIGN="middle">
-<td width=5%><A HREF="/~kjsmith/imagint/imagint0.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/photo.gif"  
+<td width=5%><A HREF="/imagint/imagint0.shtml"><img border=0 align=middle SRC="/graphics/photo.gif"  
 width=105 height=48></a></TD>
-<td width=25%><h4><a href="/~kjsmith/imagint/imagint0.shtml">Photography</a>, A gallery of travel  
+<td width=25%><h4><a href="imagint/imagint0.shtml">Photography</a>, A gallery of travel  
 photographs.</h4></TD>
-<td width=5%><A HREF="/~kjsmith/imagnw/imagnw0.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/photo.gif"  
+<td width=5%><A HREF="/imagnw/imagnw0.shtml"><img border=0 align=middle SRC="/graphics/photo.gif"  
 width=105 height=48></a></TD>
-<td width=50%><h4><a href="/~kjsmith/imagnw/imagnw0.shtml">Eye Candy</a>, from the western  
+<td width=50%><h4><a href="imagnw/imagnw0.shtml">Eye Candy</a>, from the western  
 US.</h4></TD>
 </TR>
 
 <TR ALIGN="center" VALIGN="middle">
-<td width=5%><A HREF="/~kjsmith/stories/stories.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/stor.gif"  
+<td width=5%><A HREF="/stories/stories.shtml"><img border=0 align=middle SRC="/graphics/stor.gif"  
 width=106 height=48></a></TD>
-<td width=25%><h4><a href="/~kjsmith/stories/stories.shtml">Snapshots</a>, Random  
+<td width=25%><h4><a href="stories/stories.shtml">Snapshots</a>, Random  
 writings...</h4></TD>
 
-<td width=5%><A HREF="/~kjsmith/pinhole/pin0.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/photo.gif"  
+<td width=5%><A HREF="/pinhole/pin0.shtml"><img border=0 align=middle SRC="/graphics/photo.gif"  
 width=105 height=48></a></TD>
-<td width=50%><h4><a href="/~kjsmith/pinhole/pin0.shtml">Pinhole Pix</a>, through the eye of a  
+<td width=50%><h4><a href="pinhole/pin0.shtml">Pinhole Pix</a>, through the eye of a  
 needle</h4></TD>
 </TR>
 
 <TR ALIGN="center" VALIGN="middle">
-<td width=5%><A HREF="/~kjsmith/thoughts/think.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/think.gif"  
+<td width=5%><A HREF="/thoughts/think.shtml"><img border=0 align=middle SRC="/graphics/think.gif"  
 width=106 height=48></a></TD>
-<td width=25%><h4><A HREF="/~kjsmith/thoughts/think.shtml">Thoughts</a>, Essays written under the  
+<td width=25%><h4><A HREF="/thoughts/think.shtml">Thoughts</a>, Essays written under the  
 influence..</h4></TD>
-<td width=5%><A HREF="/~kjsmith/radio/kjradio.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/ion.gif"  
+<td width=5%><A HREF="/radio/kjradio.shtml"><img border=0 align=middle SRC="/graphics/ion.gif"  
 width=107 height=49></a></TD>
-<td width=50%><h4><a href="/~kjsmith/radio/kjradio.shtml">Radio Detection</a>, of Solar  
+<td width=50%><h4><a href="radio/kjradio.shtml">Radio Detection</a>, of Solar  
 Flares.</h4></TD>
 </TR>
 
 <TR ALIGN="center" VALIGN="middle">
-<td width=5%><A HREF="/~kjsmith/minerals/min0.shtml"> <img border=0 align=middle SRC="/~kjsmith/graphics/minbtn.gif"  
+<td width=5%><A HREF="/minerals/min0.shtml"> <img border=0 align=middle SRC="/graphics/minbtn.gif"  
 width=107 height=51></a></TD>
-<td width=25%><h4><a href="/~kjsmith/minerals/min0.shtml">
+<td width=25%><h4><a href="minerals/min0.shtml">
 Petrology</a>, A geologist recalls his origins.</h3></TD></h4></TD>
-<td width=5%><A HREF="/~kjsmith/beer/beer0.shtml"><img border=0 align=middle SRC="/~kjsmith/graphics/beerbtn.gif"  
+<td width=5%><A HREF="/beer/beer0.shtml"><img border=0 align=middle SRC="/graphics/beerbtn.gif"  
 width=105 height=48></a></TD>
-<td width=50%><h4><a href="/~kjsmith/beer/beer0.shtml">Beer Bottle Labels</a>, From all  
+<td width=50%><h4><a href="beer/beer0.shtml">Beer Bottle Labels</a>, From all  
 over...</h4></TD>
 </TR>
 
 </center></TABLE>
 
 </H3>
-<center><IMG SRC="/~kjsmith/graphics/bar2e.jpg"></center>
+<center><IMG SRC="/graphics/bar2e.jpg"></center>
 
 <H2>Thank You for visiting..  </H2>
 
@@ -91,15 +91,15 @@ over...</h4></TD>
 <A HREF ="mailto:kj-smith@scbglobal.net">kj-smith@scbglobal.net</A> 
 and I'll be glad to reply.<P>
 
-<center><IMG SRC="/~kjsmith/graphics/bar1e.jpg"></center>
-<H3><P><A HREF="basm.shtml">Bismallah Al-Rahman Al-Raheem</a><br>Let us all say a silent prayer for the thousands of  
+<center><IMG SRC="/graphics/bar1e.jpg"></center>
+<H3><P><A HREF="/basm.shtml">Bismallah Al-Rahman Al-Raheem</a><br>Let us all say a silent prayer for the thousands of  
 innocent victems of the war of hate waging in Algeria and in many countries around the globe.  May God gather them  
 to his place of gardens underneath which rivers flow, therein dwelling forever.  To God belongs the kingdom of the  
 heavens and of the earth, and all that is in them, and He is powerful over everything.</H3>
 
-<center><IMG SRC="/~kjsmith/graphics/bar1e.jpg"></center>
+<center><IMG SRC="/graphics/bar1e.jpg"></center>
 
 <h3>This page has been accessed "several" times since 15 Dec, 1995<p>
 
-</h3> <p><IMG align=left SRC="/~kjsmith/graphics/cpyrt.jpg">
-<IMG align=right SRC="/~kjsmith/graphics/seal.jpg">
+</h3> <p><IMG align=left SRC="/graphics/cpyrt.jpg">
+<IMG align=right SRC="/graphics/seal.jpg">

@@ -2,13 +2,13 @@
 <HEAD>
 <TITLE>kjs nobiliaire d'alsace</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Nobiliaire d’Alsace</H2></center>
 <hr size=15>
-<H2><center><img src=/~kjsmith/alsace/BCover4T.jpg></a></center></H2>
+<H2><center><img src=/alsace/BCover4T.jpg></a></center></H2>
 
 <h3>
 L'histoire de l'Europe au moyen âge c'est souvent une histoire de la noblesse, ses idées, ses disputes, ses guerres.  La noblesse représente peut être un à deux pour cent de la population mais la structure sociale repose toujours sur le travail des paysans.  Ceux-ci reçoivent peu de bénéfice et de compensations pour leur travail. Ce livre traite de la noblesse alsacienne, des symboles du pouvoir, et des blasons.<p>
@@ -188,12 +188,12 @@ Nécrologes:<br>
 <hr size=15>
 </frameset>
 <NOFRAME>
-<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<A HREF=/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
 <hr size=5>
 </H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

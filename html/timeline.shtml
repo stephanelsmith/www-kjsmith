@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs timeline, 4000 years of world history</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -23,10 +23,10 @@ Kevin Smith,  3/98<P>
 <center><a href="timebib.shtml">Bibliography</a>, List of books from which the chart derives<br></center>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, glacier national park, montana</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="/~kjsmith/graphics/grizzly.jpg"> <br clear>
+<img SRC="/graphics/grizzly.jpg"> <br clear>
 </td></tr></table>
 
 When I was going to graduate school, I lived in Montana in
@@ -66,11 +66,11 @@ Still, I cherish that memory of encountering such an animal
 in the wild.<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/stories/stories.shtml">Go back....</a></H3><P>
+<A HREF="/stories/stories.shtml">Go back....</a></H3><P>
 <hr size=15>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

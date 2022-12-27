@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Master's thesis</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/msthesis/bgthesis1.jpg"
+<BODY BACKGROUND="msthesis/bgthesis1.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,7 +10,7 @@
 <center><H2>M.S. Thesis University of Montana, 1980</H2></center><P>
 
 <hr size=15><br>
-<IMG align=right SRC="BCover2.jpg">
+<IMG align=right SRC="/BCover2.jpg">
 
 <h3>
 <hr size=5>
@@ -27,40 +27,40 @@ The area went through two phases of regional deformation. The first event, rough
 <hr size=5>
 Master's thesis<br>
 <p>
-<A HREF="T1-MS-Thesis.pdf"><img border=0 SRC="/~kjsmith/msthesis/btnbl.jpg"</a>
-<A HREF="/~kjsmith/msthesis/T1-MS-Thesis.pdf">Master's thesis: PDF format</a> <p>
+<A HREF="/T1-MS-Thesis.pdf"><img border=0 SRC="/msthesis/btnbl.jpg"</a>
+<A HREF="/msthesis/T1-MS-Thesis.pdf">Master's thesis: PDF format</a> <p>
 
-<A HREF=https://www.lulu.com/en/us/shop/kevin-j-smith/nobiliaire-dalsace/hardcover/product-qwkq6k.html?page=1&pageSize=4><img border=0 SRC="/~kjsmith/msthesis/btnbl.jpg"</a>
-<A HREF=https://www.lulu.com/en/us/shop/kevin-j-smith/nobiliaire-dalsace/hardcover/product-qwkq6k.html?page=1&pageSize=4>Master's thesis: Book format</a> <p>
+<A HREF=/https://www.lulu.com/en/us/shop/kevin-j-smith/nobiliaire-dalsace/hardcover/product-qwkq6k.html?page=1&pageSize=4><img border=0 SRC="/msthesis/btnbl.jpg"</a>
+<A HREF=/https://www.lulu.com/en/us/shop/kevin-j-smith/nobiliaire-dalsace/hardcover/product-qwkq6k.html?page=1&pageSize=4>Master's thesis: Book format</a> <p>
 <hr>
 
 
 <hr size=15><p>
 Basement Geoloical Map.  <p>
-<A HREF="c1geology.shtml"><img border=0 SRC="/~kjsmith/msthesis/btnc1geo.jpg"</a>
-<A HREF="/~kjsmith/msthesis/c1geology.shtml">Basement Geoloical Map</a> <p>
+<A HREF="/c1geology.shtml"><img border=0 SRC="/msthesis/btnc1geo.jpg"</a>
+<A HREF="/msthesis/c1geology.shtml">Basement Geoloical Map</a> <p>
 <hr size=15><p>
 
 Structural Cross-section with interpreted pre-metamorphic sedimentary facies. <p>
-<A HREF="c2profile.shtml"><img border=0 SRC="/~kjsmith/msthesis/btnc2pro.jpg"</a>
-<A HREF="/~kjsmith/msthesis/c2profile.shtml">Structural Cross-section</a> <p>
+<A HREF="/c2profile.shtml"><img border=0 SRC="/msthesis/btnc2pro.jpg"</a>
+<A HREF="/msthesis/c2profile.shtml">Structural Cross-section</a> <p>
 <hr size=15><p>
 
 Sample Location Map.  <p>
-<A HREF="c3samples.shtml"><img border=0 SRC="/~kjsmith/msthesis/btnc3sam.jpg"</a>
-<A HREF="/~kjsmith/msthesis/c3samples.shtml">Sample Location Map</a> <p>
+<A HREF="/c3samples.shtml"><img border=0 SRC="/msthesis/btnc3sam.jpg"</a>
+<A HREF="/msthesis/c3samples.shtml">Sample Location Map</a> <p>
 <hr size=15><p>
 
 Station location Map. <p>
-<A HREF="c4stations.shtml"><img border=0 SRC="/~kjsmith/msthesis/btnc4sta.jpg"</a>
-<A HREF="/~kjsmith/msthesis/c4stations.shtml">Station location Map</a> <p>
+<A HREF="/c4stations.shtml"><img border=0 SRC="/msthesis/btnc4sta.jpg"</a>
+<A HREF="/msthesis/c4stations.shtml">Station location Map</a> <p>
 <hr size=15><p>
 
 <hr size=15>
-<A HREF="/~kjsmith/html/main.shtml">Return...</a></H3>
+<A HREF="/html/main.shtml">Return...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -7,21 +7,21 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="vac1.jpg">
+<IMG align=right SRC="/vac1.jpg">
 <H2>Part III: Vacuum Diode Test Data Report
 </H2>
-<H4><A HREF="/~kjsmith/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
 <hr>
 <h4>
-<br clear=left><IMG align=left SRC="vacs.jpg"><p>
+<br clear=left><IMG align=left SRC="/vacs.jpg"><p>
 When I decided early on to construct a radio based on the vacuum diode (see my Fleming Radio section), I had to find a suitable tube for the project.  That began with an extensive search through the datasheets checking vacuum diode properties and reviewing the characteristic curves for a large number of diode tubes.  In the above figure I plot the characteristics as best I can on a common plot for comparison.  I was hoping to find a good candidate with sensitive characteristics and low energy consumption.  As you will find, such a beast did not exist.  Following this research began a period ot purchase and testing.<p>
 
 I have tested seven different tube types including 6.3V rectifier diodes that take a lot of power to run and are not really suitable for battery use, a 9v dual diode tube (20D1), a pentode/diode tube (1S5) that is designed to run on a battery at 1.5V and 50mA, and a couple miscellaneous but cute tubes.  In testing the 1S5, I found the filament never glowed incandescent at 1.5V and, on measuring, was barely sensitive to anything.  I cannot imagine this tube would make much of a diode for crystal radio use.  I tested different manufacture 1S5 tubes from two different suppliers.  No dice.  Finally, I tried to push the tube to operate at higher-than-specified voltages.  At 4.3V the I-V curve was still very flat, but shifted slightly higher, crossing the Amp axis at about 0.4 mA, (see graph). At 5.5V one of my tubes gave up the ghost and I didnt do more.  I pretty much rule the 1S5 out for my crystal radio work. Looks like i'll be needing the power supply when I get around to building/operating that Fleming Radio.<p>
 
-A question remains as to what in fact is different about these tubes to give such different characteristics.  While the I/V characteristic of most vacuum diodes pretty much follow the Langmuir-Child Law, the steepness of the I/V characteristic is largely due to the geometry of the tube elements and the volume of electron space-charge between them.  JB Calvert's <A HREF="http://mysite.du.edu/~etuttle/electron/elect27.htm#Diodes">Theory of Vacuum Tubes</a> informs one that this is the property called Purveance in a vacuum diode. Measuring this requires plotting I raised to the 2/3 power against V and taking the slope of the best-fit line through the data.  This slope raised to the 3/2 power is the perveance.  The following chart illustrates graphically the relation between the tube characteristic and perveance.  For the 5726 tube I plot the characteristic in dark blue for the tube heated with the design 6.3 volts.  In light blue I have plotted the measurements and raised them to the 2/3 power.  One sees immediately that the new curve is linear.  The slope of the curve raised to the 3/2 power yields the perveance factor for the tube. <br>
+A question remains as to what in fact is different about these tubes to give such different characteristics.  While the I/V characteristic of most vacuum diodes pretty much follow the Langmuir-Child Law, the steepness of the I/V characteristic is largely due to the geometry of the tube elements and the volume of electron space-charge between them.  JB Calvert's <A HREF="/http://mysite.du.edu/~etuttle/electron/elect27.htm#Diodes">Theory of Vacuum Tubes</a> informs one that this is the property called Purveance in a vacuum diode. Measuring this requires plotting I raised to the 2/3 power against V and taking the slope of the best-fit line through the data.  This slope raised to the 3/2 power is the perveance.  The following chart illustrates graphically the relation between the tube characteristic and perveance.  For the 5726 tube I plot the characteristic in dark blue for the tube heated with the design 6.3 volts.  In light blue I have plotted the measurements and raised them to the 2/3 power.  One sees immediately that the new curve is linear.  The slope of the curve raised to the 3/2 power yields the perveance factor for the tube. <br>
 (Note in addition that when running the tube at a more sensitive point with 4 volts only on the heater the perveance is slightly less than spec.). <p>
 
-<br clear=left><IMG align SRC="dtprv.jpg"><IMG align SRC="defs1.jpg"><p>
+<br clear=left><IMG align SRC="/dtprv.jpg"><IMG align SRC="/defs1.jpg"><p>
 In addition to the above definition for Perveance there are two other aspects of vacuum diodes that need to be defined.  These are 1) The Splash current and 2) the Contact potential.  <br>
 Splash current is the current across the diode with Zero voltage applied to the plate.  Normally one thinks of a diode where the characteristic curve passes through the origin (0,0) of the I/V chart.  This is true for solid state diodes.  With vacuum tubes there is an electron space charge in the region between the Cathode and Plate (Anode).  A certain number of electrons leave the heated cathode with sufficient velocity to carry to the plate and cause a measurable current.  With higher perveance tubes the plate area is large and the spacing is small, therefore a fairly large current may develop at Zero applied voltage.  In the case of the 6C19P operating at its spec 6.3V on the heater, the splash current is quite high at just over 1 mA.  This is death to small signal rectification.<br>
 Contact potential represents how negative the voltage must be before the current becomes zero.  That is, the amount of negative voltage needed in order to reduce the splash current to zero.  The 6C19P has a large contact potential of just over 0.5V negative. Not even strong local signals can overcome this! <p>
@@ -59,8 +59,8 @@ Tube	Perveance
 The high-perveance diode tube types I tested show an interesting property in that their characteristic curves do not pass through the origin of the graph.  These curves are wholly acceptable as crystal radio detectors although they will require power to operate.  What I have noticed with such tubes is that when I turn them off after using them with a radio, on cooling they go through a period of much increased sensitivity (very loud) before fading to nothing.  It is as though running them at the full 6.3V lowers their full potential as crystal radio rectifiers.  The reason is in the high perveance of the tubes, the anode is already proximate to the space charge before any plate voltage is applied.  Effectively, while the plate (anode) "Zero" voltage is measured with respect to ground, the plate itself is still positive with respect to the cathodic space charge.  Small currents will continue to flow even with a negative bias to the plate, (Contact potential).  <p>
 
 In order to explore this idea, I ran a series of tests with the tubes running at lower operating voltages (effectively diminishing the space charge thus lowering the splash current) as shown:<br>
-<IMG align SRC="dtct56.jpg"><p>
-<IMG align SRC="Variation.jpg"><IMG align SRC="Yint.jpg"><p>
+<IMG align SRC="/dtct56.jpg"><p>
+<IMG align SRC="/Variation.jpg"><IMG align SRC="/Yint.jpg"><p>
 
 Here you see the impact of lower operating voltages.  With the tube operating between 3 and 4 volts the characteristic curves begin to pass through the origin as in regular solid-state diodes and crystals.  It is precisely in this voltage range that I found the radio sensitivity, as measured by loudness to my ear, to be most pronounced.  The diode characteristic needs to pass through the origin of the I-V chart for rectification at highest sensitivity.  Having ran characteristics on the 6C19P at various heater voltages (Vh) I am able to calculate the Perveance (K) and the Splash current (b) for each curve, summarized in the table above.  In the table: K = perveance, m = slope (raised to the 3/2 power = perveance), and b the splash current.  You should note immediately that the perveance of the tube (K) DOES NOT CHANGE with differing temperature.  This is because the geometry of the tube does not change.  What does change is the position of the curve on the chart such that with lower temperatures the curve have a lower Y intercept.  I plot the splash current heater voltage to demonstrate a linear relationship.  With this I can readily calculate the heater voltage that provides a Zero intercept.  Thus 3.72 V is the ideal operating voltage for efficient rectification using a 6C19P vacuum diode.<p>
 If you have tried a vacuum diode on your crystal receiver and run it at its spec temp (6.3V for many such as the 6C19P), you have more than likely been disappointed with the results.  Pull that old set off the shelf and try again while adjusting the heater temperature to a lower level.  You may be surprised by what you hear.<p>
@@ -69,25 +69,25 @@ A conceptual look at the impact of heater temperature on the space charge distri
 Biasing the plate positive will have the effect of "pulling" the space charge towards the plate increasing the current while a negative plate bias will have the opposite effect.  With 6.0V heater it will take nearly a negative half volt before the current stops.  This is death to sensitivity in a crystal set.  Operating the heater at 4.0V provides the most efficient rectification.  <br>
 Note also that high perveance is not merely a matter of placing the plate as close as possible to the cathode.  This may cause an excessive zero-bias current to overcome.  The surface-area of both cathode and plate are also critical with large areas providing high current transfer.  Vacuum tubes such as pentodes with an included diode plate are poor rectifiers having very low perveance.  This is due to the small plate stuck in with all the other hardware in the tube.  Get a "fit for purpose" diode for best results.
 <p>
-<IMG align SRC="spchg.jpg">
+<IMG align SRC="/spchg.jpg">
 <p>
-<br clear=left><IMG align=left SRC="tst2tfk.jpg">
+<br clear=left><IMG align=left SRC="/tst2tfk.jpg">
 Note that while the above model as well as hearing (a kind of "hearing is beleiving" thing) supports the 4.0V heater voltage as a sweet spot for highest rectification efficiency, I have yet to be able to measure this.  Using my tube-driven Telefunken set (see description on my main radio page) I made a series of output signal power measurements at various tube heater voltages.  In this I found no relation between matched output power and the tube heater voltage at 20mV input (2.0Vpp on signal generator), and a monotonic increase in output power at 6mV input (0.2Vpp on the generator). I was seeking a peak output power at around 4.0V on the heater so this result is disturbing. I can hear it, but cannot measure it.<p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 <br clear=left>
 <p>Portraits:<p>
 <p>
-<IMG align SRC="f-5726.jpg">
-<IMG align SRC="f-6c19p.jpg">
-<IMG align SRC="f-20d1.jpg">
-<IMG align SRC="f-5c12p.jpg">
-<IMG align SRC="f-1s5.jpg">
-<IMG align SRC="f-2d1s.jpg">
-<IMG align SRC="f-6g2.jpg">
-<IMG align SRC="f-6dn3.jpg"><p>
+<IMG align SRC="/f-5726.jpg">
+<IMG align SRC="/f-6c19p.jpg">
+<IMG align SRC="/f-20d1.jpg">
+<IMG align SRC="/f-5c12p.jpg">
+<IMG align SRC="/f-1s5.jpg">
+<IMG align SRC="/f-2d1s.jpg">
+<IMG align SRC="/f-6g2.jpg">
+<IMG align SRC="/f-6dn3.jpg"><p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 The following spreadsheet provides my entire 6C19P observations and evaluation.  Plate voltage (Vp) is on the lefthand column, observations, models and calulations after that by heater voltage (Vh). The first spreadsheet gives the observations and their models.  In the second spreadsheet I model and compare the 6C19P run at operating spec 6.3Vh, and at the "ideal" operating Vh = 3.72V.  These are the data behind the 6C19P Characterization charts presented above.<p>
 
 <pre>
@@ -144,14 +144,14 @@ Vp	Model	I^2/3	Model	I^2/3
 2.00	10.51	4.80	7.26	3.75
 </pre>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/lab.shtml">Return..</a><br>
+<A HREF="/crystal/lab.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

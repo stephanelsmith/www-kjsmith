@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs international gallery, buenos aires, argentina</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Plaza de Mayo, Buenos Aires</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagint/baires.jpg" alt="buenos aires, argentina"></center>
+<center><IMG SRC="/imagint/baires.jpg" alt="buenos aires, argentina"></center>
 
 <hr size=15>
 <H3>
@@ -17,11 +17,11 @@ The Casa de Gobierno, or presidential palace stands at the foot of Buenos Aires'
 <P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

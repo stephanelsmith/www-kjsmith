@@ -17,12 +17,12 @@ The energy released in a flare occures over the full spectrum of wavelengths fro
 Fortunately, flares last only a short time, up to several hours in their extended, or "main" phase after the initial burst.  Given their terrestial effects and short duration, flares have long been a welcome challenge to amateurs observing at both visible and radio wavelengths. Visible-light observers generally monitor the sun in Hydrogen-alpha light where the flares shine brightest.  Radio observation has traditionally utilized the very low frequency band.  According to Mr. Hudak, (Sky and Telescope, 1984) this method requires a radio-quiet observing site, something simply not available to most amateurs today.  This report describes observations using his method of shortwave fadeout to detect flares.  In addition, the data gathered reveal several other interesting phenomona which I describe as well.<p>
 
 <hr size=25>
-<A HREF="r2ion.shtml">Next: Earth's ionosphere..</a><br>
-<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="/r2ion.shtml">Next: Earth's ionosphere..</a><br>
+<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -2,25 +2,25 @@
 <HEAD>
 <TITLE>kjs international photo gallery, santa cruz, bolivia</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Santa Cruz, Bolivia</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagint/bolivia.jpg" alt="santa cruz, bolivia"></center>
+<center><IMG SRC="/imagint/bolivia.jpg" alt="santa cruz, bolivia"></center>
 
 <hr size=15>
 
 <H3>Palms and pines grace the central square of Santa Cruz facing the Cathederal. This church is built from the pink sandstone of the Escarpment Formation which forms prominent cliffs in the Andean foothills nearby.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

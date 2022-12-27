@@ -2,36 +2,36 @@
 <HEAD>
 <TITLE>kjs Beer Labels</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 <h2>Menu</h2>
 <hr size=15>
 <p><H4><p>
-<a href=/~kjsmith/beer/rainier.shtml target=pres>Rainier<br></a>Seattle<p>
-<a href=/~kjsmith/beer/shiner.shtml target=pres>Shiner<br></a>Texas<p>
-<a href=/~kjsmith/beer/olympia.shtml target=pres>Olympia<br></a>Olympia<p>
-<a href=/~kjsmith/beer/smiths.shtml target=pres>Smith's Black<br></a>Norwester<p>
-<a href=/~kjsmith/beer/voodoo.shtml target=pres>Blackened Voodoo<br></a>Louisania<p>
-<a href=/~kjsmith/beer/rheinlander.shtml target=pres>Rheinlander<br></a>Seattle<p>
-<a href=/~kjsmith/beer/session.shtml target=pres>Session Brewery<br></a>Oregon<p>
-<a href=/~kjsmith/beer/blackbeard.shtml target=pres>Blackbeard Ale <br></a>US Virgen Islands<p>
-<a href=/~kjsmith/beer/alaskan.shtml target=pres>Alaskan Brewery<br></a>Alaska<p>
-<a href=/~kjsmith/beer/dundee.shtml target=pres>Dundee Honey Brown Ale<br></a>New York<p>
-<a href=/~kjsmith/beer/mirrorpond.shtml target=pres>Mirror Pond Pale Ale<br></a>Oregon<p>
-<a href=/~kjsmith/beer/rhipa.shtml target=pres>Red Hook India Pale Ale<br></a>Seattle<p>
-<a href=/~kjsmith/beer/trouble.shtml target=pres>Trouble Brewing<br></a>New York<p>
-<a href=/~kjsmith/beer/shiner2.shtml target=pres>Shiner<br></a>Texas<p>
-<a href=/~kjsmith/beer/ziggy.shtml target=pres>Ziggy Socky <br></a>USA<p>
-<a href=/~kjsmith/beer/lonestar.shtml target=pres>Lonestar<br></a>Texas<p>
-<a href=/~kjsmith/beer/shinerss.shtml target=pres>Shiner Summer<br></a>Texas<p>
+<a href=/beer/rainier.shtml target=pres>Rainier<br></a>Seattle<p>
+<a href=/beer/shiner.shtml target=pres>Shiner<br></a>Texas<p>
+<a href=/beer/olympia.shtml target=pres>Olympia<br></a>Olympia<p>
+<a href=/beer/smiths.shtml target=pres>Smith's Black<br></a>Norwester<p>
+<a href=/beer/voodoo.shtml target=pres>Blackened Voodoo<br></a>Louisania<p>
+<a href=/beer/rheinlander.shtml target=pres>Rheinlander<br></a>Seattle<p>
+<a href=/beer/session.shtml target=pres>Session Brewery<br></a>Oregon<p>
+<a href=/beer/blackbeard.shtml target=pres>Blackbeard Ale <br></a>US Virgen Islands<p>
+<a href=/beer/alaskan.shtml target=pres>Alaskan Brewery<br></a>Alaska<p>
+<a href=/beer/dundee.shtml target=pres>Dundee Honey Brown Ale<br></a>New York<p>
+<a href=/beer/mirrorpond.shtml target=pres>Mirror Pond Pale Ale<br></a>Oregon<p>
+<a href=/beer/rhipa.shtml target=pres>Red Hook India Pale Ale<br></a>Seattle<p>
+<a href=/beer/trouble.shtml target=pres>Trouble Brewing<br></a>New York<p>
+<a href=/beer/shiner2.shtml target=pres>Shiner<br></a>Texas<p>
+<a href=/beer/ziggy.shtml target=pres>Ziggy Socky <br></a>USA<p>
+<a href=/beer/lonestar.shtml target=pres>Lonestar<br></a>Texas<p>
+<a href=/beer/shinerss.shtml target=pres>Shiner Summer<br></a>Texas<p>
 </h4>
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 

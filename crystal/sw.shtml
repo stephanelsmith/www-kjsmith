@@ -7,26 +7,26 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="tst0.jpg">
+<IMG align=right SRC="/tst0.jpg">
 <H2>Rigging for the shortwaves
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 <h4>
 My "Homebrew" rig was conceived as a learning and playing testbed and this is exactly how I am using it.  The breadboard has two 2-gang 450 pF variable capacitors and a single 410 pF.  It has a switched detector stand and germanium diode to rectify signals.  So, this works best for testing coils.  Still, I can plop down a new capacitor if needed and hook it in with jumpers.  I start with an idea and perhaps a new component I wish to test, I get out my book of crystal hookups for something that seems to fit and with that as a guide, I carefully clip together the wires/jumpers, etc to get a working circuit. One of my recent uses for the homebrew was to test some low-inductance coils for HF work.<p>
 
 You see mounted a 3.6 uH more or less coil, 10 turns bare copper 14awg wire, 2in dia and 1.9in long.  I am desperatly seeking programming other than conservative right-wing AM talk shows.  The photo shows a simple test rigging with shortwave successfully being heard, amplified.  Signals are weak and need the help of my handy-dandy radio shack mini-amplifier, but the coils are working!  This is what the test bed is for and encourages me to make a dedicated HF rig<p>
-<IMG SRC="hbsw.jpg"><br>
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/hbsw.jpg"><br>
+<IMG SRC="/bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

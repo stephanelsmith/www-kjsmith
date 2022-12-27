@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs alsace: eguisheim</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -13,9 +13,9 @@
 <H2>Arbre généalogique de la Maison d'Eguisheim, Comtes de Nordgau: Metz: Dabo<p></H2><p>
 <H3>
 <p><hr size=5><br>
-<IMG align=right SRC="egupic.jpg">
+<IMG align=right SRC="/egupic.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
+<h3><A HREF="/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
 <hr size=5>
 
 Sur cette petite page, je présente un tableau généalogique de la maison d'Eguisheim, comtes de Nordgau, Metz et Dagsbourg. La famille Eguisheim m'intéresse particulièrement car le village et les châteaux sont familiers, ils sont visibles a partir de la maison de ma femme près de Colmar. Les arbres généalogiques sont facilement accessibles en ligne pour de nombreuses dynasties européennes et pour de nombreuses familles moins nobles. Même un rapide coup d’œil aux Eguisheim les révèle comme une maison très importante, liée par le sang ou par le mariage aux comtes, aux ducs, aux rois et aux empereurs. Ils ont donné les saints de l'église et même le grand pape réformateur Léon (Léon) IX est né Bruno d'Eguisheim. En tant que tel, il est surprenant que les informations généalogiques pour cette famille soient difficiles à trouver en ligne. J'ai dû faire mon propre!<p>
@@ -29,7 +29,7 @@ Pfister n'accepte aucune lien entra Adalric (Étichon), duc d'Alsace, et les mais
 
 J'inclus mes références historiques sous le tableau et peuvent être trouvées dans les Tomes IV et IVb ci-dessus. <p>
 
-<center><IMG SRC="/~kjsmith/alsace/LesEguisheim.jpg" alt="Arbre généalogique de la Maison d'Eguisheim, Comtes de Nordgau: Metz: Dabo"></center><p>
+<center><IMG SRC="/alsace/LesEguisheim.jpg" alt="Arbre généalogique de la Maison d'Eguisheim, Comtes de Nordgau: Metz: Dabo"></center><p>
 
 <H4>
 
@@ -124,14 +124,14 @@ http://www.lisa90.org/lisa1/pages1/article-79.html<p>
 
 kjs<br>
 2016<p>
-<center><IMG SRC="/~kjsmith/alsace/bierdalsace.jpg" alt="live well"></center><p>
+<center><IMG SRC="/alsace/bierdalsace.jpg" alt="live well"></center><p>
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine....</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

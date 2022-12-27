@@ -8,8 +8,8 @@
 
 
 <frameset cols="130,*">
- <FRAME  NAME="menu" SRC="/~kjsmith/minerals/min1.shtml">
- <FRAME  NAME="pres" SRC="/~kjsmith/minerals/min2.shtml">
+ <FRAME  NAME="menu" SRC="/minerals/min1.shtml">
+ <FRAME  NAME="pres" SRC="/minerals/min2.shtml">
 </frameset>
 <NOFRAME>
 

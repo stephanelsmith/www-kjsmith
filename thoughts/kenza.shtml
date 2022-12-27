@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, kenza</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/book.jpg"
+<BODY BACKGROUND="/graphics/book.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -76,7 +76,7 @@ Ne pleure pas»<p>
 ........MATOUB Lounes<p>
 </center><hr>
 <hr=5>
-<center><IMG SRC="/~kjsmith/thoughts/lounes.jpg"></center><p>
+<center><IMG SRC="/thoughts/lounes.jpg"></center><p>
 On 25 June, 1998 the politics of hate caught up with Lounes.  His voice was silenced by a murderer's bullet. Was it done by an Islamist?  The government?  Does it really matter who?  His voice was silenced, but his message remains....<p>
 <center>Kenza my daughter,<br>
 do not cry.<br>
@@ -86,9 +86,9 @@ Kenza my daughter,<br>
 do not cry.</center><P>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

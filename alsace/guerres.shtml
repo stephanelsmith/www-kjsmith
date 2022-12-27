@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs alsace: guerres</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H1>Les Guerres en Alsace</H1></center><P>
 
 <p><hr size=15><br>
-<IMG align=right SRC="thgue.jpg">
+<IMG align=right SRC="/thgue.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/almisc0.shtml">Retour à Mélange..</a><br>
+<h3><A HREF="/alsace/almisc0.shtml">Retour à Mélange..</a><br>
 <hr size=5>
 
 Au cours des 150 dernières années, avec la montée du nationalisme en Europe en général et en Allemagne en particulier, l’Alsace est devenue une terre de discorde. La France et l'Allemagne revendiquent cette province belle et prospère avec plus ou moins de légitimité. Dès ses débuts, Rome fut gouvernée et le Rhin formait la limite orientale de la Gaule romaine.  A l'arrivée des Francs, l'Alsace était située dans la province d'Austrasie (Aachen) sous le règne franc de l'époque, les premiers ducs «alsaciens», les Etichonides, étaient originaires de la province franque de Neustrie (Paris). Comme tous ceux qui immigrent en Alsace, je suppose, ils sont rapidement devenus «plus alsaciens que les Alsaciens eux-mêmes». <p>
@@ -28,7 +28,7 @@ Au total, le nationalisme a eu de lourdes conséquences en Alsace et dans le mond
 
 <p><hr size=5><br>
 
-<center><IMG SRC="/~kjsmith/alsace/carteGuerre.jpg" alt="Les Guerres en Alsace"></center><p>
+<center><IMG SRC="/alsace/carteGuerre.jpg" alt="Les Guerres en Alsace"></center><p>
 
 <p><hr size=5><p>
 
@@ -36,12 +36,12 @@ Au total, le nationalisme a eu de lourdes conséquences en Alsace et dans le mond
 kjs<br>
 2017<p>
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

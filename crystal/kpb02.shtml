@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="kpbpic.jpg">
+<IMG align=right SRC="/kpbpic.jpg">
 <H2>Impedance Matching Transformer KPB-02.
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 <h4><p>
 
@@ -20,25 +20,25 @@ I have been playing with crystal sets for some time now and am only now getting 
 
 Early crystal sets and many "hobby" sets (designed to listen to strong local broadcasts) have modest performance and tank circuits with impedances in the 20-50 kOhm range.  These sets are reasonably well matched to typical magnetic headphones which have input impedances ranging typically from 12 to 30 or so kOhms.  A few taps on the coil handles the situation quite satisfactorily.  Some 30-50 years back a number people began to introduce circuit design and component improvements to significantly improve the DX ability of simple crystal set technology.  These sets feature large Litz wire "rope" coils without taps which can be lossy, schottky diodes with high junction resistances, double tuning to improve the antenna to set power transformation.  All these features result in very low-loss sets with high tank Q and impedances in the 200-600 kOhm range.  Additionally, the inclusion of low-impedance / high sensitivity sound-powered (balanced armature) headphones all have made audio impedance matching a requirement any reception.  A 600 Ohm SP phone will simply load down a 400 kOhm tank!  <p>
 
-<IMG align=left SRC="pout_db.jpg">
+<IMG align=left SRC="/pout_db.jpg">
 The chart at left (from my Lab page on matching transformation) illustrates the situation.  There I show the output power in dB for three radios of varying performance.  The Bremmer-Tully set is a vintage set with low expectations and an output impedance of 20 kOhms.  The Homebrew set is a fairly typical hobby set for local stations with an output impedance of 50 kOhms.  The Teflon set is a low-end Performance set with a tank impedance of nearly 300 kOhms.  These three sets have dramatically different output needs and without matching the Teflon especially will not produce sound.  Introduce Litz rope and schottky diodes and the tank impedance goes up further still.  Note: a difference of about 3dB is needed before you will begin to notice a difference in sound level so there is some slop in the matching needs.  A certain amount of mismatch is tolerable.
 <p>
 
 With the advent of performance sets, audio matching is a must.  So, why did I wait so long?  Well, as mentioned, the wiring intimidated me.  The situation was not ideal.  Low-loss transformers generally had few, if any taps.  Matching circuits utilized two (or more) transformers to step down the impedance between tank and phones and were often custom designed for a specific rig.  When Bogen introduced the T-725 tapped transformer things brightened considerably.  While the maximum impedance tap gave 45 kOhms only, the tapped transformer could be combined with a second audio transformer to give a general purpose box with switchable transformation ratios to select between a wide range of both radio tanks as well as phone types.  Some of the best designs can be found on Darryl Boyd's "Stay Tuned" (Steve Bringhurst designs) page and Dave Schmarder's "make a Radio" page.  The all-purpose selectability aspect for these designs is compelling, but they are non-trivial projects.  Did I say that I find them intimidating? <p>
 <br clear=left><p>
 
-<IMG align=left SRC="KPB-02s.jpg">
+<IMG align=left SRC="/KPB-02s.jpg">
 A new development in the last year or two has been the introduction of low-loss multi-tapped transformers from China that are designed with crystal radio matching needs in mind.  The current transformer of choice, to me at least, is the KPB-02 unit.  This transformer has 18 taps for a range of transformation from 4 Ohms to 200 kOhms.  This should be sufficient to do all you’re matching needs.  Yes, I understand that a very high performance tank can have an output impedance upwards of 600 to 700 kOhms, but look at the power chart above, 600 kOhms is still within 3dB of a 200 kOhm match, you will not hear the difference.  The wiring needs are not trivial, but suddenly within my orbit.  The following section describes my current build, a matching transformer based on the KPB-02 unit. <p>
 <br clear=left><hr><p>
 
 Circuit schematic for the set.<p>
-<IMG align=left SRC="kpb02cir.jpg"><p>
+<IMG align=left SRC="/kpb02cir.jpg"><p>
 I chose the circuit at left for my design.  The transformer comes with a helpful circuit where every tap is wired to every post on both the Tank and Phone Z switches.  I chose not to inflict so much pain on myself by noting that I have never seen a tank with less than about 20 kOhms.  Wiring the tank to lower taps is fruitless (although I did go down to 10 kOhm, just in case..).  My switches are robust ceramic-insulated affairs with 11 positions plus a common.  <p>
 With the greater variety of impedance needs for phones I had to be choosier, I did not have 18 posts to play with.  Essentially, I divided the problem into three categories.  For Magnetic and Piezo element phones I chose 10k, 20k, 40k, and 100k Ohms.  For Sound Powered phones (no, I do not have a set yet...) I chose 300, 500, 800, and 1.5k Ohms.  Finally, for Modern Magnetic phones I wired to 8, 16, and 32 Ohms.  For anything else I let the 3dB slop cover me.  
 <br clear=left><p>
 
 Below are photos of the completed unit.  Please do not laugh (too hard) at my primitive wiring technique.  <p>
-<IMG SRC="mt02.jpg"> <IMG SRC="mt01.jpg"> <IMG SRC="mt03.jpg"><p>
+<IMG SRC="/mt02.jpg"> <IMG SRC="/mt01.jpg"> <IMG SRC="/mt03.jpg"><p>
 <hr size=5>
 
 A bit of discussion to wrap things up.  First of all, I am totally pleased with the transformer, it worked with the first hookup which is almost unheard of.  I mentioned that I do not have a pair of Sound Powered phones, time to consider this gap in my tool kit.  What I do have is a good standard set of normal high-impedance phones, 4.4k Ohm DC, 26 k Ohm impedance.  These are Chinese-made NOS, and are very sturdy, rather heavy in fact but they work well.  Also, I have a pair of American-made Piezo element phones, (Mike's Electronic Parts).  These are light and very comfortable.  To date they have NEVER worked and I always worried they were broken.  I should have sent them back to the maker (I had picked them up on eBay).  With the transformer they produce sound!  In fact they are nearly as loud (and somewhat higher in pitch) as the standard phones so this is a real treat.  Finally, in anticipation of this project, I had purchased a set of Modern Magnetic phones (Sentry HO-302) with, advertised at least, very high sensitivity SPL (sound pressure level) = 120 dB, Z = 32 Ohms.  Indeed these also give good sound with the proper match although noticeably less loud than either of the first two pairs.  One annoying feature is that they are stereo phones and so I get sound out of one phone only.  Looking into a remedy for this.<p>
@@ -64,11 +64,11 @@ kjs 2018
 <hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

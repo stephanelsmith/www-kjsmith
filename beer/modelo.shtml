@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, modelo beer, mexico</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Negra Modelo</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/modelo.jpg" alt="modelo beer label"></a></center>
+<center><IMG SRC="/beer/modelo.jpg" alt="modelo beer label"></a></center>
 <hr size=15>
 <H3>
 I was first introduced to Negra Modelo by my Spanish teacher.  In preparation for a buisness trip to South America, I was boning up on some basic spanish at a local community college.  One evening near the end of the semester the class went out to a local watering hole and there I first tried the strong taste of a Modelo.  It has since become a regular at my table.
@@ -18,14 +18,14 @@ I was first introduced to Negra Modelo by my Spanish teacher.  In preparation fo
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

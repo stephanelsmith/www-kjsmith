@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, creed of nicea</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/thoughts/boss.jpg"
+<BODY BACKGROUND="thoughts/boss.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 <H2>Some thoughts..on Christianity</H2><P>
@@ -19,12 +19,12 @@ We believe in one God, the Father, the Almighty, of all that is, seen and unseen
 
 <hr size=5><h4><p>
 To better understand our eastern brothers and sisters in Christ see
-<A HREF="http://www.orthodox.net/index.html">Orthodox.net</a> a port of embarkation to Orthodox sites on the web.<p></h4>
+<A HREF="/http://www.orthodox.net/index.html">Orthodox.net</a> a port of embarkation to Orthodox sites on the web.<p></h4>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

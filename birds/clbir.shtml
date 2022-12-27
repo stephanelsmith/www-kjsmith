@@ -2,31 +2,31 @@
 <HEAD>
 <TITLE>kjs bird photos, Rufous Hummingbird</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Rufous Hummingbird, Houston</H2></center>
 <H3>
-<center><IMG SRC="/~kjsmith/graphics/clbir.jpg"alt="Rufous Hummingbird"></a></center><p>
+<center><IMG SRC="/graphics/clbir.jpg"alt="Rufous Hummingbird"></a></center><p>
 It's late November and the Ruby Throated Hummingbirds have left the garden for warmer climes south along the Gulf Coast.  Taking their place is an occasional Rufous in winter plumage making its way south from the northwest.  I ask for any news from my family in Seattle!<p>
-<center><IMG SRC="/~kjsmith/graphics/clbir1.jpg"alt="Rufous Hummingbird"></a></center><p>
+<center><IMG SRC="/graphics/clbir1.jpg"alt="Rufous Hummingbird"></a></center><p>
 January now, a new feeder and our Rufous friends are getting some of their spring colors.  <p>
-<center><IMG SRC="/~kjsmith/graphics/clbir2.jpg"alt="Rufous Hummingbird"></a></center><p>
+<center><IMG SRC="/graphics/clbir2.jpg"alt="Rufous Hummingbird"></a></center><p>
 Fairwell portrait of our Rufous friend, his gorget now fully formed, ready for the treck back north.  After this photo was made we saw no more of our little rufous.  May he deliver greetings and our best wishes to family and friends back in Seattle!
 <br>kjs<p>
 
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

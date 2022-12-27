@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs pinhole photograph gallery</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/pinhole/back.jpg"
+<BODY BACKGROUND="pinhole/back.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,7 +10,7 @@
 <center><H2>Pinhole Photograph Gallery</H2></center>
 
 <hr size=15>
-<center><H2><img src=/~kjsmith/pinhole/photos.gif></a></H2></center>
+<center><H2><img src=/pinhole/photos.gif></a></H2></center>
 
 <h4>This page spotlights some recent experimentation I have been making with Pinhole Photography.  I have long thought about making such photographs, since I was in university in fact but was always too busy or too lazy to make the required effort.  Quite frankly, while facinated by the various aspects of photography and image manipulation, I find little pleasure in the construction/manufacture of mechanical devices.  I finally decided to fit a pinhole, easily prepared, (yes, even by myself) to a basecap on my old Pentax 35mm Spotmatic and let it provide the mechnical necessities of film holding and advance.<br>
 Pinhole photographs have a soft quality, (fuzzy according to my wife) and old-fashioned look which I find quite refreshing.  The long exposures often give subjects a motion-blur which provides a sense of motion and the passage of time not found in modern photographs.  I am not religious about pinhole photography and have no intention to give up my lenses like some artists I have come across.  Still, I enjoy the variety and the difference which pinhole photographs provide.<br>
@@ -18,11 +18,11 @@ On a technical note, I usually use color photographic film with an ISO of 200.  
 <br>kjs<p></h4>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

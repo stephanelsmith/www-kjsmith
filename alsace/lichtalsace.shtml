@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs alsace: lichtenberg</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -13,9 +13,9 @@
 <H2>Arbre généalogique de la Maison de Lichtenberg<p></H2><p>
 <H3>
 <p><hr size=5><br>
-<IMG align=right SRC="p320B.jpg">
+<IMG align=right SRC="/p320B.jpg">
 <p>
-<h3><A HREF="/~kjsmith/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
+<h3><A HREF="/alsace/genealogie.shtml">Retour à l'Arbres Généalogique..</a><br>
 <hr size=5>
 
 Cet arbre devrait à peu près compléter mes explorations de la noblesse alsacienne. La famille Lichtenberg se trouve dans le nord de l'Alsace, avec des terres qui traversent la frontière avec l'Allemagne (Homburg-Zweibrücken). <p>
@@ -24,7 +24,7 @@ La politique de la noblesse est fondamentalement la politique du moyen-âge, du m
 
 Le Lichtenberg s'installe en Alsace au depart du XIIIe siècle de la région de Homburg en Allemagne au nord. Pendant deux cents ans, la famille prospéra et se divisée en plusieurs branches. Avec le temps, chaque branche a disparu jusqu'à ce que Jacob, de la branche de Lichtenau, meure en 1408 sans héritier mâle. Le titre de famille passa à la dynastie de Hanau avec le mariage d'Anna de Lichtenberg à Philipp I de Hanau. Il rest Hanau-Lichtenberg pendant trois siècles est finalement passer à la dynastie Hesse-Darmstatt avec le mariage de Charlott Christine de Hanau-Lichtenberg à Louis VII de Hesse-Darmstatt.<p>
 
-<center><IMG SRC="/~kjsmith/alsace/LesLichtenberg.jpg" alt="Arbre généalogique de la Maison de Lichtenberg"></center><p>
+<center><IMG SRC="/alsace/LesLichtenberg.jpg" alt="Arbre généalogique de la Maison de Lichtenberg"></center><p>
 
 <H4>
 Références utilisées:<p>
@@ -61,12 +61,12 @@ kjs<br>
 2017<p>
 
 <hr size=15>
-<A HREF="/~kjsmith/alsace/alsace.shtml">Retour à l'Alsace</a><p>
+<A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/~kjsmith/html/main.shtml">Rentré à l'origine...</a></H3>
+<A HREF="/html/main.shtml">Rentré à l'origine...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

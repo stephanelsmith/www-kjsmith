@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs china photo gallery</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/nchina/bgchine.jpg"
+<BODY BACKGROUND="nchina/bgchine.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -16,14 +16,14 @@
 It is impossible to capture the flavor and visual variety of China in only a few photos, but I try to select a few that are special to me in order to give an impression, through my eyes, of my many adventures in the middle kingdom. The photos thus are selected to give a flavor of my trips, my work, people I have worked with, or just scenes that have special memories. These represent My China, the China I have come to know.  As I have been lucky to have such wonderful adventures, I wish to share with all and so make my appreciation known.
 <br>kjs<p>
 <hr size=5>
-<center><H2><img src=/~kjsmith/nchina/0china.jpg></a></H2></center>
+<center><H2><img src=/nchina/0china.jpg></a></H2></center>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

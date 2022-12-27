@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, missoula, montana winter</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 <hr size=15>
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="/~kjsmith/graphics/missoula.jpg"> <br clear>
+<img SRC="/graphics/missoula.jpg"> <br clear>
 </td></tr></table>
 
 In this time when I am living in the south with its mild winters, with talk of global warming heating up the news, I am inclined to recall the years I lived in Missoula Montana, and especially the winters I experienced there.  Missoula is a college town situated on the Clark Fork River at the head of the Bitterroot Valley.  To the east of town the Blackfoot and Clark Fork rivers join, icy cold from their birth in the Rocky Mountain high country.  South of town the wide Bitterroot Valley extends towards Idaho, celebrated by Charlie Russell in his famous painting of the meeting of the Blackfoot tribe and Lewis and Clark.<P>
@@ -28,11 +28,11 @@ One evening in particular stands out in my mind, one bitterly cold winter evenin
 Walking across the campus and out past a parking lot, I saw a car drive into the lot and around to park at the far end.  As that car turned, its lights illuminated the flatness of the surface.  Looking down the lot towards the Hellgate as the light flashed past I saw the snow blowing over the surface of hard packed snow, swirling white ice powder.  Beneath my feet the snow made a weird cracking sound with each step.  In that temperature the snow dries and will not pack, the crystals grating as the pressure of each footstep forces them past each other.  I stood there for a bit after the car had stopped, its occupants left unaware of my presence.  I reflected on the winter night, the cold, the snow swirling in the wind, the cracking sound of my footsteps, and of the walk I still had ahead of me.  And then I smiled.  Alone, I turned again towards my path and I smiled.  I thought "This is great".  The memory of that thought, the emotion that I felt at that moment is still fresh.  In Montana in the winter.. life was good.<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/stories/stories.shtml">Go back....</a></H3><P>
+<A HREF="/stories/stories.shtml">Go back....</a></H3><P>
 <hr size=15>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

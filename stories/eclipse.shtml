@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, solar eclipse, montana</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 <hr size=15>
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="/~kjsmith/graphics/eclipse.jpg"> <br clear>
+<img SRC="/graphics/eclipse.jpg"> <br clear>
 </td></tr></table>
 
 As a kid I was always a nut about astronomy.  It was an interest that was to 
@@ -46,7 +46,7 @@ will never pass.  We drove back to Missoula after the eclipse and in my
 apartment I sat down at my typewriter and wrote the following words:<P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/stories/eclipse.jpg"></center>
+<center><IMG SRC="/stories/eclipse.jpg"></center>
 <hr size=15><p>
 
 "While the experience of the eclipse is still fresh in my mind, I would like to tell of 
@@ -92,11 +92,11 @@ the very end of the partial phase.  So... that is how I saw my first eclipse, (b
 last!)."<P>
 
 <hr size=15>
-<A HREF="/~kjsmith/stories/stories.shtml">Go back....</a></H3><P>
+<A HREF="/stories/stories.shtml">Go back....</a></H3><P>
 <hr size=15>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

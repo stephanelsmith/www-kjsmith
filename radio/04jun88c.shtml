@@ -11,14 +11,14 @@
 <H3>
 
 <hr>
-<center><IMG SRC="04jun88c.gif" alt="Power spectrum" width=624 height=412></center>
+<center><IMG SRC="/04jun88c.gif" alt="Power spectrum" width=624 height=412></center>
 <hr>
 Power spectrum of the data collected on 04 June, 1998.  The data was converted to the frequency domain via a Fourier transform.
 
 <hr size=15>
-<A HREF="r5noise.shtml">Return..</a><br></h3>
+<A HREF="/r5noise.shtml">Return..</a><br></h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

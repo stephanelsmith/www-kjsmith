@@ -2,25 +2,25 @@
 <HEAD>
 <TITLE>kjs international photo gallery, london, england</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Tower of London, England</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagint/london2.jpg" alt="Tower of London, England"></center>
+<center><IMG SRC="/imagint/london2.jpg" alt="Tower of London, England"></center>
 
 <hr size=15>
 
 <H3>Signs of dicipline and a lost empire, Guards still stand at stiff attention in the Tower and other monuments across London.<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

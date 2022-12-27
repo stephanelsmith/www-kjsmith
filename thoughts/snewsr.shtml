@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs Writings, cynicism revealed</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/thoughts/shell.jpg"
+<BODY BACKGROUND="thoughts/shell.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
 <H2>Some thoughts..on cynicism.</H2><P><h3>
 
 A few years back during the waning stages of "downsizing" Shell Oil's gossip sheet interviewed CEO Phil Carroll.  In the article Phil took several victory laps for his performance.  These included his theory of "The Adult Relationship" between company and employee.  There is of course nothing new about this relationship and I am struck by its similarity to the same relationship as expounded by 
-<A HREF="/~kjsmith/thoughts/marx.shtml"> Karl Marx </a>
+<A HREF="/thoughts/marx.shtml"> Karl Marx </a>
  a century ago, only Marx naturally considered it an evil thing whereas Carroll considers it new and wonderful.  Suprised?  <p>
 In this theory, Carroll attempts, in the manner of Pontius Pilot, to wash his hands of all responsibility beyond a magnanimous commitment to keep employees trained so they can find jobs elsewhere when Shell chooses to fire them.<p>
 So, read for yourself, a note from the top.<p>
@@ -40,9 +40,9 @@ Phil Carroll:<br>"Running your affairs like a business, achieving the highest le
 There you have it.  The more things (people) change, the more they stay the same.<p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

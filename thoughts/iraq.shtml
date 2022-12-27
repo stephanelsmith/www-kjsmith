@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, killing fields</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/wtc.jpg"
+<BODY BACKGROUND="/graphics/wtc.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -10,7 +10,7 @@
 <h3>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/thoughts/iraqbc.jpg"></center>
+<center><IMG SRC="/thoughts/iraqbc.jpg"></center>
 
 <hr size=15>
 <H3>An event of little notice took place recently in October of 2006. <p>
@@ -23,9 +23,9 @@ In any case, this last October witnessed, for those who notice, the crossover wh
 kj smith   11/2006<p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

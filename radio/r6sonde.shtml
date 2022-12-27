@@ -14,22 +14,22 @@ The above report describes a study I made back in 1987 – 1991.  At the time my t
 Below I provide two figures made with my current setup.  The date 18 October.  The record shows simultaneous monitors on 2.5, 5.0, 10.0, 15.0, and 20.0 MHz WWV.  The easiest bands to interpret are for 10 and 15 MHz.  For 2.5 and 5 Mhz the record is best interpreted in terms of D-layer absorption.  20 MHz is barely reached except for two small blips at 16 and 17h CST.<p>
 
 <hr>
-<center><IMG SRC="sonde1.gif" alt="characteristic signature of signal fading" width=450 height=645></center>
+<center><IMG SRC="/sonde1.gif" alt="characteristic signature of signal fading" width=450 height=645></center>
 <hr>
 <p>
 Below is my “ionosond” display for that day.<p>
 <hr>
-<center><IMG SRC="sonde2.gif" alt="characteristic signature of signal fading" width=600 height=387></center>
+<center><IMG SRC="/sonde2.gif" alt="characteristic signature of signal fading" width=600 height=387></center>
 <hr>
 
 Would that I had such equipment back in 1997.  Times have changed and so has the hardware with which we use, but the work goes on!<p>
 
 <hr size=25>
-<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

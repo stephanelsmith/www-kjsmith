@@ -2,32 +2,32 @@
 <HEAD>
 <TITLE>kjs bird photos, Garden Feeder</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Garden Feeder, Houston</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/fdr.jpg"alt="Garden Feeder"></a></center><p>
+<center><IMG SRC="/graphics/fdr.jpg"alt="Garden Feeder"></a></center><p>
 A small house finch in white culottes waits patiently her turn at the feeder.<p>
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/fdr2.jpg"alt="Garden Feeder"></a><p>
-<IMG SRC="/~kjsmith/graphics/fdr3.jpg"alt="Garden Feeder"></a><p>
-<IMG SRC="/~kjsmith/graphics/fdr4.jpg"alt="Garden Feeder"></a></center><p>
+<center><IMG SRC="/graphics/fdr2.jpg"alt="Garden Feeder"></a><p>
+<IMG SRC="/graphics/fdr3.jpg"alt="Garden Feeder"></a><p>
+<IMG SRC="/graphics/fdr4.jpg"alt="Garden Feeder"></a></center><p>
 Things can get a little hectic at the feeder, especially in winter when we can get upwards of ten or more species of bird visiting for a bite to eat.  Finches and Sparrows invade in flocks.  Its all lots of fun and non-stop action much of the time.  I highly recommend this!<p>
 <br>kjs<p>
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

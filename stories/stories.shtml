@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, authored by yours truly</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/stories/e1snap.jpg"
+<BODY BACKGROUND="stories/e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -31,9 +31,9 @@
 </center>
 
 <hr size=15>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a>
+<A HREF="/html/main.shtml">Back to Main....</a>
 </H3><h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

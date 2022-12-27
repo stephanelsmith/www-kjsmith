@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, crues de paris</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/book.jpg"
+<BODY BACKGROUND="/graphics/book.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -13,7 +13,7 @@ I watch the French news broadcast of TV5 every evening with my wife.  The recent
 For me? I just go look a bit at the actual data.  It would seem a reasonable thing to do.  
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/thoughts/CruesParis.jpg"></center>
+<center><IMG SRC="/thoughts/CruesParis.jpg"></center>
 
 <hr size=5>
 
@@ -31,7 +31,7 @@ NASA Goddard Institute for Space Studies	https://data.giss.nasa.gov/gistemp/
 
 <hr size=15>
 A look at the full dataset for the Seine at Austerlitz station, Paris.  <p>
-<center><IMG SRC="/~kjsmith/thoughts/fulldata.jpg"></center>
+<center><IMG SRC="/thoughts/fulldata.jpg"></center>
 
 <hr size=5>
 
@@ -53,9 +53,9 @@ Although these dams are as much for navigation as for flood control, they certai
 Kevin Smith     01/2018<p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

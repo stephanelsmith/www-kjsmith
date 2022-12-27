@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="trns1.jpg">
+<IMG align=right SRC="/trns1.jpg">
 <H2>Oscillation Circuits: HV Capacitance and Transformer
 </H2>
-<h4><A HREF="/~kjsmith/crystal/spark.shtml">Back to Spark..</a><br></h4>
+<h4><A HREF="/crystal/spark.shtml">Back to Spark..</a><br></h4>
 <hr>
 <H4>
 The oscillation circuit in the transmitter performs the twin functions of converting the spark's energy to trains of radio frequency oscillations and transferring them from the closed tank to the open antenna for transmission.  Like any tank circuit the main components consist of capacitance and inductance, both variable in order to tune the circuit to the needed frequency.  The closed circuit loosely couples to the open circuit to achieve the best resonance and lowest decrement.  The design aspects of this section is where the radio theory begins and induction/relay theory ends, we are talking radio here now.  
@@ -38,20 +38,20 @@ Secondary: Diameter = 5", Length = 6.0", Turns = 22, uH = 27.4 max, 1/16" copper
 
 The capacitance module simply consists of high-tension modern capacitors switchable into or out of the circuit in parallel.  The original intention, still in play, is to use Leyden Jars, but that is another matter.  The four capacitors have values of 500, 1000, 1000, and 3000 pF giving plenty of combinations to choose from.  Changing inductance is a matter of clipping to the coil at the right place.  Finally, coupling the coils is a matter of sliding the secondary along rails into or out of the primary winding.  The following photos give portraits of the two oscillation circuit modules.<p>
 
-<p><IMG SRC="trns2.jpg"><p>
-<IMG SRC="trns3.jpg"><p>
+<p><IMG SRC="/trns2.jpg"><p>
+<IMG SRC="/trns3.jpg"><p>
 When one walks into a room, nothing quite says "Transmitter present!" like a big oscillation transformer!<p>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/spark.shtml">Return..</a><br>
+<A HREF="/crystal/spark.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

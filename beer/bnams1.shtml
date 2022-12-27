@@ -2,64 +2,64 @@
 <HEAD>
 <TITLE>kjs Beer Labels</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 <h2>Menu</h2>
 <hr size=15>
 <p><H4><p>
-<a href=/~kjsmith/beer/ca-goldengate.shtml target=pres>Golden Gate<br></a>California<p>
-<a href=/~kjsmith/beer/ca-mellowbrew.shtml target=pres>Mellow Brew<br></a>California<p>
-<a href=/~kjsmith/beer/ca-ranch.shtml target=pres>Ranch Beer<br></a>California<p>
-<a href=/~kjsmith/beer/ca-royalaward.shtml target=pres>Royal Award<br></a>California<p>
-<a href=/~kjsmith/beer/ca-shoppers.shtml target=pres>Shoppers<br></a>California<p>
-<a href=/~kjsmith/beer/can-bohemianmaid.shtml target=pres>Bohemian Maid<br></a>Alberta<p>
-<a href=/~kjsmith/beer/can-hart.shtml target=pres>Hart Amber Ale<br></a>Ontario<p>
-<a href=/~kjsmith/beer/can-oldstyle.shtml target=pres>Old Style Pilsner<br></a>Alberta<p>
-<a href=/~kjsmith/beer/can-otooles.shtml target=pres>O'Toole's<br></a>Ontario<p>
-<a href=/~kjsmith/beer/can-wildcougar.shtml target=pres>Wild Cougar<br></a>Alberta<p>
-<a href=/~kjsmith/beer/ma-blanchards.shtml target=pres>Blanchard's<br></a>Massachusetts<p>
-<a href=/~kjsmith/beer/mn-kato.shtml target=pres>Kato White Label<br></a>Minnesota<p>
-<a href=/~kjsmith/beer/mo-budweiser.shtml target=pres>Budweiser<br></a>Missouri<p>
-<a href=/~kjsmith/beer/mo-rocknroll.shtml target=pres>Rock n Roll<br></a>Missouri<p>
-<a href=/~kjsmith/beer/mt-greatfalls.shtml target=pres>Great Falls Select<br></a>Montana<p>
-<a href=/~kjsmith/beer/mt-highlander.shtml target=pres>Highlander<br></a>Montana<p>
-<a href=/~kjsmith/beer/nb-storztap.shtml target=pres>Storz Tap<br></a>Nebraska<p>
-<a href=/~kjsmith/beer/nj-pilsers.shtml target=pres>Pilser's<br></a>New Jersey<p>
-<a href=/~kjsmith/beer/nj-rogerwilco.shtml target=pres>Roger Wilco<br></a>New Jersey<p>
-<a href=/~kjsmith/beer/ny-piels.shtml target=pres>Piels Light Lager<br></a>New York<p>
-<a href=/~kjsmith/beer/or-bestbitterale.shtml target=pres>Best Bitter Ale<br></a>Oregon<p>
-<a href=/~kjsmith/beer/or-dunkelweizen.shtml target=pres>Dunkel Weizen<br></a>Oregon<p>
-<a href=/~kjsmith/beer/or-hefeweizen.shtml target=pres>Hefe Weizen<br></a>Oregon<p>
-<a href=/~kjsmith/beer/or-mctarnahans.shtml target=pres>Mctarnahans<br></a>Oregon<p>
-<a href=/~kjsmith/beer/or-portlandale.shtml target=pres>Portland Ale<br></a>Oregon<p>
-<a href=/~kjsmith/beer/or-portlandporter.shtml target=pres>Portland Porter<br></a>Oregon<p>>
-<a href=/~kjsmith/beer/pa-christianschmidt.shtml target=pres> Christian Schmidt<br></a>Pennsylvania<p>
-<a href=/~kjsmith/beer/pa-gretz.shtml target=pres>Gretz<br></a>Pennsylvania<p>
-<a href=/~kjsmith/beer/pa-kaiers.shtml target=pres>Kaiers<br></a>Pennsylvania<p>
-<a href=/~kjsmith/beer/pa-mtcarbon.shtml target=pres>Mt Carbon<br></a>Pennsylvania<p>
-<a href=/~kjsmith/beer/pa-oldmilwaukee.shtml target=pres>Old Milwaukee<br></a>Pennsylvania<p>
-<a href=/~kjsmith/beer/pa-rheingold.shtml target=pres>Rheingold<br></a>Pennsylvania<p>
-<a href=/~kjsmith/beer/pa-strohs.shtml target=pres>Stroh's<br></a>Pennsylvania<p>
-<a href=/~kjsmith/beer/porttownsend.shtml target=pres>Townsend<br></a>Port Townsend<p>
-<a href=/~kjsmith/beer/redwhitenblue.shtml target=pres>Red White n Blue<br></a>mystery<p>
-<a href=/~kjsmith/beer/ri-ballentine.shtml target=pres>Ballentine<br></a>Rhode Island<p>
-<a href=/~kjsmith/beer/sea-longhammer.shtml target=pres>Long Hammer IPA<br></a>Seattle<p>
-<a href=/~kjsmith/beer/sea-redhookesb.shtml target=pres>Red Hook ESB<br></a>Seattle<p>
-<a href=/~kjsmith/beer/wdn-widmer.shtml target=pres>Widmer Hefeweizen<br></a>Woodinville<p>
-<a href=/~kjsmith/beer/wi-holiday.shtml target=pres>Holiday<br></a>Wisconsin<p>
-<a href=/~kjsmith/beer/wi-littleadler.shtml target=pres>Little Adler<br></a>Wisconsin<p>
-<a href=/~kjsmith/beer/wi-marathon.shtml target=pres>Marathon<br></a>Wisconsin<p>
-<a href=/~kjsmith/beer/wi-northern.shtml target=pres>Northern<br></a>Wisconsin<p>
-<a href=/~kjsmith/beer/wi-peoples.shtml target=pres>Peoples<br></a>Wisconsin<p>
-<a href=/~kjsmith/beer/wi-rheinlander.shtml target=pres>Rheinlander<br></a>Wisconsin<p>
+<a href=/beer/ca-goldengate.shtml target=pres>Golden Gate<br></a>California<p>
+<a href=/beer/ca-mellowbrew.shtml target=pres>Mellow Brew<br></a>California<p>
+<a href=/beer/ca-ranch.shtml target=pres>Ranch Beer<br></a>California<p>
+<a href=/beer/ca-royalaward.shtml target=pres>Royal Award<br></a>California<p>
+<a href=/beer/ca-shoppers.shtml target=pres>Shoppers<br></a>California<p>
+<a href=/beer/can-bohemianmaid.shtml target=pres>Bohemian Maid<br></a>Alberta<p>
+<a href=/beer/can-hart.shtml target=pres>Hart Amber Ale<br></a>Ontario<p>
+<a href=/beer/can-oldstyle.shtml target=pres>Old Style Pilsner<br></a>Alberta<p>
+<a href=/beer/can-otooles.shtml target=pres>O'Toole's<br></a>Ontario<p>
+<a href=/beer/can-wildcougar.shtml target=pres>Wild Cougar<br></a>Alberta<p>
+<a href=/beer/ma-blanchards.shtml target=pres>Blanchard's<br></a>Massachusetts<p>
+<a href=/beer/mn-kato.shtml target=pres>Kato White Label<br></a>Minnesota<p>
+<a href=/beer/mo-budweiser.shtml target=pres>Budweiser<br></a>Missouri<p>
+<a href=/beer/mo-rocknroll.shtml target=pres>Rock n Roll<br></a>Missouri<p>
+<a href=/beer/mt-greatfalls.shtml target=pres>Great Falls Select<br></a>Montana<p>
+<a href=/beer/mt-highlander.shtml target=pres>Highlander<br></a>Montana<p>
+<a href=/beer/nb-storztap.shtml target=pres>Storz Tap<br></a>Nebraska<p>
+<a href=/beer/nj-pilsers.shtml target=pres>Pilser's<br></a>New Jersey<p>
+<a href=/beer/nj-rogerwilco.shtml target=pres>Roger Wilco<br></a>New Jersey<p>
+<a href=/beer/ny-piels.shtml target=pres>Piels Light Lager<br></a>New York<p>
+<a href=/beer/or-bestbitterale.shtml target=pres>Best Bitter Ale<br></a>Oregon<p>
+<a href=/beer/or-dunkelweizen.shtml target=pres>Dunkel Weizen<br></a>Oregon<p>
+<a href=/beer/or-hefeweizen.shtml target=pres>Hefe Weizen<br></a>Oregon<p>
+<a href=/beer/or-mctarnahans.shtml target=pres>Mctarnahans<br></a>Oregon<p>
+<a href=/beer/or-portlandale.shtml target=pres>Portland Ale<br></a>Oregon<p>
+<a href=/beer/or-portlandporter.shtml target=pres>Portland Porter<br></a>Oregon<p>>
+<a href=/beer/pa-christianschmidt.shtml target=pres> Christian Schmidt<br></a>Pennsylvania<p>
+<a href=/beer/pa-gretz.shtml target=pres>Gretz<br></a>Pennsylvania<p>
+<a href=/beer/pa-kaiers.shtml target=pres>Kaiers<br></a>Pennsylvania<p>
+<a href=/beer/pa-mtcarbon.shtml target=pres>Mt Carbon<br></a>Pennsylvania<p>
+<a href=/beer/pa-oldmilwaukee.shtml target=pres>Old Milwaukee<br></a>Pennsylvania<p>
+<a href=/beer/pa-rheingold.shtml target=pres>Rheingold<br></a>Pennsylvania<p>
+<a href=/beer/pa-strohs.shtml target=pres>Stroh's<br></a>Pennsylvania<p>
+<a href=/beer/porttownsend.shtml target=pres>Townsend<br></a>Port Townsend<p>
+<a href=/beer/redwhitenblue.shtml target=pres>Red White n Blue<br></a>mystery<p>
+<a href=/beer/ri-ballentine.shtml target=pres>Ballentine<br></a>Rhode Island<p>
+<a href=/beer/sea-longhammer.shtml target=pres>Long Hammer IPA<br></a>Seattle<p>
+<a href=/beer/sea-redhookesb.shtml target=pres>Red Hook ESB<br></a>Seattle<p>
+<a href=/beer/wdn-widmer.shtml target=pres>Widmer Hefeweizen<br></a>Woodinville<p>
+<a href=/beer/wi-holiday.shtml target=pres>Holiday<br></a>Wisconsin<p>
+<a href=/beer/wi-littleadler.shtml target=pres>Little Adler<br></a>Wisconsin<p>
+<a href=/beer/wi-marathon.shtml target=pres>Marathon<br></a>Wisconsin<p>
+<a href=/beer/wi-northern.shtml target=pres>Northern<br></a>Wisconsin<p>
+<a href=/beer/wi-peoples.shtml target=pres>Peoples<br></a>Wisconsin<p>
+<a href=/beer/wi-rheinlander.shtml target=pres>Rheinlander<br></a>Wisconsin<p>
 </h4>
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 

@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, white-faced ibis</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,10 +10,10 @@
 <H3>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/wfib1.jpg"alt="White-Faced Ibis"></a><p>
-<IMG SRC="/~kjsmith/graphics/wfib2.jpg"alt="White-Faced Ibis"></a><p>
-<IMG SRC="/~kjsmith/graphics/wfib3.jpg"alt="White-Faced Ibis"></a><p>
-<IMG SRC="/~kjsmith/graphics/wfib4.jpg"alt="White-Faced Ibis"></a></center><p>
+<center><IMG SRC="/graphics/wfib1.jpg"alt="White-Faced Ibis"></a><p>
+<IMG SRC="/graphics/wfib2.jpg"alt="White-Faced Ibis"></a><p>
+<IMG SRC="/graphics/wfib3.jpg"alt="White-Faced Ibis"></a><p>
+<IMG SRC="/graphics/wfib4.jpg"alt="White-Faced Ibis"></a></center><p>
 
 It is October and there is change in the air.  After a summer of White Ibis's this appearance of dark White-faced Ibis's is very fun.  Viva diversity!<p>
 kjs<p>
@@ -24,14 +24,14 @@ kjs<p>
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, Ruby Crowned Kinglet</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -12,14 +12,14 @@
 
 Ruby Crowned Kinglets are a fairly common winter resident along the TX gulf coast and one typically makes our garden its winter home.  This little king is tiny and spends much of its time in the large live oak making it a challenge to spot.  Notoriously difficult to photograph, this blog represents my best efforts over two winters of tracking the little cretan. <p>
 
-<center><IMG SRC="/~kjsmith/graphics/RubyCrownedKinglet4.jpg"alt="Ruby Crowned Kinglet"></a><p>
-<IMG SRC="/~kjsmith/graphics/RubyCrownedKinglet9.jpg"alt="Ruby Crowned Kinglet"></a><p>
-<IMG SRC="/~kjsmith/graphics/RubyCrownedKinglet8.jpg"alt="Ruby Crowned Kinglet"></a><p>
-<IMG SRC="/~kjsmith/graphics/RubyCrownedKinglet7.jpg"alt="Ruby Crowned Kinglet"></a><p>
-<IMG SRC="/~kjsmith/graphics/RubyCrownedKinglet6.jpg"alt="Ruby Crowned Kinglet"></a></center><p>
+<center><IMG SRC="/graphics/RubyCrownedKinglet4.jpg"alt="Ruby Crowned Kinglet"></a><p>
+<IMG SRC="/graphics/RubyCrownedKinglet9.jpg"alt="Ruby Crowned Kinglet"></a><p>
+<IMG SRC="/graphics/RubyCrownedKinglet8.jpg"alt="Ruby Crowned Kinglet"></a><p>
+<IMG SRC="/graphics/RubyCrownedKinglet7.jpg"alt="Ruby Crowned Kinglet"></a><p>
+<IMG SRC="/graphics/RubyCrownedKinglet6.jpg"alt="Ruby Crowned Kinglet"></a></center><p>
 
 
-<center><IMG SRC="/~kjsmith/graphics/rcklt-cht.jpg"alt="Ruby Crowned Kinglet"></a></center><br>
+<center><IMG SRC="/graphics/rcklt-cht.jpg"alt="Ruby Crowned Kinglet"></a></center><br>
 Garden Stats for our Ruby Crowned Kinglet, a winter visitor who otherwise arrives in early fall and stays on until April, an unhurried schedule.<p>
 
 <hr size=15>
@@ -28,14 +28,14 @@ Garden Stats for our Ruby Crowned Kinglet, a winter visitor who otherwise arrive
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

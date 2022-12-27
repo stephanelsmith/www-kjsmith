@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="imhm.jpg">
+<IMG align=right SRC="/imhm.jpg">
 <H2>Crystal Radio Capacitors and ESR
 </H2>
-<H4><A HREF="/~kjsmith/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 
@@ -20,7 +20,7 @@ I set about my study by gathering what I could find on the web concerning capaci
 
 These are simple plots with log Q versus log capacitance in pF and versus log frequency in MHz.  On each plot, a bit messy I admit, I show data for eight capacitors along with the Q versus f equation.  You immediately see that for each capacitor the relation follows a power function and in all cases the function is good to R-squared at or above 99%.  Additionally, I include the same data for two capacitors presented in Ben Tongue's excellent summary.  It is also immediately obvious that not all caps are created equal!  <p>
 
-<IMG SRC="allcaps5.jpg"> <IMG SRC="allcaps1.jpg"><p>
+<IMG SRC="/allcaps5.jpg"> <IMG SRC="/allcaps1.jpg"><p>
 I have named the caps in the following manner, the highest tested RF capacitance, materials of interest (A = aluminum plates, B =  brass plates; C = ceramic insulators, P = phenolic insulators); finally something to do with the origin. Photos of the caps at the bottom of this page.<p>
 
 
@@ -63,7 +63,7 @@ Any discussion of component quality needs first to acknowledge that the fight to
 
 The plot below summarizes the same data only this time plotting log Q versus log Rs (ESR).  Here most of the data sets fall into a narrow zone running from High-Q / low ESR in the upper left to Low-Q / high ESR in the lower right.  Ben Tongue's Holy Grail cap sits above the pack with an overall narrower range of ESR from max to min capacitance.  No surprises, good caps are low-loss.  I have also plotted lines of Q versus ESR at 1MHz for threee capacitance values, 10, 100, and 1000 pF.  These lines indicate that Q is highest at high values of capacitance independant of individual capacitor loss. Note that all the caps measured straddle the 100 pF line.  For typical MW coils with about 230 uH or so, 100 pF resonates around 1MHz.<p>
 
-<IMG SRC="allcaps2.jpg"><p>
+<IMG SRC="/allcaps2.jpg"><p>
 
 From the datasets above it can be seen that high-Q caps are high-Q across the band, but Q varies and is highest at high capacitance, (lower frequency) and vice versa.  All sets show a direct power-law relation between Q and f or ESR regardless of overall quality or type of capacitor.  The data table from Ben Tongue (below) was found in his Article 24 and represent precision measuremnts by Bill Hebbert.<p> 
 <pre>
@@ -88,18 +88,18 @@ In the mid-Q range I find one brass cap (512 BnC) and two Russian caps (453 AnC,
 Finally and best cap that I have in my box is another Russian cap (383 AnC).  This cap is clearly an unused NOS unit with clean shiny parts and button ceramic insulators.  This is a slightly smaller version of one of the previous caps (397 AnC).  The moderate Q version was also clean and NOS, so I do not expect all such caps to be automatically good Q.  It is a pity as I have seen additional of these small caps on eBay, though clearly in used condition so I suspect they will have lower Q.<p>
 
 From all the above I would conclude that caps having ceramic insulation alone is not nirvana.  Caps need also to be clean and ultimately need silver plating to truly aspire to "holy grail" status.  A good reference worth looking at is a thread on The Radio Board: 
-<A HREF="http://theradioboard.com/rb/viewtopic.php?t=1525">Improving 'Q' of capacitors.</a> <br>
+<A HREF="/http://theradioboard.com/rb/viewtopic.php?t=1525">Improving 'Q' of capacitors.</a> <br>
 The post shows how merely taking an older cap and cleaning it up (no small task) and replacing the insulators with HDPE sheet (high-density polyethylene) can take an original Q = 664 (1MHz) and raise it to Q = 12248 (1MHz).  This value is on par with Ben Tongue's "holy grail" cap (Q = 13148 @ 1MHz) and either it was a dim fine cap to start with or something not fully kosher with the measurements.  Still, the point is that improvements can be significant.<p>
 
 <hr>
 
 Images of the tested caps, same scale.<br>
-<IMG SRC="404anp.jpg">
-<IMG SRC="356bnc.jpg">
-<IMG SRC="512bnc.jpg">
-<IMG SRC="453anc.jpg">
-<IMG SRC="383anc.jpg">
-<IMG SRC="354inc.jpg"><p>
+<IMG SRC="/404anp.jpg">
+<IMG SRC="/356bnc.jpg">
+<IMG SRC="/512bnc.jpg">
+<IMG SRC="/453anc.jpg">
+<IMG SRC="/383anc.jpg">
+<IMG SRC="/354inc.jpg"><p>
 
 Note: A summary look at the cap Q taken (calculated) at 1 MHz<p>
 <pre>
@@ -139,23 +139,23 @@ Dr. Gary L. Johnson, 2001. Lossy Capacitors<br>
 http://www.eece.ksu.edu/~gjohnson/tcchap3.pdf<p>
 <hr><p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 A short note concerning my Q measurements as compared to those of Bill Hebbert and presented by Ben Tongue in his Article 24.  By some chance, both Ben's work as well as my own include a commonly available 365 pF capacitor from the XSS and elsewhere.  While his cap and my own are not the same unit, their properties ought to be similar enough.  Therefore it is worth to take a look ar the two datasets together.  <p>
 
 In the plot below of Q vs Capacitance I show Ben's three measurement sets as well as my own measuremnts on the same type cap.  His measurements on CapB were made with two separate inductors, one with 250 uH and one with 180 uH.  My standard inductor has 225 uH, so here I compare my 225uH data with Ben's 250 uH data.  On the plot I show dark green markers for Ben's 250 uH (BT B250) dataset and red markers for my 225 uH (404 AnP) data.  It is clear that my Q measurements are systematically lower than his. <p>
 
 At this time I am uncertain as to whether my setup delivers lower Q measurements or if the partictular cap I measured was a bit more lossy than Ben's.  This is a bit of ambiguity in my presentation that the reader ought to be aware of.  Maybe my caps are better than presented?  I do not know the answer but I include this plot just so you know.<p>
 
-<IMG SRC="allcaps4.jpg"><p>
+<IMG SRC="/allcaps4.jpg"><p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 
 A note concerning Loss Tangent<p>
 When looking into capacitor losses one often runs into the term "loss tangent".  For many our eyes just glaze over and we read on understanding only that it has something interesting to do with theory. In the interest of knowing the code I give a brief explanation.  <p>
 With a perfect lossless capacitor in AC operation (sine wave) current leads the voltage by 90 degrees.  Where losses occur the current will lead by slightly less than this.  If you imagine these losses as a resistance in series with a perfect capacitor, then this is called Effective Series Resistance, ESR and is valid in reference to a specific frequency: ESR = D / 2pi * f * C.<p>
 The lag angle between current and voltage is generally a fraction of a degree and is expressed as a positive value.  The tangent of this lag angle is the "loss tangent" and is referred to more commonly as the Dissipation factor D.  For example, polystyrene has a D of about 0.0001 for a lag angle of 0.006 degrees.  Good dielectrics have very small loss tangents.  Why do we express loss as D or loss tangent?  Well, it related to the quality factor Q such that Q = 1/D.  <p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 Modeled Data from plots shown above:<p>
 <pre>		
 f	L	C	Qtank	Qcoil	Qcap	Rp	ESR	D		Qvsf			R²
@@ -273,14 +273,14 @@ Aluminum n Ceramic Estonia					337 AnC EB	Q = 1149 * f ^-2.429	0.9810
 
 </pre>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 <hr><h3>
 
-<A HREF="/~kjsmith/crystal/lab.shtml">Return to Lab..</a><br>
+<A HREF="/crystal/lab.shtml">Return to Lab..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

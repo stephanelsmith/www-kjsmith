@@ -2,12 +2,12 @@
 <HEAD>
 <TITLE>kjs geophysics</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/geophysics/bgmag.jpg"
+<BODY BACKGROUND="geophysics/bgmag.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="stormpic.jpg">
+<IMG align=right SRC="/stormpic.jpg">
 <H2>Monitoring Geophysical Phenomena</H2>
 <h4>
 Fun with Geophysics<p>
@@ -18,32 +18,32 @@ As a professional geologist I have worked with geophysical tools most of my care
 Enjoy..<p>
 kjs 2017 <p>
 
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 The projects described below were conducted some time past and I do not always recall the details of the experimental setups.  Nor were they always successful in demonstrating what I sought.  I never saw geomagnetic pulsations and my telluric currents were hoh-hum.  This is possibly due in part to a lack of good equipment.  As I am not much of an engineer, my sensors were very primitive, its a wonder I measured anything at all.  So, bear with me and enjoy the project ideas.  If your engineering skills exceed my own, quite probably, then you should be able, with superior implementation to get interesting results.  As it is, my results did provide plenty to ponder upon.  never a wasted effort!
 <p>
 
 
-<A HREF="atmelectricty.shtml"><img border=0 SRC="/~kjsmith/geophysics/atebtn.jpg"</a>
-<A HREF="/~kjsmith/geophysics/atmelectricty.shtml">ATMOSPHERIC ELECTRICTY..</a> Measuring the Fair Weather Field of the Global Electric Circuit..<p>
+<A HREF="/atmelectricty.shtml"><img border=0 SRC="/geophysics/atebtn.jpg"</a>
+<A HREF="/geophysics/atmelectricty.shtml">ATMOSPHERIC ELECTRICTY..</a> Measuring the Fair Weather Field of the Global Electric Circuit..<p>
 
-<A HREF="lightning.shtml"><img border=0 SRC="/~kjsmith/geophysics/ltnbtn.jpg"</a>
-<A HREF="/~kjsmith/geophysics/lightning.shtml">LIGHTNING..</a> Taking huge risks with lightning rods during violent thunderstorms..<p>
+<A HREF="/lightning.shtml"><img border=0 SRC="/geophysics/ltnbtn.jpg"</a>
+<A HREF="/geophysics/lightning.shtml">LIGHTNING..</a> Taking huge risks with lightning rods during violent thunderstorms..<p>
 
-<A HREF="geomagnetism.shtml"><img border=0 SRC="/~kjsmith/geophysics/gmgbtn.jpg"</a>
-<A HREF="/~kjsmith/geophysics/geomagnetism.shtml">GEOMAGNETISM..</a> Geomagnetism and the Solar/Earth connection..<p>
+<A HREF="/geomagnetism.shtml"><img border=0 SRC="/geophysics/gmgbtn.jpg"</a>
+<A HREF="/geophysics/geomagnetism.shtml">GEOMAGNETISM..</a> Geomagnetism and the Solar/Earth connection..<p>
 
-<A HREF="earelectricty.shtml"><img border=0 SRC="/~kjsmith/geophysics/elebtn.jpg"</a>
-<A HREF="/~kjsmith/geophysics/earelectricty.shtml">EARTH ELECTRICTY..</a> Probing Telluric currents..<p>
+<A HREF="/earelectricty.shtml"><img border=0 SRC="/geophysics/elebtn.jpg"</a>
+<A HREF="/geophysics/earelectricty.shtml">EARTH ELECTRICTY..</a> Probing Telluric currents..<p>
 <p>
 
 <hr size=5>
 <p>
 
 <hr size=15>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

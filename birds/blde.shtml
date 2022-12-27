@@ -2,33 +2,33 @@
 <HEAD>
 <TITLE>kjs bird photos, bald eagle</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Bald Eagle, Seattle</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/graphics/blde.jpg"alt="Bald Eagle"></a></center>
+<center><IMG SRC="/graphics/blde.jpg"alt="Bald Eagle"></a></center>
 <hr>
 <H3>
 I grew up in the Pacific Northwest and bald eagles were a part of my birding, not uncommon in the western side of the Cascade Mountains.  This photo was taken on a recent visit to my family in Seattle.  Bald Eagles nest and roost along the piers and docks of Lake Union in central Seattle.  This eagle decided to land on a log just a few 10's of feet from my brother's houseboat and pose for his photo.
 <br>kjs<P>
-<center><IMG SRC="/~kjsmith/graphics/blde2.jpg"alt="Bald Eagle"></a></center>
+<center><IMG SRC="/graphics/blde2.jpg"alt="Bald Eagle"></a></center>
 <hr>
 A recent (2018) spring visit to Seattle and Lake Union and the eagles are still around.  <p>
 
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

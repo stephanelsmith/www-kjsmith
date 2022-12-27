@@ -2,25 +2,25 @@
 <HEAD>
 <TITLE>kjs international photo gallery, Luxor Temple, Egypt</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Vision of Néfertari at Luxor</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/imagint/nefer.jpg" alt="Vision of Nefertari at Luxor"></center>
+<center><IMG SRC="/imagint/nefer.jpg" alt="Vision of Nefertari at Luxor"></center>
 
 <hr size=15>
 
 <H3>Standing proudly, albiet dimunitively, beside her liege at Amon-Rê, Néfertari the favored wife of Ramses II remains as captivating today as she must have been when she stole the heart of of the ruler of the Two Kingdoms.<br>  I wonder how many how many rulers today include their wives, even at reduced scale, in official state portrature?<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

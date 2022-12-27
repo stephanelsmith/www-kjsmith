@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs butterfly photos, White Mystery</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/papillon/backbut.jpg"
+<BODY BACKGROUND="papillon/backbut.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>White Mystery, Rio Grande Valley, TX</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/~kjsmith/papillon/white1.jpg"alt="White Mystery"></a><p>
-<IMG SRC="/~kjsmith/papillon/white2.jpg"alt="White Mystery"></a></center>
+<center><IMG SRC="/papillon/white1.jpg"alt="White Mystery"></a><p>
+<IMG SRC="/papillon/white2.jpg"alt="White Mystery"></a></center>
 <p>
 This is a White, but the species I am unsure of.  If you know what this is, I will be MOST interested to hear from you!
 <p>
@@ -19,14 +19,14 @@ This is a White, but the species I am unsure of.  If you know what this is, I wi
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/birds/llist.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/birds/llist.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/~kjsmith/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

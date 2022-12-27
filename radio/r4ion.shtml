@@ -11,17 +11,17 @@
 <H3>
 
 <hr>
-<center><IMG SRC="ioncirc.gif" alt="Electron density versus altitude" width=469 height=384></center>
+<center><IMG SRC="/ioncirc.gif" alt="Electron density versus altitude" width=469 height=384></center>
 <hr>
 Electron density versus altitude as per section 2.2.  This chart shows lines of criticality for different transmission frequencies on the Houston - Ft. Collins circuit.  As the ionosphere ionizes in the morning or recombines in the evening, the density passes critical in the altitude range of 220 to 250 Km.  Note that the F-Layer density never falls below critical for 5MHz, but does affect 10 through 20MHz.  The November 1988 test was somewhere between solar minimum and maximum.
 (from Tascione, 1988)<p>
 
 <hr size=25>
-<A HREF="r4sonde.shtml">Return..</a><br>
+<A HREF="/r4sonde.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

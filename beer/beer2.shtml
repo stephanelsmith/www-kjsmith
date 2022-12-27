@@ -2,13 +2,13 @@
 <HEAD>
 <TITLE>kjs Beer Labels</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Beer labels from many places</H2></center>
 <hr size=15>
-<center><H2><img src=/~kjsmith/beer/beer.gif></a></H2></center>
+<center><H2><img src=/beer/beer.gif></a></H2></center>
 
 <h3>
 I enjoy a good brew as much as the next person, and I am an inveterate collector of things.  It should come as no suprise therefor that over the years and on my travels, I have collected together a small number of interesting labels of beers I have enjoyed.  Labels make an interesting item as each one seeks to attract and please the potential customer.  The designs are complete and compact.  Naturally, each label comes with its own memory, its little souvenir of times spent in the comradery of friends, of stories heard and told.<br>
@@ -34,10 +34,10 @@ About the background:<br>
 Not a beer label at all, this is from a bottle of Boualem and Son's Lemonaid from Algeria.  This lemonaid is like nothing you have ever had and is one of the most wonderful drinks I have ever tasted.  It is increasingly difficult to obtain even in Algiers and also subject to rip-off copies.  It is a shame to see such a quality product pass quietly away.
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.htm target= _parent>Go back....</a></H3>
+<A HREF=/html/main.htm target= _parent>Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

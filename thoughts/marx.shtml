@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, marx</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/thoughts/flagsu.jpg"
+<BODY BACKGROUND="thoughts/flagsu.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -20,9 +20,9 @@ Marx and Engels, 1848, The Communist Manifesto<p>
 In this time with the near-complete repudiation of Communism worldwide, one would do well to recall that it is the Communist solution that failed. The problem of bourgeoisie (read management) exploitation as identified by Marx and others remains pretty much intact.  Laws in most nations now do a good job of moderating the problem, but the tendency to exploit lives on.  Statements by CEO's such as Phil Carroll on the "adult relationship" serve to remind us of that.<p>
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/thoughts/think.shtml">Go back....</a></H3>
+<A HREF="/thoughts/think.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

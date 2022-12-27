@@ -8,8 +8,8 @@
 
 
 <frameset cols="250,*">
- <FRAME  NAME="menu" SRC="/~kjsmith/alsace/ecussons/ecusson1.shtml">
- <FRAME  NAME="pres" SRC="/~kjsmith/alsace/ecussons/ecusson2.shtml">
+ <FRAME  NAME="menu" SRC="/alsace/ecussons/ecusson1.shtml">
+ <FRAME  NAME="pres" SRC="/alsace/ecussons/ecusson2.shtml">
 </frameset>
 <NOFRAME>
 

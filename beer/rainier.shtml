@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, rainier beer, washington, usa</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Rainier Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/rainier.jpg" alt="rainier beer label"></a></center>
+<center><IMG SRC="/beer/rainier.jpg" alt="rainier beer label"></a></center>
 <hr size=15>
 <H3>
 This label, dated from the 1970's or earlier, was a common sight in bars and refriderators across Washington State.  The brew is a standard lager, relatively light, pretty good stuff.  Memories of many good times with family and friends are evoked by this label.  Also, my brother John Francis was a brewmaster (in charge of the brewing) at Rainier for many years so there is a family connection as well.
@@ -18,14 +18,14 @@ This label, dated from the 1970's or earlier, was a common sight in bars and ref
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

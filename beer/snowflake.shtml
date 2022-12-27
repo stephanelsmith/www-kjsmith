@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, snowflake beer,  people's republic of china, china</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Snowflake Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/snowflake.jpg" alt="snowflake beer label"></a></center>
+<center><IMG SRC="/beer/snowflake.jpg" alt="snowflake beer label"></a></center>
 <hr size=15>
 <H3>
 Brewed, (I believe) in Shenyang, Snowflake beer refreshed me while staying in the town of Huadian, China.  I was doing field work and the days were warm and dusty so when the evenings arrived, fresh beer was a real pleasure!<p>
@@ -19,14 +19,14 @@ With a dry climate and good glues, I was generally unable to remove labels from 
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

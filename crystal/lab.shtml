@@ -7,18 +7,18 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="lab0.jpg">
+<IMG align=right SRC="/lab0.jpg">
 <H2>My radio "laboratory"
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 <h4>
 
 ANNOUNCEMENT<br>
 I have recently taken all the content contained in my Crystal Radio site and organized it into a professionally bound hardcover book.  If you are anything like me then you probably enjoy taking a book down off the shelf when you need a handy reference, or just browsing.  It is a bit pricy as I have chosen to retain all the color images, but I encourage to you check it out.  The Print-on-Demand site for the book can be found here: 
-<A HREF="https://www.lulu.com/en/us/shop/kevin-j-smith/crystal-radio-handbook/hardcover/product-k64j4p.html?page=1&pageSize=4">Crystal Radio Handbook</a> <br>
+<A HREF="/https://www.lulu.com/en/us/shop/kevin-j-smith/crystal-radio-handbook/hardcover/product-k64j4p.html?page=1&pageSize=4">Crystal Radio Handbook</a> <br>
 Or on Amazon here:
-<A HREF="https://www.amazon.com/gp/product/1716244471?pf_rd_r=7X2813BGXFH8W0BGB2XH&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=c49f5516-6be8-4f0e-bc77-d7865177583a&pd_rd_w=2E1Ce&pd_rd_wg=OfXKJ&ref_=pd_gw_unk">Crystal Radio Handbook</a> <p>
+<A HREF="/https://www.amazon.com/gp/product/1716244471?pf_rd_r=7X2813BGXFH8W0BGB2XH&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=c49f5516-6be8-4f0e-bc77-d7865177583a&pd_rd_w=2E1Ce&pd_rd_wg=OfXKJ&ref_=pd_gw_unk">Crystal Radio Handbook</a> <p>
 
 Having now acquired several crystal radios by purchase (two) or building my own (four), I begin to wonder how they stack up against each other and against other radios I read about and dream of on the net.  It can be fairly common to hear radio performance described in qualitative terms, "high Q", "sharp tuning", "highly sensitive", etc.  Without measured numbers to back them up, it is extremely difficult to judge the subjective notes of different radio users.  It is inevitable I believe that in this hobby that one ends up getting together as much test equipment as possible, (read "affordable") in order to know more objectively about the radios one builds and/or uses.  This page is the tale of my own effort to equip a small "laboratory" of sorts for just such purpose.<p>
 
@@ -28,62 +28,62 @@ My next needs follow logically, what about the radios I build?, how do they do? 
 Dick Kleijer crystal-radio.eu  	http://www.crystal-radio.eu/enqmeting.htm<br>
 Gollum´s Crystal Receiver World  http://home.snafu.de/wumpus/gollum/testing.htm  article by C.A. Lauter<br>
 I heartily express my appreciation to our European friends for making available on the web these excellent technical tutorials for crystal radio testing.  <p>
-<IMG SRC="bar3e.jpg"><p>
+<IMG SRC="/bar3e.jpg"><p>
 Testing and understanding your set from the Antenna at the front, the tank in the middle and on to the Diode at the back and then the Radio complete, the whole shebang!<p>
 
-<A HREF="atu.shtml"><img border=0 SRC="/~kjsmith/crystal/25btn.jpg"</a>
-<A HREF="/~kjsmith/crystal/atu.shtml">ANTENNA TUNING UNIT..</a> Design notes and Models, Effect of earth resistivity..<p>
+<A HREF="/atu.shtml"><img border=0 SRC="/crystal/25btn.jpg"</a>
+<A HREF="/crystal/atu.shtml">ANTENNA TUNING UNIT..</a> Design notes and Models, Effect of earth resistivity..<p>
 
-<A HREF="modulation.shtml"><img border=0 SRC="/~kjsmith/crystal/recbtn0.jpg"</a>
-<A HREF="/~kjsmith/crystal/modulation.shtml">AMPLITUDE MODULATION..</a> Excel modeling of Modulation and DeModulation..<p>
+<A HREF="/modulation.shtml"><img border=0 SRC="/crystal/recbtn0.jpg"</a>
+<A HREF="/crystal/modulation.shtml">AMPLITUDE MODULATION..</a> Excel modeling of Modulation and DeModulation..<p>
 
-<A HREF="coilqm.shtml"><img border=0 SRC="/~kjsmith/crystal/coilq2.jpg"</a>
-<A HREF="/~kjsmith/crystal/coilqm.shtml">COIL Q..</a> An Analytical Approach to the measurement of coil Q.<p>
+<A HREF="/coilqm.shtml"><img border=0 SRC="/crystal/coilq2.jpg"</a>
+<A HREF="/crystal/coilqm.shtml">COIL Q..</a> An Analytical Approach to the measurement of coil Q.<p>
 
-<A HREF="coilq.shtml"><img border=0 SRC="/~kjsmith/crystal/coilq0.jpg"</a>
-<A HREF="/~kjsmith/crystal/coilq.shtml">COIL Q Revisited..</a> Web research and personal measurements: Setting expectations for Q. <p>
+<A HREF="/coilq.shtml"><img border=0 SRC="/crystal/coilq0.jpg"</a>
+<A HREF="/crystal/coilq.shtml">COIL Q Revisited..</a> Web research and personal measurements: Setting expectations for Q. <p>
 
-<A HREF="capq.shtml"><img border=0 SRC="/~kjsmith/crystal/bcp2.jpg"</a>
-<A HREF="/~kjsmith/crystal/capq.shtml">Crystal Radio Capacitors..</a> A look at capacitor Q and its relation to ESR (Equivelant Series Resistance).<p>
+<A HREF="/capq.shtml"><img border=0 SRC="/crystal/bcp2.jpg"</a>
+<A HREF="/crystal/capq.shtml">Crystal Radio Capacitors..</a> A look at capacitor Q and its relation to ESR (Equivelant Series Resistance).<p>
 
-<A HREF="dmodel.shtml"><img border=0 SRC="/~kjsmith/crystal/prbtn.jpg"</a>
-<A HREF="/~kjsmith/crystal/dmodel.shtml">Diode I: Setup and Protocol..</a> Describes a useful protocol for determination of Diode Is, n, and Ro.<p>
+<A HREF="/dmodel.shtml"><img border=0 SRC="/crystal/prbtn.jpg"</a>
+<A HREF="/crystal/dmodel.shtml">Diode I: Setup and Protocol..</a> Describes a useful protocol for determination of Diode Is, n, and Ro.<p>
 
-<A HREF="dtest.shtml"><img border=0 SRC="/~kjsmith/crystal/ddbtn.jpg"</a>
-<A HREF="/~kjsmith/crystal/dtest.shtml">Diode II: Test Data Measurements ..</a> Reports the measurements made under the above protocols for a large variety of diodes<p>
+<A HREF="/dtest.shtml"><img border=0 SRC="/crystal/ddbtn.jpg"</a>
+<A HREF="/crystal/dtest.shtml">Diode II: Test Data Measurements ..</a> Reports the measurements made under the above protocols for a large variety of diodes<p>
 
-<A HREF="dvac.shtml"><img border=0 SRC="/~kjsmith/crystal/vacbtn.jpg"</a>
-<A HREF="/~kjsmith/crystal/dvac.shtml">Diode III: Vacuum Diodes..</a> Measurements and discussion on vacuum diode utility in crystal radio.<p>
+<A HREF="/dvac.shtml"><img border=0 SRC="/crystal/vacbtn.jpg"</a>
+<A HREF="/crystal/dvac.shtml">Diode III: Vacuum Diodes..</a> Measurements and discussion on vacuum diode utility in crystal radio.<p>
 
-<A HREF="dtalk.shtml"><img border=0 SRC="/~kjsmith/crystal/isnbtn.jpg"</a>
-<A HREF="/~kjsmith/crystal/dtalk.shtml">Diode IV: Discussion and Results..</a> A discussion of diode I/V characteristics, Ro and matching, and sundry ravings.<p>
+<A HREF="/dtalk.shtml"><img border=0 SRC="/crystal/isnbtn.jpg"</a>
+<A HREF="/crystal/dtalk.shtml">Diode IV: Discussion and Results..</a> A discussion of diode I/V characteristics, Ro and matching, and sundry ravings.<p>
 
-<A HREF="resonance.shtml"><img border=0 SRC="/~kjsmith/crystal/resbtn.jpg"</a>
-<A HREF="/~kjsmith/crystal/resonance.shtml">RESONANCE..</a> A look at some theory and resonance calculations for MW sets.<p>
+<A HREF="/resonance.shtml"><img border=0 SRC="/crystal/resbtn.jpg"</a>
+<A HREF="/crystal/resonance.shtml">RESONANCE..</a> A look at some theory and resonance calculations for MW sets.<p>
 
-<A HREF="mtrans.shtml"><img border=0 SRC="/~kjsmith/crystal/mtbtn.jpg"</a>
-<A HREF="/~kjsmith/crystal/mtrans.shtml">MATCHING TRANSFORMER..</a> Getting maximum power transfer to the audio circuit.<p>
+<A HREF="/mtrans.shtml"><img border=0 SRC="/crystal/mtbtn.jpg"</a>
+<A HREF="/crystal/mtrans.shtml">MATCHING TRANSFORMER..</a> Getting maximum power transfer to the audio circuit.<p>
 
-<A HREF="rtest.shtml"><img border=0 SRC="/~kjsmith/crystal/rtbtn.jpg"</a>
-<A HREF="/~kjsmith/crystal/rtest.shtml">RADIO TEST..</a> Describes protocols and results of radio performance testing on my sets.<p>
+<A HREF="/rtest.shtml"><img border=0 SRC="/crystal/rtbtn.jpg"</a>
+<A HREF="/crystal/rtest.shtml">RADIO TEST..</a> Describes protocols and results of radio performance testing on my sets.<p>
 
-<A HREF="blitz.shtml"><img border=0 SRC="/~kjsmith/crystal/blitz1.jpg"</a>
-<A HREF="/~kjsmith/crystal/blitz.shtml">BIG LITZ..</a> This is where I try to put everything together with a full analysis of my top set.<p>
+<A HREF="/blitz.shtml"><img border=0 SRC="/crystal/blitz1.jpg"</a>
+<A HREF="/crystal/blitz.shtml">BIG LITZ..</a> This is where I try to put everything together with a full analysis of my top set.<p>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 </H4><H3>Conclusion</H3><H4>
 So, for an investment in a few key pieces of good equipment, yes at some non-trivial cost, you can appreciate the hobby so much more.  I have an oscilloscope as well, but so far have not explored its value.  I prefer the recording and spreadsheet methods as they give a better record of the results and allow graphing and easy comparison. Knowing how your sets perform, being able to test your diodes, knowing your coil inductance are all important aspects of knowing your radios.  I certainly recommend this! <br>Ciao!<p>
 <hr>
-<IMG SRC="lab.jpg">
+<IMG SRC="/lab.jpg">
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

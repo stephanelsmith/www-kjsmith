@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs petrography Pyroxene Plagioclase Granulite</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/minerals/m13-3er.jpg"
+<BODY BACKGROUND="minerals/m13-3er.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Pyroxene Plagioclase Granulite</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/minerals/4ppg.jpg"></a></center>
+<center><IMG SRC="/minerals/4ppg.jpg"></a></center>
 <hr size=15>
 <H3>
 High power view of a sample transitional from the previous quartz feldspar gneiss. This sample shows "granulitic" texture characteristic of small, equi-dimintional grains, typical 120 degree grain boundaries, and lack of gneissic, or banded texture.  The mineralogy of the sample includes virtually no quartz and the feldspar is entirely plagioclase "anorthite".  Small amounts of hornblend and biotite remain, and the biotite still shows dis-equilibrium with the garnet where the two typically try to make contact.  They share the same ionic needs but garnet is the stable mioneral at these conditions.  Granulite is the highest grade of metamorphic rock attainable.  After this the conditions become so extreme that the rock begins to partially or fully melt, a whole new ballgame.  Pyroxene in the form of hypersthene become the dominant mineral species as it has a compact and dry crystal structure.  <p>
@@ -20,13 +20,13 @@ My Master's Thesis consisted of mapping, collecting, studying, and analysing num
 My study was to document these ancient events and to determine, via study of the minerology, the conditions of temperature and pressure under which these minerals originally formed and to find evidence, if possible, of the original sedimentary nature of the section.<br>
 kjs<P>
 <p>For those interested in the bitter detail on the petrology and origin of Gneiss and associated rocks, at least from one specific ancient locality, see my 
-<A HREF=http://www.lessmiths.com/~kjsmith/html/msthesis.pdf target= _parent>Master's Thesis....</a><p>
+<A HREF=/http://www.lessmiths.comhtml/msthesis.pdf target= _parent>Master's Thesis....</a><p>
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

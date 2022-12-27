@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs nobiliaire d'alsace</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/alsace/bgalsace.jpg"
+<BODY BACKGROUND="alsace/bgalsace.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Étichonides</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/~kjsmith/alsace/ecussons/Etichon.png"alt="Étichonides"></a></center>
+<center><IMG SRC="/alsace/ecussons/Etichon.png"alt="Étichonides"></a></center>
 <p>
  
 Les Étichonides \etikonid\ sont une illustre famille issue de la noblesse franque, possessionnée principalement en Alsace. Des deux premiers ducs, on ne connaît que le nom : Gondoin (vers 650 ?) et Boniface (après 660). Etichon-Adalric d'Alsace est le premier duc d'Alsace qui soit réellement connu ; il est l'ancêtre éponyme des Étichonides.<p>
@@ -22,11 +22,11 @@ Sous le règne des ducs Adalbert et Liutfrid, le pouvoir des Étichonides se stabi
 
 <hr size=5>
 Decendency d'Étichon d'apres Dr Hummer:<br>
-<center><IMG SRC="/~kjsmith/alsace/ecussons/EtichonP1.jpg"alt="Étichonides"></a></center><p>
+<center><IMG SRC="/alsace/ecussons/EtichonP1.jpg"alt="Étichonides"></a></center><p>
 Decendency d'Étichon d'apres Dynastie Lorraine:<br>
-<center><IMG SRC="/~kjsmith/alsace/ecussons/EtichonP2.jpg"alt="Étichonides"></a></center><p>
+<center><IMG SRC="/alsace/ecussons/EtichonP2.jpg"alt="Étichonides"></a></center><p>
 Decendency Bereswinde d'apres Wikipedia.fr:<br>
-<center><IMG SRC="/~kjsmith/alsace/ecussons/EtichonP3.jpg"alt="Étichonides"></a></center><p>
+<center><IMG SRC="/alsace/ecussons/EtichonP3.jpg"alt="Étichonides"></a></center><p>
 
 Source:<br>
 https://fr.wikipedia.org/wiki/%C3%89tichonides<p>
@@ -37,10 +37,10 @@ kjs<br>
 <hr size=15>
 </frameset>
 <NOFRAME>
-<A HREF=/~kjsmith/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
+<A HREF=/alsace/blasons.shtml target= _parent>Retour à Nobiliaire..</a><br>
 <hr size=5>
 </h3><h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

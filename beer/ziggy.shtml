@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, zoggysocky, malta</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>From Bud Meyers, Long time beer drinker</H2></center>
 
 <hr size=15><h3><center>
-<IMG SRC="/~kjsmith/beer/ziggysocky.jpg" alt="ziggysocky beer label"></a>
+<IMG SRC="/beer/ziggysocky.jpg" alt="ziggysocky beer label"></a>
 </center><hr>
 My thanks to Bud for his fine contribution to my page.  Bud passed a milestone recently in his beer drinking career which he shares with us in his own words:<p>
 
@@ -24,14 +24,14 @@ Bud may be contacted for tales at <A HREF ="Mailto:budmeyers@att.net">budmeyers@
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

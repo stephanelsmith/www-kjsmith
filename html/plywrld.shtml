@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs work experience locator page</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/phot.gif"
+<BODY BACKGROUND="/graphics/phot.gif"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -12,7 +12,7 @@
 <H3>
 
 <center>
-<IMG SRC="/~kjsmith/graphics/pworld.jpg" alt="map of locations visited worldwide"></a>
+<IMG SRC="/graphics/pworld.jpg" alt="map of locations visited worldwide"></a>
 </center>
 
 <hr size=15>
@@ -21,10 +21,10 @@ I have indeed been fortunate in the places I have seen.  The above map clearly i
 <P>
 
 <hr size=15>
-<A HREF="/~kjsmith/html/bio.shtml">Go back....</a></H3>
+<A HREF="/html/bio.shtml">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

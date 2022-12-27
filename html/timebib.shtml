@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs timeline, 4000 years of world history</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/imagint/e1col.jpg"
+<BODY BACKGROUND="imagint/e1col.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -67,10 +67,10 @@ White, L. jr., ed., 1966, The Transformation of the Roman World; Universtiy of C
 Williams, C., 1974, The Destruction of Black Civilization, Third World Press, Chicago, Illinois., 384pp<P><p>
 
 <hr size=5>
-<A HREF=/~kjsmith/html/timeline.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/timeline.shtml target= _parent>Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

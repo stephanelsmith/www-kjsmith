@@ -2,25 +2,25 @@
 <HEAD>
 <TITLE>kjs petrography Sillimanite Schist</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/minerals/m13-3er.jpg"
+<BODY BACKGROUND="minerals/m13-3er.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Sillimanite Schist</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/minerals/13-2b.jpg"></a></center>
+<center><IMG SRC="/minerals/13-2b.jpg"></a></center>
 <hr size=15>
 <H3>
 Section cut perpendictular to foliation.  This rock from the Upper Amphibolite Facies, Sillimanite Zone metamorphic grade.  Minerals seen include brown biotite, gray diamond-shaped sillimanite ends, and opaque (isotropic) garnet.<br>
 kjs<P>
 
 <hr size=15>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 <h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

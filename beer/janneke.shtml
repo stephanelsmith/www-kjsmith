@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, janneke beer, netherlands</TITLE>
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Janneke Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/~kjsmith/beer/janneke.jpg" alt="janneke beer label"></a></center>
+<center><IMG SRC="/beer/janneke.jpg" alt="janneke beer label"></a></center>
 <hr size=15>
 <H3>
 I received the other day a pleasant suprise gift from my dutch friend and colligue Gé Van Opstal.  It was this fine Janneke beer label which he peeled off a bottle while on a recent trip to the Netherlands.  He assures me that he enjoyed the beer and that it is in fact quite rare and so a special treat indeed.  My thanks to you Gé!<p>
@@ -19,14 +19,14 @@ A second opinion always is appreciated.  I recently received email from one Job 
 <hr size=15>
 </frameset>
 <NOFRAME>
-<h3><A HREF=/~kjsmith/beer/beer0.shtml target= _parent>Return..</a><br>
+<h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/~kjsmith/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
 <h4><I>Copyright,<br>KJ Smith</I></h4>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

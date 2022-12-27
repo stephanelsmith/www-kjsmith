@@ -11,21 +11,21 @@
 <H3>
 The following charts show the relationship of solar flux to signal strength and to the length of time for an opening for propagation along a circuit.  Color coding provides an indication of the variation due to season as seen in the previous section.  In this case I have distinguished "summer" from "winter" data on thess charts in the following way:  Winter = October to March, Summer = April to September.<p>
 <hr>
-<center><IMG SRC="fx1720.gif" alt="Plot of signal strength averaged over the midday period 1700 - 2000UT" width=626 height=412></center>
+<center><IMG SRC="/fx1720.gif" alt="Plot of signal strength averaged over the midday period 1700 - 2000UT" width=626 height=412></center>
 <hr>
 Plot of signal strength averaged over the midday period 1700 - 2000UT (11-13 CST). For both summer and winter seasons I see a weak but real inverse relationship of decreasing average signal strength with increasing solar flux.  It has often been stated that propagation improves during times of high solar activity, this data suggests otherwise.  Increased ionization levels increase the signal absorbtion as well.  Also, times of high solar activity bring instabilities in the earth's geomagnetic field.  Both of these effects have an important impact on signal strength.
 <hr>
-<center><IMG SRC="fxopen.gif" alt="Solar activity (flux) vs length of openings" width=626 height=412></center>
+<center><IMG SRC="/fxopen.gif" alt="Solar activity (flux) vs length of openings" width=626 height=412></center>
 <hr>
 Solar activity (flux) on the other hand does indeed improve the conditions in terms of the length of the openings, especially for levels of flux above about 120.  This is logical when considering the overall increased ionization levels.  While the increased ionization may actually hurt signals by increasing absorbtion and causing greater geomagnetic instability, it does make for longer openings.
 
 <hr size=25>
-<A HREF="r5noise.shtml">Next: The "grass", noise revealed..</a><br>
-<A HREF="r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="/r5noise.shtml">Next: The "grass", noise revealed..</a><br>
+<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

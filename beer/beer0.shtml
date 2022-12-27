@@ -4,7 +4,7 @@
 <META Name="description" Content="a non-commercial web page presenting unique content and scans of beer labels off of beer bottles I have drank, or have received from site visitors.">
 <META Name="keywords" Content="beer bottle label, rainier, ngok, beninoise, shiner, pacena, chimay, sanhe, stella, quilmes, tusker, valor, sandpiper, snowflake, xxxx gold, duvel, guinness, imperial, victoria bitter, 1664, nouas, leffe blonde, kronenbourg, xingdao, ancre, tsingtao, janneke, kingfisher, bohemia, cerpa, orval, trappistes, olympia, carib, mutzig, affligem, anchor steam, amstel, cobra, ducal, royal challenge, tiger, dommelsch, negra modelo, heineken">
 
-<BODY BACKGROUND="/~kjsmith/graphics/bgbeer.jpg"
+<BODY BACKGROUND="/graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -19,13 +19,13 @@ The following labels each represent some moment, some story.  If you enjoy the s
 I would love to hear from you if you have comments or questions.  Please write me at the following:  <IMG SRC="kjadd.jpg"> 
 
 <hr size=10><h3>
-<A HREF="/~kjsmith/beer/beer0nam.shtml">North American Brews..</a>  My North America set.....<p>
-<A HREF="/~kjsmith/beer/beer1nam.shtml">North America continued..</a>  A special collection from around America.....<p>
-<A HREF="/~kjsmith/beer/beer0sam.shtml">South American Brews..</a>  Incredible beers, incredible tales.....<p>
-<A HREF="/~kjsmith/beer/beer0eur.shtml">European Brews..</a>  From Ireland to Moscow.....<p>
-<A HREF="/~kjsmith/beer/beer0afr.shtml">Africa and Middle Eastern Brews..</a>  Where it all started!.....<p>
-<A HREF="/~kjsmith/beer/beer1asia.shtml">China Brews..</a>  From China, I just have so many!.....<p>
-<A HREF="/~kjsmith/beer/beer0asia.shtml">Asian Brews..</a>  From Asia other than China.....<p>
+<A HREF="/beer/beer0nam.shtml">North American Brews..</a>  My North America set.....<p>
+<A HREF="/beer/beer1nam.shtml">North America continued..</a>  A special collection from around America.....<p>
+<A HREF="/beer/beer0sam.shtml">South American Brews..</a>  Incredible beers, incredible tales.....<p>
+<A HREF="/beer/beer0eur.shtml">European Brews..</a>  From Ireland to Moscow.....<p>
+<A HREF="/beer/beer0afr.shtml">Africa and Middle Eastern Brews..</a>  Where it all started!.....<p>
+<A HREF="/beer/beer1asia.shtml">China Brews..</a>  From China, I just have so many!.....<p>
+<A HREF="/beer/beer0asia.shtml">Asian Brews..</a>  From Asia other than China.....<p>
 </h3><h4>
 <hr size=5>
 A philosophical STATEMENT concerning BEER:<p>
@@ -49,9 +49,9 @@ Not a beer label at all, this is from a bottle of Boualem and Son's Lemonaid fro
 <hr size=15>
 
 </h4><h3>
-<A HREF="/~kjsmith/html/main.shtml">Go back....</a></H3>
+<A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>

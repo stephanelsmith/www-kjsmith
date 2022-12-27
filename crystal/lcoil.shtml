@@ -7,33 +7,33 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="var.jpg">
+<IMG align=right SRC="/var.jpg">
 <H2>Vintage Variometer / Loading Coil
 </H2>
-<h4><A HREF="/~kjsmith/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 
 <h4>
 My receiving station is pretty typical I expect, decent ground, so so antenna and I have been hankering for some time to add a loading coil to my station to better match that antenna with my radios.  Lack of urgency or just plain laziness perhaps have kept me from working on this project.  Part of my hesitancy has been the idea of utilizing a variometer as a loading coil, and these are not easy to find.<p>
 Variometers are variable induction coils that function by being connected in series and changing the mutual inductance between them.  Most variometers though have a relatively small range of inductances making them of limited suitability for, well, just about anything in crystal radio.  They find a home mostly these days as a control for regeneration in such circuits.  Alternatively they make a nice variable inductance load on your antenna, the purpose I was seeking.  Only, I really wished to find/make something with quite a lot of wire to get a good range of inductances going.  It was by some degree of luck I believe that I noticed some time back on ebay a rather beat-up looking variometer on offer.  The variometer, shown below, was a basketball weave design and importantly, was wound in at least three layers suggesting a lot of inductance.  <p>
-<IMG SRC="Variometer2.jpg"><p>
+<IMG SRC="/Variometer2.jpg"><p>
 
 Perhaps the less-than-optimal condition was a factor, but I was in luck to win the coil with an only bid.  I had no illusions that this was a long-shot deal, the chances of the variometer being functional were poor.  My expectations were not deceived when it arrived sometime later.  Nope, it didnt work.  The question was, could it be restored, and just how did the thing work, how were the connections made anyway?  Inspection quickly led to three obvious broken connections and an understanding as to how the connections were intended.  A few dabs of solder later and under the meter I had a fully-functionning variometer!  All that was left was to give the vintage coil a lovely stand to show it off.  <br>
 Measurements of the Inductance show a large variation, from 163 uH to 1036 uH.  This should give good duty to electrically "lengthen" my woefully short antenna.  Shown below is a plot of the inductance versus rotation angle and a photo of the Variometer mounted in its stand, ready for use.
 <p>
-<IMG SRC="relation.jpg"><p>
-<IMG SRC="Variometer.jpg"><p>
+<IMG SRC="/relation.jpg"><p>
+<IMG SRC="/Variometer.jpg"><p>
 
-<IMG SRC="bar3e.jpg">
+<IMG SRC="/bar3e.jpg">
 <hr>
 
 
 <hr size=15><h3>
-<A HREF="/~kjsmith/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/~kjsmith/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="/~kjsmith/html/footer.shtml" -->
+<!--#include virtual="html/footer.shtml" -->
 
 </HTML>
