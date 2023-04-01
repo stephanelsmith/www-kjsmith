@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs geophysics</TITLE>
 
-<BODY BACKGROUND="geophysics/bgmag.jpg"
+<BODY BACKGROUND="bgmag.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -23,17 +23,17 @@ The projects described below were conducted some time past and I do not always r
 <p>
 
 
-<A HREF="atmelectricty.shtml"><img border=0 SRC="/geophysics/atebtn.jpg"</a>
-<A HREF="/geophysics/atmelectricty.shtml">ATMOSPHERIC ELECTRICTY..</a> Measuring the Fair Weather Field of the Global Electric Circuit..<p>
+<A HREF="atmelectricty.shtml"><img border=0 SRC="atebtn.jpg"</a>
+<A HREF="atmelectricty.shtml">ATMOSPHERIC ELECTRICTY..</a> Measuring the Fair Weather Field of the Global Electric Circuit..<p>
 
-<A HREF="lightning.shtml"><img border=0 SRC="/geophysics/ltnbtn.jpg"</a>
-<A HREF="/geophysics/lightning.shtml">LIGHTNING..</a> Taking huge risks with lightning rods during violent thunderstorms..<p>
+<A HREF="lightning.shtml"><img border=0 SRC="ltnbtn.jpg"</a>
+<A HREF="lightning.shtml">LIGHTNING..</a> Taking huge risks with lightning rods during violent thunderstorms..<p>
 
-<A HREF="geomagnetism.shtml"><img border=0 SRC="/geophysics/gmgbtn.jpg"</a>
-<A HREF="/geophysics/geomagnetism.shtml">GEOMAGNETISM..</a> Geomagnetism and the Solar/Earth connection..<p>
+<A HREF="geomagnetism.shtml"><img border=0 SRC="gmgbtn.jpg"</a>
+<A HREF="geomagnetism.shtml">GEOMAGNETISM..</a> Geomagnetism and the Solar/Earth connection..<p>
 
-<A HREF="earelectricty.shtml"><img border=0 SRC="/geophysics/elebtn.jpg"</a>
-<A HREF="/geophysics/earelectricty.shtml">EARTH ELECTRICTY..</a> Probing Telluric currents..<p>
+<A HREF="earelectricty.shtml"><img border=0 SRC="elebtn.jpg"</a>
+<A HREF="earelectricty.shtml">EARTH ELECTRICTY..</a> Probing Telluric currents..<p>
 <p>
 
 <hr size=5>
