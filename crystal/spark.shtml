@@ -10,7 +10,7 @@
 <IMG align=right SRC="/spks.jpg">
 <H2>A Spark-Gap Transmitter
 </H2>
-<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 <h4>
 Why a spark-gap transmitter?  And why here on a crystal radio page?  Well, the second question I'll answer first as it is easiest.  The transmitter is a vintage technology device that is no longer current in the modern world and so fits thematically with the purpose of my crystal radio page.  The first Question is more interesting, why build it?  In late 2009 my elder brother, founder and owner of <A HREF="/http://www.nw-re.us/">Northwest Research Engineering, LLC.</a>, in Seattle, challenged me to construct a spark-gap transmitter.  He enjoyed seeing my vintage-style crystal sets and we enjoyed discussing the early history of radio together.  So, it seemed a logical step to progress in this direction.  Additionally, as his work is in cutting edge ionospheric research, he has little opportunity to study such retro technologies up close and personal.  <p>
@@ -22,15 +22,15 @@ The concept behind the project is to build an operating spark-gap transmitter us
 
 The transmitter was conceived as two modules, a power module and an oscillation module.  Size constraints forced me to break the oscillation module further into two breadboards, one for the variable HV capacitance and the other for the oscillation transformer.  The power module is the most complex piece having on it the induction coil, interrupter, capacitor, and the spark gap itself.  To keep this page length manageable and allow enough space to give a good description of each component, its theory and function, I have broken the descriptions into separate links below.<p>
 
-<A HREF="/crystal/coil.shtml">INDUCTION COIL..</a> <p>
-<A HREF="/crystal/relay.shtml">COIL INTERRUPTOR..</a> <p>
-<A HREF="/crystal/gap.shtml">SPARK GAP..</a> <p>
-<A HREF="/crystal/oscl.shtml">OSCILLATION CIRCUITS..</a> <p>
-<A HREF="/crystal/trtst.shtml">PERFORMANCE TESTING..</a> <p>
+<A HREF="coil.shtml">INDUCTION COIL..</a> <p>
+<A HREF="relay.shtml">COIL INTERRUPTOR..</a> <p>
+<A HREF="gap.shtml">SPARK GAP..</a> <p>
+<A HREF="oscl.shtml">OSCILLATION CIRCUITS..</a> <p>
+<A HREF="trtst.shtml">PERFORMANCE TESTING..</a> <p>
 
 The following circuit diagram and photo shows the complete transmitter and how the modules integrate together:<p>
-<IMG SRC="/cspk.jpg"><p>
-<IMG SRC="/tset.jpg"><p>
+<IMG SRC="cspk.jpg"><p>
+<IMG SRC="tset.jpg"><p>
 
 
 <p>
@@ -38,12 +38,12 @@ The following circuit diagram and photo shows the complete transmitter and how t
 
 <p>
 
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

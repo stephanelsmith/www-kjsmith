@@ -148,7 +148,6 @@ An outline listing of all linked pages on this site.<p>
  <li><a href=/nchina/1ne_mhe.shtml>kjs Meihe</A>  </li>
  <li><a href=/nchina/1ne_bnq1.shtml>kjs Banquet with BGMR</A>  </li>
  <li><a href=/nchina/1ne_sgn1.shtml>kjs Signing the JV</A>  </li>
- <li><a href=/nchina/1ne_hbn1.shtml>kjs Harbin</A>  </li>
  <li><a href=/nchina/1ne_hbn3.shtml>kjs Harbin</A>  </li>
  <li><a href=/nchina/1ne_jxi.shtml>kjs Jixi</A>  </li>
  <li><a href=/nchina/0shanghai.shtml>kjs Shanghai Map</A>  </li>
@@ -353,7 +352,7 @@ An outline listing of all linked pages on this site.<p>
  <li><A HREF="/beer/olympia.shtml">kjs olympia beer, washington, usa</A>  </li>
  <li><A HREF="/beer/ziggy.shtml">kjs ziggysocky, usa</A>  </li>
  <li><A HREF="/beer/voodoo.shtml">kjs blackened voodoo beer, louisania</A>  </li>
- <li><a href="beer/anchor.shtml">kjs anchor steam, San Francisco</A>  </li>
+ <li><a href="/beer/anchor.shtml">kjs anchor steam, San Francisco</A>  </li>
  <li><A HREF="/beer/shiner.shtml">kjs shiner beer, texas</A>  </li>
  <li><A HREF="/beer/lonestar.shtml">kjs lonestar beer, texas</A>  </li>
  </ul></ul>
@@ -436,7 +435,7 @@ An outline listing of all linked pages on this site.<p>
  <li><A HREF="/beer/zywiec.shtml">kjs zywiec beer, poland</A>  </li>
  <li><A HREF="/beer/farsons.shtml">kjs farsons beer, malta</A>  </li>
  <li><A HREF="/beer/kronen1.shtml">kjs kronenbourg beer, france</A>  </li>
- <li><a href="beer/leffe.shtml">kjs leffe blonde, belgium</A>  </li>
+ <li><a href="/beer/leffe.shtml">kjs leffe blonde, belgium</A>  </li>
  <li><A HREF="/beer/kronen2.shtml">kjs kronenbourg beer, france</A>  </li>
  <li><A HREF="/beer/kovalev2.shtml">kjs mozyr'skoye and slutskaye beer, belarus</A>  </li>
  <li><A HREF="/beer/ancre.shtml">kjs ancre beer, france</A>  </li>
@@ -459,8 +458,8 @@ An outline listing of all linked pages on this site.<p>
  <li><a href=/beer/almaza.shtml>kjs almaza<br></a></li>
  <li><a href=/beer/kwiecien2.shtml>kjs black & wild, maccabee, and nesher</a></li>
  <li><A HREF="/beer/stella.shtml">kjs stella beer, egypt</A>  </li>
- <li><a href="beer/phovey.shtml">kjs tusker export and pilsner, keyna</a> </li>
- <li><a href="beer/casablnca.shtml">kjs casablanca, morocco</a> </li>
+ <li><a href="/beer/phovey.shtml">kjs tusker export and pilsner, keyna</a> </li>
+ <li><a href="/beer/casablnca.shtml">kjs casablanca, morocco</a> </li>
  <li><A HREF="/beer/nouas.shtml">kjs nouas beer, algeria</A>  </li>
  <li><A HREF="/beer/tuskar.shtml">kjs tuskar beer, keyna</A>  </li>
  <li><A HREF="/beer/jamstel.shtml">kjs amstel beer, jordan</A>  </li>
@@ -499,9 +498,9 @@ An outline listing of all linked pages on this site.<p>
 </ul></ul>
  <ul><li><A HREF="/beer/beer1asia.shtml">kjs Asia Labels other than China</A>  </li>
  <ul><li><A HREF="/beer/sandpiper.shtml">kjs sandpiper beer, india</A>  </li>
- <li><a href="beer/xxxx.shtml">kjs xxxx gold beer, australia</A>  </li>
- <li><a href="beer/kovalev4.shtml">kjs kazakh beer, kazakhstan</A>  </li>
- <li><a href="beer/sheaf.shtml">kjs sheaf stout, australia</A>  </li>
+ <li><a href="/beer/xxxx.shtml">kjs xxxx gold beer, australia</A>  </li>
+ <li><a href="/beer/kovalev4.shtml">kjs kazakh beer, kazakhstan</A>  </li>
+ <li><a href="/beer/sheaf.shtml">kjs sheaf stout, australia</A>  </li>
  <li><A HREF="/beer/singha.shtml">kjs singha beer, thailand</A>  </li>
  <li><A HREF="/beer/kirin.shtml">kjs kirin ichiban beer, japan</A>  </li>
  <li><A HREF="/beer/vb.shtml">kjs victoria bitter beer, australia</A>  </li>
@@ -566,7 +565,7 @@ An outline listing of all linked pages on this site.<p>
  <li><A HREF="/html/timebib.shtml">kjs timeline bibliography</A>  </li>
   </ul>
  </h4><h3>
- <li><A HREF="/html/msthesis.pdf">kjs ms thesis page</A> </li>
+ <li><A HREF="/msthesis/msthesis.shtml">kjs ms thesis page</A> </li>
  <li><A HREF="/html/resume.shtml">kjs resume page</A> </li>
  </ul>
 <center><IMG SRC="/graphics/bar1e.jpg"></center>
