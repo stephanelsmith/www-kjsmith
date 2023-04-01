@@ -13,7 +13,7 @@
 
 <H4>
 </h4><h2>Test Results</h2><h4>
-First, I offer a quick look at my diode modelling setup.  I am currently upping the ante on resolution in order to determine diode parameters Is and n, hoping for success soon!  <A HREF="/crystal/dmodel.shtml">Setup and protocol..</a><p>
+First, I offer a quick look at my diode modelling setup.  I am currently upping the ante on resolution in order to determine diode parameters Is and n, hoping for success soon!  <A HREF="dmodel.shtml">Setup and protocol..</a><p>
 
 Over a period of a few weeks I ran I-V characterization tests on a good number and variety of diodes, crystals and my two tubes to see how very thing stacks up.  The following presents the resulting curves, diode photos, and some puzzling questions/conclusions I churned up in the process.  These Characteristic Curves carry the voltage out to 2.0 Volts, well beyond any signal strength one might expect to receive with a crystal set.  This is important to note because the curves themselves are dominated by the diode series resistance.  After each discussion I then include my spreadsheet with the detail DX-level analyses that provide the critical information about diode "n", "Is" and "Rd".  That is the data the set designer requires.<p>
 
@@ -174,7 +174,7 @@ Here you see the impact of lower operating voltages.  With the tube operating be
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

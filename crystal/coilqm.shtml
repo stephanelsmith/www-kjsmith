@@ -10,7 +10,7 @@
 <IMG align=right SRC="/dect.jpg">
 <H2>An Analytical Approach to the measurement of coil Q
 </H2>
-<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 Part I: Background:<p>
@@ -23,15 +23,15 @@ All the techniques discussed involve variously setting up a parallel or series t
 
 In this paper I propose two alternative approaches, each taking an analytical look at the oscillating tank waveform to determine the coil Q.  This technique dispenses with a majority of the equipment involved with traditional methods but does require a digital oscilloscope.  In recent years the affordability of these scopes has greatly increased.  If you have a digital scope, or access to one, or were looking for an excuse to purchase one, then read on, this technique may be for you.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 
 The inspiration for this technique is certainly not new.  I first found the following simple circuit, (Figure 1) on page 22 of Bucher’s 1919 "Wireless Experimenter’s Manual".  Having a good deal of experience capturing and evaluating damped radio oscillations for a Spark Gap transmitter, I immediately saw the utility of the circuit for a simple Q determination based on the waveform itself.  The two methods discussed involve first a simple look at the damping decrement of the tank which is directly related to the tank Q.  The second method uses the damped wave equation to model the test waveform and derive the tank Q from that.  This is a more powerful method in that it utilizes the entire waveform, not just two selected points as in the decrement method.  It does require familiarity with Microsoft Excel and Solver.
 <p>
 
-<IMG SRC="/bchr22.jpg"><br>
+<IMG SRC="bchr22.jpg"><br>
 Figure 1. Simple oscillation circuit, Bucher 1919.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part II: Decrement Theory:<p>
 
 As a professional Geologist I generally avoid too much mathematics so please bear with me, I will keep this aspect to an absolute minimum.  Still, a bit of algebra may be useful to explain damping and logarithmic decrement.  RF oscillations in a tank circuit are damped due to losses (primarily resistive) associated with that circuit.  The amount of damping thus is related to the quality, or Q of the tank.  In old texts the damping is generally determined by measuring the "Logarithmic Decrement" or the amplitude of successive oscillation peaks and taking the log of the ratio.<p>
@@ -73,9 +73,9 @@ Tank Q = pi / d  <p>
 
 Dreadful, wasn’t it?  The inspiration here is that with a simple determination of the logarithmic decrement, deriving the circuit Q is a trivial exercise even a geologist can manage.  No signal generators, no attenuators, no multiple measurements.  All this should serve to reduce sources of error and give a faster and easier way to determine the quality of that most central component of your crystal radio, the coil.<p>
 
-<IMG SRC="/calvinMath.jpg"><p>
+<IMG SRC="calvinMath.jpg"><p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part III: Damped Wave Equation:<p>
 
 Here I am not going to derive the equation as I have yet to cross that bridge.  With the measured data in spreadsheet form, it becomes possible to model the coil from a theoretical standpoint.  The model can then be plotted with and compared to the acquired data to test for correlation.  Various web pages, especially university-sponsored lab exercises provide a good source for practical techniques and their theoretical underpinnings, including derivations of the equation itself.  Some good sources I utilized include:<br>
@@ -108,12 +108,12 @@ Tank Q = R / 2pi * f * L <br>
 
 With a single click you get a full analysis.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part IV: Setup:<p>
 
 The following schematic shows the setup, (Figure 2).  In this configuration, I have used a simple 9V battery to stimulate the coil and have the scope connected lightly to the tank via a coupling coil.  This coupling coil is simply two turns of 175/46 litz wire about 4 inches in diameter placed an inch or two from the coil to be tested and I have found no reason to space it further.  Between the coupling coil and oscilloscope I utilize the 1:100 probe although testing with my 1:10 probe showed little impact.  In this way, the coil under test is clean and well isolated from the measurement circuit. <p>
 
-<IMG SRC="/qtest.jpg"><br>
+<IMG SRC="qtest.jpg"><br>
 Figure 2. Schematic of test circuit.<p>
 
 Wiring the circuit should be done with an eye to keeping stray resistances as low as feasible.  This means using low resistance wire (at RF) in the tank and keeping leads as short as possible, and minimizing clip connections.  My original setup utilized about 40 inches of 16 AWG wire and gave good results for low/moderate Q components.  For high-Q something needed to be done.  The following short discussion involves RF wire resistance as this is useful in design considerations.<p>
@@ -142,7 +142,7 @@ I am assuming from here on that you have your scope and know how to use it.  The
 
 Keying, or pulsing the circuit is somewhat tricky.  In order to obtain a clean wave trace the pulse contact needs to be fast and sharp.  Contact "bounce" and arcing, especially at radio frequency are difficult to avoid and pulsing the circuit several times will be needed prior to finding a clean trace.  Transmitter keys can be messy with visible arcing, avoid these.  The best method I have found for pulsing the circuit is to connect a pointed probe to one side of the circuit and tap it sharply but lightly against the hot side of the battery.  This is an important step, the quality of the "ring" needs be good.  Look for rings with good amplitude indicating a lot of energy in the tank and at the same time avoid rings with much initial contact hash.  After several taps you get a feel for how much energy is going in and you can select a clean record for analysis.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part V: Calibration:<p>
 
 All the above discussion will give a reasonably accurate determination of the tank Q only, not the Q of the coil or capacitor under test.  This is true of ALL Q measurement techniques.  The general solution is to use a "holy grail" capacitor with Q's well above 10,000 across the broadcast spectrum and ASSUME the measured Q is about equal to the coil Q.  Note that this is generally a poor assumption and does not allow Q measurements on capacitors.  Using calibrated components will allow extraction of the actual Q of the coil or capacitor under test.<br>
@@ -153,7 +153,7 @@ Qu = (Qk * Qt) / (Qk - Qt)<p>
 
 Here you need to stop and make a decision: Do you accept the "holy grail cap" assumption or get things calibrated?  For my setup I wish to give 10,000 thanks to Steve Ratzlaf, AA7U.  He kindly accepted to measure on his HP Q-meter a few of my coils and variable caps to serve as calibrated components.  For his contribution all that follows is made possible.  Calibrated components do not necessarily need to be high-Q, just Known-Q.  I selected moderate-low Q components for calibration as the HP Q-meter itself is only calibrated to Q = 1000.  Also, I wish the calibration be made as far as possible within a single range of the meter (to avoid ranging errors).  The goal is to know Q versus f to a high level of accuracy.  The following plot shows Steve's calibration curve for my "standard coil".<p>
 
-<IMG SRC="/coilcal0.jpg"><IMG SRC="/coilcal1.jpg"><p>
+<IMG SRC="coilcal0.jpg"><IMG SRC="coilcal1.jpg"><p>
 A standard coil is used for determining capacitor Q.  Steve made 33 measurements giving a lovely curve defining the following polynomial formula: Q = -48.082 * f^2 + 165.24 * f + 116.93, (where f is in MHz).  This describes the known coil Q in terms of frequency with an R-squared of 0.998, or a nearly perfect 100% fit.  Additionally he also provided the coil L versus frequency calibration.  In my spreadsheets I use the RF inductance from the calibration at each frequency to determine the RF capacitance of the capacitor under test.<p>
 
 To measure coil Q a "standard variable capacitor" is needed.  This is more problematic as a specific capacitance is needed for each measurement.  With a variable cap this will require unhooking the cap after each ring to measure the capacitance (taking care not to turn the rotor!), a real drag on the process.  I have landed on a switched set of calibrated silver-mica capacitors for tuning the tank.  Thus by selecting through the different caps I know beforehand the actual capacitance for each waveform.  This removes the need to unhook a variable cap after each ring in order to measure the capacitance.  I have chosen a quality ceramic-insulated eight-position switch with silver mica caps covering the broadcast band tuning range (assuming typical coils in the 180 - 230 or so uH range).  This allows efficient measuring with my time spent getting a good ring, no fuss with the hookup.  My calibration as follows:<p>
@@ -172,32 +172,32 @@ position   RF capacitance	 Q
 A note about measuring capacitors: Caps are generally higher Q than coils, often much higher.  As the method used to extract the component Q from the measured tank Q involves ratios, very careful measurement needs to be made.  For high-Q caps the difference between the tank Q and coil Q is very small and ratios tend to "explode".  That is, you end up dividing a number by a very tiny number.  It can make for tedious work.<p>
 
 View of the cap selector:<p>
-<IMG SRC="/capcal0.jpg">
-<IMG SRC="/capcal1.jpg"><p>
+<IMG SRC="capcal0.jpg">
+<IMG SRC="capcal1.jpg"><p>
 
 With 10,000 thanks to Steve Ratzlaf, AA7U for kindly measuring a couple of my coils on his HP Q-meter to calibrate my setup.  Without this I would be sunk!<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part VI: Procedure:<p>
 
 Referring to the photo below and schematic above, hang the coil on a stand where it is clear of other components or metal objects.  Connect the coil to the capacitor as per the schematic.  One of the components must be calibrated, the other is "under test".  Connect the probe and scope to the coupling coil leads and set the scope for a good scale, (Figure 3).  I generally use 5uS / division horizontal scale which gives me 40 to 50 oscillations at about 1 MHz.  For higher Q coils I may go to 10uS / division for a longer recording.  Set the scope trigger appropriately to capture the data.<p>
 
-<IMG SRC="/setup0.jpg"><br>
+<IMG SRC="setup0.jpg"><br>
 Figure 3. Photo of the test setup.<p>
 
 You will probably be making a series of measurements across the range of interested frequencies, (or possibly a quick single measurement at about 1 MHz).  Set the scope for the reading.  My scope set at 5uS/div returns 5000 data points to the computer. At 1 MHz that is about 100 data points per cycle, more than enough sampling to avoid any question of aliasing. For good practice it is advisable to center the waveform vertically as close as possible.  An adjustment in the spreadsheet will be needed in any case.<p>
 
 For each measurement adjust the variable cap where you want it and tap, or "key" the battery to pulse the tank and review the waveform on the screen.  You are collecting data.  When you get a good clean oscillation free of contact hash and noise, (this usually required several tries), send the data to the computer for analysis.  Here I assume each brand of scope will collect data in its own format.  The data spreadsheet needs to contain columns for time and amplitude.  5000 data points means 5000 rows minimum.  Amplitude data assumes symmetry around the average, or zero line and this may not be the case for the raw data.  In the spreadsheet I take an average of all the data and in a separate column I subtract this average from each amplitude to give a corrected value.    Add a plot to display the data with time (in uS) on the X-axis and corrected plus/minus amplitude (in mV) on the Y-axis.  Add two more columns, one for modeled amplitude data (from the wave equation given in Part II) and one to square the difference between the corrected and modeled data. <p>
 
-<IMG SRC="/datain.jpg"><p>
+<IMG SRC="datain.jpg"><p>
 Data portion of my spreadsheet shown above.  Here my raw data from the scope is copied into columns K and L. Column K has a simple sequence number and Column L the raw amplitude data in mV.  Careful, there are 5000 rows of data!  In Column M I first calculate the average mV for ALL the data at the top (Row 1) and then subtract this value from each raw amplitude (column L) to give a corrected amplitude symmetrical about zero.  Column N divides each sequence value by 100 to give time in uS.  Column O contains the modeled amplitude and column P is the square of the corrected amplitude minus the modeled amplitude. <p>
 
 Additional cells away from the data columns will be needed for the analysis, either using the decrement or wave equation method.  Examples shown below:<p>
-<IMG SRC="/eqdec.jpg">
-<IMG SRC="/eqwave.jpg"><p>
+<IMG SRC="eqdec.jpg">
+<IMG SRC="eqwave.jpg"><p>
 In these examples, manual input fields are shown in blue and calculated fields are shown in red.  Refer to these examples while reading the following parts VII and VIII.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part VII: Decrement Analysis:<p>
 
 The decrement measurement is based on measuring the peak amplitude of two successive cycles (or of peaks n cycles apart).  Data from the scope is read into a spreadsheet and the amplitude values may be read off a plot of the waveform. (Or may be read right off the scope screen but with much lower accuracy).  Because the data is in digital format one should eliminate "estimation errors" by reading the value right off the spreadsheet, noting both time (in uS) and amplitude.  <p>
@@ -216,12 +216,12 @@ L (uH) = 1E6 * ((1/ 2pif)^2 ) / C (pF)   	<p>
 If you are testing and unknown capacitor you should use the calibrated coil L and frequency to calculate the actual capacitance.<br>
 C (pF) = 1E6 * (( 1/ (2pif)^2 ) / L (uH) 	<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Example One:<p>
 
 An example to show off a bit.  This test was made with a close-wound tapped solenoid on a 3" cardboard form.  The graphic in Figure 4 shows some initial contact hash followed by a lovely damped oscillation.  Measurements on this coil showed a test frequency of 1.055 MHz, L of 215 uH and C = 106 pF.  Q was calculated at 203.  A decent coil but not great.<p>
 
-<IMG SRC="/ogram1.jpg"><br>
+<IMG SRC="ogram1.jpg"><br>
 Figure 4. Oscillogram of a coil under test.<p>
 
 n = 45<br>
@@ -242,12 +242,12 @@ Qu = (937 * 167) / (937 - 167) <p>
 Qu = 203.<p>
 
 <p>
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Example Two:<p>
 
 To be sure the technique works I have also assessed the quality of a 5inch diameter basket weave coil wound from 660/46 litz wire.  Such coils are rightly considered "performance coils" for their low skin-effect and low resistivity.  Measurements on the second coil showed a test frequency of 1.044 MHz, L of 189 uH and C = 123 pF.  Q was calculated at 1100, just what one expects from "Big Litz".<p>
 
-<IMG SRC="/ogram3.jpg"><br>
+<IMG SRC="ogram3.jpg"><br>
 Figure 5. Second oscillogram with modeled damped wave response.<p>
 
 The coil tested values as follows:<p>
@@ -269,7 +269,7 @@ Substituting the values Qt = 506 and Qk = 937 the equation simplifies thus:<br>
 Qu = (937 * 506) / (937 - 506) <p>
 Qu = 1100.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part VIII: Damped Wave Equation:<p>
 
 This analysis uses Solver in Excel to take a direct path to the answer while utilizing the entire dataset (or nearly so) instead of just two selected peaks.  To recall, the damped wave equation is:  qc = qo * e^(-t/2RpC) * cos(2pif * t + phi).  There are six parameters in the equation, two only (L and C) need to be given, Solver will seek the rest (qo, phi, R, and f).  Note that Solver can be kind of finicky and you may need to input some "ballpark" expected values before Solver can do its job. <p>
@@ -305,7 +305,7 @@ The known component (cap in this case) has a Q = 937 so, substituting the values
 Ql = (937 * 506) / (937 - 506) <p>
 Ql = 1100.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part X: Discussion:<p>
 
 In the above two examples I use actual measured data, nothing is "made up".  I chose for my examples measurements where both the Decrement and the Wave equation methods gave identical results.  Note that this will not always be the case.  A careful inspection of the wave form for the 3" solenoid (Figure 4) shows that adjacent peak amplitudes do not always follow as smooth a progression as one  may expect or wish.  For the Decrement method using peaks many cycles apart (45 in my example) helps to average out the results, reducing the inherent errors, but not eliminating them.  In choosing which peaks to use as To/Ao and Tn/An, I generally inspect the graph visually and try to choose peaks that appear to fit best with a smooth progression.  This is a fundamental problem with using only two peaks out of all the data collected.<p>
@@ -318,20 +318,20 @@ A few observations include: <br>
 2) Tank Q is never above either of the component Q's at any frequency. <br>
 3) The calculated component value is based on a ratio. In cases where the calibrated Q is very close to the measured Q (at high frequencies in this coil example, low frequencies where a cap is the unknown component), even small measurement errors can introduce large calculated errors. I always start my analysis for coils at low frequencies where the Q differences between calibration and measurement are large so errors are minimized and the trend is most apparent. As I measure into higher frequencies, I can quickly note where the measurements fall abnormally away from the expected trend and errors may be present. Multiple measurements are generally advised!<p>
 
-<IMG SRC="/ModelRel.jpg"><br>
+<IMG SRC="ModelRel.jpg"><br>
 Figure 6. Q versus frequency relationships between calibrated, measured (tank), and calculated component Q.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Part IX: Conclusion:<p>
 
 If you have access to, or own a digital oscilloscope, or have been hankering to purchase one, then the time may be now.  The analytical methods presented above are simple in practice and robust in theory.  I would also say that, by working with your wave forms, you learn to recognize your data and soon get a good "feel" for what is good and what is not.  The technique also produces, should you wish, an auditable report of the wave and analysis.  It is hard to argue against the results with the waveform sitting there staring right at you! <p>
 
 Measuring your coil Q should not be difficult.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 A copy of the evaluation spreadsheet in xls format can be found here <a href="CoilQbyDecrement_kjs.xls">CoilQbyDecrement_kjs.xls</a><p>.
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Bibliography:<p>
 
 Jacques Audet, VE2AZX., Q Factor Measurements on L-C Circuits., QEX - January/February 2012, pp 7 - 11.  <br>http://www.arrl.org/files/file/QEX_Next_Issue/Jan-Feb_2012/QEX_1_12_Audet.pdf<p>
@@ -358,14 +358,14 @@ Rice University EE., RLC Circuits,
 Durham University EE., Oscillations and Resonances in LRC Circuits,
 <br>http://level1.physics.dur.ac.uk/projects/script/lcr.pdf<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Kevin Smith<br>
 07/2013, Revised 06/2016<p>
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

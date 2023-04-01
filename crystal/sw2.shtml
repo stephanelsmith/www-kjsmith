@@ -7,33 +7,33 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/dx0.jpg">
+<IMG align=right SRC="dx0.jpg">
 <H2>Global DX'ter
 </H2>
-<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 <h4>
 Finally, a shortwave set comes off the design bureau and out into the world.  This is a type of set I have been planning and pondering on for some time.  With many crystal radio design possibilites this will certainly not be the only SW set I plan, but it is my first effort, my chance to "do it" on shortwave.  For a first effort I settled on a fairly simple design, a single-tuned rig with some degree of control, but not overly much.  I took as my base a design by Rainer Steinfuehr on his Crystal Reciever World site.  This design features a high Q spider coil with two taps, and adjustable capacitance on both the antenna and tuning circuits.  It made a rather lovely small set indeed.  <p>
 
 The specifics of the design were entirely my own and were based on the frequency range I wished to target and the specifications of the materials I had available for the project.  In partictular, I had available small good-quality 10 - 115 pF variable caps for which my clever elder brother had lathed lovely 1/4 inch shaft extenders for use with standard tuning knobs.  My target spectrum was about 5 to 18 MHZ as that is where the dominant international BC action takes place.  With luck that would also allow receiving WWV at 10 and 15MHz as well. Digging into the design spreadsheets, it seemed an inductor with 7 to 9 mH would best deliver the goods.  I made a spider form from a circlar cut of 1/8 inch Delrin plastic and wound 11 turns of 18awg magnet wire, carefully soldering taps at 3 turns and 8 turns from the ground (center) of the coil.  I ended with 9 turns on the final set with testing giving me a 7.6 mH coil. The final schematic presented below.<p>
-<IMG SRC="/dx1.jpg"><br>
-<IMG SRC="/dxc.jpg"><p>
+<IMG SRC="dx1.jpg"><br>
+<IMG SRC="dxc.jpg"><p>
 
 Initial testing on the set was dismal.  NO RECEPTION.  There followed many hours of double checking all wireing, solder joints, fidelity to the schematic, etc.  Everything checked out, no good.  Time to seek professional help, which happily corresponded to my annual visit home.  There my radio engineer brother took the radio and gave it his close attention, puzzled over it as had I, and concluded a defective part somewhere.  This he soon found in the tuning capacitor which had had a connection slip off its set point.  This easily corrected, the radio seemed ready for testing.  Unfortunately he did not have an antenna handy (he works in uhf+ research stuff) so all I could do was hook the set to a signal generator and test its performance, summarized below.<br>
-<IMG SRC="/swper1.jpg"><p>
+<IMG SRC="swper1.jpg"><p>
 The plot above charts the received signal strength (p-p mV) versus input frequency for the four possible switch configurations (Detector on tap 1 or 2, Antenna on selective [top of coil] or broad [on tap t1].  These four conditions were tested with the tuning cap fully meshed (low frequency) and fully open (high frequency) to give an idea of the actual tuning range as compared to the calculated range.  All measurements were made with no load on the output, and the antenna trim cap in the full meshed position.  Other conditions not shown were also tested.  <p>
 The results indicate that placing the antenna low on the coil, on the T1 position gives the best sensitivity and selectivity in tuning.  The detector, a 1N277 germanium diode placed high on the coil at T2 also gives dramatic increase in sensitivity.  What I found then, was a farily sensitive but, to be truthful, woefully un-selective set tuning from 6 to about 17-18 MHz.  Still, not bad for a single-tuned shortwave rig.<p>
 
 Final thoughts.  Upon returning to my home base, I quickly hooked the set to my longwire to make first impressions of actual reception.  In midday I was able to pick up a spanish language format broadcast and two english language religous format stations and a brief encounter with WWV.  At night the bands are flooded with competing stations, success!  Note that all this with my handy dandy Radio Shack mini-amplifier.  When I connected a crystal earphone and used my poor hearing, there was nothing as expected.  One pity is the ongoing presence, even on this set, of KGOW 1.65MHz forever audible in the background.  I consider the set a success as I was not expecting selectivity in a single-tuned rig.  Still, with the bands dominated by religous and spanish broadcasts, I cant say it differs much from the local Houston AM fare.  Oh well...<p>
 
-<IMG SRC="/dx2.jpg"><br>
-<IMG SRC="/dx3.jpg"><br>
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="dx2.jpg"><br>
+<IMG SRC="dx3.jpg"><br>
+<IMG SRC="bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

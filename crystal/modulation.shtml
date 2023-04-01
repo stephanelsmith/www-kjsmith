@@ -10,7 +10,7 @@
 <IMG align=right SRC="/ittybittypic0.jpg">
 <H2>Amplitude Modulation Notes:
 </H2>
-<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 Introduction:<p>
@@ -46,7 +46,7 @@ t = time
 
 In my spreadsheet I use 2pi = 6.283.  Editable inputs consist of Vc, fm, fc, Z, and m. I use arbitrary time increments in hundredths of a second.  This is because it is not reasonable to plot both carrier in Mhz and audio in khz and have a meaningful graphic.  Keep in mind than that the plots presented will be for illustration of concepts and not at actual RF values.  <p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 
 <IMG align=right SRC="/InputWaves.jpg"><p>
 Carrier and Audio Waves:<p>
@@ -129,7 +129,7 @@ Finally, the rectified signal must go through a low-pass filter to strip out the
 <IMG align=right SRC="/6C19Psum.jpg"><p>
 Rectification for a 6C19P vacuum diode:<p>
 
-Here, for sake of completeness I include an analysis of signal rectification using a vacuum diode, the 6C19P.  This Russian-made diode is a high-perveance, very sensitive diode for which I include a complete discussion of it characteristic in my section on <A HREF="/crystal/dvac.shtml">vacuum diodes</a>.  For the most efficient rectification operation the diode characteristic must pass through the I/V origin, zero amps for zero volts.  Vacuum tubes often have a "contact potential" such that for small negative potential on the plate there is a measurable current.  The 6C19P is no exception. When operated at its spec heater voltage of Vh = 6.3V, the contact potential approaches 1mA at zero volts on the plate. By reducing the heat (reducing the heater voltage) this contact potential may be lowered to zero current.  From my measurements a heater voltage Vh = 3.72V gives a characteristic that crosses at the origin.  <p>
+Here, for sake of completeness I include an analysis of signal rectification using a vacuum diode, the 6C19P.  This Russian-made diode is a high-perveance, very sensitive diode for which I include a complete discussion of it characteristic in my section on <A HREF="dvac.shtml">vacuum diodes</a>.  For the most efficient rectification operation the diode characteristic must pass through the I/V origin, zero amps for zero volts.  Vacuum tubes often have a "contact potential" such that for small negative potential on the plate there is a measurable current.  The 6C19P is no exception. When operated at its spec heater voltage of Vh = 6.3V, the contact potential approaches 1mA at zero volts on the plate. By reducing the heat (reducing the heater voltage) this contact potential may be lowered to zero current.  From my measurements a heater voltage Vh = 3.72V gives a characteristic that crosses at the origin.  <p>
 
 I use the langmuir-Child Diode law to calculate the rectified output from the same amplitude-modulated signal used in the examples above. To review, this law is based on the observation that a vacuum diode characteristic follows a 3/2 power law.  That is, by plotting current (I) raised to the 2/3 power against V you get a straight line with a slope and Y intercept, (standard form Y = mX + b). Perveance is just m^1.5.  For a given voltage across the plate I = (m * Vp + b)^3/2, where:<br>
 <pre>
@@ -159,12 +159,12 @@ In the lower chart I allow a small contact potential with the equation I = (m * 
 Kevin Smith<br>
 04/2020<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

@@ -10,7 +10,7 @@
 <IMG align=right SRC="/tef3.jpg">
 <H2>Q:
 </H2>
-<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 Introduction:<p>
@@ -20,7 +20,7 @@ Q...  I start by presenting data on coil Q turfed up from web, with many thanks 
 Secondly I present my own Q measurements on four "typical" coils I have laying about. Lastly I play with some Litz wire  
 resistance calculations, just for the pleasure.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 My purpose here is to present some facts and data that resulted from my explorations of the web.  I have often  
 wondered at what the quality factor of my coils should be and as often realized that I really do not have any  
 expectations as to what is possible.  Now, having done some research, I can with some confidence say that this is solved.  
@@ -50,7 +50,7 @@ coil with Q = 200 or better should be a no-brainer.  If your coil Q is less, you
 found to be in the Qu = 150 - 500 range. At the high end, Q's > 1000 seem to be pretty extreme and these coils are  
 expensive.  You better be using big Litz 660/46 and use a basket design (although the two best coils on the plot were  
 solenoids, go figure!).  <p>
-<IMG SRC="/coilq4a.jpg"><p>
+<IMG SRC="coilq4a.jpg"><p>
 
 For this plot, green, blue, and purple circles are for published unloaded coil Q.  I also post in orange circles an estimate of what the loaded Q presented to the diode (Antenna + Tank) might  
 look like.  Loaded Q will always be lower than the unloaded Q by several times.  I have estimated that high-end sets (big  
@@ -61,18 +61,18 @@ typical and this is where most of my own data falls with the assumptions previou
 to produce the above plot but note that this is merely an estimate.  Having an idea of your set's Ql will allow a better selection of the proper diode for  
 matching.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 
 All the previous data was from published sources and all are for coil Q measurements made at or near 1MHz.  It is interesting  to look at how Q varies across the tuning range of the coil as well.  Having had a chance to make a few Q measurements  myself recently (Q2 2016) I finally have results to show and discuss, results across the broadcast band.  The following  data and plots result from the technique presented in the section "Coil Q Revisited".  Calibrations for my measurements are based on capacitor Q measurements made on my behalf by Steve Ratzlaff AA7U with his HP Q-meter.  It is worth to note that my capacitor used in these measurements has a low end capacitance of 8 pF, 18 pF and radio frequency.  This allows measurements out to nearly 2.3 MHz.
 <p>
 
-<IMG SRC="/coilq10.jpg"><p>
+<IMG SRC="coilq10.jpg"><p>
 
 The above plot gives unloaded coil Q versus frequency for a set of several crystal set coils I have wound (or purchased in  
 the case of the diamond weave).  I have chosen coils with what I had hoped to have a variety of performances, from a big  
 litz rope basket coil to a close wound tapped solenoid on cardboard stock from.  I even threw in a couple small-gauge tp-form coils just to see how bad things can get (to offset the Litz as it were). The set includes the following coil  
 specs (note, coil photos at end of this section):<br>
-<IMG SRC="/coilq12.jpg"><p>
+<IMG SRC="coilq12.jpg"><p>
 
 On the plot itself I post the measured data points and add a best-fit regression and formula describing the relation for  
 each coil.  Note that in most cases the regressions have fits with 0.99 or above except the litz coil with 0.88 and the 3.2" tapped solenoid with 0.98.  Additionally I have added in grey a few lines of equal parallel resistance (for L=220 uH).  These allow a  visualization of how the coil Q relates to Rp according to the function Qu = Rp / 2pifL. <p>
@@ -85,20 +85,20 @@ the published data I have presented in the first part above is for 1MHz, near th
 certainly drop in the lower frequencies and possibly in the high as well.<p>
 
 Now a look at the coil Rp<br>
-<IMG SRC="/qvsrp2.jpg"><p>
+<IMG SRC="qvsrp2.jpg"><p>
 For a look at Rp I turn again to my favorite Q versus Rp plot.  Tank Rp is the essential parameter one wishes to know for the purpose of matching tank to diode and load.  Plot display and colors are as before and I have included some lines of constant frequency for the case of L = 220 uH, a pretty normal coil.  This plot illustrates that, for any single coil, Rp is not constant across the entire broadcast band although at higher frequencies (above 2 MHz) some coils have a tendancy towards constant Rp.  No single diode will be matched across the band for a single coil and Rp differences between different coils can be dramatic.  Diode matching MUST be coil-specific.  It seems good practice to choose your diode for a partictular coil at about f = 1MHz.  Note that in this plot I give unloaded coil Q.  When you load the coil with the capacitor, diode, antenna, and audio the Q (and therefore Rp) will drop somewhere between 2.5 to 6 times.  I have attempted to illustrate this in my first "Coil Q vs Rp" plot at the beginning of the page.
 <p>
 
 Images of the tested coils, same scale.<br>
-<IMG SRC="/litz5in.jpg">
-<IMG SRC="/Tef5in.jpg">
-<IMG SRC="/sol3in.jpg">
-<IMG SRC="/dcc4in.jpg">
-<IMG SRC="/Sol1.5in.jpg">
-<IMG SRC="/Sol15in.jpg">
-<IMG SRC="/dia3in.jpg"><p>
+<IMG SRC="litz5in.jpg">
+<IMG SRC="Tef5in.jpg">
+<IMG SRC="sol3in.jpg">
+<IMG SRC="dcc4in.jpg">
+<IMG SRC="Sol1.5in.jpg">
+<IMG SRC="Sol15in.jpg">
+<IMG SRC="dia3in.jpg"><p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 A Calculation of 660-46 wire resistance in a high-end coil:<p>
 As much of the resistive loss is in the coil, keeping this to a minimum is important.  The following discussion provides  
 a few calculations on Litz wire AC resistance.  NOTE: THE ULTIMATE LIMIT ON COIL Q IS THE NEED TO USE WIRE!<br>
@@ -159,7 +159,7 @@ Time to get measuring.  Below I provide my input data, have at it!  <p>
 Kevin Smith<br>
 03/2013<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 *Note that in 1925 the importance of coil Rs was understood, but the factor Q was apparently not used.  I have taken  
 (quite painfully) the L and Rs data from the Hund and Groot plots and calculated the resulting Q.  I recommend to those interested to download the pdf of their paper.<br>
 https://archive.org/details/radiofrequency1925298hund<p>
@@ -256,7 +256,7 @@ ferrite rod	22	mgnt	ferrite juncbox	0.48	2.80	37			80			Hayward
 4Layer Bank	28	dcc	hard rubber	3.31	0.29		32.50	0.14	336	65		Hund
 Double Layer	28	dcc	hard rubber	3.31			inf		355	0		Hund
 </pre>
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Data for measurements used in the plots for my own coils above:<p>
 <pre>
 f	L	C	Q tank	Q cap	Qcoil	Rp	Rs	D		ESR
@@ -372,11 +372,11 @@ MHz	uH	pF		cal		Mohm	ohm			ohm
 0.535	225	394	119	4256	122	92	6.17	0.008167	10.81
 </pre>
 
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="bar3e.jpg">
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

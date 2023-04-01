@@ -10,7 +10,7 @@
 <IMG align=right SRC="/mtpic.jpg">
 <H2>Impedance Matching Transformers.
 </H2>
-<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 <h4>
 
@@ -34,7 +34,7 @@ Teflon 		90  - 300 - 900 kOhm
 Typical crystal set phones have impedances in the 10-20 kOhm range (more on that below) and will match well to low-end and hobby sets. For performance sets matching will nearly always be needed/desired. <p>
 
 
-<IMG SRC="/pout_uw.jpg"><IMG SRC="/pout_db.jpg"><p>
+<IMG SRC="pout_uw.jpg"><IMG SRC="pout_db.jpg"><p>
 
 <hr size=5>
 </H4><H3>Headphone Impedance:</H3><H4><p>
@@ -86,7 +86,7 @@ For these data I have mined a bunch or product websites to seek out their headph
 My database on radio Tank load resistance for maximum power transfer to the audio circuit. <p> 
 <br clear=left><p>
 Following I give the measurement conditions and input data for the above charts.<p>
-<IMG SRC="/mt_tf.jpg"> <IMG SRC="/mt_hb.jpg"> <IMG SRC="/mt_bt.jpg"><p>
+<IMG SRC="mt_tf.jpg"> <IMG SRC="mt_hb.jpg"> <IMG SRC="mt_bt.jpg"><p>
 
 <p>
 <br clear=left><hr>
@@ -101,7 +101,7 @@ kjs 2018
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

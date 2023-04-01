@@ -10,7 +10,7 @@
 <IMG align=right SRC="/vac1.jpg">
 <H2>Part III: Vacuum Diode Test Data Report
 </H2>
-<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="lab.shtml">Back to Lab..</a><br>
 <hr>
 <h4>
 <br clear=left><IMG align=left SRC="/vacs.jpg"><p>
@@ -74,7 +74,7 @@ Note also that high perveance is not merely a matter of placing the plate as clo
 <br clear=left><IMG align=left SRC="/tst2tfk.jpg">
 Note that while the above model as well as hearing (a kind of "hearing is beleiving" thing) supports the 4.0V heater voltage as a sweet spot for highest rectification efficiency, I have yet to be able to measure this.  Using my tube-driven Telefunken set (see description on my main radio page) I made a series of output signal power measurements at various tube heater voltages.  In this I found no relation between matched output power and the tube heater voltage at 20mV input (2.0Vpp on signal generator), and a monotonic increase in output power at 6mV input (0.2Vpp on the generator). I was seeking a peak output power at around 4.0V on the heater so this result is disturbing. I can hear it, but cannot measure it.<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 <br clear=left>
 <p>Portraits:<p>
 <p>
@@ -87,7 +87,7 @@ Note that while the above model as well as hearing (a kind of "hearing is beleiv
 <IMG align SRC="/f-6g2.jpg">
 <IMG align SRC="/f-6dn3.jpg"><p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 The following spreadsheet provides my entire 6C19P observations and evaluation.  Plate voltage (Vp) is on the lefthand column, observations, models and calulations after that by heater voltage (Vh). The first spreadsheet gives the observations and their models.  In the second spreadsheet I model and compare the 6C19P run at operating spec 6.3Vh, and at the "ideal" operating Vh = 3.72V.  These are the data behind the 6C19P Characterization charts presented above.<p>
 
 <pre>
@@ -144,10 +144,10 @@ Vp	Model	I^2/3	Model	I^2/3
 2.00	10.51	4.80	7.26	3.75
 </pre>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

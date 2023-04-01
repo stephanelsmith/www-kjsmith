@@ -10,7 +10,7 @@
 <IMG align=right SRC="/dmy.jpg">
 <H2>Radio Test
 </H2>
-<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 OK, now that you have built a radio, or several, how do they perform?  Without a bit of objective testing you will never really know.  I have often read descriptions of radio performance such as "tunes very sharply" or "separates two closely spaced stations" and/or etc.  These are qualitative descriptions that do not really give you much information.  To know your radio, it takes some measuring.  I am making the assumption here that, as a homebrew radio builder, you will find tinkering and measuring your sets just as interesting as their design and construction... and listening!<p>
@@ -109,21 +109,21 @@ In the final figure 6 I have taken my estimated results above and looked at how 
 
 Figure 6. <br>
 <IMG align SRC="/dvfig5.jpg"><p>
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 References:<br>
 <A HREF="/http://www.oldradioworld.de/gollum/testing.htm">Great page of Charles Lauter</a><br>
 <A HREF="/http://makearadio.com/misc-stuff/bandwidth.php">With much appreciation to Dave Schmarder</a><p>
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 
 <IMG align SRC="/labnew.jpg"><p>
 <IMG align SRC="/lab1.jpg"><br> Photo of the lab with my signal generator, artificial antenna, and keithley bench meters.<p>
 
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

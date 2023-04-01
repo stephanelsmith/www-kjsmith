@@ -48,7 +48,7 @@ Calculated fields in red and black.<br>
 Adjustment field "n" in green: (adjust value of n until the ratio of the two calculations = exactly 1).<p>
 <p><IMG align SRC="/datout.jpg"><br>
 (Note: the engineers in the crowd will have noticed in the above report than I am carrying a degree of precision not justified by the level of accuracy in my measurements.  The final results of n, Is, and Rd should be rounded off to not more than three significant figures.)<br>
-A copy of my spreadsheet can be downloaded here:<A HREF="/crystal/Cal_n_Is_Rd.xls"> Cal_n_Is_Rd.xls</a><p>
+A copy of my spreadsheet can be downloaded here:<A HREF="Cal_n_Is_Rd.xls"> Cal_n_Is_Rd.xls</a><p>
  
 While measuring a good number of diodes, both Germanium, Schottky, Silicon, and even a few LED's, I noted that Tongue's recommended measurements at Vd = 0.039 and 0.055 V resulted in current reports spread out over more than two orders of magnitude.  As the determination of Is and n is not unique but a function of Id, I felt uneasy by this method.  While most Germanium diodes I have measured have a fairly narrow range of Forward Voltage drops, (Vf), that of Schottky's can range up to a tenth of a volt.  This is the factor responsible for the huge range of measured Id values, see the following plot of I/V characteristics for some selected diodes:
 <p><IMG align SRC="/ddiv1.jpg"><p>
@@ -78,12 +78,12 @@ Ebers-Moll equation Vf = m (kTq) ln [(If / Is) +1]<p>
 <hr>
 <IMG align SRC="/lab2.jpg"><br> Photo of the lab with my diode test jig, amp meter, and diode vacuum tubes under test.<p>
 
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return to Lab..</a><br>
+<A HREF="lab.shtml">Return to Lab..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

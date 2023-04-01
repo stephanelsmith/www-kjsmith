@@ -7,10 +7,10 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/tfks.jpg">
+<IMG align=right SRC="tfks.jpg">
 <H2>A Telefunken (aka Mystery) Set
 </H2>
-<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 
 <h4>
@@ -19,7 +19,7 @@ I have learned much in the several years that have followed and have been feelin
 Given the single-tuned design this will not be a performance set and I have gone with 18awg magnet wire for the coil.  The coil is bifilar co-wound with 3.7" ID and 4.1" OD.  The Open Circuit Coil has 58 turns and a length of 2.8 inches.  At 1.0MHz the inductance is 229 uH and has an unloaded Q of 260.  Rp = 390 kOhm.  The Closed Circuit Coil has 30 turns and is 1.7 inches long.  At 1.1 MHz the inductance is 76 uH with an unloaded Q of 175.  Rp = 90 kOhm.  The Open circuit coil is Tuggle tuned with an older Russian 2-gang 450 pF variable cap with a 3:1 reduction gear.  <p>
 For this set I have chosen to include a single vacuum tube for the detector with no provision to switch in solid state diodes.  I was tired of being lazy with my Fleming set and just using the diode.  This set uses a Russian high perveance 6C19P vacuum diode giving good sensitivity.  Additionally I included a Benny in the detector circuit for purposes of measurement and possible small improvement in selectivity, who knows?  What I can say is that, when I short across the benny I get an immediate reduction in volume/sensitivity.  So, it must be doing some good.<p>
 
-<IMG align=left SRC="/6c19p.jpg">
+<IMG align=left SRC="6c19p.jpg">
 The graph at left shows the I/V characteristic measured for the 6C19P diode.  I include measurements at two heater voltages, 6.3 (operating spec) and 4.0 volts.  Additionally I show the currents raised to the 2/3 power.  Current to the 2/3 power gives a linear relation with voltage in each case and was first noted by Langmuir and Childs, now refered to the Langmuir-Childs Law.  The slope of the curve returned to the 3/2 power results in a number called perveance and is a measure of the efficiency of the diode for detection.  It is also seen for the curve at 6.3 volts that there is substantial positive current even at negative bias on the plate, out past -0.5V.  This "Contact Potential" is death to rectification and by reducing the heater voltage one may reduce the potential to near zero thus maximizing the diode sensitivity.  The perveance is only minimally impacted.<p>
 The operation of the radio is intended with 3.9 to 4.0 Volts on the heater for best performance.  The tube is a power hog and will not run off a battery.  Current draw at spec 6.3V is 1.2 Amps!  Even at 4.0V it draws 0.8A.  You better have a power supply.  Still, the power runs the heater only, the set remains non-amplified.
 
@@ -27,12 +27,12 @@ The operation of the radio is intended with 3.9 to 4.0 Volts on the heater for b
 <p><br clear=left><hr size=15>
 
 Schematic:
-<br><IMG SRC="/tfknhk.jpg"><p>
-<IMG SRC="/bar3e.jpg"><hr>
+<br><IMG SRC="tfknhk.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr>
 Portraits of the set:
-<br><IMG SRC="/tfk01.jpg"><p>
-<br><IMG SRC="/tfk02.jpg"><p>
-<IMG SRC="/bar3e.jpg"><hr>
+<br><IMG SRC="tfk01.jpg"><p>
+<br><IMG SRC="tfk02.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr>
 Performance Testing<p>
 I have completed several tests on the Telefunken Set with its 6C19P vacuum detector.  It passes surprisingly well, better than I had thought but with some reservations.<p>
 
@@ -48,32 +48,32 @@ One critical observation I have concerns the resonance "floor" of the set.  Look
 
 Anyway, the set behaves remarkably well, better than I had expected.  With its Q over 100 and proper heater adjustment this set should outperform most one-dial crystal/diode sets out there! <p>
 
-<IMG SRC="/tfkper.jpg"><p>
-<IMG SRC="/rload.jpg"><p>
-<IMG SRC="/resonance.jpg"><p>
-<IMG SRC="/bar3e.jpg"><hr><p>
+<IMG SRC="tfkper.jpg"><p>
+<IMG SRC="rload.jpg"><p>
+<IMG SRC="resonance.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr><p>
 
 More interesting measurements on the set, telling me how the tube is doing.<p>
-<IMG align=left SRC="/tst2tfk.jpg"><p>
+<IMG align=left SRC="tst2tfk.jpg"><p>
 Above we see no relation between matched output power and the tube heater voltage at 20mV input (2.0Vpp on signal generator), and a monotonic increase in output power at 6mV input (0.2Vpp on the generator).  I can hear a peak output power at around 4.0V on the heater, but do not see this on the chart.<p>
 Two significant observations follow: A) At 2.0Vpp on the generator there is little loss in sensitivity down to about 2V heater voltage and: B) At 200mV generator input the set sensitivity decreases monotonically with decreasing heater voltage.<p>
 
 <br clear=left>
-<IMG align=left SRC="/tst3tfk.jpg"><p>
+<IMG align=left SRC="tst3tfk.jpg"><p>
 Input power relates linearly to output power suggesting a constant set sensitivity, and I find the matched output load also remains constant.  Unexpected, but I had no real expectations really.<p> 
 
 <br clear=left>
-<IMG align=left SRC="/tst4tfk.jpg"><p>
+<IMG align=left SRC="tst4tfk.jpg"><p>
 Just to be thorough I take a look at the input voltage to the set versus the voltage delivered by the signal generator.  The dummy antenna is pretty lossy with 2Vpp from the generator translating to just 20mVpp getting into the set.  Looking at the generator set to 200mV, the signal into the set is a paltry 5mV.  Because of my lossy dummy antenna, I am in fact measuring at far lower input signal levels than the signal generator setting indicates.  Results from my 2.0Vpp generator setting may be more relevant to DX than I have previously suggested.<p>
 
 <br clear=left>
-<IMG SRC="/bar3e.jpg"><hr>
+<IMG SRC="bar3e.jpg"><hr>
 
-<br><IMG SRC="/tfk03.jpg"><p>
-<IMG SRC="/bar3e.jpg"><hr>
+<br><IMG SRC="tfk03.jpg"><p>
+<IMG SRC="bar3e.jpg"><hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

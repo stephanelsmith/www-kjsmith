@@ -38,26 +38,26 @@ The above discussion illustrates many interesting characteristic behavoirs in di
 I have been attempting to get a handle on the main diode parameters Is, n, and Rd and how they impact the operation of a crystal radio. My method of choice is to use a graphical approach, plotting charts where variations between plotted parameters become apparent and easy to visualize.  I have developed an interesting chart from the measurements above that compares many diodes with respect to Is, n, and Rd, and to understand how this fits into a matching situation with a fuzzy indication of typical tank impedance limits. <p>
 Ultimately one seeks a diode with an Rd that matches with and conjugate to the impedance it sees from the tank (+antenna). In the following discussions I will start with the cross-plot of Is to Rd and then proceed to a look at how received RF power plays a part in the selection and why low Is and n are desired.<p>
 
-<IMG SRC="/disrd.jpg"><p>
+<IMG SRC="disrd.jpg"><p>
 The plot above shows the relationship between diode Is and Rd. Rd is calculated via the equation Rd = VT * n / Is where VT is the thermal voltage = k * T / q = 0.0257V at room temperature and Is and n are from the measured diodes.  k is Boltzmann's constant = 1.38E-23 J/K and q is the electron charge = 1.609E-19 coulombs.  On such a plot I can show lines of constant n, and plot the values for individual diodes for which I have spent considerable effort to determine the parameters Is, n and Rd (where Is is the diode saturation current, n is the ideality factor, and Rd is the diode resistance). On the plot it should be evident how changes in n or Is impact a diodes' Rd.  <p>
 
-Additionally I have plotted RF signal Rs as orange circles from published coil unloaded Q <A HREF="/crystal/coilq.shtml">(see my section on Coil Q).</a>  To convert from Qu to Ql I have made the assumption that loaded Q is about 1/5 unloaded Q for low-end sets while in performance sets it may approach 1/2.5 the unloaded Q.  This is only an estimate then, but starting from actual data.  To make the conversion to Rs I simply plugged the data into the standard equation R = 2pi*f*L*Q using a scaling factor to divide down Qu to Ql from high Q (1400/2.5) to low Q (100/5). This provides a nice visual display of the expected range for Rs in many crystal sets.  I plot the Rs against the value of Ql used.  Note that these data are for the case at about 1MHz and inductances between 200 and 300uH, as published.<p>
+Additionally I have plotted RF signal Rs as orange circles from published coil unloaded Q <A HREF="coilq.shtml">(see my section on Coil Q).</a>  To convert from Qu to Ql I have made the assumption that loaded Q is about 1/5 unloaded Q for low-end sets while in performance sets it may approach 1/2.5 the unloaded Q.  This is only an estimate then, but starting from actual data.  To make the conversion to Rs I simply plugged the data into the standard equation R = 2pi*f*L*Q using a scaling factor to divide down Qu to Ql from high Q (1400/2.5) to low Q (100/5). This provides a nice visual display of the expected range for Rs in many crystal sets.  I plot the Rs against the value of Ql used.  Note that these data are for the case at about 1MHz and inductances between 200 and 300uH, as published.<p>
 
 Matching the diode to the tank is a matter of finding a diode with both sensitive qualities (low n) and an Rd close to the Rs presented to the diode (as per Ben Tongue's suggestions for Peak and Square Law detection). Those diodes with Is's in the 100 - 250 nA (100-280 kohm for n=1.1) or so range have the possibility to match while connected to the top of the tank coil without the use of Q-lowering taps, while untapped matching to high-end high-performance big-Litz baskets will require diodes with Is's in the 35 - 60 nA (500-800 kohm for n=1.1) range. Most "typical" germanium diodes have high Is values (>500, >60kohm) and will require a tap.  Diodes such as FO-215, BAT 46, 1N60 and GAZ51 can be matched to many tanks without taps.  For tanks with high quality Litz coils one will be using HP 5082-2835 or 1SS98 diodes, generally 3 to 4 in parallel to lower the Rd to the desired range.  (Curiously, I have not found any diodes with Rd values in the 300 to 4500 kohm range.)  Note that both resistance and impedance are frequency-specific so a match at one frequency will not remain matched across the broadcast band.  <p>
 
 Finally, the Current/Voltage characteristic curve data can be used to determine the series resistance Rs of the diode with proper modeling.  Mike Tuggle has worked out an Excel spreadsheet where he uses Solver to extract the best-fit n, Is, and Rs parameters.  With the large impact of Rs at voltages above 0.3 or so, the fitting alogrithm << Vcalc = (nkT/q) * ln [(Iobs /Is) + 1] + Iobs * Rs >> will tend to overestimate the values n and Is.  Still, it provides a better overall view of the diode responce to the full spectrum of voltages.  Naturally, for weak signal work, using the more detail alogrithms presented above is the proper method and in this page I report n and Is only where determined at low voltages.  The plot below gives a full evaluation for a 1N34A diode out to 1.5V with observed data in red, shockley ideal model in blue, and the Rs model in green.  Note that for negative voltages I have used the absolute value (positive) for the current in order to plot the Current axis with a logrithmic scale.  This accounts for the small "tail" at negative voltages.<p>
-<IMG SRC="/rs1n34a.jpg"><p>
+<IMG SRC="rs1n34a.jpg"><p>
 
 The following plot compares Ro to Rs for the germanium and schottky diodes presented in the following page. Schottky diodes generally have lower Rs and higher Ro than germanium and more and more are finding a prominant place in crystal sets.  For Germanium diodes I have distinguished those with a gold whisker from those with tungsten whiskers.  Both types appear to exist over a broad range of Ro's but, with a couple exceptions, gold whiskered Ge diodes have significantly lower series resistance Rs.  What in the fabrication process actually controls Ro remains unclear.  P and N carrier density is implicated, but what is dome to control this?. <p>  
-<IMG SRC="/drors.jpg"><p>
+<IMG SRC="drors.jpg"><p>
 
 
-<br clear=left><p><IMG SRC="/bar3e.jpg"><p>
+<br clear=left><p><IMG SRC="bar3e.jpg"><p>
 <IMG align=left SRC="/rcvsig.jpg">Here is an interesting plot taken from the text discussion in "Crystal Set Analysis" by Berthold Bosch.  It presents received signal strength across the tuned circuit for various scenarios from threshold audibility to local blowtorch.  This plot should be considered a single example specific to his location and antenna/ground system.  In the text he describes his antenna an an inverted L 43m long (140') and 10m high (32'), an excellent antenna most of us do not have the real estate to erect, but offsetting this is a poor ground with Rg = 210ohms.  Given the offsetting conditions I would imagine this is a good generic example of what received signal voltage and power levels presented across the LC circuit to the diode are likely to be.  Bosch cited 40nV as the threshold of audible detectability (impedance matched conditions with 16kohm RF impedance / 4kohm DC phones) and for this plot I pushed it back to 20nV as it gave a superior regression fit.  
 
-<br clear=left><p><IMG SRC="/bar3e.jpg"><p>
+<br clear=left><p><IMG SRC="bar3e.jpg"><p>
 <IMG align=left SRC="/divp.jpg">This plot at left takes some actual diode I/V measurements rather than the models presented below and plots them along with the above RF voltage across the LC circuit versus RF power in mW.   Here one sees that pushing for very very low Vf (via high Is / low n combinations) pushes the limit of detectable signal power from the antenna.   At such minute power levels I imagine the reverse leakage current becomes significant and probably offsets the low operating point gains sought.  
-<br clear=left><p><IMG SRC="/bar3e.jpg"><p>
+<br clear=left><p><IMG SRC="bar3e.jpg"><p>
 
 <hr>
 I cannot express enough my indebtedness and thanks to Ben Tongue and Mike Tuggle for their great work and documentation in all matters Diode!
@@ -182,7 +182,7 @@ Average				2.01	0	3.76E+19
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return to Lab..</a><br>
+<A HREF="lab.shtml">Return to Lab..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

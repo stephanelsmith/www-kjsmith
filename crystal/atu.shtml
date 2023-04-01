@@ -10,7 +10,7 @@
 <IMG align=right SRC="/25b.jpg">
 <H2>Antenna Tuning Unit Notes:
 </H2>
-<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="lab.shtml">Back to Lab..</a><br>
 <hr>
 <H4>
 Introduction:<p>
@@ -18,7 +18,7 @@ Introduction:<p>
 When designing my radios I always make extensive use of Mike Peebles and Dan Petersen's "Professor Coil" spreadsheet.  This tool along with the many tutorials and explanations online have vastly eased the design work around homebrew coil winding.  We can now model a coil with good accuracy prior to the actual job and thus better match the coil to the other components we plan to include.  One quickly becomes aware that most coils for the broadcast band vary around a nominal 220 or so uH.  More than this and most variable capacitors will have too much bottom-end capacitance to tune the top of the band.  Less than this and you need caps with fairly high values when fully meshed, 500+pF or more.  <p>
 
 All the above is pretty straight forward. On the other hand, when I have been reviewing double-tuned set designs, I often note that the coil used for the ATU (antenna tuning unit) will have an inductance quite a bit lower than the main tank coil. Professor Coil doesn’t address this aspect of coil design and I have found little discussion online concerning ATU design. Mostly this seems to be dealt with in passing or as a digression when dealing with other subjects. The most useful web sites for addressing this aspect of crystal set design include Dick Kleijer's excellent work and Ramon Vargas's detailed analysis of the "Tuggle Front End", that’s about it. Neither site discusses the ramifications of varying different parameters such as the Earth Resistance, Coil Inductance, etc although Kleijier's site includes a great calculator page to allow one to ask these questions. In my explorations of ATU design (primarily Tuggle) I have made extensive use of Kleijier'e page and for this I am deeply in his debt. My hat's off to Dick, thanks so much.<p>
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 The following discussion presents the results of many models cranked through the design calculator.  I wished to understand what factors play main roles and which have minor parts.  <p>
 
 For a conventional detector-circuit coil one can pretty much control all the main factors, really only the inductance and capacitance of the circuit. The main and only surprise comes in the form of "stray capacitance" resulting from the spacing of the coil wires. This can readily be 1) guessed at and 2) minimized by good coil winding technique. For the antenna circuit by contrast many of the needed parameters, earth resistance, antenna capacitance and inductance, and antenna resistance in the forms of actual wire resistance and radiation resistance are, for most of us, unknown and only guessed at. The following figure illustrates the antenna and ATU with a list of the main "components" that need to be understood and/or modeled. <p>
@@ -39,7 +39,7 @@ Earth resistivity depends on a number of variables including the material, moist
 		Granite 	1,000 - 2,000
 		Slates 		600 - 5,000 </pre>
 Moisture up to about 17% dramatically lowers resistivity, mineral salts are needed as pure water is an insulator, and as the temperature approaches freezing the resistivity also rises dramatically. All these factor into your estimation of Rg. The actual resistivity seen by the circuit depends on the earth resistivity and the type of grounding system you have installed. The more metal in the ground and deeper, the lower the resistance. Know thy earth! A map of USA soil resistivity follows:<p>
-<IMG SRC="/mpusa.jpg"><p>
+<IMG SRC="mpusa.jpg"><p>
 
 Modeling:<p>
 
@@ -61,7 +61,7 @@ All the above discussion is great but... What is important really? The following
 6) Series inductance I just input 20 uH every time.<p>
 
 The data and plots for four different scenarios follow:<p>
-<IMG SRC="/atumdls.jpg"><p>
+<IMG SRC="atumdls.jpg"><p>
 
 The above plots show the calculated capacitance versus frequency for four different models of Earth Resistivity / Tank Inductance.  In each case I maintain the same log capacitance vs frequency scale for easy comparison.  The cases modeled represent increasing earth resistance presented to the ATU from a very low 10 ohms to a fairly high 50 ohms.  Actual earths can go up to two orders of magnitude higher.  I chose L1 inductances such that the maximum needed capacitance would approach 500pFs, easily found on many variable caps.  With respect to the coupling cap (C2, red curve), as the earth resistivity increases, the needed capacitance declines.  The tank cap value needs to resonate with the inductor and increases with smaller-value inductance.  In searching for a 500pF cap max value, the choice of inductance needs to decrease with increasing earth resistance.  Parameters other than Rg, L1 and C1-C2 have minor impact on the models.  <p>
 
@@ -70,14 +70,14 @@ Conclusions:<p>
 From the plots one can readily see that above 15 ohm earth the two variable capacitors on the ATU do not track well. As the earth resistivity increases, the worse the tracking. Most locations are not blessed with a low resistivity earth and this needs to be factored into the ATU design. There is little to be done, changing the design coil inductance will change the needed capacitance on BOTH C1 and C2, (larger L1 leads to smaller C1 and C2 for resonance and vice versa). A possible solution well worth trying is to use a dual-gang capacitor where one section has a different value than the other, the above plots give an easy way to decide the max values needed. Use the smaller gang on the coupling circuit and the larger on the tank. Experience tells us that ganging the capacitors on a "Tuggle" front end works well, but from the models I have to imagine one might squeeze a bit more performance by giving up the convenience of one-dial tuning on the ATU, especially where your earth has a fairly high resistance. <p>
 
 The best design methodology requires that you know first and critically your earth resistance. If this is just a guessed-at parameter then I strongly urge you to put down the Litz, set aside the silver-plated-ceramic-insulated caps, box the holy-grail diodes and go do some research on your local ground. All the time, expense, and effort on the greatest "state-of-the-art" crystal receiver will be wasted if the ground is not attended to. If the resistivity of your earth is high in ohm-meters, get more metal in the ground or consider a counter-poise. The following table from LEM Instruments shows the relation between earth resistivity in ohm meters and actual earth resistance in ohms as a function of the earthing method used.<p>
-<IMG SRC="/erlem.jpg"><p>
+<IMG SRC="erlem.jpg"><p>
 
 Given just how little discussion there is on the web concerning antenna tuning and the impact of ground resistivity I hope this page can serve as a starting point for further research.  Certainly there is more to be said, Crystal Radio, its a bottomless pit!<p>
 
 Kevin Smith<br>
 09/2011<p>
 
-<IMG SRC="/bar3e.jpg"><p>
+<IMG SRC="bar3e.jpg"><p>
 Models and Data:<p>
 <pre>
 10 ohm / 220 uH  Lowest resistivity Earth Case sensitivities							
@@ -160,11 +160,11 @@ Ohm	pF	uH	uH		kHz	pF	pF	     Ohm	kOhm
 50	375	20	125	300	1700	21	49	50  -j  36	401
 </pre>
 
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="bar3e.jpg">
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

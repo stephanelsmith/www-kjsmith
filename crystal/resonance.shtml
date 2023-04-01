@@ -9,7 +9,7 @@
 <hr size=15>
 <IMG align=right SRC="/ch05a.jpg">
 <H2>A graphical look at Resonance</H2>
-<H4><A HREF="/crystal/lab.shtml">Back to Lab..</a><br>
+<H4><A HREF="lab.shtml">Back to Lab..</a><br>
 <hr><p>
 </h4><h2>Resonance</h2><h4>
 
@@ -36,7 +36,7 @@ f = 1 / 2pi sqrt(LC)<p>
 This is the general formula for resonance.  <p>
 In all the plots from here on I will show sweeps of frequency with impedance or current as the dependant variable.  The point of resonance on each plot should be apparent as that point where the dependant variable reaches its maximum value.  <p>
 
-<p><IMG SRC="/bar3e.jpg"><br>
+<p><IMG SRC="bar3e.jpg"><br>
 </h4><h3>Series RLC</h3><h4><p>
 
 <IMG align=left SRC="/SeriesRLC.jpg"><p>
@@ -52,7 +52,7 @@ The above plot shows first that it is indeed straightforward to evaluate a circu
 A copy of the series circuit excel spreadsheet can be found here:
 <a href="Series_kjs.xlsx">Series_kjs.xlsx</a><p>
 
-<p><IMG SRC="/bar3e.jpg"><br>
+<p><IMG SRC="bar3e.jpg"><br>
 </h4><h3>Parallel RLC</h3><h4><p>
 
 <IMG align=left SRC="/ParallelRLC.jpg"><p>
@@ -77,7 +77,7 @@ A copy of the parallel circuit spreadsheet can be found here:
 <a href="Parallel_kjs.xlsx">Parallel_kjs.xlsx</a>
 <br clear=left><p>
 
-<IMG SRC="/bar3e.jpg"><br>
+<IMG SRC="bar3e.jpg"><br>
 </h4><h3>Coupled Circuits</h3><h4><p>
 
 Time to move to the big leagues with coupling of two circuits.  Here I am afraid my skills prove inadequate and I have turned to Mike Tuggle for help and, ultimately, a spreadsheet to make the needed calculations.  For this I wish to publically acknowledge and thank Mike.  Also to apologize to him for the significant liberties I have taken with said spreadsheet.  <p>
@@ -105,7 +105,7 @@ A copy of the coupled circuit spreadsheet can be found here:
 <a href="Coupled_kjs.xlsx">Coupled_kjs.xlsx</a>
 <br clear=left><p>
 
-<IMG SRC="/bar3e.jpg"><br>
+<IMG SRC="bar3e.jpg"><br>
 </h4><h3>Resonance Modeling</h3><h4><p>
 
 What else can one do with these spreadsheets?  One of my motivations in building spreadsheets is that it allows me to compare measurements from actual radios to their theoretical counterparts.  This allows me to better understand my sets and approach a best guess on certain parameters I might not otherwise be able to measure.  The following few plots take data from a double tuned set that I have made frequency versus DC out at three differing coupling distances, 2 inches between coils (over coupled), 8 inches (presumed near critical), and 14 inches (under coupled).<p>
@@ -121,7 +121,7 @@ Here I look at the over coupled case.  As before, I am just unable to reproduce 
 <IMG align SRC="/ch08.jpg"><p>
 Just for fun, I let solver run with k, Ca, E, Cb, R1 and R2.  Adding R1 to solver's program really allowed it to nail the data with a close-fit model.  The price?  Look at the resistivity values it chose.  R1 = -507 ohms and R2 = 694 ohms.  Well, at least R2 is not negative!  These results may be telling me something important, but as yet I am too dense to understand.  Or, they may be just what they appear, totally bogus.<p>
 
-<p><IMG SRC="/bar3e.jpg"><p>
+<p><IMG SRC="bar3e.jpg"><p>
 
 Appendix 1:<p>
 Great Fun with Complex Algebra<p>
@@ -250,11 +250,11 @@ http://electronbunker.ca/eb/Bandspreading_3.html<p>
 
 kjs 8/2016<p>
 
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="bar3e.jpg">
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/lab.shtml">Return..</a><br>
+<A HREF="lab.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>

@@ -10,18 +10,18 @@
 <IMG align=right SRC="/btl0.jpg">
 <H2>A Bremer- Tully Transformer
 </H2>
-<h4><A HREF="/crystal/cr0intro.shtml">Back to Radio..</a><br></h4>
+<h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
 <hr>
 <h4>
 I recently won on eBay and lovely NOS Bremer Tully air core transformer its inspection tag still faithfully wired to the base, (and so it will remain on the final radio).  It is absolutly gorgeous and I was the only bidder when it sold, for such a great price!  Honestly, I was not totally sure what I was getting when I bid other than it looked like a coil and, from the ebay photo, maybe would work for shortwaves.  Calling it a transformer was confusing although I understand all coupled coils are transformers.  Perhaps that is why I was the only bidder, well, so much the better!  When it arrived I got a good look, very interesting winding technique.  The tuning coil is wound with somthing like #30 dcc or dsc wire.  The winding is in 6 bank-wound groups of about 10 windings each.  Inside is a small primary antenna coil.  I promptly got out my handy-dandy inductance meter and measured 377 uH on the tuning and 20 uH on the primary.  In addition, there is a tap on the tuning coil one "stack" in.  377 uH is a bit on the high side for BC work and I'm not sure I'll ever get the top end of the band but still, the transformer works beautifully. <p>
 My calculations for a setup using a 377uH coil suggest that a minimum total capacitance of 23 pF will allow tuning up to 1700kHz.  This is a tall order, most variable capacitors I have found have a minimum value in the 20 - 25pF range.  Add another 15 - 25pF of stray circuit capacitance and I am way over the line.  The good news is that only 270pF is needed to tune down to 500 kHz.  The closest variable cap I have found is a cute little 2-gang 10-270pF unit.  This is as low as I have found at the low end for a standard-configuration variable cap.  The goal then is to try and keep the circuit capacitance as low as I can, which I translate into keeping the circuit as simple as possible.  <p>
-My circuit is further constrained by the coil itself.  It is essentially an "oatmeal box" type setup with an aperiodic small inductance primary and large inductance secondary.  Tuning then must be single on the detector side only.  My only option is whether I connect the crystal/diode to the tap post or to the top of the coil.  I went with the tap, so shoot me!  One complication I maintained, as I do on all my sets, is to keep a switch between using a crystal and cat's whisker or using a diode.  In this case I chose a Schottky 1N5819, the most sensitive diode I have yet tested, <A HREF="/crystal/dtest.shtml">(diode test)</a>.  I have yet to test just how high on the BC band I can tune, but KGOW at 1560 kHz sure gives me trouble.  <p>
-<IMG SRC="/btp1.jpg"><p>
-<IMG SRC="/btp2.jpg"><p>
+My circuit is further constrained by the coil itself.  It is essentially an "oatmeal box" type setup with an aperiodic small inductance primary and large inductance secondary.  Tuning then must be single on the detector side only.  My only option is whether I connect the crystal/diode to the tap post or to the top of the coil.  I went with the tap, so shoot me!  One complication I maintained, as I do on all my sets, is to keep a switch between using a crystal and cat's whisker or using a diode.  In this case I chose a Schottky 1N5819, the most sensitive diode I have yet tested, <A HREF="dtest.shtml">(diode test)</a>.  I have yet to test just how high on the BC band I can tune, but KGOW at 1560 kHz sure gives me trouble.  <p>
+<IMG SRC="btp1.jpg"><p>
+<IMG SRC="btp2.jpg"><p>
 <hr>
 
 Circuit schematic for the set.<p>
-<IMG SRC="/btc.jpg"><p>
+<IMG SRC="btc.jpg"><p>
 <IMG align=left SRC="/btper.jpg">
 Performance summary of my Bremer-Tully Set is so so with a set Q (loaded) of 16, -3db bandwidth of 68 kHz and a sensitivity calculation only 13%, not so great.  I rather expected as much as this is a single-tuned set of very simple circuit design.  Compensating slightly is the fact that it tunes with a single dial which is certainly more user-friendly.  It does require a wave trap to cut out powerhouse KGOW blazing away and flooding the entire BC band on this set if left untrapped.  Most of my radios have higher sensitivity so this set definitely benefits from my audio amplifier.    
 <br clear=left><p><hr>
@@ -30,12 +30,12 @@ Bank winding in six banks:  4 wires / side, 10 windings per bank, times 6 = 60 t
 <IMG align SRC="/bt_b1.jpg">
 <IMG align SRC="/bt_b2.jpg">
 <IMG align SRC="/bt_b4.jpg"><br>
-<IMG SRC="/bar3e.jpg">
+<IMG SRC="bar3e.jpg">
 
 <hr>
 
 <hr size=15><h3>
-<A HREF="/crystal/cr0intro.shtml">Return..</a><br>
+<A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
 <A HREF="/html/main.shtml">Back to Main....</a></H3>
 <h4>
