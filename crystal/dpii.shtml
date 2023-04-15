@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/dmdl.jpg">
+<IMG align=right SRC="dmdl.jpg">
 <H2>Part II: Diode Test Data Report
 </H2>
 
@@ -20,24 +20,24 @@ Over a period of a few weeks I ran I-V characterization tests on a good number a
 I start off with the realization that when one orders diodes, it is by no means certain what one will get.  This seems especially true for the supposedly ubiquitous 1N34A.  Unless you see the part number actually on the diode, you probably need to test it to know what it really is.  So, lets take a look!<p>
 
 </h4><h3>Germanium Diodes</h3><h4><p>
-<IMG align SRC="/dtcg.jpg"><br>
+<IMG align SRC="dtcg.jpg"><br>
 1N34A series<br>
 
-<IMG align SRC="/s1N34A-2.jpg">
-<IMG align SRC="/s1N34A-3.jpg">
-<IMG align SRC="/s1N34A-5.jpg">
-<IMG align SRC="/s1N270-2.jpg">
-<IMG align SRC="/sD18.jpg"><p>
+<IMG align SRC="s1N34A-2.jpg">
+<IMG align SRC="s1N34A-3.jpg">
+<IMG align SRC="s1N34A-5.jpg">
+<IMG align SRC="s1N270-2.jpg">
+<IMG align SRC="sD18.jpg"><p>
 1N270-277 series<br>
-<IMG align SRC="/sFO215.jpg">
-<IMG align SRC="/s1N277.jpg">
-<IMG align SRC="/s1N23.jpg">
-<IMG align SRC="/s1N34A.jpg">
-<IMG align SRC="/s1N270.jpg">
-<IMG align SRC="/s1N141.jpg">
-<IMG align SRC="/sD9E.jpg">
-<IMG align SRC="/sGAZ51.jpg">
-<IMG align SRC="/sOA5.jpg">
+<IMG align SRC="sFO215.jpg">
+<IMG align SRC="s1N277.jpg">
+<IMG align SRC="s1N23.jpg">
+<IMG align SRC="s1N34A.jpg">
+<IMG align SRC="s1N270.jpg">
+<IMG align SRC="s1N141.jpg">
+<IMG align SRC="sD9E.jpg">
+<IMG align SRC="sGAZ51.jpg">
+<IMG align SRC="sOA5.jpg">
 <p>
 
 <p>
@@ -45,7 +45,7 @@ Here we see a set of Germanium diodes and photos of the diodes under test.  Imme
 In addition to the standard Germanium Diodes tested above, I also have latched my hands on a few "other" germanium diodes for the fun of testing.  These include two vintage Russian types, a D9E (in the 270 class) and a D18 (transitional between 270 and 1N34A).  Additionally, I got a few FUZZ diodes popular, I suspect, with the guitar gadget crowd.  These are larger packages in metal cases so I cannot see how the internal contact is made other that they are stated to be gold bonded point contact type. Clearly these are highly sensitive diodes in my 270 class, the OA5 looking best of the lot.  Interestingly, I recently purchased from good Mr. Peebles a few of his "Holy Grail" ITT FO-215 diodes.  My measured characteristic for one of these is a dead laydown on the gold-bonded OA5.  From the photos, these are in different packaging with the FO-215 in a traditional glass casing.  What makes the FO-215 so great is the fact that its resistance Rd is an interesting 150k ohm or so which matches very well with typical moderate Q tank curcuits.  Interestingly, I find that an old Russian D18 diode has very similar characteristics to the FO-215 and so must also be placed into the "Holy Grail" class of germanium diode.  Take your pick!
 <p>
 Spreadsheet for calculation of Germanium diode n and Is (modified from Mike Tuggle's spreadsheet)<br>		
-<IMG align SRC="/nisge.jpg"><br>
+<IMG align SRC="nisge.jpg"><br>
 The above spreadsheet is based on measurements of the diodes shown above.  For the determination of Is and n, I chose at random two examples from my collection of various diodes, (all germanium in this case) and measured via a modified version of the methodology outlined by Ben Tongue and Mike Tuggle.  For this work I have chosen to set Id2 about 0.5uA and Id1 about 1.0uA and then read the needed voltage.  This is the inverse of the normal method but the justification is that for any diode regardless of forward voltage drop the measurement is made at the same part of the LOG I vs V characteristic.  This allows comparison between all diodes.  I have included the actual room temperature in the calculations in order to eliminate this variable as a source of doubt or error.  All the measured parameters as well as the determined results are presented in order to facilate repeatability.  <p>
 <p>
 
@@ -53,77 +53,77 @@ A final note on the plots above.  You will have noticed that I sub-divide german
 <p>
 
 </h4><h3>Schottky Diodes</h3><h4><p>
-<IMG align SRC="/dtcs.jpg"><br>
-<IMG align SRC="/sHP5082.jpg">
-<IMG align SRC="/s1SS98.jpg">
-<IMG align SRC="/s1N5711.jpg">
-<IMG align SRC="/sSD103A.jpg">
-<IMG align SRC="/s1N34A-4.jpg">
-<IMG align SRC="/s1N60.jpg">
-<IMG align SRC="/sBAT46.jpg">
-<IMG align SRC="/s1N5819.jpg">
-<IMG align SRC="/s1SS16.jpg">
-<IMG align SRC="/s1SS99.jpg"><p>
+<IMG align SRC="dtcs.jpg"><br>
+<IMG align SRC="sHP5082.jpg">
+<IMG align SRC="s1SS98.jpg">
+<IMG align SRC="s1N5711.jpg">
+<IMG align SRC="sSD103A.jpg">
+<IMG align SRC="s1N34A-4.jpg">
+<IMG align SRC="s1N60.jpg">
+<IMG align SRC="sBAT46.jpg">
+<IMG align SRC="s1N5819.jpg">
+<IMG align SRC="s1SS16.jpg">
+<IMG align SRC="s1SS99.jpg"><p>
 Schottky diodes are very sensitive diodes that work excellently in crystal radios.  Their construction and theory are different and I confess to not fully understanding these components.  Still, from the characteristic curves, they are excellent!  Again, note that you dont always get what you bargain for.  Here I found what was supposed to be 1N34A's to be some sort of Schottky of unknown pedigree.  The 1N5819, while having the lowest forward voltage drop, has a rather very high Junction Capacitance and will not perform well.  Posts on the RaidoBoard Crystal Radio Forum however highly recommend the 1N5711 for crystal sets although the characteristic curve dosnt look that fabulous.  Many web pages out there on Shottky diodes, I recommend you do your homework.  Of all the schottky's, I note that Ben Tongue recommends most highly the HP5083-2835.  The high resistance Rd makes them useful for DX sets with very very high Q tanks.  Even so the diodes need to be paralleled with up to 4 or 5 diodes to match correctly the Rd with the tank Rp.  I have found these somewhat hard to find and expensive, especially when one requires using several in parallel.  I recently measured a few 1SS98 diodes and I discover them to have characteristics extermely similar to the HP and I feel they deseve more attention.  Sadly, on ebay they seem to be just as difficult to find and expensive.  No free ride!
 <p>
 Spreadsheet for calculation of Schottky diode n and Is (modified from Mike Tuggle's spreadsheet)<br>		
-<IMG align SRC="/nissch.jpg"><br>
+<IMG align SRC="nissch.jpg"><br>
 The above spreadsheet is based on measurements of the diodes shown above.  For the determination of Is and n, I chose at random two examples from my collection of various diodes, (all schottky in this case) and measured via a modified version of the methodology outlined by Ben Tongue and Mike Tuggle.  For this work I have chosen to set Id2 about 0.5uA and Id1 about 1.0uA and then read the needed voltage.  This is the inverse of the normal method but the justification is that for any diode regardless of forward voltage drop the measurement is made at the same part of the LOG I vs V characteristic.  This allows comparison between all diodes.  I have included the actual room temperature in the calculations in order to eliminate this variable as a source of doubt or error.  All the measured parameters as well as the determined results are presented in order to facilate repeatability.  <p>
 
 </h4><h3>Silicon Diodes</h3><h4><p>
-<IMG align SRC="/dtcsi.jpg"><br>
-<IMG align SRC="/s1N914.jpg">
+<IMG align SRC="dtcsi.jpg"><br>
+<IMG align SRC="s1N914.jpg">
 
-<IMG align SRC="/s1N4148.jpg">
-<IMG align SRC="/s1N4736A.jpg">
-<IMG align SRC="/s1N4007.jpg">
-<IMG align SRC="/s6A10.jpg"><p>
+<IMG align SRC="s1N4148.jpg">
+<IMG align SRC="s1N4736A.jpg">
+<IMG align SRC="s1N4007.jpg">
+<IMG align SRC="s6A10.jpg"><p>
 Silicon diodes have good characteristics, but an unacceptably high forward voltage drop making them a very poor choice for crystal radio unless used with bias.  The 1N4736A is a Zenner diode.<p>
 Spreadsheet for calculation of Silicon diode n and Is (modified from Mike Tuggle's spreadsheet)<br>		
-<IMG align SRC="/nissi.jpg"><br>
+<IMG align SRC="nissi.jpg"><br>
 The above spreadsheet is based on measurements of the diodes shown above.  For the determination of Is and n, I chose at random two examples from my collection of various diodes, (all silicon in this case) and measured with a modified methodology to that outlined by Ben Tongue and Mike Tuggle.  In this case, with the radically different forward voltage drop of these diodes from Germanium or Schottky diodes, I have kept the Id values constant (about Id2=0.5uA and Id1=1.0uA) and varied Vd.  I have included the actual room temperature in the calculations in order to eliminate this variable as a source of doubt or error.  All the measured parameters as well as the determined results are presented in order to facilate repeatability.  <p>
 
 
 </h4><h3>Light Emitting Diodes</h3><h4><p>
-<IMG align SRC="/dtled.jpg"><br>
-<IMG align SRC="/sred.jpg">
-<IMG align SRC="/sgreen.jpg">
-<IMG align SRC="/syellow.jpg">
-<IMG align SRC="/samber.jpg">
-<IMG align SRC="/sgnwht.jpg"><p>
+<IMG align SRC="dtled.jpg"><br>
+<IMG align SRC="sred.jpg">
+<IMG align SRC="sgreen.jpg">
+<IMG align SRC="syellow.jpg">
+<IMG align SRC="samber.jpg">
+<IMG align SRC="sgnwht.jpg"><p>
 
 As long as I am measuring various and sundry diodes, I figure I ought to include that most ubiquitous of modern diode, the LED.  Found everywhere, these diodes are rapidly becoming the low-energy light source of choice for many lighting applications.  I have read occasionally of someone asking whether these ought to be useful for radio applications as well.  To this question the answer is generally a resounding "No!".  The turn-on voltage is waaay above any reasonable value expected to be delivered by an antenna to a crystal set.  Still, this simple answer avoids the actual question, what in fact does the characteristic curve of a LED really look like?  Where is the turn-on voltage with respect to the published junction voltage, (assuming you can find that). <br> 
 To provide just such a look I visited my local electronics store and bought a small handful of LED's, most with the junction voltage listed and took them home to measure.  Typical LED junction voltages seem to range from about 1.8v to 2.1v or more.  The turn-on voltages look closer to 1.6v-1.7v.  Anyone used to working with Carborundum crystals or silicon diodes will be used to biasing their rectifier to get good sensitivity.  These LED's once on have a very sharp rise and with a proper bias should work quite well as detector diodes.  As a bonus you will get a sweet glow as well.  OK, not as cool as the glow of a vacuum diode, but certainly more sensitive!  <p>
 
 Spreadsheet for calculation of Light Emitting Diode n and Is (modified from Mike Tuggle's spreadsheet)<br>		
-<IMG align SRC="/nisled.jpg"><br>
+<IMG align SRC="nisled.jpg"><br>
 The above spreadsheet is based on measurements of the diodes shown above.  For the determination of Is and n, I chose at random two examples from my collection of various diodes, (all led's in this case) and measured with a modified methodology to that outlined by Ben Tongue and Mike Tuggle.  In this case, with the radically different forward voltage drop of these diodes from Germanium or Schottky diodes, I have kept the Id values constant (about Id2=0.5uA and Id1=1.0uA) and varied Vd.  I have included the actual room temperature in the calculations in order to eliminate this variable as a source of doubt or error.  All the measured parameters as well as the determined results are presented in order to facilate repeatability.  <p>
 
 
 
 </h4><h3>Crystal Galena and Pyrite Diodes</h3><h4><p>
-<IMG align SRC="/dtcc.jpg"><br>
+<IMG align SRC="dtcc.jpg"><br>
 The above curves demonstrate the wide variation in properties and qualities that can be found in natural crystals of galena or pyrite, the two most common and best quality natural stones.  In each crystal test I first poked around the crystal for some time to 1) determine a typical sensitivity for the crystal in question and 2) to locate the best hot spot with which to test. This turns out to be a non-trivial exercise on the diode test setup.  In a crystal radio one need only listen for the loudest spot.  With the test setup one needs test both the forward and reverse current in order to determine if the whisker is on a hot spot or not.  Very tedious work! (In retrospect, if I were starting over making a test jig, I would definately add a DPDT switch to readily change between forward and reverse current measurements. I'd probably toss in a rheostat for fine adjustments as well). <br> 
 
 For many crystals there are limited number of possible hot spots, but these may be hot indeed.  For most of my "Steel Galena" samples (Tintic Utah, or Leadville Colorado) there are numerous hot spots under virtually every place I touch the probe, but in general the sensitivity is good to so so.  These crystals are very kind to work with in terms of finding spots and avoiding frustration.  Mirror galena on the other hand may have quality hot spots, but any hot spots at all are rare and frustratingly difficult to locate.  Here my Philmore detector crystal shines with an almost ideal "Galena" response.  To chase down this rabbit I purchased some lovely mirror galena from Sweetwater Missouri.  I broke off a few appropriate-size chunks to pot in woods metal and test.  At first I was very excited with the high currents I was seeing at moderate voltages.  Figured I had struck gold.  When these crystals failed miserably to rectify anything in my radios, I re-measured things in both forward and reverse directions. These crystals obey Ohm's law and act like typical resistors, not suitable for radio work at all.<br>  
 
 For my pyrite crystals the work has been especially tedious and frustrating.  With one of the crystals one "hot spot" alternated, entirely on its own, between hot and bad while I was making the measurements.  I would start over and over, sometimes getting interesting readings then suddenly it would drop to low values and I'd start over, back and forth.  I present this data as best as I have measured, and I don't intend to go back! You see at least one of the crystals, my "China 1", (from a lead/silver mine in Hunan) gave a sweet classic-looking curve. More to the point, "ideal" curves for natural minerals, are difficult to come by.  Most crystals you use will be less than ideal.  The good news is that, while listening to your set, poking about for a good spot is far easier than what I have gone through to produce these curves.  Your ear will take care of you!<p>
 
-<IMG align SRC="/xtal.jpg"><br>
+<IMG align SRC="xtal.jpg"><br>
 In the photo I indicate groupings based on an easy measure of performance.  I note the current in milliamps for each set where the plate voltage is set at 0.5V.  The greater the current the better are your chances to get a sensitive crystal, assuming Ohm's Law is not followed!  Crystals in the "dead zone" on the left will have their woods metal re-melted for new detector crystals and the bad ones tossed, its tough love for crystals.  I find that easily half the potted crystals I make are tossed this way, and only a few can be considered superlative.<p>
 
 <hr size=15>
 <H2>Part II: Vacuum Diode Test
 </H2><H4>
 
-<IMG align=left SRC="/vacs.jpg"><p>
+<IMG align=left SRC="vacs.jpg"><p>
 When I decided early on to construct a radio based on the vacuum diode (see my Fleming Radio section), I had to find a suitable tube for the project.  That began with an extensive search through the datasheets checking vacuum diode properties and reviewing the characteristic curves for a large number of diode tubes.  In the above figure I plot the characteristics as best I can on a commpn plot for comparison.  I was hoping to find a good candidate with sensitive characteristics and low energy consumption.  As you will find, such a beast did not exist.  Following this research began a period ot purchase and testing.<p>
 
 I have tested seven different tube types including 6.3V rectifier diodes that take a lot of power to run and are not really suitable for battery use, a 9v dual diode tube (20D1), a pentode/diode tube (1S5) that is designed to run on a battery at 1.5V and 50mA, and a couple miscellaneous but cute tubes.  In testing the 1S5, I found the filament never glowed incandescant at 1.5V and, on measuring, was barely sensitive to anything.  I cannot imagine this tube would make much of a diode for crystal radio use.  I tested different manufacture 1S5 tubes from two different suppliers.  No dice.  Finally, I tried to push the tube to operate at higher-than-specified voltages.  At 4.3V the I-V curve was still very flat, but shifted slightly higher, crossing the Amp axis at about 0.4 mA, (see graph). At 5.5V one of my tubes gave up the ghost and I didnt do more.  I pretty much rule the 1S5 out for my crystal radio work. Looks like i'll be needing the power supply when I get around to building/operating that Fleming Radio.<p>
 
-A question remains as to what in fact is different about these tubes to give such different characteristics.  While the I/V characteristic of most vacuum diodes pretty much follow the Langmuir-Child Law, the steepness of the I/V characteristic is largely due to the geometry of the tube elements and the volume of electron space-charge between them.  JB Calvert's <A HREF="/http://mysite.du.edu/~etuttle/electron/elect27.htm#Diodes">Theory of Vacuum Tubes</a> informs one that this is the property called Perveance in a vacuum diode. Measuring this requires plotting I raised to the 2/3 power against V and taking the slope of the best-fit line through the data.  This slope raised to the 3/2 power is the perveance.  The following chart illustrates graphically the relation bewtween the tube characteristic and perveance.  For the 5726 tube I plot the characteristic in dark blue for the tube heated with the design 6.3 volts.  In light blue I have plotted the measurements and raised them to the 2/3 power.  One sees immediately that the new curve is linear.  The slope of the curve raised to the 3/2 power yields the perveance factor for the tube. <br>
+A question remains as to what in fact is different about these tubes to give such different characteristics.  While the I/V characteristic of most vacuum diodes pretty much follow the Langmuir-Child Law, the steepness of the I/V characteristic is largely due to the geometry of the tube elements and the volume of electron space-charge between them.  JB Calvert's <A HREF="http://mysite.du.edu/~etuttle/electron/elect27.htm#Diodes">Theory of Vacuum Tubes</a> informs one that this is the property called Perveance in a vacuum diode. Measuring this requires plotting I raised to the 2/3 power against V and taking the slope of the best-fit line through the data.  This slope raised to the 3/2 power is the perveance.  The following chart illustrates graphically the relation bewtween the tube characteristic and perveance.  For the 5726 tube I plot the characteristic in dark blue for the tube heated with the design 6.3 volts.  In light blue I have plotted the measurements and raised them to the 2/3 power.  One sees immediately that the new curve is linear.  The slope of the curve raised to the 3/2 power yields the perveance factor for the tube. <br>
 (Note in addition that when running the tube at a more sensitive point with 4 volts only on the heater the perveance is slightly less than spec.). <p>
-<IMG align SRC="/dtprv.jpg"><p>
+<IMG align SRC="dtprv.jpg"><p>
 
 
 With my measurements calculating the perveance is practical and quickly done, results as follows:<p>
@@ -158,17 +158,17 @@ Tube	Perveance
 The high-perveance diode tube types I tested show an interesting property in that their characteristic curves do not pass through the origin of the graph.  These curves are wholly acceptable as crystal radio detectors although they will require power to operate.  What I have noticed with such tubes is that when I turn them off after using them with a radio, on cooling they go through a period of much increased sensitivity (very loud) before fading to nothing.  It is as though running them at the full 6.3V lowers their full potential as crystal radio rectifiers.  The reason is in the high perveance of the tubes, the anode is already proximate to the space charge before any plate voltage is applied.  Effectively, while the plate (anode) "Zero" voltage is measured with respect to ground, the plate itself is still positive with respect to the cathodic space charge.  Small currents will continue to flow even with a negative bias to the plate, (Contact potential).  <p>
 
 In order to explore this idea, I ran a series of tests with the tubes running at lower operating voltages (effectively diminishing the space charge thus lowering the perveance) as shown:<br>
-<IMG align SRC="/dtct56.jpg"><p>
+<IMG align SRC="dtct56.jpg"><p>
 Here you see the impact of lower operating voltages.  With the tube operating between 3 and 4 volts the characteristic curves begin to pass through the origin as in regular solid-state diodes and crystals.  It is precisely in this voltage range that I found the radio sensitivity, as measured by loudness to my ear, to be most pronounced.  The diode characteristic needs to pass through the origin of the I-V graph for rectification at highest sensitivity.  This takes me to the 20D1 tube which operates at 9v but only 200mA.  This will still take a power supply to use, but the good thing is that the characteristic curve passes through the origin.  Running at its design parameters the tube looks a lot like the 6C19P at 4v.<p>
 
-<IMG align SRC="/f-5726.jpg">
-<IMG align SRC="/f-6c19p.jpg">
-<IMG align SRC="/f-20d1.jpg">
-<IMG align SRC="/f-5c12p.jpg">
-<IMG align SRC="/f-1s5.jpg">
-<IMG align SRC="/f-2d1s.jpg">
-<IMG align SRC="/f-6g2.jpg">
-<IMG align SRC="/f-6dn3.jpg"><p>
+<IMG align SRC="f-5726.jpg">
+<IMG align SRC="f-6c19p.jpg">
+<IMG align SRC="f-20d1.jpg">
+<IMG align SRC="f-5c12p.jpg">
+<IMG align SRC="f-1s5.jpg">
+<IMG align SRC="f-2d1s.jpg">
+<IMG align SRC="f-6g2.jpg">
+<IMG align SRC="f-6dn3.jpg"><p>
 <hr>
 
 <hr>

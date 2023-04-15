@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/25b.jpg">
+<IMG align=right SRC="25b.jpg">
 <H2>Antenna Tuning Unit Notes:
 </H2>
 <H4><A HREF="lab.shtml">Back to Lab..</a><br>
@@ -22,7 +22,7 @@ All the above is pretty straight forward. On the other hand, when I have been re
 The following discussion presents the results of many models cranked through the design calculator.  I wished to understand what factors play main roles and which have minor parts.  <p>
 
 For a conventional detector-circuit coil one can pretty much control all the main factors, really only the inductance and capacitance of the circuit. The main and only surprise comes in the form of "stray capacitance" resulting from the spacing of the coil wires. This can readily be 1) guessed at and 2) minimized by good coil winding technique. For the antenna circuit by contrast many of the needed parameters, earth resistance, antenna capacitance and inductance, and antenna resistance in the forms of actual wire resistance and radiation resistance are, for most of us, unknown and only guessed at. The following figure illustrates the antenna and ATU with a list of the main "components" that need to be understood and/or modeled. <p>
-<IMG align=left SRC="/atuc.jpg"><p>
+<IMG align=left SRC="atuc.jpg"><p>
 
 The Antenna consists of an AC voltage source (the signal of interest) Va, in series with some radiation resistance Rr, antenna capacitance Ca, antenna inductance La, antenna resistance Rr, and finally a ground resistance for the return path to complete the circuit. In addition the ATU consists of a coupling capacitance C2, and a tank with inductance L1 and capacitance C1. The capacitance and inductance of the ATU is needed to tune out the reactance of the various components of the antenna for which we do not have data. What to do?<p>
 

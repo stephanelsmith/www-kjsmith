@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/imhm.jpg">
+<IMG align=right SRC="imhm.jpg">
 <H2>Crystal Radio Capacitors and ESR
 </H2>
 <H4><A HREF="lab.shtml">Back to Lab..</a><br>
@@ -88,7 +88,7 @@ In the mid-Q range I find one brass cap (512 BnC) and two Russian caps (453 AnC,
 Finally and best cap that I have in my box is another Russian cap (383 AnC).  This cap is clearly an unused NOS unit with clean shiny parts and button ceramic insulators.  This is a slightly smaller version of one of the previous caps (397 AnC).  The moderate Q version was also clean and NOS, so I do not expect all such caps to be automatically good Q.  It is a pity as I have seen additional of these small caps on eBay, though clearly in used condition so I suspect they will have lower Q.<p>
 
 From all the above I would conclude that caps having ceramic insulation alone is not nirvana.  Caps need also to be clean and ultimately need silver plating to truly aspire to "holy grail" status.  A good reference worth looking at is a thread on The Radio Board: 
-<A HREF="/http://theradioboard.com/rb/viewtopic.php?t=1525">Improving 'Q' of capacitors.</a> <br>
+<A HREF="http://theradioboard.com/rb/viewtopic.php?t=1525">Improving 'Q' of capacitors.</a> <br>
 The post shows how merely taking an older cap and cleaning it up (no small task) and replacing the insulators with HDPE sheet (high-density polyethylene) can take an original Q = 664 (1MHz) and raise it to Q = 12248 (1MHz).  This value is on par with Ben Tongue's "holy grail" cap (Q = 13148 @ 1MHz) and either it was a dim fine cap to start with or something not fully kosher with the measurements.  Still, the point is that improvements can be significant.<p>
 
 <hr>

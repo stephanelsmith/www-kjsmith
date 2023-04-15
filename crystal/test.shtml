@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/tst0.jpg">
+<IMG align=right SRC="tst0.jpg">
 <H2>TESTING, Testing, testing......
 </H2>
 
@@ -26,20 +26,20 @@ Rigging for the shortwaves.  You see mounted a 3.6 uH more or less coil, 10 turn
 <p>I recently won on eBay and lovely NOS Bremer Tully air core transformer.  It is absolutly gorgeous and I was the only bidder when it sold, for such a great price!  Honestly, I was not totally sure what I was getting when I bid other than it looked like a coil and, from the ebay photo, maybe would work for shortwaves.  Calling it a transformer was confusing although I understand all coupled coils are transformers.  Perhaps that is why I was the only bidder, well, so much the better!  When it arrived I got a good look, very interesting winding technique.  The tuning coil is wound with somthing like #30 dcc or dsc wire.  The winding is in 6 bank-wound groups of about 12 windings.  Inside is a primary antenna coil with a single 12-stack.  I promptly got out my handy-dandy inductance meter and measured 370 uH on the tuning and 20 uH on the primary.  In addition, there is a tap on the tuning coil one "stack" in.  370 uH is a bit on the high side for BC work and I'm not sure I'll ever get the botton end of the band, but as you can see in the photo, the transformer works beautifully.  In fact the tuning is far sharper than I expected for the simple hook-up I made for the test.  I placed a 450 pF varcap between ground and the primary, and tune the secondary with another 450 pF.  I clipped the detector to the coil tap.  This is going to make a cute little radio one day.<p>
 <IMG SRC="brtul1.jpg"><p>
 Bank winding in six banks:  4 wires / side, 10 windings per bank, times 6 = 60 turns.  Coil form 3 inches in diameter, space wound 0.8 inches wide calculates to 376 uH, close to my measured 370 uH.  <p>
-<IMG align SRC="/btl0.jpg">
-<IMG align SRC="/bt_b1.jpg"><br>
-<IMG align SRC="/bt_b2.jpg">
-<IMG align SRC="/bt_b4.jpg"><br>
+<IMG align SRC="btl0.jpg">
+<IMG align SRC="bt_b1.jpg"><br>
+<IMG align SRC="bt_b2.jpg">
+<IMG align SRC="bt_b4.jpg"><br>
 <IMG SRC="bar3e.jpg">
 
-<p><IMG align=right SRC="/flm4.jpg">A fleming valve!  Yes, you heard right, testing an interesting detector developed at the turn of the last century and patented by professor J.A. Fleming in Britain and USA.  It is a diode vacuum tube employing the "Edison effect" to the rectification of hertzian waves.  This particular "valve" is in fact a Philips 5726 diode vacuum tube, dual diode in fact although in this instance I am using only a single diode.  Having done quite a lot of reading about the development of radio and especially the litigation conflicts between several of its early pioneers, I got to wondering about the diode and thinking, in crystal radio, this is NOT amplification, so, perfectly legal!  <p>
+<p><IMG align=right SRC="flm4.jpg">A fleming valve!  Yes, you heard right, testing an interesting detector developed at the turn of the last century and patented by professor J.A. Fleming in Britain and USA.  It is a diode vacuum tube employing the "Edison effect" to the rectification of hertzian waves.  This particular "valve" is in fact a Philips 5726 diode vacuum tube, dual diode in fact although in this instance I am using only a single diode.  Having done quite a lot of reading about the development of radio and especially the litigation conflicts between several of its early pioneers, I got to wondering about the diode and thinking, in crystal radio, this is NOT amplification, so, perfectly legal!  <p>
 Professor Fleming had worked with Edison Electric in Britain and had experimented extensively with Edison two-electrode bulbs in the 1890’s, publishing his work.  Later while working with Marconi in London, he recalled the Edison Effect he had known and made the connection to the rectification problem facing radio telegraphy.  His idea was certainly a novel and unintended use of a prior-known effect amounting to true discovery and so he was awarded USA patent 803684 in 1905, and successfully defended against De Forest’s subsequent infringements.<p>
 I will be testing this as a detector and also to learn more about tubes and their operation in general.  This is a 5726 twin diode and I have on order some 6C19P's as well.  Here it is on a simple test stand but soon I will have it properly "breadboarded" and set for testing.  Eventually I imagine a "Fleming" radio made with such a detector, stay tuned!  I agonized quite a long time wondering about the hookup, the sensitivity, polarity, bias, etc.  Then, I just took a chance, soldered some leads to a socket, and hooked it up.  When I turned it on I was awarded with the silence followed by the slow rise in volume (using my sexy audio amp, of coruse) as the heater filament warmed up.  Beginners luck?  Well, as you may note below, I did a LOT of homework prior to the actual test.<p>
 <IMG SRC="flm2.jpg"><p>
 Finding a “proper” tube for the project was an story in itself.  I have never worked with tubes and, while it appeared natural that there ought to exist diode tubes as well as triode (they do), I had no idea what was what and how to know what would work.  Many diode tubes I found are for power supply work and not appropriate for radio detection at all.  I am STILL learning, recall, this is a testing note.  Jumping into the search both feet, I waded through the datasheets of most diode tubes to get to know them well enough to choose.  The following figure is my attempt to plot the characteristic curves for many diode tubes and get an impression of what may be suitable for radio work.  I include curves for Galena, Pyrite, and a 1N34A diode to complete the comparison.  Finally, I purchased a small stash of Philips 5726 tubes and on ebay I found some Russian 6C19P’s.  Still waiting on those.  All the tubes plotted share the property of having relatively small voltage and amp (300mA or less) requirements and so should be useful for battery operation.  The 6C19P’s are the exception, requiring a fat 1200 mA, but the curve suggests the best sensitivity may be had, so we will see. This is work in progress! <p>
-<IMG align SRC="/flm3c.jpg"><br>
-<IMG align SRC="/flm0.jpg">
-<IMG align SRC="/flm1.jpg"><br>
+<IMG align SRC="flm3c.jpg"><br>
+<IMG align SRC="flm0.jpg">
+<IMG align SRC="flm1.jpg"><br>
 <IMG SRC="bar3e.jpg">
 <hr>
 

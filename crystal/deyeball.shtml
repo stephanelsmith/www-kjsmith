@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/lbbtn.jpg">
+<IMG align=right SRC="lbbtn.jpg">
 <H2>Part III: Diode Test Discussion
 </H2>
 
@@ -18,10 +18,10 @@ What are diodes and why test them?  This discussion necessarily starts with a ba
 A typical diode consists of two electrodes, one with a small spring or "cat's whisker" of tungsten or gold attached and the other holding a small pellet of ultra-pure germanium.  The germanium crystal had a minute amount of impurities giving the pellet an N-type property.  All this hermetically sealed into a small glass enclosure.  With the whisker pressed against the n-type germanium a relatively large current is pulsed "forming" in the pellet a very small hemispherical region of p-type alloy.  From the forming process results a small P-N junction.  Once formed, the whisker itself serves only as an electrode in point contact with one side of the junction.  Because of its small size, the junction has low capacitance and may be readily used for high-frequency applications.  The physics of the P-N junction is beyond the scope of this note and way beyond my expertise.<p>
 <hr>
 
-The following graphic illustrated a set of I/V characteristic curves as typically represented in literature.<br><IMG align SRC="/dger.jpg"><p>
+The following graphic illustrated a set of I/V characteristic curves as typically represented in literature.<br><IMG align SRC="dger.jpg"><p>
 
 A better way to present the same data is with the Current axis on a logarithmic scale.  The log scale expands the low-current portions of the curve without losing the higher current data making relations easily visible over the entire forward-biased portion of the curve. (Note, using the absolute value of the current at negative voltage bias allows a full view.)<br>  
-<IMG align SRC="/dgerl.jpg"><p>
+<IMG align SRC="dgerl.jpg"><p>
 
 The data used to make these curves are from a collaborative effort by myself and Mike Tuggle.  Mike performs high-precision measurements over very low current and voltages.  This allows him to determine the parameters n and Is with excellent accuracy.  His setup typically does not allow measurements much above 0.025 volts although for this exercise he modified his bench to allow measurements as high as 0.27V or so.  My own setup does not have the precision of Mike's, but produces good data out to 2.0 Volts.  Together we were able to splice togehter data on four typical but interesting diodes and produce a complete evaluation over a wide I/V range.<p>
 
@@ -30,7 +30,7 @@ Each plot further includes the determined parameters of Ro (zero-crossing resist
 Diodes FO-215 and D-18 both have high Ro in the vicinity of 150 kohms making these excellent choice diodes for most crystal radio use.  The FO-215 with its gold whisker has an Rs of about 25 while the D-18 with its tungsten whisker has a somewhat higher Rs of 36.  If we consider the 1N34A a typical low-end diode and the FO-215 as the "Holy Grail" then the 1N270 and D-18 are each a bit hybrid.  The 1N270 shares the low Rs of the FO-215 but also the low Ro of the 1N34A.  The D-18 shares the high Ro of the FO-215 but the larger (kinda) Rs more similar to the 1N34A.  Together these four diodes illustrate many, possibly most of the variety one will encounter in germanium diodes.<p>
 
 Finally, the following plot gives logRd versus voltage.  Rd, the dynamic resistance is what we wish to think of when looking at diode behavoir.  Here the curves intersect the Y voltage axis at their Ro value rather than converging to zero as they do on the traditional I/V plot.  I cosider this the definitive plot for a diode's characteristic.<p>
-<IMG align SRC="/dgrd.jpg"><p>
+<IMG align SRC="dgrd.jpg"><p>
 <hr>
 
 The above discussion illustrates many interesting characteristic behavoirs in diodes, partictularly germanium.  I have emphesized the resistance factor most of all as this is the critical element we wish to know.  So, the question comes to mind, why know the values of Is, n, of your diodes?<p>
@@ -53,17 +53,17 @@ The following plot compares Ro to Rs for the germanium and schottky diodes prese
 
 
 <br clear=left><p><IMG SRC="bar3e.jpg"><p>
-<IMG align=left SRC="/rcvsig.jpg">Here is an interesting plot taken from the text discussion in "Crystal Set Analysis" by Berthold Bosch.  It presents received signal strength across the tuned circuit for various scenarios from threshold audibility to local blowtorch.  This plot should be considered a single example specific to his location and antenna/ground system.  In the text he describes his antenna an an inverted L 43m long (140') and 10m high (32'), an excellent antenna most of us do not have the real estate to erect, but offsetting this is a poor ground with Rg = 210ohms.  Given the offsetting conditions I would imagine this is a good generic example of what received signal voltage and power levels presented across the LC circuit to the diode are likely to be.  Bosch cited 40nV as the threshold of audible detectability (impedance matched conditions with 16kohm RF impedance / 4kohm DC phones) and for this plot I pushed it back to 20nV as it gave a superior regression fit.  
+<IMG align=left SRC="rcvsig.jpg">Here is an interesting plot taken from the text discussion in "Crystal Set Analysis" by Berthold Bosch.  It presents received signal strength across the tuned circuit for various scenarios from threshold audibility to local blowtorch.  This plot should be considered a single example specific to his location and antenna/ground system.  In the text he describes his antenna an an inverted L 43m long (140') and 10m high (32'), an excellent antenna most of us do not have the real estate to erect, but offsetting this is a poor ground with Rg = 210ohms.  Given the offsetting conditions I would imagine this is a good generic example of what received signal voltage and power levels presented across the LC circuit to the diode are likely to be.  Bosch cited 40nV as the threshold of audible detectability (impedance matched conditions with 16kohm RF impedance / 4kohm DC phones) and for this plot I pushed it back to 20nV as it gave a superior regression fit.  
 
 <br clear=left><p><IMG SRC="bar3e.jpg"><p>
-<IMG align=left SRC="/divp.jpg">This plot at left takes some actual diode I/V measurements rather than the models presented below and plots them along with the above RF voltage across the LC circuit versus RF power in mW.   Here one sees that pushing for very very low Vf (via high Is / low n combinations) pushes the limit of detectable signal power from the antenna.   At such minute power levels I imagine the reverse leakage current becomes significant and probably offsets the low operating point gains sought.  
+<IMG align=left SRC="divp.jpg">This plot at left takes some actual diode I/V measurements rather than the models presented below and plots them along with the above RF voltage across the LC circuit versus RF power in mW.   Here one sees that pushing for very very low Vf (via high Is / low n combinations) pushes the limit of detectable signal power from the antenna.   At such minute power levels I imagine the reverse leakage current becomes significant and probably offsets the low operating point gains sought.  
 <br clear=left><p><IMG SRC="bar3e.jpg"><p>
 
 <hr>
 I cannot express enough my indebtedness and thanks to Ben Tongue and Mike Tuggle for their great work and documentation in all matters Diode!
 <hr>
 A photo of the current "bench" setup.  Keithey 195A pico-ampmeter + Keithley 192 DMM bench meter.<p>
-<IMG align SRC="/kjslab.jpg"><p>
+<IMG align SRC="kjslab.jpg"><p>
 
 Kevin <p>
 <hr>

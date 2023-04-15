@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/btl0.jpg">
+<IMG align=right SRC="btl0.jpg">
 <H2>A Bremer- Tully Transformer
 </H2>
 <h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
@@ -22,14 +22,14 @@ My circuit is further constrained by the coil itself.  It is essentially an "oat
 
 Circuit schematic for the set.<p>
 <IMG SRC="btc.jpg"><p>
-<IMG align=left SRC="/btper.jpg">
+<IMG align=left SRC="btper.jpg">
 Performance summary of my Bremer-Tully Set is so so with a set Q (loaded) of 16, -3db bandwidth of 68 kHz and a sensitivity calculation only 13%, not so great.  I rather expected as much as this is a single-tuned set of very simple circuit design.  Compensating slightly is the fact that it tunes with a single dial which is certainly more user-friendly.  It does require a wave trap to cut out powerhouse KGOW blazing away and flooding the entire BC band on this set if left untrapped.  Most of my radios have higher sensitivity so this set definitely benefits from my audio amplifier.    
 <br clear=left><p><hr>
 Bank winding in six banks:  4 wires / side, 10 windings per bank, times 6 = 60 turns.  Coil form 3 inches in diameter, space wound 0.8 inches wide calculates to 376 uH, pretty close to my measured 377 uH.  Measurements: Primary B-P = 20 uH.  Secondary F-G = 377 uH, G-T = 210 uH, T-F = 65 uH.  I know, 65 + 210 not equal 377, I measured it several times to be sure!
 <p>
-<IMG align SRC="/bt_b1.jpg">
-<IMG align SRC="/bt_b2.jpg">
-<IMG align SRC="/bt_b4.jpg"><br>
+<IMG align SRC="bt_b1.jpg">
+<IMG align SRC="bt_b2.jpg">
+<IMG align SRC="bt_b4.jpg"><br>
 <IMG SRC="bar3e.jpg">
 
 <hr>

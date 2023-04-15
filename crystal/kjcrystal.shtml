@@ -6,7 +6,7 @@
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
-<h2><IMG align=right SRC="/earthre.gif">
+<h2><IMG align=right SRC="earthre.gif">
 Kevin's Crystal Radio Pages</a></h2><br>
 
 <center><IMG SRC="bar2e.jpg"></center>
@@ -30,7 +30,7 @@ click and enter my world of Crystal Radio...<p>
 <h3>
 <A HREF="/html/main.shtml">Go back....</a>
 </H3>
-<IMG align=right SRC="/graphics/seal.jpg"><br>
+<IMG align=right SRC="graphics/seal.jpg"><br>
 
 <h4>
 <!--#include virtual="html/footer.shtml" -->

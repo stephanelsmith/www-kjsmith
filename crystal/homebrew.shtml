@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/hb0.jpg">
+<IMG align=right SRC="hb0.jpg">
 <H2>My second homemade, A double-tuned open test bed
 </H2>
 <h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
@@ -22,16 +22,16 @@ Double tuned circuit with tapped coils and an optional QRM trap (unused in photo
 <IMG SRC="hbc1.jpg"><p>
 <IMG SRC="hb1.jpg"><p>
 
-<IMG align=left SRC="/hmbp11.jpg">
-<IMG align=left SRC="/hmbp13.jpg">
-<IMG align=left SRC="/hmbp18.jpg">
+<IMG align=left SRC="hmbp11.jpg">
+<IMG align=left SRC="hmbp13.jpg">
+<IMG align=left SRC="hmbp18.jpg">
 Here I show the performance summary for my set with three coil separations, 11cm, 13cm and 18cm.  With these charts you see the value and trade-offs in loose coupling between the antenna and detector circuits.  With the coils at 11cm separation they are slightly over-coupled but still with relatively good Q, 68, and fair sensitivity at 22%.  Separating the coils to 13cm and then to 18cm loosens the coupling allowing narrower bandwidths and higher Q (getting to 125, woohoo!), but at the sacrifice of much sensivitity, down to 15%, still reasonable.  This is an excellent performance, I must be doing something right somewhere. Of course this is still a general listener radio and far far from the performance achievable in high-quality DX designs.  But it is teaching me as intended.<p>
 
 <IMG SRC="bar3e.jpg"><hr>
 Inspired by Dan Petersen's Galenatron, I wished to play with a vario-coupler design. This hookup uses a single form with an antenna coupling coil of 10 turns and a tapped secondary coil with 62 turns.  The first 2-gang vcap is unused.  The single-gang variable cap tunes the rotor.  So far the best position seems to be keeping the rotor in-line with the main coil.  More learning to come. <br>
 <IMG SRC="hbc2.jpg"><p>
 <IMG SRC="hb2.jpg"><p>
-<IMG align=left SRC="/hmgper.jpg">
+<IMG align=left SRC="hmgper.jpg">
 My homebrew in its Galenatron configuration shows fair Q at 53 and poor-fair sensitivity of 15%. There is a 1cm separation between the antenna coil and detector coil which may help.  In many radios of this design I see the coils separated by 2-3mm only.  As I wound the coils on a single form, there is no experimenting here, just wondering.  The variocoupler here is only a trap and was not used in this measurement.  With the return to a single-tuned set you need expect performance downgrade, but greater ease of use for general listening.  I feel this configuration is a good compromise for easy listening without the hassel fo manipulating two (or more) tuning dials.  It is clearly superior to the Dunwoody and De Forest single-tuned sets.  <br clear=left>
 <p>
 

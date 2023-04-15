@@ -7,7 +7,7 @@
 
 </HEAD>
 <hr size=15>
-<IMG align=right SRC="/mbs3.jpg">
+<IMG align=right SRC="mbs3.jpg">
 <H2>The Minstrel Boy, a triple-tuned toroid
 </H2>
 <h4><A HREF="cr0intro.shtml">Back to Radio..</a><br></h4>
@@ -20,7 +20,7 @@ This coupling method seems to come in two main varieties, tuned (such as found i
 
 The lovely green color and large size of the coils would be a prominant design feature and this immediately suggested an Irish theme for the set.  I settled on naming it "The Minstrel Boy" from a patriotic Irish song written by Thomas Moore, reproduced at the bottom of this page.  Of course the name also reflects the idea that I expect to listen to music on the set, it will be a minstrel for me.  This decision then set in motion the need for other green features, green hookup wire and making a link coil from green magnet wire. Finally a 1N34A diode I bought a couple years back from Dave Schmarder with the green band to cap things off.<p>
 
-<IMG align=left SRC="/mbc.jpg"><br> The toroid coils have identical features including a primary with 180 uH and a secondary coupling coil with 35 uH.  Unfortunately the primaries do not have taps.  180 uH is a bit low for MW work and would require a variable cap with a fairly high top end.  I chose three identical 2-gang 270 pF caps tied in parallel to give three 20 - 540 pF tuning.  The link circuit consists of two serial 35 pF secondaries for a total of 70 pF, not enough to tune with so I would need to add further inductance.  Here is another new feature for me.  I made for this set my first honeycomb-style coil, green, of course. I gave the link coil 110 uH for a total link inductance of 180 uH, just as in the primaries.  All tune with the three variable caps.  Additionally I added a series-parallel knife switch for the antenna circuit capacitance.  For my setup the series position will work best, but this will add utility later on.  (One green feature I tested and subsequently abandoned was a green LED diode, but even with bias I found it to be hopelessly in-sensitive).<p>
+<IMG align=left SRC="mbc.jpg"><br> The toroid coils have identical features including a primary with 180 uH and a secondary coupling coil with 35 uH.  Unfortunately the primaries do not have taps.  180 uH is a bit low for MW work and would require a variable cap with a fairly high top end.  I chose three identical 2-gang 270 pF caps tied in parallel to give three 20 - 540 pF tuning.  The link circuit consists of two serial 35 pF secondaries for a total of 70 pF, not enough to tune with so I would need to add further inductance.  Here is another new feature for me.  I made for this set my first honeycomb-style coil, green, of course. I gave the link coil 110 uH for a total link inductance of 180 uH, just as in the primaries.  All tune with the three variable caps.  Additionally I added a series-parallel knife switch for the antenna circuit capacitance.  For my setup the series position will work best, but this will add utility later on.  (One green feature I tested and subsequently abandoned was a green LED diode, but even with bias I found it to be hopelessly in-sensitive).<p>
  <p><hr size=15>
 
 Portrait of set, Wearin O'the Green..
@@ -30,7 +30,7 @@ View from above.
 <br><IMG SRC="mbp2.jpg"><p>
 
 <IMG SRC="bar3e.jpg"><hr size=5>
-<IMG align=left SRC="/pmin.jpg">
+<IMG align=left SRC="pmin.jpg">
 
 Performance summary for the set is quite pleasing.  When I first started listening to the radio I immediately got the sinking feeling that the selectivity would be no better then many of my earlier sets, a disappointing prospect especially as this set was meant to be a better performer.  Part of the problem waw just the sets' general quirky and difficult three-dial tuning.  I soon got used to fiddling with the dials and found I could usually "tune out" most any nearby or interfering station from the one of interest, it just took some effort, part of the fun. <br>
 When I did get around to hooking the set up to the signal generator I found to my relief that indeed the set has good (not great) selectivity and excellent sensitivity.  Bandwidth around a nominal 1100KHz signal to -3dB is 22KHz giving this set a loaded Q of 51.  This is right in the middle range of set loaded Q to be expected for a "typical" crystal set given by Kenneth Khun in his notes on Resonant Circuits.  Importantly as well, this set does a much better job at rejecting KGOW than my other sets.  I attribute this to the main coils being toroids.  KGOW blasts down my direction with a very powerful ground wave and I suspect that the other set coils, mostly open selenoids and / or spiderweb, are picking up the signal and flooding my set across the tuning range.  Toroid coils confine the magnetic fields within the torus and thus couple poorly if at all to surrounding fields, including KGOW.  Thank you Magnavox for making such lovely coils!!<br clear=left><p>     
