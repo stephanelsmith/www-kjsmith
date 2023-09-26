@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 <TITLE>kjs thoughts page</TITLE>
-<BODY BACKGROUND="graphics/book.jpg"
+<BODY BACKGROUND="/graphics/book.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -9,7 +9,7 @@
 <H3>
 The following essays and/or snippits of information were written at various times over the last 5 to 10 years.  They reflect things that interest me, concern me, or my occasional frustrations while working within "corporate" America.  I offer motivating references or just blow off some steam.  In any case these are thoughts for the record.
 <center>
-<center><IMG SRC="graphics/bar4e.jpg"></center>
+<center><IMG SRC="/graphics/bar4e.jpg"></center>
 <p>
 <a href="iraq.shtml">Iraq:<br></a> Terrorist threat against America.<p>
 <a href="onepercent.shtml">One Percent:<br></a> Readings from Barbara Tuchman.<p>
@@ -29,7 +29,7 @@ The following essays and/or snippits of information were written at various time
 <a href="honest.shtml">Honesty:<br></a> Characteristics I look for, but seldomly find in American management.<p>
 <a href="crueparis.shtml">something MUST be done..<br></a> Crues de la Seine a Austerlitz, Paris.<p>
 </center>
-<center><IMG SRC="graphics/bar5e.jpg"></center><hr size=15><h3>
+<center><IMG SRC="/graphics/bar5e.jpg"></center><hr size=15><h3>
 <A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
