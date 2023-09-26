@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs work experience locator page</TITLE>
 
-<BODY BACKGROUND="graphics/phot.gif"
+<BODY BACKGROUND="/graphics/phot.gif"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -12,7 +12,7 @@
 <H3>
 
 <center>
-<IMG SRC="graphics/pworld.jpg" alt="map of locations visited worldwide"></a>
+<IMG SRC="/graphics/pworld.jpg" alt="map of locations visited worldwide"></a>
 </center>
 
 <hr size=15>

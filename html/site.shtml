@@ -3,7 +3,7 @@
 <TITLE>My website is the place I present to the world my interests and experiences.  It is about myself, my travels in words and personal photography, my scientific projects.  All content on this site is the personal product of my own efforts, not found anywhere else.</TITLE>
 
 </HEAD>
-<BODY BACKGROUND="graphics/vw5.jpg" BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#ff0000" VLINK="#800000" ALINK="#FFFFFF">
+<BODY BACKGROUND="/graphics/vw5.jpg" BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#ff0000" VLINK="#800000" ALINK="#FFFFFF">
 <h2>
 Site Map:</h2><h3>
 An outline listing of all linked pages on this site.<p>
@@ -568,7 +568,7 @@ An outline listing of all linked pages on this site.<p>
  <li><A HREF="/msthesis/msthesis.shtml">kjs ms thesis page</A> </li>
  <li><A HREF="/html/resume.shtml">kjs resume page</A> </li>
  </ul>
-<center><IMG SRC="graphics/bar1e.jpg"></center>
+<center><IMG SRC="/graphics/bar1e.jpg"></center>
 <h3><A HREF="/html/main.shtml">Go back....</a>
 </H3>
 

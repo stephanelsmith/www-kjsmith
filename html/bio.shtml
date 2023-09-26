@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs biography</TITLE>
 
-<BODY BACKGROUND="graphics/bgbio.jpg"
+<BODY BACKGROUND="/graphics/bgbio.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -18,7 +18,7 @@ Marie-Christine</a>, and three children
 <A HREF="/html/sls.shtml"> Stéphane</a>, and
 <A HREF="/html/ves.shtml"> Véronique</a>.  <p>
 
-<center><IMG SRC="graphics/famille2007.jpg"></center><p>
+<center><IMG SRC="/graphics/famille2007.jpg"></center><p>
 
 I was born and raised in the Pacific Northwest part of america and this also has had a termendous influence on my life, my attitudes, and who I am.  Much of this web site will be devoted to images and stories that take place in and around the northwest, from the eastern Washington town of Yakima where I grew up to the western Washington town of Bellingham where I went to university, Seattle where most of my family has ended up, and the south Cascade mountains where I lived and worked for three summers, to finally the town of Missoula in Montana's northern Rocky Mountains where I attended graduate school and earned my Master's in Geology.  The wild places and the mountains.. always the mountains are at the back of my psyche, they shape me and mould me, they are my yardstick from which I judge all else.  I have lived 25 years in Houston and in all that time I have never adapted, never conformed.. I will always remain a stranger there in the crowded flatlands.  <p>
 Although a small-town child by origin and by preference, I am no isolated bumpkin.  I have always been facinated by history and I read history books like many read novels.  I enjoy all cultures and all peoples and desire to know more and appreciate all the human diversity this world offers.  In this respect I have been most fortunate to be able in my work to travel extensively.  These travels too make up a significant portion of this website.  I have had the joy to see and experience the world in way few tourists can.  I offer images and writings from these trips as my return for this gift I have received.  I do not know if this is due to God's blessings, Fate, Yuan Fen, Destiny, or just dumb good luck, but I feel grateful for my good fortune and I wish to express my thanks.<p>  
@@ -47,7 +47,7 @@ As an aside, find below a set of three history books I cobbled together for Fran
 <A HREF="/stuff/Alsace03.pdf">Histoire de l’Alsace: Tome III: Histoire Naturelle  </a>Natural History texts for the province of Alsace. pdf format, 7.28 meg size<p>
 <p><hr>
 
-<center><IMG SRC="graphics/lesparents.jpg"></center><p>
+<center><IMG SRC="/graphics/lesparents.jpg"></center><p>
 
 <hr size=15>
 <A HREF="/html/main.shtml">Go back....</a></H3>

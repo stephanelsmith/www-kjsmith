@@ -1,14 +1,14 @@
 <HTML>
 <HEAD>
 <TITLE>kjs kevin photo</TITLE>
-<BODY BACKGROUND="graphics/phot.gif"
+<BODY BACKGROUND="/graphics/phot.gif"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Your's truly...</H2></center><P>
 
 <hr size=15>
-<center><IMG SRC="graphics/ks2.jpg" alt="kevin smith"><br>
+<center><IMG SRC="/graphics/ks2.jpg" alt="kevin smith"><br>
 
 <hr size=15>
 <H3>Kevin Smith, born in 
