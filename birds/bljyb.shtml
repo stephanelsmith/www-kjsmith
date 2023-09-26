@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs bird photos, Blue Jay Bebe</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Juvenile Blue Jay, Houston</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/graphics/bljyb.jpg"alt="Bebe Blue Jay"></a></center>
+<center><IMG SRC="graphics/bljyb.jpg"alt="Bebe Blue Jay"></a></center>
 This youngster is waiting for papa to bring him a tasty treat.  Impatient and hungry, shaking his wings and crying out..  I'm hungrryyy papa!!<p> 
 <br>kjs<P>
 
@@ -20,7 +20,7 @@ This youngster is waiting for papa to bring him a tasty treat.  Impatient and hu
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

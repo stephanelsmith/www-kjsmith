@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, carolina wren</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,8 +10,8 @@
 <H3>
 
 <hr size=15>
-<center><IMG SRC="/graphics/cw01.jpg"alt="Carolina Wren"></a><p>
-<IMG SRC="/graphics/cw02.jpg"alt="Carolina Wren"></a></center><p>
+<center><IMG SRC="graphics/cw01.jpg"alt="Carolina Wren"></a><p>
+<IMG SRC="graphics/cw02.jpg"alt="Carolina Wren"></a></center><p>
 
 This is a sad tale of our little nesting friends.  This year, after a three-year wait we again found a hanging basket on our patio was chosen as an ideal nesting site by our garden wrens, and this only after a very thorough search with monsieur showing off many lovely places to his new madame.  She chose the hanging basket.  Things were busy and fun with the wrens habituing to my presence as they first built and then occupied their little domed abode.  I eventually counted five eggs in the nest and watched as they kept a wary eye on me while attending the eggs.  Eventually I counted four hungry mouths but didnt look long and suspect all five hatched.<br>
 It is hard to judge, but I counted a week until fledging and so it was with little concern that my wife and I left to San Antonio for our daughter's graduation.  Even had we known the outcome we would not have missed this fledgling of our own brood!  On our return we noted the lawn had been mowed by our gardener but this our birds were used to as well so no concern here.  We were thus unprepared for what met our eyes upon entering the patio.  There we found an empty nest, a dead fledgling on the passage below the basket, and one very frightened tiny wren out by the magnolia tree crying for help.  The little one, Captain Courageous, eventually worked its little way to the back of the garden to a brush pile we keep for the wrens.<br>
@@ -19,10 +19,10 @@ Life is difficult for animals in the wild, and even when they may receive our we
 I hope a new brood will come along.  I especially hope Captain Courageous survived. <p>
 <p>kjs<p>
 
-<center><IMG SRC="/graphics/cw03.jpg"alt="Carolina Wren"></a><p>
-<IMG SRC="/graphics/cw04.jpg"alt="Carolina Wren"></a><p>
-<IMG SRC="/graphics/cw05.jpg"alt="Carolina Wren"></a><br>Captain Courageous.<p>
-<IMG SRC="/graphics/cw06.jpg"alt="Carolina Wren"></a></center><p>
+<center><IMG SRC="graphics/cw03.jpg"alt="Carolina Wren"></a><p>
+<IMG SRC="graphics/cw04.jpg"alt="Carolina Wren"></a><p>
+<IMG SRC="graphics/cw05.jpg"alt="Carolina Wren"></a><br>Captain Courageous.<p>
+<IMG SRC="graphics/cw06.jpg"alt="Carolina Wren"></a></center><p>
 
 <p><hr size=15>
 
@@ -34,7 +34,7 @@ I hope a new brood will come along.  I especially hope Captain Courageous surviv
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

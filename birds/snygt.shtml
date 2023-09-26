@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs bird photos, Snowy Egret</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Snowy Egret, Katy, TX</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/snygt.jpg"alt="Snowy Egret"></a></center>
+<center><IMG SRC="graphics/snygt.jpg"alt="Snowy Egret"></a></center>
 <hr size=15>
 <H3>
 Snowy Egrets are a fairly common visitor in our area although never abundant.   When Houston receives a lot of heavy rain the catchment reservoirs fill and the waders come out in force.  At such times we have frequent flyovers of many interesting large birds.
@@ -22,7 +22,7 @@ Snowy Egrets are a fairly common visitor in our area although never abundant.   
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

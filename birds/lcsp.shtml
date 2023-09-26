@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Lincoln's Sparrow</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Lincoln's Sparrow, Katy, Tx</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/lcsp0.jpg"alt="Lincoln's Sparrow"></a><br>
-<IMG SRC="/graphics/lcsp1.jpg"alt="Lincoln's Sparrow"></a></center>
+<center><IMG SRC="graphics/lcsp0.jpg"alt="Lincoln's Sparrow"></a><br>
+<IMG SRC="graphics/lcsp1.jpg"alt="Lincoln's Sparrow"></a></center>
 <hr size=15>
 <H3>
 This little chap showed up in the garden for a few days in early May.  By now he really ought to be waaaaay north on his way to make babies with all the other Lincoln's Sparrows.  The little slacker did pose for a few photos though, good looking..
@@ -23,7 +23,7 @@ This little chap showed up in the garden for a few days in early May.  By now he
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

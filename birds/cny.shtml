@@ -2,17 +2,17 @@
 <HEAD>
 <TITLE>kjs bird photos, Canary</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Canary, Katy, Tx</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/cny1.jpg"alt="Canary"></a><p>
-<IMG SRC="/graphics/cny2.jpg"alt="Canary"></a><p>
-<IMG SRC="/graphics/cny4.jpg"alt="Canary"></a><p>
-<IMG SRC="/graphics/cny3.jpg"alt="Canary"></a></center>
+<center><IMG SRC="graphics/cny1.jpg"alt="Canary"></a><p>
+<IMG SRC="graphics/cny2.jpg"alt="Canary"></a><p>
+<IMG SRC="graphics/cny4.jpg"alt="Canary"></a><p>
+<IMG SRC="graphics/cny3.jpg"alt="Canary"></a></center>
 <hr size=15>
 <h3>
 Not your typical garden visitor!  This lovely yellow finch arrived one morning without fanfare at the feeders, just another finch among the cast of 10,000 finches we daily entertain.  I did note that this one was quite yellow, much more so than our usual yellow-plumage house finches which make up some 15% - 20% of our male finch population.  As I looked closer it seemed most unusual and I began to make a few photos.  I simply had never seen such a bright yellow house finch!  I did take time to check out my bird guides and nothing came close other than the house finch variety, (It never occures to me to consider exotics).  <p>  Placing the photos on the Whatbird forum quickly brought the right answer, a Canary!  Well who would have thought!  The poor chap is just trying to make its way alone in a large and unwelcomming world after having escaped from some cage somewhere.  I checked the local petstore and they sell canaries for about $80 each so not only is this bird an escaped fugitive, but it has a price on its head as well!  It did not return the next day so it must be that much further on its underground railroad.  Good luck Mr Canary!
@@ -26,7 +26,7 @@ Not your typical garden visitor!  This lovely yellow finch arrived one morning w
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

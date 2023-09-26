@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, Yellow-Rumped Warbler</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,15 +10,15 @@
 <H3>
 
 <hr size=15>
-<center><IMG SRC="/graphics/yrwblr.jpg"alt="Yellow-Rumped Warbler"></a></center>
+<center><IMG SRC="graphics/yrwblr.jpg"alt="Yellow-Rumped Warbler"></a></center>
 <p>
 A recent occasional visitor to the swimming pool, this little sweetheart discreetly turns her back, her yellow petticoat peeking out below her wings.
 <hr size=15>
-<center><IMG SRC="/graphics/yrwblr2.jpg"alt="Yellow-Rumped Warbler"></a></center>
+<center><IMG SRC="graphics/yrwblr2.jpg"alt="Yellow-Rumped Warbler"></a></center>
 <p>
 Down on Mason Creek just a couple hundred yards away as the warbler flies, this little birdie perhaps envies its more citified cousin at the feeder.  <p>
 
-<center><IMG SRC="/graphics/yrwblr-cht.jpg"alt="Yellow-Rumped Warbler"></a></center><p>
+<center><IMG SRC="graphics/yrwblr-cht.jpg"alt="Yellow-Rumped Warbler"></a></center><p>
 Another winter visitor to the garden, these birds are otherwise resident in the Katy area.  <p>
 
 <br>kjs<P>
@@ -30,7 +30,7 @@ Another winter visitor to the garden, these birds are otherwise resident in the 
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Double-crested Cormorant</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Double-crested Cormorant, Katy</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/dccm1.jpg"alt="Double-crested Cormorant"></a><p>
-<IMG SRC="/graphics/dccm2.jpg"alt="Double-crested Cormorant"></a></center>
+<center><IMG SRC="graphics/dccm1.jpg"alt="Double-crested Cormorant"></a><p>
+<IMG SRC="graphics/dccm2.jpg"alt="Double-crested Cormorant"></a></center>
 <hr size=15>
 <H3>
 Double-crested Cormorants started showing up in November and have become the dominant type I see from the garden in winter.<p>
@@ -24,7 +24,7 @@ Double-crested Cormorants started showing up in November and have become the dom
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

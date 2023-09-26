@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs bird photos, Brown Thrasher</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Brown Thrasher, Katy</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/graphics/bthsh1.jpg"alt="Brown Thrasher"></a><p>
-<IMG SRC="/graphics/bthsh2.jpg"alt="Brown Thrasher"></a><p>
-<IMG SRC="/graphics/bthsh3.jpg"alt="Brown Thrasher"></a></center><p>
+<center><IMG SRC="graphics/bthsh1.jpg"alt="Brown Thrasher"></a><p>
+<IMG SRC="graphics/bthsh2.jpg"alt="Brown Thrasher"></a><p>
+<IMG SRC="graphics/bthsh3.jpg"alt="Brown Thrasher"></a></center><p>
 
 Our Brown Thrasher makes occasional visits, maybe once every couple months (that we notice).  It is a bit discreet as well and I have not had much chance to get a good photo.  This morning it finally stepped out into enough light to permit photography and mercifully I had my big cyclops eye at the ready when it happened.  Enjoy!
 
@@ -23,7 +23,7 @@ Our Brown Thrasher makes occasional visits, maybe once every couple months (that
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

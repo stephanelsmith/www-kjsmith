@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs bird photos, Caracara</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Caracara, Katy</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/cara02.jpg"alt="Caracara"></a></center>
+<center><IMG SRC="graphics/cara02.jpg"alt="Caracara"></a></center>
 <hr size=15>
 <H3>
 An occasional flyover and always exciting to see.<p>
@@ -23,7 +23,7 @@ An occasional flyover and always exciting to see.<p>
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

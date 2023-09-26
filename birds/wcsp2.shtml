@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, White Crowned Sparrow</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>White Crowned Sparrow, Houston</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/wcsp.jpg"alt="White Crowned Sparrow"></a><p>
-<IMG SRC="/graphics/wcsp2.jpg"alt="White Crowned Sparrow"></a></center>
+<center><IMG SRC="graphics/wcsp.jpg"alt="White Crowned Sparrow"></a><p>
+<IMG SRC="graphics/wcsp2.jpg"alt="White Crowned Sparrow"></a></center>
 <hr size=15>
 <H3>
 October is the start of migrant season on the Gulf Coast.  This little visitor to my garden arrived with a strong southerly cold front, happy to share a meal with the locals.
@@ -23,7 +23,7 @@ October is the start of migrant season on the Gulf Coast.  This little visitor t
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, catbird</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,8 +10,8 @@
 <H3>
 
 <hr size=15>
-<center><IMG SRC="/graphics/cat1.jpg"alt="Catbird"></a><br>
-<IMG SRC="/graphics/cat2.jpg"alt="Pileated Woodpecker"></a></center><br>
+<center><IMG SRC="graphics/cat1.jpg"alt="Catbird"></a><br>
+<IMG SRC="graphics/cat2.jpg"alt="Pileated Woodpecker"></a></center><br>
 
 An unusual visitor, this catbird only arrives when there is water to be found, especially if the sprinkler system is running.  
 
@@ -25,7 +25,7 @@ An unusual visitor, this catbird only arrives when there is water to be found, e
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

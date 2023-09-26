@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, black bellied tree duck</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,12 +10,12 @@
 <H3>
 
 <hr size=15>
-<center><IMG SRC="/graphics/bbtd.jpg"alt="Black Bellied Tree Duck"></a></center><br>
+<center><IMG SRC="graphics/bbtd.jpg"alt="Black Bellied Tree Duck"></a></center><br>
 
 Black Bellied Tree (Whistling) Ducks are not uncommon in the parks and bayous in this part of town.  Still, it was with some surprise one morning while having breakfeast on the patio with my wife that the lovely bird dropped into the gardin for a look-see.  Not sure if it was convinced or not, but it did return two weeks later for another see.   
 
 <p>
-<center><IMG SRC="/graphics/bbtd2.jpg"alt="Black Bellied Tree Duck"></a></center><br>
+<center><IMG SRC="graphics/bbtd2.jpg"alt="Black Bellied Tree Duck"></a></center><br>
 Black Bellied Ducks can also be seen flying overhead on occasion, not always easy to get a shot!<p>
 
 <hr size=15>
@@ -28,7 +28,7 @@ Black Bellied Ducks can also be seen flying overhead on occasion, not always eas
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

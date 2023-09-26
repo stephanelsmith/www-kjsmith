@@ -2,19 +2,19 @@
 <HEAD>
 <TITLE>kjs bird photos, Hirondelle a Rochers</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Hirondelle a Rochers, French Alps</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/hrsh.jpg"alt="Hirondelle a Rochers"></a></center>
+<center><IMG SRC="graphics/hrsh.jpg"alt="Hirondelle a Rochers"></a></center>
 <hr size=15>
 <H3>
 Glaring down menacingly at me from a high balcony, a Hirondelle a Rochers (Crag Martin) prepares its next move as I stand waiting innocently for the bus to take me to town.  Each day as I waited at the bus stop with my wife and son this fierce little cretan would repeatedly stoop on me (and ONLY me), attacking for reasons known only to itself.  Impossible to photograph it in flight, I caught it on one of its rare perches.  The town of Meribel is a ski station in the high French Alps.  Perhaps it found my accented French distasteful.   
 <br>kjs<p>
-<center><IMG SRC="/graphics/hrsh1.jpg"alt="Hirondelle a Rochers"></a></center><p>
+<center><IMG SRC="graphics/hrsh1.jpg"alt="Hirondelle a Rochers"></a></center><p>
 <hr size=15>
 </frameset>
 <NOFRAME>
@@ -22,7 +22,7 @@ Glaring down menacingly at me from a high balcony, a Hirondelle a Rochers (Crag 
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

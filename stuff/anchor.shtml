@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs beer label, anchor steam beer, san francisco</TITLE>
 
-<BODY BACKGROUND="/graphics/bgbeer.jpg"
+<BODY BACKGROUND="graphics/bgbeer.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Anchor Steam Beer</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/beer/anchor.jpg"alt="Anchor Steam Beer Label"></a></center>
+<center><IMG SRC="beer/anchor.jpg"alt="Anchor Steam Beer Label"></a></center>
 <hr size=15>
 <H3>
 Business travel takes one on occasional interesting side trips unexpected in the normal pace of travel.  While I normally do a fair amound of international travel, I recently found myself flying to Palo Alto California, (a bit south of San Francisco) to attend a conference on the geology of China.  There in Palo Alto I sampled the fine taste of Anchor Steam, lovingly brewed since 1896.

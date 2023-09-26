@@ -2,20 +2,20 @@
 <HEAD>
 <TITLE>kjs bird photos, Turkey Vulture</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Turkey Vulture, Katy</H2></center>
 
 <H3><hr size=15>
-<center><IMG SRC="/graphics/tkvl1.jpg"alt="Turkey Vulture"></a><p>
-<IMG SRC="/graphics/tkvl2.jpg"alt="Turkey Vulture"></a><p>
-<IMG SRC="/graphics/tkvl3.jpg"alt="Turkey Vulture"></a></center><p>
+<center><IMG SRC="graphics/tkvl1.jpg"alt="Turkey Vulture"></a><p>
+<IMG SRC="graphics/tkvl2.jpg"alt="Turkey Vulture"></a><p>
+<IMG SRC="graphics/tkvl3.jpg"alt="Turkey Vulture"></a></center><p>
 Big slow birds that seem to prefer gliding fairly low over the ground.<p><p>
 <hr size=15>
-<center><IMG SRC="/graphics/tkvl4.jpg"alt="Turkey Vulture"></a><p>
-<IMG SRC="/graphics/tkvl5.jpg"alt="Turkey Vulture"></a></center><p>
+<center><IMG SRC="graphics/tkvl4.jpg"alt="Turkey Vulture"></a><p>
+<IMG SRC="graphics/tkvl5.jpg"alt="Turkey Vulture"></a></center><p>
 February 2016 update: With time even an occasional "sky bird" may decide to pay a visit and become a "garden bird" on my list.  Well, this vulture landed in the woodlot about 30ft behind the garden, close enough!
 
 <hr size=15>
@@ -28,7 +28,7 @@ February 2016 update: With time even an occasional "sky bird" may decide to pay 
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

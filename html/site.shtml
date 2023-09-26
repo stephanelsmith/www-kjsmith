@@ -3,7 +3,7 @@
 <TITLE>My website is the place I present to the world my interests and experiences.  It is about myself, my travels in words and personal photography, my scientific projects.  All content on this site is the personal product of my own efforts, not found anywhere else.</TITLE>
 
 </HEAD>
-<BODY BACKGROUND="/graphics/vw5.jpg" BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#ff0000" VLINK="#800000" ALINK="#FFFFFF">
+<BODY BACKGROUND="graphics/vw5.jpg" BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#ff0000" VLINK="#800000" ALINK="#FFFFFF">
 <h2>
 Site Map:</h2><h3>
 An outline listing of all linked pages on this site.<p>
@@ -334,29 +334,29 @@ An outline listing of all linked pages on this site.<p>
  </ul>
  </h4><h3>
  <li>Beer labels </li>
- <li><A HREF="/beer/beer0.shtml">kjs Beer Labels</A>  </li>
+ <li><A HREF="beer/beer0.shtml">kjs Beer Labels</A>  </li>
  </h3><h4>
- <ul><li><A HREF="/beer/beer0nam.shtml">kjs North America Beer Labels</A>  </li>
- <ul><li><A HREF="/beer/rainier.shtml">kjs rainier beer, washington, usa</A>  </li>
- <li><A HREF="/beer/smiths.shtml">kjs Smith's Black, portland</A>  </li>
- <li><A HREF="/beer/session.shtml">kjs Session, hood river</A>  </li>
- <li><A HREF="/beer/rheinlander.shtml">kjs Rheinlander, Seattle</A>  </li>
- <li><A HREF="/beer/blackbeard.shtml">kjs Blackbeard, US Virgen Islands</A>  </li>
- <li><A HREF="/beer/alaskan.shtml">kjs Alaskan Ale, alaska</A>  </li>
- <li><A HREF="/beer/dundee.shtml">kjs Dundee, new york</A>  </li>
- <li><A HREF="/beer/mirrorpond.shtml">kjs Mirror Pond, oregon</A>  </li>
- <li><A HREF="/beer/rhipa.shtml">kjs Red Hook IPA, seattle</A>  </li>
- <li><A HREF="/beer/trouble.shtml">kjs Trouble, new york</A>  </li>
- <li><A HREF="/beer/shiner2.shtml">kjs shiner beer, texas</A>  </li>
- <li><A HREF="/beer/shinerss.shtml">kjs shiner summer stock, texas</A>  </li>
- <li><A HREF="/beer/olympia.shtml">kjs olympia beer, washington, usa</A>  </li>
- <li><A HREF="/beer/ziggy.shtml">kjs ziggysocky, usa</A>  </li>
- <li><A HREF="/beer/voodoo.shtml">kjs blackened voodoo beer, louisania</A>  </li>
- <li><a href="/beer/anchor.shtml">kjs anchor steam, San Francisco</A>  </li>
- <li><A HREF="/beer/shiner.shtml">kjs shiner beer, texas</A>  </li>
- <li><A HREF="/beer/lonestar.shtml">kjs lonestar beer, texas</A>  </li>
+ <ul><li><A HREF="beer/beer0nam.shtml">kjs North America Beer Labels</A>  </li>
+ <ul><li><A HREF="beer/rainier.shtml">kjs rainier beer, washington, usa</A>  </li>
+ <li><A HREF="beer/smiths.shtml">kjs Smith's Black, portland</A>  </li>
+ <li><A HREF="beer/session.shtml">kjs Session, hood river</A>  </li>
+ <li><A HREF="beer/rheinlander.shtml">kjs Rheinlander, Seattle</A>  </li>
+ <li><A HREF="beer/blackbeard.shtml">kjs Blackbeard, US Virgen Islands</A>  </li>
+ <li><A HREF="beer/alaskan.shtml">kjs Alaskan Ale, alaska</A>  </li>
+ <li><A HREF="beer/dundee.shtml">kjs Dundee, new york</A>  </li>
+ <li><A HREF="beer/mirrorpond.shtml">kjs Mirror Pond, oregon</A>  </li>
+ <li><A HREF="beer/rhipa.shtml">kjs Red Hook IPA, seattle</A>  </li>
+ <li><A HREF="beer/trouble.shtml">kjs Trouble, new york</A>  </li>
+ <li><A HREF="beer/shiner2.shtml">kjs shiner beer, texas</A>  </li>
+ <li><A HREF="beer/shinerss.shtml">kjs shiner summer stock, texas</A>  </li>
+ <li><A HREF="beer/olympia.shtml">kjs olympia beer, washington, usa</A>  </li>
+ <li><A HREF="beer/ziggy.shtml">kjs ziggysocky, usa</A>  </li>
+ <li><A HREF="beer/voodoo.shtml">kjs blackened voodoo beer, louisania</A>  </li>
+ <li><a href="beer/anchor.shtml">kjs anchor steam, San Francisco</A>  </li>
+ <li><A HREF="beer/shiner.shtml">kjs shiner beer, texas</A>  </li>
+ <li><A HREF="beer/lonestar.shtml">kjs lonestar beer, texas</A>  </li>
  </ul></ul>
-<ul><li><A HREF="/beer/beer1nam.shtml">kjs North America continued</A>  </li>
+<ul><li><A HREF="beer/beer1nam.shtml">kjs North America continued</A>  </li>
 <ul><li><a href=/beer/ca-goldengate.shtml target=pres>kjs Golden Gate</a>  </li>
  <li><a href=/beer/ca-mellowbrew.shtml target=pres>Mellow Brew</a>  </li>
  <li><a href=/beer/ca-ranch.shtml target=pres>Ranch Beer</a>  </li>
@@ -403,69 +403,69 @@ An outline listing of all linked pages on this site.<p>
  <li><a href=/beer/wi-peoples.shtml target=pres>Peoples</a>  </li>
  <li><a href=/beer/wi-rheinlander.shtml target=pres>Rheinlander</a>  </li>
  </ul></ul>
- <ul><li><A HREF="/beer/beer0sam.shtml">kjs South America Beer Labels</A>  </li>
- <ul><li><A HREF="/beer/pacena.shtml">kjs pacena beer, bolivia</A>  </li>
- <li><A HREF="/beer/quilmes.shtml">kjs quilmes beer, argentina</A>  </li>
- <li><A HREF="/beer/brahma.shtml">kjs Chopp Brahma, brazil</A>  </li>
- <li><A HREF="/beer/pacifico.shtml">kjs Pacifico beer, mexico</A>  </li>
- <li><A HREF="/beer/antarctica.shtml">kjs antarctica beer, argentina</A>  </li>
- <li><A HREF="/beer/solera.shtml">kjs solera beer, venezuela</A>  </li>
- <li><A HREF="/beer/pilsener.shtml">kjs pilsener beer, ecuador</A>  </li>
- <li><A HREF="/beer/imperial.shtml">kjs imperial beer, argentina</A>  </li>
- <li><A HREF="/beer/brasil.shtml">kjs bohemia, cerpa beer, brazil</A>  </li>
- <li><A HREF="/beer/carib.shtml">kjs carib beer, trinidad</A>  </li>
- <li><A HREF="/beer/ducal.shtml">kjs ducal beer, bolivia</A>  </li>
- <li><A HREF="/beer/bolivian.shtml">kjs boliviana beer, bolivia</A>  </li>
- <li><A HREF="/beer/modelo.shtml">kjs modelo beer, mexico</A>  </li>
+ <ul><li><A HREF="beer/beer0sam.shtml">kjs South America Beer Labels</A>  </li>
+ <ul><li><A HREF="beer/pacena.shtml">kjs pacena beer, bolivia</A>  </li>
+ <li><A HREF="beer/quilmes.shtml">kjs quilmes beer, argentina</A>  </li>
+ <li><A HREF="beer/brahma.shtml">kjs Chopp Brahma, brazil</A>  </li>
+ <li><A HREF="beer/pacifico.shtml">kjs Pacifico beer, mexico</A>  </li>
+ <li><A HREF="beer/antarctica.shtml">kjs antarctica beer, argentina</A>  </li>
+ <li><A HREF="beer/solera.shtml">kjs solera beer, venezuela</A>  </li>
+ <li><A HREF="beer/pilsener.shtml">kjs pilsener beer, ecuador</A>  </li>
+ <li><A HREF="beer/imperial.shtml">kjs imperial beer, argentina</A>  </li>
+ <li><A HREF="beer/brasil.shtml">kjs bohemia, cerpa beer, brazil</A>  </li>
+ <li><A HREF="beer/carib.shtml">kjs carib beer, trinidad</A>  </li>
+ <li><A HREF="beer/ducal.shtml">kjs ducal beer, bolivia</A>  </li>
+ <li><A HREF="beer/bolivian.shtml">kjs boliviana beer, bolivia</A>  </li>
+ <li><A HREF="beer/modelo.shtml">kjs modelo beer, mexico</A>  </li>
  </ul></ul>
- <ul><li><A HREF="/beer/beer0eur.shtml">kjs Europe Beer Labels</A>  </li>
- <ul><li><A HREF="/beer/chimay.shtml">kjs chimay beer, belgium</A>  </li>
- <li><A HREF="/beer/ursus.shtml">kjs ursus beer, romania</A>  </li>
- <li><A HREF="/beer/printemps.shtml">kjs colmar printemps beer, france</A>  </li>
- <li><A HREF="/beer/fischer.shtml">kjs fischer beer, france</A>  </li>
- <li><A HREF="/beer/harp.shtml">kjs harp beer, ireland</A>  </li>
- <li><A HREF="/beer/meteor.shtml">kjs meteor beer, france</A>  </li>
- <li><A HREF="/beer/mutzig2.shtml">kjs mutzig beer, france</A>  </li>
- <li><A HREF="/beer/kwiecien.shtml">kjs poland beer labels</A>  </li>
- <li><A HREF="/beer/kovalev1.shtml">kjs molodechnenskoye and alivaria beer, belarus</A>  </li>
- <li><A HREF="/beer/jmorse.shtml">kjs docicky beer, czech republic</A>  </li>
- <li><A HREF="/beer/duvel.shtml">kjs duvel beer, belgium</A>  </li>
- <li><A HREF="/beer/wulveryck.shtml">kjs la comete, bock du moulin beer, france</A>  </li>
- <li><A HREF="/beer/guinness.shtml">kjs guinness beer, ireland</A>  </li>
- <li><A HREF="/beer/zywiec.shtml">kjs zywiec beer, poland</A>  </li>
- <li><A HREF="/beer/farsons.shtml">kjs farsons beer, malta</A>  </li>
- <li><A HREF="/beer/kronen1.shtml">kjs kronenbourg beer, france</A>  </li>
- <li><a href="/beer/leffe.shtml">kjs leffe blonde, belgium</A>  </li>
- <li><A HREF="/beer/kronen2.shtml">kjs kronenbourg beer, france</A>  </li>
- <li><A HREF="/beer/kovalev2.shtml">kjs mozyr'skoye and slutskaye beer, belarus</A>  </li>
- <li><A HREF="/beer/ancre.shtml">kjs ancre beer, france</A>  </li>
- <li><A HREF="/beer/arriaga.shtml">kjs el aguila negra, aguila amstel beer, spain</A>  </li>
- <li><A HREF="/beer/janneke.shtml">kjs janneke beer, netherlands</A>  </li>
- <li><A HREF="/beer/jmorse2.shtml">kjs orval, trappistes rochefort beer, belgium</A>  </li>
- <li><A HREF="/beer/hougaer.shtml">kjs hougaerdse das beer, belgium</A>  </li>
- <li><A HREF="/beer/mutzig1.shtml">kjs mutzig beer, france</A>  </li>
- <li><A HREF="/beer/afflige.shtml">kjs affligem beer, belgium</A>  </li>
- <li><A HREF="/beer/kovalev3.shtml">kjs klinskoye beer, russia</A>  </li>
- <li><A HREF="/beer/corsaire.shtml">kjs corsaire beer, france</A>  </li>
- <li><A HREF="/beer/augustiner.shtml">kjs augustiner weissbier, germany</A>  </li>
- <li><A HREF="/beer/dom.shtml">kjs dommelsch beer, netherlands</A>  </li>
- <li><A HREF="/beer/budvar.shtml">kjs budvar beer, czech republic</A>  </li>
- <li><A HREF="/beer/heineken.shtml">kjs heineken beer, netherlands</A>  </li>
+ <ul><li><A HREF="beer/beer0eur.shtml">kjs Europe Beer Labels</A>  </li>
+ <ul><li><A HREF="beer/chimay.shtml">kjs chimay beer, belgium</A>  </li>
+ <li><A HREF="beer/ursus.shtml">kjs ursus beer, romania</A>  </li>
+ <li><A HREF="beer/printemps.shtml">kjs colmar printemps beer, france</A>  </li>
+ <li><A HREF="beer/fischer.shtml">kjs fischer beer, france</A>  </li>
+ <li><A HREF="beer/harp.shtml">kjs harp beer, ireland</A>  </li>
+ <li><A HREF="beer/meteor.shtml">kjs meteor beer, france</A>  </li>
+ <li><A HREF="beer/mutzig2.shtml">kjs mutzig beer, france</A>  </li>
+ <li><A HREF="beer/kwiecien.shtml">kjs poland beer labels</A>  </li>
+ <li><A HREF="beer/kovalev1.shtml">kjs molodechnenskoye and alivaria beer, belarus</A>  </li>
+ <li><A HREF="beer/jmorse.shtml">kjs docicky beer, czech republic</A>  </li>
+ <li><A HREF="beer/duvel.shtml">kjs duvel beer, belgium</A>  </li>
+ <li><A HREF="beer/wulveryck.shtml">kjs la comete, bock du moulin beer, france</A>  </li>
+ <li><A HREF="beer/guinness.shtml">kjs guinness beer, ireland</A>  </li>
+ <li><A HREF="beer/zywiec.shtml">kjs zywiec beer, poland</A>  </li>
+ <li><A HREF="beer/farsons.shtml">kjs farsons beer, malta</A>  </li>
+ <li><A HREF="beer/kronen1.shtml">kjs kronenbourg beer, france</A>  </li>
+ <li><a href="beer/leffe.shtml">kjs leffe blonde, belgium</A>  </li>
+ <li><A HREF="beer/kronen2.shtml">kjs kronenbourg beer, france</A>  </li>
+ <li><A HREF="beer/kovalev2.shtml">kjs mozyr'skoye and slutskaye beer, belarus</A>  </li>
+ <li><A HREF="beer/ancre.shtml">kjs ancre beer, france</A>  </li>
+ <li><A HREF="beer/arriaga.shtml">kjs el aguila negra, aguila amstel beer, spain</A>  </li>
+ <li><A HREF="beer/janneke.shtml">kjs janneke beer, netherlands</A>  </li>
+ <li><A HREF="beer/jmorse2.shtml">kjs orval, trappistes rochefort beer, belgium</A>  </li>
+ <li><A HREF="beer/hougaer.shtml">kjs hougaerdse das beer, belgium</A>  </li>
+ <li><A HREF="beer/mutzig1.shtml">kjs mutzig beer, france</A>  </li>
+ <li><A HREF="beer/afflige.shtml">kjs affligem beer, belgium</A>  </li>
+ <li><A HREF="beer/kovalev3.shtml">kjs klinskoye beer, russia</A>  </li>
+ <li><A HREF="beer/corsaire.shtml">kjs corsaire beer, france</A>  </li>
+ <li><A HREF="beer/augustiner.shtml">kjs augustiner weissbier, germany</A>  </li>
+ <li><A HREF="beer/dom.shtml">kjs dommelsch beer, netherlands</A>  </li>
+ <li><A HREF="beer/budvar.shtml">kjs budvar beer, czech republic</A>  </li>
+ <li><A HREF="beer/heineken.shtml">kjs heineken beer, netherlands</A>  </li>
  </ul></ul>
- <ul><li><A HREF="/beer/beer0afr.shtml">kjs Africa Middle East Beer Labels</A>  </li>
- <ul><li><A HREF="/beer/ngok.shtml">kjs ngok beer, congo</A>  </li>
- <li><A HREF="/beer/beninois.shtml">kjs beninoise beer, benin</A>  </li>
+ <ul><li><A HREF="beer/beer0afr.shtml">kjs Africa Middle East Beer Labels</A>  </li>
+ <ul><li><A HREF="beer/ngok.shtml">kjs ngok beer, congo</A>  </li>
+ <li><A HREF="beer/beninois.shtml">kjs beninoise beer, benin</A>  </li>
  <li><a href=/beer/almaza.shtml>kjs almaza<br></a></li>
  <li><a href=/beer/kwiecien2.shtml>kjs black & wild, maccabee, and nesher</a></li>
- <li><A HREF="/beer/stella.shtml">kjs stella beer, egypt</A>  </li>
- <li><a href="/beer/phovey.shtml">kjs tusker export and pilsner, keyna</a> </li>
- <li><a href="/beer/casablnca.shtml">kjs casablanca, morocco</a> </li>
- <li><A HREF="/beer/nouas.shtml">kjs nouas beer, algeria</A>  </li>
- <li><A HREF="/beer/tuskar.shtml">kjs tuskar beer, keyna</A>  </li>
- <li><A HREF="/beer/jamstel.shtml">kjs amstel beer, jordan</A>  </li>
- <li><A HREF="/beer/amstel.shtml">kjs amstel beer, congo</A>  </li>
+ <li><A HREF="beer/stella.shtml">kjs stella beer, egypt</A>  </li>
+ <li><a href="beer/phovey.shtml">kjs tusker export and pilsner, keyna</a> </li>
+ <li><a href="beer/casablnca.shtml">kjs casablanca, morocco</a> </li>
+ <li><A HREF="beer/nouas.shtml">kjs nouas beer, algeria</A>  </li>
+ <li><A HREF="beer/tuskar.shtml">kjs tuskar beer, keyna</A>  </li>
+ <li><A HREF="beer/jamstel.shtml">kjs amstel beer, jordan</A>  </li>
+ <li><A HREF="beer/amstel.shtml">kjs amstel beer, congo</A>  </li>
  </ul></ul>
- <ul><li><A HREF="/beer/beer0asia.shtml">kjs China Beer Labels</A>  </li>
+ <ul><li><A HREF="beer/beer0asia.shtml">kjs China Beer Labels</A>  </li>
   <ul><li><a href=/beer/meihe.shtml >kjs Meihe Fresh, jilin</A>  </li>
  <li><a href=/beer/shentoe.shtml >kjs Sanhe and Luhui, shanxi</A>  </li>
  <li><a href=/beer/valor.shtml>kjs Valor, shanxi</A>  </li>
@@ -496,24 +496,24 @@ An outline listing of all linked pages on this site.<p>
  <li><a href=/beer/yinpu.shtml>kjs Yinpu, jilin</A>  </li>
  <li><a href=/beer/zhujiang.shtml>kjs Zhujiang, guangdong</A>  </li>
 </ul></ul>
- <ul><li><A HREF="/beer/beer1asia.shtml">kjs Asia Labels other than China</A>  </li>
- <ul><li><A HREF="/beer/sandpiper.shtml">kjs sandpiper beer, india</A>  </li>
- <li><a href="/beer/xxxx.shtml">kjs xxxx gold beer, australia</A>  </li>
- <li><a href="/beer/kovalev4.shtml">kjs kazakh beer, kazakhstan</A>  </li>
- <li><a href="/beer/sheaf.shtml">kjs sheaf stout, australia</A>  </li>
- <li><A HREF="/beer/singha.shtml">kjs singha beer, thailand</A>  </li>
- <li><A HREF="/beer/kirin.shtml">kjs kirin ichiban beer, japan</A>  </li>
- <li><A HREF="/beer/vb.shtml">kjs victoria bitter beer, australia</A>  </li>
- <li><A HREF="/beer/hahn.shtml">kjs hahn super dry, australia</A>  </li>
- <li><A HREF="/beer/united.shtml">kjs kingfisher, black label beer, india</A>  </li>
- <li><A HREF="/beer/ash.shtml">kjs spight's gold medal ale, new zealand</A>  </li>
- <li><A HREF="/beer/lagunabay.shtml">kjs laguna bay pale ale, australia</A>  </li>
- <li><A HREF="/beer/chang.shtml">kjs chang beer, thailand</A>  </li>
- <li><A HREF="/beer/waikato.shtml">kjs waikato ale, new zealand</A>  </li>
- <li><A HREF="/beer/cascade.shtml">kjs cascade lager, australia</A>  </li>
- <li><A HREF="/beer/cobra.shtml">kjs cobra beer, india</A>  </li>
- <li><A HREF="/beer/royal.shtml">kjs royal challenge beer, india</A>  </li>
- <li><A HREF="/beer/ctiger.shtml">kjs tiger beer, singapore</A>  </li>
+ <ul><li><A HREF="beer/beer1asia.shtml">kjs Asia Labels other than China</A>  </li>
+ <ul><li><A HREF="beer/sandpiper.shtml">kjs sandpiper beer, india</A>  </li>
+ <li><a href="beer/xxxx.shtml">kjs xxxx gold beer, australia</A>  </li>
+ <li><a href="beer/kovalev4.shtml">kjs kazakh beer, kazakhstan</A>  </li>
+ <li><a href="beer/sheaf.shtml">kjs sheaf stout, australia</A>  </li>
+ <li><A HREF="beer/singha.shtml">kjs singha beer, thailand</A>  </li>
+ <li><A HREF="beer/kirin.shtml">kjs kirin ichiban beer, japan</A>  </li>
+ <li><A HREF="beer/vb.shtml">kjs victoria bitter beer, australia</A>  </li>
+ <li><A HREF="beer/hahn.shtml">kjs hahn super dry, australia</A>  </li>
+ <li><A HREF="beer/united.shtml">kjs kingfisher, black label beer, india</A>  </li>
+ <li><A HREF="beer/ash.shtml">kjs spight's gold medal ale, new zealand</A>  </li>
+ <li><A HREF="beer/lagunabay.shtml">kjs laguna bay pale ale, australia</A>  </li>
+ <li><A HREF="beer/chang.shtml">kjs chang beer, thailand</A>  </li>
+ <li><A HREF="beer/waikato.shtml">kjs waikato ale, new zealand</A>  </li>
+ <li><A HREF="beer/cascade.shtml">kjs cascade lager, australia</A>  </li>
+ <li><A HREF="beer/cobra.shtml">kjs cobra beer, india</A>  </li>
+ <li><A HREF="beer/royal.shtml">kjs royal challenge beer, india</A>  </li>
+ <li><A HREF="beer/ctiger.shtml">kjs tiger beer, singapore</A>  </li>
  </ul>
 
  </h4><h3>
@@ -568,7 +568,7 @@ An outline listing of all linked pages on this site.<p>
  <li><A HREF="/msthesis/msthesis.shtml">kjs ms thesis page</A> </li>
  <li><A HREF="/html/resume.shtml">kjs resume page</A> </li>
  </ul>
-<center><IMG SRC="/graphics/bar1e.jpg"></center>
+<center><IMG SRC="graphics/bar1e.jpg"></center>
 <h3><A HREF="/html/main.shtml">Go back....</a>
 </H3>
 

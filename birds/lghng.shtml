@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Laughing Gull</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Laughing Gull, Katy</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/lghng1.jpg"alt="Laughing Gull"></a><p>
-<IMG SRC="/graphics/lghng2.jpg"alt="Laughing Gull"></a></center><p>
+<center><IMG SRC="graphics/lghng1.jpg"alt="Laughing Gull"></a><p>
+<IMG SRC="graphics/lghng2.jpg"alt="Laughing Gull"></a></center><p>
 <hr size=15>
 <H3>
 Laughing Gulls have been the more common overhead visitor, but have always been devilishly hard to photograph.  Hope these photos look OK.  
@@ -25,7 +25,7 @@ Laughing Gulls have been the more common overhead visitor, but have always been 
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

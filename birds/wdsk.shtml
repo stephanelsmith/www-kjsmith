@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Wood Stork</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Wood Stork, Katy</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/wdsk1.jpg"alt="Wood Stork"></a><p>
-<IMG SRC="/graphics/wdsk2.jpg"alt="Wood Stork"></a></center><p>
+<center><IMG SRC="graphics/wdsk1.jpg"alt="Wood Stork"></a><p>
+<IMG SRC="graphics/wdsk2.jpg"alt="Wood Stork"></a></center><p>
 <hr size=15>
 <H3>
 In early summer I was treated to several very large kettles (not sure if this is the correct term here) of Wood Storks quite distant and high working their way eastward, very excing!<p>
@@ -24,7 +24,7 @@ In early summer I was treated to several very large kettles (not sure if this is
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

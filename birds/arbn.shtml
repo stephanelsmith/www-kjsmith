@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, American Robin</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>American Robin, Katy, TX</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/graphics/arbn2.jpg"alt="American Robin"></a><p>
-<IMG SRC="/graphics/arbn1.jpg"alt="American Robin"></a></center>
+<center><IMG SRC="graphics/arbn2.jpg"alt="American Robin"></a><p>
+<IMG SRC="graphics/arbn1.jpg"alt="American Robin"></a></center>
 <p>
 Robins were the most common yard bird where I grew up in Yakima Washington, at least as I recollect things.  Since moving away these birds have become somewhat rare to me.  It is thus with some pleasure that a few robins have taken to rustling about in the leaves under the backyard shrubs.  Lots of goos bug hunting there I am sure!
 <p>
@@ -23,7 +23,7 @@ Robins were the most common yard bird where I grew up in Yakima Washington, at l
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

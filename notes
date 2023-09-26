@@ -1,0 +1,3 @@
+
+find . -name "*.shtml" -exec sed -i 's_="/graphics_="graphics_g' {} \;
+

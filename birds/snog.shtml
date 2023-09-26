@@ -2,18 +2,18 @@
 <HEAD>
 <TITLE>kjs bird photos, Snow Goose</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Snow Goose, Katy</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="/graphics/snog1.jpg"alt="Snow Goose"></a></center><p>
+<center><IMG SRC="graphics/snog1.jpg"alt="Snow Goose"></a></center><p>
 It is autumn and the geese are arriving, what spectactular birds.<p>
 <hr>
-<center><IMG SRC="/graphics/snog2.jpg"alt="Snow Goose"></a><p>
-<IMG SRC="/graphics/snog3.jpg"alt="Snow Goose"></a></center><p>
+<center><IMG SRC="graphics/snog2.jpg"alt="Snow Goose"></a><p>
+<IMG SRC="graphics/snog3.jpg"alt="Snow Goose"></a></center><p>
 Snow geese were overhead visitors through much of the winter into very early spring.  These photos show an interesting flock with both white and blue morph individuals present.<p>
 
 <br>kjs<P>
@@ -25,7 +25,7 @@ Snow geese were overhead visitors through much of the winter into very early spr
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs bird photos, Chocard</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Chocard, Savoie</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/chrd1.jpg"alt="Chocard"></a></center>
+<center><IMG SRC="graphics/chrd1.jpg"alt="Chocard"></a></center>
 <hr>
-<center><IMG SRC="/graphics/chrd2.jpg"alt="Chocard"></a></center>
+<center><IMG SRC="graphics/chrd2.jpg"alt="Chocard"></a></center>
 <hr size=15>
 <H3>
 
@@ -20,7 +20,7 @@ A Chocard (Chocard a Bec Jaune) is truly a bird of the high Alps, they make thei
 <br>kjs<p>
 
 <hr>
-<center><IMG SRC="/graphics/chrd3.jpg"alt="Samivel"></a></center><p>
+<center><IMG SRC="graphics/chrd3.jpg"alt="Samivel"></a></center><p>
 D'apres Samivel....
 <hr size=15>
 
@@ -30,7 +30,7 @@ D'apres Samivel....
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

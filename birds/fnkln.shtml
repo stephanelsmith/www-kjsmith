@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs bird photos, Franklin's Gull</TITLE>
 
-<BODY BACKGROUND="/graphics/geese.jpg"
+<BODY BACKGROUND="graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Franklin's Gull, Katy</H2></center>
 
 <hr size=15>
-<center><IMG SRC="/graphics/fnkln1.jpg"alt="Franklin's Gull"></a><p>
-<IMG SRC="/graphics/fnkln2.jpg"alt="Franklin's Gull"></a><p>
-<IMG SRC="/graphics/fnkln3.jpg"alt="Franklin's Gull"></a></center><p>
+<center><IMG SRC="graphics/fnkln1.jpg"alt="Franklin's Gull"></a><p>
+<IMG SRC="graphics/fnkln2.jpg"alt="Franklin's Gull"></a><p>
+<IMG SRC="graphics/fnkln3.jpg"alt="Franklin's Gull"></a></center><p>
 <hr size=15>
 <H3>
 I suspect this about completes my Gull diversity for the garden.  I spotted these gulls one April morning and posted them to eBird assuming they were my "typical" Laughing gulls.  A quick email from J Brenner of eBird informed me these were Franklin's.  That corrected, I realized that this was a lifer spotting for me!
@@ -26,7 +26,7 @@ I suspect this about completes my Gull diversity for the garden.  I spotted thes
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="/graphics/bar0.jpg"</a></center>
+<center><IMG SRC="graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
