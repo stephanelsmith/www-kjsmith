@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, inca dove</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Inca Dove, Houston</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="graphics/inca1.jpg"alt="Ruby Throated hummingbird"></a><p><p>
-<IMG SRC="graphics/inca2.jpg"alt="Ruby Throated hummingbird"></a><p></center>
+<center><IMG SRC="/graphics/inca1.jpg"alt="Ruby Throated hummingbird"></a><p><p>
+<IMG SRC="/graphics/inca2.jpg"alt="Ruby Throated hummingbird"></a><p></center>
 Inca doves are not uncommon in the Housotn area, but not very common either.  In two years of tallying the garden census this is the first and only visit.  It is a small dove not much larger than the cardinal it is confronting.  Luckily I had my camera handy!
 <br>kjs<P>
 
@@ -21,7 +21,7 @@ Inca doves are not uncommon in the Housotn area, but not very common either.  In
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 </h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->

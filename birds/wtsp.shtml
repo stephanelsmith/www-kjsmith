@@ -2,19 +2,19 @@
 <HEAD>
 <TITLE>kjs bird photos, White-Throated Sparrow</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>White-Throated Sparrow, Houston Barker Reservoir</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="graphics/wtsp.jpg"alt="White-Throated Sparrow"></a></center>
+<center><IMG SRC="/graphics/wtsp.jpg"alt="White-Throated Sparrow"></a></center>
 <p>
 Resting after being blown in on a November cold front, this White-Throated Sparrow eyes me suspiciously while posing for a few photos.   
 <br>kjs<P>
 <hr size=15>
-<center><IMG SRC="graphics/wtsp2.jpg"alt="White-Throated Sparrow"></a></center><p>
+<center><IMG SRC="/graphics/wtsp2.jpg"alt="White-Throated Sparrow"></a></center><p>
 Addendum: In early December a small flock of 10 - 20 or more White-throated Sparrows has moved into the garden making it a regular convention center.  They are strictly ground-feeders and take no advantage of the feeders hanging overhead.  Apparently our messy finches and cardinals let fall enough seeds to make things worthwhile.  The cardinals are not welcoming though and the English Sparrows, who normally hang out in the front of the house have gotten jealous and are making competition in the garden.  No end of fun!  <p>
 Addendum - January 2012: <br>
 Several of my White Throateds have decided to overwinter with my garden flock.  It is always easy to spot them by their curious habit of scratching the ground with an abrupt forward/backward movement.  They are larger than my Chipping Sparrows and they no longer receive any grief from the English Sparrows.  They have earned their place...
@@ -26,7 +26,7 @@ Several of my White Throateds have decided to overwinter with my garden flock.  
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

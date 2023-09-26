@@ -2,25 +2,25 @@
 <HEAD>
 <TITLE>kjs bird photos, Cigogne Blanche</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Cigogne Blanche, Alsace</H2></center>
 
 <hr size=15>
-<center><IMG SRC="graphics/cigg.jpg"alt="Cigogne Blanche"></a></center>
+<center><IMG SRC="/graphics/cigg.jpg"alt="Cigogne Blanche"></a></center>
 <hr size=5>
 
 <H3>
 The province of Alsace in eastern France has long been known for its beautiful White Storks building massive nests atop the chimneys of local houses.  This fine specimen flew over and around me one afternoon while walking around the village of Turkheim.<p>
 <hr size=15>
-<center><IMG SRC="graphics/cig2.jpg"alt="Cigogne Blanche"></a><p>
-<IMG SRC="graphics/cig1.jpg"alt="Cigogne Blanche"></a></center>
+<center><IMG SRC="/graphics/cig2.jpg"alt="Cigogne Blanche"></a><p>
+<IMG SRC="/graphics/cig1.jpg"alt="Cigogne Blanche"></a></center>
 <hr size=15>
 More visits to Alsace, more of these lovely birds.
 <br>kjs<p>
-<center><IMG SRC="graphics/hansi.jpg"alt="Hansi"></a></center>
+<center><IMG SRC="/graphics/hansi.jpg"alt="Hansi"></a></center>
 <hr size=5>
 </frameset>
 <NOFRAME>
@@ -28,7 +28,7 @@ More visits to Alsace, more of these lovely birds.
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

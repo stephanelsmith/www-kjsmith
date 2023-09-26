@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Herring Gull</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Herring Gull, Katy</H2></center>
 
 <hr size=15>
-<center><IMG SRC="graphics/hrng1.jpg"alt="Herring Gull"></a><p>
-<IMG SRC="graphics/hrng2.jpg"alt="Herring Gull"></a></center><p>
+<center><IMG SRC="/graphics/hrng1.jpg"alt="Herring Gull"></a><p>
+<IMG SRC="/graphics/hrng2.jpg"alt="Herring Gull"></a></center><p>
 <hr size=15>
 <H3>
 Herring Gulls, It is about time some finally flew over.  
@@ -25,7 +25,7 @@ Herring Gulls, It is about time some finally flew over.
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

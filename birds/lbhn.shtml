@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs bird photos, Little Blue Heron</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Little Blue Heron, Katy, TX</H2></center>
 
 <hr size=15>
-<center><IMG SRC="graphics/lbhn.jpg"alt="Little Blue Heron"></a></center>
+<center><IMG SRC="/graphics/lbhn.jpg"alt="Little Blue Heron"></a></center>
 <hr size=15>
 <H3>
 Not all birds I see from my garden are seen actually IN the garden.  Some fly overhead and these count too.  When Houston received a lot of heavy rain the catchment reservoirs fill and the waders come out in force.  At such times we have frequent flyovers of many interesting large birds, Little Blut Herons in this case.
@@ -22,7 +22,7 @@ Not all birds I see from my garden are seen actually IN the garden.  Some fly ov
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

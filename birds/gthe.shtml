@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs bird photos, Green-Tailed Towhee</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Green-Tailed Towhee, Katy Prairie</H2></center>
 
 <hr size=15>
-<center><IMG SRC="graphics/gthe.jpg"alt="Green-Tailed Towhee"></a></center>
+<center><IMG SRC="/graphics/gthe.jpg"alt="Green-Tailed Towhee"></a></center>
 <hr size=15>
 <H3>
 A very rare find for Texas, this lost western child (the bird in this case, not me) was sited by Jim Hinson along Sharp Road at Cypress Creek.  I happened to be making my first foray into the Katy Prairie area and was kindly invited to share in the excitement.  Thanks Jim!
@@ -22,7 +22,7 @@ A very rare find for Texas, this lost western child (the bird in this case, not 
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

@@ -2,16 +2,16 @@
 <HEAD>
 <TITLE>kjs bird photos, White Pelican</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>White Pelican, Katy</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="graphics/wplcn1.jpg"alt="White Pelican"></a><p>
-<IMG SRC="graphics/wplcn2.jpg"alt="White Pelican"></a><p>
-<IMG SRC="graphics/wplcn3.jpg"alt="White Pelican"></a></center><p>
+<center><IMG SRC="/graphics/wplcn1.jpg"alt="White Pelican"></a><p>
+<IMG SRC="/graphics/wplcn2.jpg"alt="White Pelican"></a><p>
+<IMG SRC="/graphics/wplcn3.jpg"alt="White Pelican"></a></center><p>
 
 Lay on your back looking up long enough and you never quite know what will turn up here on the Gulf Coast.  Actually, I have been aware of the possibility for seeing pelicans for some time and had all but given up ever seeing one.  Absolutly lovely and so graceful!
 
@@ -23,7 +23,7 @@ Lay on your back looking up long enough and you never quite know what will turn 
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

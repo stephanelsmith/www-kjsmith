@@ -2,14 +2,14 @@
 <HEAD>
 <TITLE>kjs bird photos, Rufous-Collared Sparrow</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Rufous-Collared Sparrow, Rio de Janerio</H2></center>
 
 <hr size=15>
-<center><IMG SRC="graphics/rcsp.jpg"alt="Rufous-Collared Sparrow"></a></center>
+<center><IMG SRC="/graphics/rcsp.jpg"alt="Rufous-Collared Sparrow"></a></center>
 <hr size=15>
 <H3>
 Visiting lovely Rio de Janerio with my family, we took a memorable visit up Corcovado mountain to see the statue Cristo Redentor.  While there atop the mountain it is possible to see the whole city laid out below, assuming the clouds don't visit too much.  One can also see an occasional Rufous-Collared Sparrow, enjoying the views I am sure.
@@ -22,7 +22,7 @@ Visiting lovely Rio de Janerio with my family, we took a memorable visit up Corc
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

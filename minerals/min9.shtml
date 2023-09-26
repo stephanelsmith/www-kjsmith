@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 <TITLE>kjs petrology</TITLE>
-<BODY BACKGROUND="minerals/m13-3er.jpg"
+<BODY BACKGROUND="m13-3er.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -9,8 +9,8 @@
 <H2>Choices:</H2>
 <hr size=15>
 <p><H3><p>
-<a href=/ minerals/mineral.htm>No Frames</a><p>
-<a href=/ minerals/min0.htm>Frames</a> (much better)<p>
+<a href=mineral.htm>No Frames</a><p>
+<a href=min0.htm>Frames</a> (much better)<p>
 </center>
 <hr size=15>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></H3>

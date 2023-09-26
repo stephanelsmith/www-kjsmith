@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Tennessee Warbler</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Tennessee Warbler, Katy, Tx</H2></center>
 
 <hr size=15>
-<center><IMG SRC="graphics/twlbr0.jpg"alt="Tennessee Warbler"></a><p>
-<IMG SRC="graphics/twlbr1.jpg"alt="Tennessee Warbler"></a></center>
+<center><IMG SRC="/graphics/twlbr0.jpg"alt="Tennessee Warbler"></a><p>
+<IMG SRC="/graphics/twlbr1.jpg"alt="Tennessee Warbler"></a></center>
 <hr size=15>
 <H3>
 Spring 2013 and the bottle brush is blooming like mad outside in the garden.  It is proving to be such a bird magnet this year.  We have a small number, say 4 or more, of these Tennessee Warblers staying around the last couple weeks, they love the flower nectar!
@@ -23,7 +23,7 @@ Spring 2013 and the bottle brush is blooming like mad outside in the garden.  It
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

@@ -2,18 +2,18 @@
 <HEAD>
 <TITLE>kjs bird photos, Barred Owl</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Barred Owl, Katy, TX</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="graphics/bdowl.jpg"alt="Barred Owl"></a></center><p>
+<center><IMG SRC="/graphics/bdowl.jpg"alt="Barred Owl"></a></center><p>
 
 Living as we do not far from a rather large flood reservoir, we get a lot of interesting characters one might not otherwise expect in the city or even in suburbs.  One evening in December we started hearing an interesting hooting, clearly an owl but, invisible, we had little clue as to what type.  It stayed around for a couple weeks and I did manage to get a bit of a <a href="graphics/bdowl.wav">recording </a> of the chap.  That led to an eventual identification as a barred owl.  As these are nocturnal creatures who normally inhabit the deeper portions of the reservoir, we really had no hope of seeing it.  Imagine our surprise one morning in early summer to find it snoozing in a tree overlooking the garden.  Its very presence giving importance and meaning to the lives of all the Blue Jays (especially), Grackles, House Finches and even English Sparrows who were harrassing it as it slept soundly on its branch.  <p>
 
-<center><IMG SRC="graphics/bdowl-cht.jpg"alt="Barred Owl"></a></center><p>
+<center><IMG SRC="/graphics/bdowl-cht.jpg"alt="Barred Owl"></a></center><p>
 Barred owls are more often heard than seen, but they are heard farily often, especially in the autumn.  Numbers are small, one or two birds max, generally one only.
 
 <p>kjs<p>
@@ -25,7 +25,7 @@ Barred owls are more often heard than seen, but they are heard farily often, esp
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

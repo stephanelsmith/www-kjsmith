@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs bird photos, piratic flycatcher</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
@@ -10,7 +10,7 @@
 <H3>
 
 <hr size=15>
-<center><IMG SRC="graphics/prfc1.jpg"alt="Piratic Flycatcher"></a></center><p>
+<center><IMG SRC="/graphics/prfc1.jpg"alt="Piratic Flycatcher"></a></center><p>
 
 
 Something special happened in the garden on 26 September, 2015..  A rare vagrant showed up to pose, difficultly, for its photo well out of its normal range from South America to Central Mexico.  I was out on my back, (quite literally, I was hawk watching) when I noticed an unusual bird land high in our live oak.  Thinking there was a new garden visitor, I checked it out with the binocs.  I realized it was something new for the garden but otherwise apparently just another bird.  I lifted my camera and squeezed off a few shots, made especially difficult because I was lying down and the bird was behind twigs and small branches.  It didn't help that I was hand pointing and manually focusing at that.  When I checked the view screen and determined some shots ought to be good enough for an ID I stopped. Little did I know, and now regret, that I didn't make more effort to get into a better position.  Oh well...<p>
@@ -20,7 +20,7 @@ Later while trying to ID the bird I was frustrated and unable to find anything l
 As I write this note, the status is a probable Piratic according to the ABA.  No word from TOC but with their more stringent reporting requirements I imagine it will remain a toss between Piratic and Variegated.  Seems my photos were not detailed enough and I did not get a view of the back or wings.  As the two bird possibilities have rather different sizes, (6 inches for Piratic versus 7 1/4 for Variegated) I have made a rather detailed analysis of the size of the bird in the photo, see below.  Updates will be made here when finalized.  Personally, I feel certain that the Piratic as the most reasonable choice (again, see my size analysis below). According to the TOC checklist only 5 confirmed sightings of this bird have been made previously in Tx.  What fun!<p>
 <p>kjs<p>
 
-<center><IMG SRC="graphics/ABAblog.jpg"alt="ABA Blog 27 Sep, 2015"></a></center><p>
+<center><IMG SRC="/graphics/ABAblog.jpg"alt="ABA Blog 27 Sep, 2015"></a></center><p>
 Checkout the <A HREF="http://blog.aba.org/2015/09/abarare-piratic-flycatcher-texas.html">ABA Blog</a> here.<p>
 
 <hr>
@@ -32,7 +32,7 @@ Foreshortening results from the lookup angle to the bird.  Were the bird sitting
 I also look at the lookup angle as a test for my distance uncertainty ranges.  I judge from my observing chair that the lookup angle is about 35 degrees or so.  Calculated angles that vary dramatically are improbable, and in any case, the distance to the bird can never be shorter than the horizontal distance to the tree.  My uncertainty ranges result in possible lookup angles between 22 to 41 degrees which seem reasonable.<p>
 Finally, I implemented a simple Monte-Carlo uncertainty analysis in the spreadsheet to handle the various uncertainties explained above.  The analysis used 2000 iterations through the uncertainty ranges randomly selected with a flat distribution.  This process gives results for every possible combination of input with a probability distribution for the results obtained.<br>
 The graphic below summarizes my analysis.  Included is a histogram of the resulting length calculations and the probability distribution curve.  Imposed on the graph I have indicated the range in published bird length for the Piratic and Variegated flycatchers.  It is clear that, given my estimates in uncertainty, the Piratic is indicated as the flycatcher in question.  There is a 98% probability that the bird photographed is SMALLER than the smallest published size of a Variegated.  The Piratic size range crosses the 50 percentile in my analysis.<p>
-<center><IMG SRC="graphics/psize.jpg"alt="Size Analysis"></a></center><p>
+<center><IMG SRC="/graphics/psize.jpg"alt="Size Analysis"></a></center><p>
 
 <hr size=15>
 </frameset>
@@ -41,7 +41,7 @@ The graphic below summarizes my analysis.  Included is a histogram of the result
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

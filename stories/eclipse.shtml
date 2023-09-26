@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, solar eclipse, montana</TITLE>
 
-<BODY BACKGROUND="stories/e1snap.jpg"
+<BODY BACKGROUND="e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 <hr size=15>
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="graphics/eclipse.jpg"> <br clear>
+<img SRC="/graphics/eclipse.jpg"> <br clear>
 </td></tr></table>
 
 As a kid I was always a nut about astronomy.  It was an interest that was to 

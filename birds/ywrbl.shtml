@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Prothonotory Warbler</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Prothonotory Warbler, Houston</H2></center>
 
 <hr size=15>
-<center><IMG SRC="graphics/ywrbl.jpg"alt="Prothonotory Warbler"></a><p>
-<IMG SRC="graphics/ywrbl2.jpg"alt="Prothonotory Warbler"></a></center>
+<center><IMG SRC="/graphics/ywrbl.jpg"alt="Prothonotory Warbler"></a><p>
+<IMG SRC="/graphics/ywrbl2.jpg"alt="Prothonotory Warbler"></a></center>
 <hr size=15>
 <H3>
 This beautiful warbler visited our swimming pool over a period of several days in late August, just beautiful!
@@ -23,7 +23,7 @@ This beautiful warbler visited our swimming pool over a period of several days i
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

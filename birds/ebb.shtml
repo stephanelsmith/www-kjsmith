@@ -2,15 +2,15 @@
 <HEAD>
 <TITLE>kjs bird photos, Eastern Bluebird</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Eastern Bluebird, Mason Creek, Houston</H2></center>
 <H3>
 <hr size=15>
-<center><IMG SRC="graphics/ebb1.jpg"alt="Eastern Bluebird"></a><p>
-<IMG SRC="graphics/ebb2.jpg"alt="Eastern Bluebird"></a></center>
+<center><IMG SRC="/graphics/ebb1.jpg"alt="Eastern Bluebird"></a><p>
+<IMG SRC="/graphics/ebb2.jpg"alt="Eastern Bluebird"></a></center>
 <hr size=15>
 
 A new lifer for me!  This January while taking a walk in the woods north of Mason Creek, a short step from the house kinda sorta, I was honored to find myself in the middle of a small flock of 20 to 30 Eastern Bluebirds making their way amoung the trees.  
@@ -23,7 +23,7 @@ A new lifer for me!  This January while taking a walk in the woods north of Maso
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

@@ -2,7 +2,7 @@
 <HEAD>
 <TITLE>kjs Writings, cascades, mt adams and mt st helens</TITLE>
 
-<BODY BACKGROUND="stories/e1snap.jpg"
+<BODY BACKGROUND="e1snap.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 </HEAD>
 
@@ -14,7 +14,7 @@
 <hr size=15>
 <h3>
 <table border=0 cellpadding=4 align=right><tr><td> <center>
-<img SRC="graphics/sunrise.jpg"> <br clear>
+<img SRC="/graphics/sunrise.jpg"> <br clear>
 </td></tr></table>
 
 As a young man growing up in the Pacific Northwest, one of

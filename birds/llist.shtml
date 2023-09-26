@@ -3,10 +3,10 @@
 <TITLE>kjs birding life list</TITLE>
 
 </HEAD>
-<BODY BACKGROUND="graphics/geese.jpg" BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#ff0000" VLINK="#800000" ALINK="#FFFFFF">
+<BODY BACKGROUND="/graphics/geese.jpg" BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#ff0000" VLINK="#800000" ALINK="#FFFFFF">
 <h2>
 My Life List of Bird Species Seen and Identified:</h2><h4>
-<IMG align=right SRC="graphics/bird.jpg">
+<IMG align=right SRC="/graphics/bird.jpg">
 
 This is a small page celebrating my many years of happy bird watching.  All (most?) birders enjoy keeping various lists of species identified and I am certainly no exception.  My experiences began as an undergraduate in Western Washington University where my friend Bob Maier and I took up the hobby with a passion.  I have always been interested in natural sciences, astronomy, geology, biology, and in hiking and climbing in the high-country where many of my passions are combined.  I began identifying wildflowers very early on many hikes with my parents and later with friends.  <p>
 
@@ -69,7 +69,7 @@ ps. Birding is an old hobby dating back to the late middle ages at least!<br>
 <A HREF="/birds/assisi.shtml">Saint Francis of Assisi's Sermon to the Birds..</a>  c1220<p>
 
 <p>
-<p><IMG SRC="graphics/poolparty.jpg"><p>
+<p><IMG SRC="/graphics/poolparty.jpg"><p>
 
 <br clear=left>
 </h4><p>

@@ -2,21 +2,21 @@
 <HEAD>
 <TITLE>kjs bird photos, Baltimore Oriole</TITLE>
 
-<BODY BACKGROUND="graphics/geese.jpg"
+<BODY BACKGROUND="/graphics/geese.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
 
 </HEAD>
 <center><H2>Baltimore Oriole, Houston</H2></center>
 <h3>
 <hr size=15>
-<center><IMG SRC="graphics/btor4.jpg"alt="Baltimore Oriole"></a><p>
-<IMG SRC="graphics/btor5.jpg"alt="Baltimore Oriole"></a></center>
+<center><IMG SRC="/graphics/btor4.jpg"alt="Baltimore Oriole"></a><p>
+<IMG SRC="/graphics/btor5.jpg"alt="Baltimore Oriole"></a></center>
 We have had occasional visits by Baltimore Orioles over the last year but no real good close views or frequent visits.  This spring we began making a better effort to entice the birds with tasty orange halves at the feeder.  For over a month we have kept fresh oranges only to have them spurrned.  We know they are in the vicinity, just the other day a couple turned up to play in the artificial rain, above, (Madame had so much fun getting wet that she needed to really fluff up and dry out after).  <br>Finally today a handsome male came to taste the orange.  We certainly hope it will be to his liking.  If he (and wife) become regulars I am hankering to add an oriole necter feeder.  We see...  <p>
-<center><IMG SRC="graphics/btor1.jpg"alt="Baltimore Oriole"></a><p>
-<IMG SRC="graphics/btor2.jpg"alt="Baltimore Oriole"></a><p>
-<IMG SRC="graphics/btor3.jpg"alt="Baltimore Oriole"></a></center><p>
+<center><IMG SRC="/graphics/btor1.jpg"alt="Baltimore Oriole"></a><p>
+<IMG SRC="/graphics/btor2.jpg"alt="Baltimore Oriole"></a><p>
+<IMG SRC="/graphics/btor3.jpg"alt="Baltimore Oriole"></a></center><p>
 
-<center><IMG SRC="graphics/btor-cht.jpg"alt="Baltimore Oriole"></a></center>
+<center><IMG SRC="/graphics/btor-cht.jpg"alt="Baltimore Oriole"></a></center>
 Stats show our Baltimore Orioles to be passage visitors in spring and fall, not hanging through the summer.  More's the pity as these are such magnificant birds.
 
 <p>kjs<p>
@@ -28,7 +28,7 @@ Stats show our Baltimore Orioles to be passage visitors in spring and fall, not 
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
 <p>
-<center><IMG SRC="graphics/bar0.jpg"</a></center>
+<center><IMG SRC="/graphics/bar0.jpg"</a></center>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
