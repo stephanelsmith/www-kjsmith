@@ -11,12 +11,12 @@
 <H3>
 
 <hr>
-<center><IMG SRC="/13jul90.gif" alt="13jul90" width=626 height=413></center>
+<center><IMG SRC="13jul90.gif" alt="13jul90" width=626 height=413></center>
 <hr>
 Summertime blues, solar flux good at 153, Ap=10, pretty quiet day but with lousy reception.
 
 <hr size=15>
-<A HREF="/r3seasn.shtml">Return..</a><br></h3>
+<A HREF="r3seasn.shtml">Return..</a><br></h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

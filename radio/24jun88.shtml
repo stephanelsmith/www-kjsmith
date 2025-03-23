@@ -11,12 +11,12 @@
 <H3>
 
 <hr>
-<center><IMG SRC="/24jun88.gif" alt="24jun88" width=627 height=412></center>
+<center><IMG SRC="24jun88.gif" alt="24jun88" width=627 height=412></center>
 <hr>
 Major flare at 1609UT (1009 CST).
 
 <hr size=15>
-<A HREF="/r3seasn.shtml">Return..</a><br></h3>
+<A HREF="r3seasn.shtml">Return..</a><br></h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

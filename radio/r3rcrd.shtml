@@ -22,7 +22,7 @@ The interface between the receiver and computer uses a voltage to ohms converter
 		 +20db		 157
 </pre>
 <hr size=15>
-<center><IMG SRC="/17feb89.gif" alt="record of 17 feb, 1989" width=626 height=412></center>
+<center><IMG SRC="17feb89.gif" alt="record of 17 feb, 1989" width=626 height=412></center>
 <hr>
 The above record shows a fairly "classic" responce for a 15 hour run.  In all my runs regardless of duration I collected 3200 samples only.  That was an expedient to simplify the programming, keep the record within the memory limits of a Commodore 64, and have a simple multiple of the high-resolution screen's 320 pixel width.  For a nominal 15 hour run that translates to about one record each 17 seconds which is more than sufficient for the project.  In addition, I actually sampled continuously between saves and read the average of many readings for each saved record.  Even then, there is considerable fading and short second to minute scale noise which accounts for the "grassy" surface.<p>
 Note also two important features of the record, the very sharp discontinuities at the beginning and end of the "opening", and the general sag or lower strength of the signal at mid-day.  More on the discontinuities later, the sag itself is due to increased absorbtion by the lower D layer at it reached full ionization near midday and dissipates by the afternoon.  There is an assymetry to the opening as well with a longer period of strong signal in the evening than in the morning.  I attribute this to the geometry of the Houston-Ft. Collins curcuit with Ft. Collins being to the west.  By the time the F layer ionizes in the morning at a point halfway between Houston and Ft. Collins, the lower D layer is already ionized, conversely, in the evening there is still a couple of good hours remaining for the F layer after the D has dissipated. <p> 
@@ -30,8 +30,8 @@ Base level, (S0) on this record is 58, the solar flux that day was quite high at
 
 
 <hr size=25>
-<A HREF="/r3seasn.shtml">Next: Seasonal variations..</a><br>
-<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="r3seasn.shtml">Next: Seasonal variations..</a><br>
+<A HREF="/radio/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>

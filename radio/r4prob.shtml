@@ -11,19 +11,19 @@
 <H3>
 Early on in my project I encountered a problem in the interpretation of the data.  Most records like the one below for 30 November 1990, showed a very rapid increase in signal strength from near 60 (S0, no reception) to a maximum of 120 or more (S9+, extremely strong).  
 <hr>
-<center><IMG SRC="/30nov90.gif" alt="Record for 30 November 1990" width=626 height=412></center>
+<center><IMG SRC="30nov90.gif" alt="Record for 30 November 1990" width=626 height=412></center>
 <hr>
 The time from nothing to maximum was often under a minute or two, as shown in the detail chart below where in the minute around 7:36 am CST the signal makes its jump.  (This also shows some of the tight detail available on the records which looks spikey on the normal 15-hour presentation charts).
 <hr>
-<center><IMG SRC="/30nov90a.gif" alt="Record for 30 November 1990, detail" width=626 height=412></center>
+<center><IMG SRC="30nov90a.gif" alt="Record for 30 November 1990, detail" width=626 height=412></center>
 <hr>
 At the time I had the idea that the rise in signal strength in the morning, (and drop in the evening) was associated directly with the ionization of the reflecting F layer.  As the layer ionized under the rising sun the signal would pick up.  The records though could not be interpreted in that manner.  As I thought about it, I realised that there were two problems with my theory:  First, I noted the curious fact that sunrise on the F layer, and therefor ionization, took place up to one or two hours prior to the morning jump in signal strength (and vise versa in the evening).  If the rise in strength was caused by a rise in ionization, why didnt it occur earlier?  Secondly, the duration of the jump, sometimes in just seconds was far too rapid.  The volume of refracting space in the ionosphere was simply too large to be illuminated by sunrise and ionize so rapidly.<p> 
 Thinking about this problem sent me to the textbooks and literature.  There I learned about the relationship between the electron density, radio frequency, and incident angle which I explained in <a href="r2radio.shtml">section 2.3</a>.  The answer to the problem presented itself quite simply:  My circuit, Ft. Collins to Houston had a fairly fixed geometry (if you assume a constant 230 Km height for the refracting region, close but clearly not constant), and a single radio frequency of 15 MHz.  The only variable then is the F layer density which goes critical at about 2.6 x 10^5 cm^-3.  Below that density there can be no propagation.  As the F layer ionizes, quite slowly perhaps, it passes that critical density and causes the sudden jump in strength seen on my records.<p>
 Pretty neat..  If you gather data and think about a thing, you are bound to learn something facinating.  The above relationship quickly suggested to me the experiment described in the following section.
 
 <hr size=25>
-<A HREF="/r4sonde.shtml">Next: Poor man's ionosonde..</a><br>
-<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="r4sonde.shtml">Next: Poor man's ionosonde..</a><br>
+<A HREF="/radio/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>

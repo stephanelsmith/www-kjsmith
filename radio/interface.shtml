@@ -12,20 +12,20 @@
 
 <hr>
 <center>
-<IMG SRC="/schematic.jpg" alt="Interface Schematic Diagram" width=320 height=240><br>
+<IMG SRC="schematic.jpg" alt="Interface Schematic Diagram" width=320 height=240><br>
 Schematic Diagram of the completed interface, (Larger image available on request).<br>
 <hr>
-<IMG SRC="/c64port.jpg" alt="C-64 Paddle Port Diagram" width=320 height=240><br>
+<IMG SRC="c64port.jpg" alt="C-64 Paddle Port Diagram" width=320 height=240><br>
 Commodore 64 Paddle Port Diagram.<br>
 <hr>
-<IMG SRC="/frg7700acc.jpg" alt="FRG-7700 accessory port diagram" width=320 height=240><br>
+<IMG SRC="frg7700acc.jpg" alt="FRG-7700 accessory port diagram" width=320 height=240><br>
 FRG-7700 Accessory Port Diagram.<br>
 <hr>
-<IMG SRC="/interface.jpg" alt="Completed interface" width=320 height=240><br>
+<IMG SRC="interface.jpg" alt="Completed interface" width=320 height=240><br>
 Completed interface.<br>
 </center>
 <hr size=15>
-<A HREF="/r1intro.shtml">Return..</a><br></h3>
+<A HREF="r1intro.shtml">Return..</a><br></h3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

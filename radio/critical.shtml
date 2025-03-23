@@ -11,7 +11,7 @@
 <H3>
 
 <hr>
-<center><IMG SRC="/critical.gif" alt="Graphical presentation of the relationships between the frequency, ionosphere electron density, and propagation incident angle measured from vertical" width=547 height=375></center>
+<center><IMG SRC="critical.gif" alt="Graphical presentation of the relationships between the frequency, ionosphere electron density, and propagation incident angle measured from vertical" width=547 height=375></center>
 <hr>
 Graphical presentation of the relationships between the frequency, ionosphere electron density, and propagation incident angle measured from vertical are given in the expression:<br>
 Nec = 1.2 x 10^4 v^2 cos^2 a  ...(from Tascione, 1988)<p>
@@ -25,7 +25,7 @@ Then the Critical ionosphere density from the formula is<br>
 For densities lower than that value the signal will pass out of the ionosphere into space.  For densities above that value the signal will continue to propogate, but with increasing absorbtion on this circuit.<p>
 
 <hr size=25>
-<A HREF="/r2radio.shtml">Return..</a><br>
+<A HREF="r2radio.shtml">Return..</a><br>
 <hr>
 <A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
 

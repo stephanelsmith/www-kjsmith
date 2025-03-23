@@ -34,12 +34,12 @@ The Ap, or planetary A index is an average daily report which I have commonly us
 
 
 <hr size=25>
-<A HREF="/r1bib.shtml">Next: Short Bibliography..</a><br>
-<A HREF="/r0ctnts.shtml">Return to contents..</a><P>
+<A HREF="r1bib.shtml">Next: Short Bibliography..</a><br>
+<A HREF="/radio/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/html/main.shtml">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
-<!--#include virtual="html/footer.shtml" -->
+<!--#include virtual="/html/footer.shtml" -->
 
 </HTML>
