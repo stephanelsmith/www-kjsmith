@@ -1,0 +1,55 @@
+
+<HTML>
+<HEAD>
+<TITLE>kjs field recording sourcebook, 4.2 Field Guide and some Advice</TITLE>
+
+<BODY BACKGROUND="FRbg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Field Recording Sourcebook..</H2>
+
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="BCover8.jpg"> <br clear>
+</td></tr></table>
+
+<hr size=5>
+</h3><h2>Field Guide and some Advice
+
+Peterson Field Guide To Bird Sounds Of Eastern North America <p></h2><h3>
+Nathan Pieplow, (Peterson Field Guides) Hardcover – March 7, 2017<p>
+$28.00<p>
+
+The first item in your recording kit should be a good guidebook to bird songs and sonograms/spectrograms. The Peterson series offers an excellent choice here, a "Must-Have" for the bird recordist. <p>
+
+</h3><h2>
+Audio preparation and eBird upload guidelines<p></h2><h3>
+Modified on: Wed, 3 May, 2023 at 2:30 PM<p>
+
+[Ed. Note: The eBird audio tutorial presents the purist "keep it natural" approach where editing is strongly discouraged. In my audio clips I typically will do a good deal more low-frequency suppression than is here recommended. This is because of the very noisy suburban environment wherein I make my recordings. Road rumble, aircraft, shooting range, lawnmowers etc introduce a horrendous amount of manmade "unnatural" noise. You include that in a bird recording, normalize it to -3 dB and the bird is lost in the roar.]<p>
+
+[Ed note: eBird quality ratings, in my experience, are subjective and worthless (to me). I would MUCH rather see “Views” given as it is both objective and interesting.]<p>
+
+</h3><h2>
+Making A Quick And Effective Boundary Microphone<p></h2><h3>
+
+If a mic is placed in the pressure zone, then it’s voltage output will be roughly doubled over what it would be in free space, resulting in a 6 dB increase in output level from the mic. If multiple boundaries are used, the increase will be even greater.<p>
+
+The boundary size must be large enough to reflect the lowest frequency of interest. Wavelengths that are large relative to the boundary size will simply diffract around it rather than be reflected.<p>
+
+A method of obtaining free accoustic gain is a pressure zone of boundary plate. This essentially means placing a microphone within 0.035 inches from a ﬂat surface. Each ﬂat surface can provide 6dB of accoustic gain. So, if you have two plates 90 degrees perpendicluar to each other, you can get l2dB of gain. <p>
+ 
+<br clear=left>
+KJS 04/2025<p>
+<hr size=25>
+<A HREF="fr43.shtml">Next: Sound frequency vs wavelength (in)..</a><br>
+<A HREF="RecordNotes0.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="html/footer.shtml" -->
+
+</HTML>

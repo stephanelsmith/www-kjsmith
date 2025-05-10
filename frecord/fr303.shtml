@@ -1,0 +1,52 @@
+
+<HTML>
+<HEAD>
+<TITLE>kjs field recording sourcebook, 3.03 RØDE NT1 Signature/5th Generation</TITLE>
+
+<BODY BACKGROUND="FRbg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Field Recording Sourcebook..</H2>
+
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="BCover8.jpg"> <br clear>
+</td></tr></table>
+
+<hr size=5>
+</h3><h2>RØDE NT1 Signature/5th Generation</h2><h3>
+
+<img align=left src="fr303a.jpg">
+[Ed. Note: Røde The NT1 is a side-address mic with a cardioid pickup pattern. It is my "secondary" microphone needed to pick up calls from outside the focus zone of the parabolic. It is extremely low noise (4 dBA) and quite sensitive at -32 dB. It is an excellent choice for the price.]<p>
+
+The Røde NT1 is a large-diaphragm condenser microphone suitable for a wide range of studio applications. <p>
+
+• Large 1” gold-sputtered capsule<br>
+• Exceptionally low noise (4.5dBA)<br>
+• Smooth frequency response (20Hz – 20kHz)<br>
+• True condenser operation with cardioid polar pattern<br>
+• $159<p>
+
+<br clear=left><p>
+<img src="fr303b.jpg"><p>
+<img src="fr303c.jpg"><br>
+Note in the above chart that the responce at zero degrees polar is plus 5 rather that a customary zero. I can only speculate that Røde marketing is attempting to "suggest" forward gain with their microphone. I find this plot deceptive and have digitized the curves to fix the deception.<p>
+
+<img src="fr303d.jpg"><p>
+
+What is the difference between the NT1 Signature and the 5th Generation?<br>
+The NT1 5th Generation offers a dual USB and XLR output that allows you to record 32-bit floating point audio, whereas the NT1 Signature Series has a single XLR output and is well-suited to musicians and producers, as well as content creators. The 5th Gen prevents clipping, has a built-in preamp, and has DSP effects. While the Signature Series doesn’t include these frills, it sounds identical and is priced more affordably.<p>
+
+KJS 04/2025<p>
+<hr size=25>
+<A HREF="fr304.shtml">Next: Lewitt LCT 540 S..</a><br>
+<A HREF="RecordNotes0.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="html/footer.shtml" -->
+
+</HTML>

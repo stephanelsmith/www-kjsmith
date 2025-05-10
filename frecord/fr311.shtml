@@ -1,0 +1,37 @@
+
+<HTML>
+<HEAD>
+<TITLE>kjs field recording sourcebook, 3.11 Røde NTG8  RF-BIAS LONG SHOTGUN MICROPHONE</TITLE>
+
+<BODY BACKGROUND="FRbg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Field Recording Sourcebook..</H2>
+
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="BCover8.jpg"> <br clear>
+</td></tr></table>
+
+<hr size=5>
+</h3><h2>Røde NTG8  RF-BIAS LONG SHOTGUN MICROPHONE</h2><h3>
+
+<img align=left src="fr311a.jpg"><p>
+<img src="fr311b.jpg"><p>
+<img src="fr311c.jpg"><br>
+Note in the above chart that the responce at zero degrees polar is plus 5 rather that a customary zero (see also the Røde NT1). I can only speculate that Røde marketing is attempting to "suggest" forward gain with their microphones. I find this plot deceptive and have digitized the curves to fix the deception.<p>
+ 
+<br clear=left>
+KJS 04/2025<p>
+<hr size=25>
+<A HREF="fr312.shtml">Next: Røde NTG8 RF-Bias long shotgun microphone..</a><br>
+<A HREF="RecordNotes0.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="html/footer.shtml" -->
+
+</HTML>

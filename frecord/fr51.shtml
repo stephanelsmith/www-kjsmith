@@ -1,0 +1,61 @@
+
+<HTML>
+<HEAD>
+<TITLE>kjs field recording sourcebook, 5.1 Zazu Field Recording Recommendation</TITLE>
+
+<BODY BACKGROUND="FRbg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Field Recording Sourcebook..</H2>
+
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="BCover8.jpg"> <br clear>
+</td></tr></table>
+
+<hr size=5>
+</h3><h2>Zazu Field Recording Recommendation</h2><h3>
+
+Here I present a short recommendation for the potential recordist who has yet to invest in much gear and would like the best possible lowest self-noise and most sensitive setup possible without breaking the budget. <p>
+
+</h3><h2>Recorder:<p>
+Get the Zoom F3 Field Recorder, $300.</h2><h3>
+	This recorder has extreme low self-noise with an EIN of -127 dB.<br>
+	It uses 32 bit floating point A/D so good riddance to pesky level-setting. It has 2 XLR ports that provide phantom power for your condenser mics. As 32 bit is the future of recording, time to go all-in, this is the BEST CHOICE recorder.<p>
+
+</h3><h2>Microphone(s):<br></h2><h3>
+For one desiring highly directional recording I recommend:<br>
+</h3><h2>1) Wildtronics Pro Mono, $790.</h2><h3>
+	This is a 22” parabolic dish mic with extreme low noise (-8 dB) and extreme sensitivity, (-4dB with dish boost). It is rather bulky and you will want a tripod, not for walking in the field unless you are a total masochist. <br>
+</h3><h2>Or 2) Røde NTG8, $999.</h2><h3>
+	This is a long (22”) shotgun mic with similar directionality to the dish above, but more self noise (8 dB) and high sensitivity (-20), 16 dB less than the dish above. At 2ft long with the XLR cable attached it is bulky for walking. <p>
+
+Depending on your budget there are two wide-view choices:<br>
+</h3><h2>3) Røde NT1 Signature, $159.</h2><h3>
+	This microphone has a very low EIN of 4 dB and Sensitivity of -32 dB. You will not do better for the price. It is a side-address studio mic, not too large and easily carriable in the field. Cardioid pickup.<br>
+</h3><h2>Or 4) Lewitt LCT 540 S, $699.</h2><h3>
+Very low EIN of 4 dB and very high sensitivity at -28 dB. Wider pattern than the NT1, this is the TOP CHOICE but rather pricy.<p>
+
+For the indecisive who require a compromise:<br>
+</h3><h2>5) Røde NTG5 shotgun, $499.</h2><h3>
+	A shorter shotgun (8”), it provides some directionality, has low EIN (10dB) and very high sensitivity (-23.5 dB). Easily portable while walking.<p>
+
+OK, there is your gear. You will also want a tripod and associated mounting gadgets, cables, headphones, and a beefy USB battery. For walking ditch the tripod and just get a small waist pouch to hold the recorder and battery. 
+
+
+<p>
+
+<br clear=left>
+KJS 04/2025<p>
+<hr size=25>
+
+<A HREF="RecordNotes0.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="html/footer.shtml" -->
+
+</HTML>
