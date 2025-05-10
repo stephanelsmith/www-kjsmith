@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+<TITLE>kjs field recording sourcebook: a non-commercial web page presenting unique content about field recording, recorders, and appropriate microphones.</TITLE>
+<META Name="description" Content="a non-commercial web page presenting unique content about field recording, recorders, and appropriate microphones.">
+<META Name="keywords" Content="field recording, ambient recording, field recorders, low noise microphones, sensitive microphones">
+<IMG align=right SRC="/earthre.gif">
+<BODY BACKGROUND="FRbg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+
+<center><H1>Field Recording Sourcebook
+</H1></center><P>
+<center><H2>Kevin J Smith ed. 2025</H2></center><P>
+
+<hr size=15><br>
+<IMG align=right SRC="BCover8.jpg">
+
+<li><H2>Contents: Field Recording Sourcebook
+</H2></li>
+<h3>
+<ul><li>1...Introduction</li>
+<ul><li>1.1...<A HREF="fr11.shtml">Avant Propos..</a></li>
+<li>	1.2...<A HREF="fr12.shtml">My field Setup</a></li>
+<li>    1.3...<A HREF="fr13.shtml">My Experiences with Suburban Background Noise</a></li>
+</ul><p>
+<li>2...Recorders</li>
+<ul><li>2.1...<A HREF="fr21.shtml">Recorder specification table</a></li>
+<li>	2.2...<A HREF="fr22.shtml">The ZOOM H5 Handy Recorder</a></li>
+<li>	2.3...<A HREF="fr23.shtml">The Zoom F3 Field Recorder</a></li>
+<li>	2.4...<A HREF="fr24.shtml">Evistr V508</a></li>
+</ul><p>
+<li>3...Microphones</li>
+<ul><li>3.01...<A HREF="fr301.shtml">Microphone specification table</a></li>
+<li>	3.02...<A HREF="fr302.shtml">Wildtronics Pro Mono Parabolic microphone</a></li>
+<li>	3.03...<A HREF="fr303.shtml">Røde NT1 Signature</a></li>
+<li>	3.04...<A HREF="fr304.shtml">Lewitt LCT 540 S</a></li>
+<li>	3.05...<A HREF="fr305.shtml">Røde NT1 versus Lewitt LCT 540 S</a></li>
+<li>	3.06...<A HREF="fr306.shtml">Directional microphone Comparison and Analysis</a></li>
+<li>	3.07...<A HREF="fr307.shtml">Wildtronics Pro Mono versus Telinga w/Schoeps CCM 4</a></li>
+<li>	3.08...<A HREF="fr308.shtml">Wildtronics Pro Mono versus Røde NT1</a></li>
+<li>	3.09...<A HREF="fr309.shtml">Røde NT1 versus NTG5</a></li>
+<li>	3.10...<A HREF="fr310.shtml">Røde NT8 versus Sennheiser MKH 8070</a></li>
+<li>	3.11...<A HREF="fr311.shtml">Røde NTG8 RF-Bias long shotgun microphone</a></li>
+<li>	3.12...<A HREF="fr312.shtml">Røde NTG5 Broadcast shotgun microphone</a></li>
+</ul><p>
+<li>4...Accessories</li>
+<ul><li>4.1...<A HREF="fr41.shtml">Tripod and accessory hardware</a> </li>
+<li>	4.2...<A HREF="fr42.shtml">Field guide etal</a></li>
+<li>	4.3...<A HREF="fr43.shtml">Sound frequency vs wavelength (in)</a></li>
+<li>	4.4...<A HREF="fr44.shtml">Bit rate calculation</a></li>
+<li>	4.5...<A HREF="fr45.shtml">Technical links</a></li>
+</ul><p>
+<li>5...Zazu Field Recording Recommendation</li>
+<ul><li>5.1...<A HREF="fr51.shtml">Zazu Field Recording Recommendation</a> </li>
+</ul><p>
+
+For recording in the field it is critically important to SET YOUR EXPECTATIONS. You are likely not going to be submitting your recordings for inclusion is a National Geographic documentary. Even if you have put together a zazu noise-free setup, it will NOT prevent your neighbors from fireing up their gasoline-powered leaf blower right when that rare bird is calling. You live in a noisy environment, deal with it!<p>
+
+KJS 04/2025<p>
+<p>
+
+<hr size=5>
+Field Recording Sourcebook<br>
+<p>
+<A HREF="RecordNotes.pdf"><img border=0 SRC="btFR4.jpg"</a>
+<A HREF="RecordNotes.pdf">Field Recording Sourcebook: PDF format</a> <p>
+<hr>
+
+<hr size=15>
+<A HREF="/html/main.shtml">Return...</a></H3>
+
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="html/footer.shtml" -->
+
+</HTML>

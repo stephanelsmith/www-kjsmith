@@ -1,0 +1,50 @@
+
+<HTML>
+<HEAD>
+<TITLE>kjs field recording sourcebook, 3.08 Wildtronics Pro Mono versus Røde NT1</TITLE>
+
+<BODY BACKGROUND="FRbg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Field Recording Sourcebook..</H2>
+
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="BCover8.jpg"> <br clear>
+</td></tr></table>
+
+<hr size=5>
+</h3><h2>Wildtronics Pro Mono versus Røde NT1</h2><h3>
+
+I have been recording for some time now with a dual-channel Wildtronics / Røde NT1 setup. It was my intention to have the Røde cover the space above, behind, and to the sides of the highly directional dish, zones “rejected”. On my recordings it always seems surprising to me that the "chatter" on the two tracks are pretty much the same. That is, the dish is recording all the same sounds as the NT1 and at similar amplitudes. Yes, sometimes the dish brought in the sound at superb strength and I know I was in good focus (I do not, can not reposition the dish with every chirp I hear). From many articles I have read I had been led to think of directionality as off-axis rejection. That is NOT happening. Now I understand why.<p>
+
+Having constructed polar plots scaled to absolute sensitives when comparing directional microphones, I am struck by the incredible sensitivity of the Wildtronics dish at all polar angles. This should remind the reader that "Directional" in microphones is defined as a ratio between the sensitivity at zero polar angle to that at some large angle, say at 60 or 90 degrees. It is NOT "off axis rejection" although it is often presented as such. <p>
+
+The following plot shows the Wildtronics polar responce for 1000 and 3150 Hz along with the Røde NT1 responce at 1000 and 4000 Hz. All curves are plotted with their correct sensitivities relative to each other. On the chart I have rotated the NT1 120 degrees off the dish zero axis. This reflects my actual setup where the angle between the two microphone zero axes is about 120 degrees. Think of the chart as representing a vertical cut with the NT1 directed up and behind the dish. Note that the Wildtronics data appears “puffed out” due to the scale chosen in this plot. I assure you the data is unchanged and the plot correctly shows the relative amplitudes of the original.<p>
+
+<img src="fr308a.jpg"><p>
+
+The first and immediate imnpression is just how much lower the Røde NT1 sensitivity (blue curves) is with respect to the dish (red curves) with its "free gain". The Lewitt LCT 540 S would only be four dB better, still well below the dish sensitivity. My angst about missing the off-axis rarities was misplaced! <p>
+
+Or was it? These plots are theoritical and while based on actual measurements, may not be an exact representation of the sensitivity in the field, nor does Wildtronics publish sensitivity measurements at 4000 and 8000 Hz. I do occasionally record higher amplitudes with the NT1, especially from birds flying above and behind my setup, Whistling ducks and Swifts come readily to mind. Note also that thes polar region 60d to 180d is characterized by several side lobes which come and go with frequency. <p>
+
+Finally, leveling must be taken into account. With the H5 I generally level the Wildtronics at 7 while leveling the Røde NT1 at 9. That is a 21% increase in "sensitivity" for the NT1. The following plot is a TOTAL FAKE where I have simply "boosted" the NT1 amplitudes by 21% with respect to the Wildtronics. Here you begin to see the utility of the second microphone in the setup. Additionally, looking closely I have added points where the Telenga 4000 Hz data plots. It also suggests the need for better coverage in the side and rear position of the big parabola. It is a close call. <p>
+
+<img src="fr308b.jpg"><p>
+
+With an otherwise unused second channel available, why not use it?  Plunking down $700 for the Lewitt may improve things even more.<p>
+
+
+KJS 04/2025<p>
+<hr size=25>
+<A HREF="fr309.shtml">Next: Røde NT1 versus NTG5..</a><br>
+<A HREF="RecordNotes0.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/html/main.shtml">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="html/footer.shtml" -->
+
+</HTML>
