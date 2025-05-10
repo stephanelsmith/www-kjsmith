@@ -23,7 +23,7 @@ Kevin Smith,  3/98<P>
 <center><a href="timebib.shtml">Bibliography</a>, List of books from which the chart derives<br></center>
 
 <hr size=15>
-<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/index.html target= _parent>Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

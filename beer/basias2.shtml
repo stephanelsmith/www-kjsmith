@@ -18,7 +18,7 @@ The labels in this section represent a few of the many Chinese beers I have samp
 <NOFRAME>
 <h3><A HREF=/beer/beer0.shtml target= _parent>Return..</a><br>
 <hr>
-<A HREF=/html/main.shtml target= _parent>Go back....</a></h3>
+<A HREF=/index.html target= _parent>Go back....</a></h3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

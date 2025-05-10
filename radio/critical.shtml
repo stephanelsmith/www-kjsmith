@@ -27,7 +27,7 @@ For densities lower than that value the signal will pass out of the ionosphere i
 <hr size=25>
 <A HREF="r2radio.shtml">Return..</a><br>
 <hr>
-<A HREF=/html/main.shtml target= _parent>Go back....</a></H3>
+<A HREF=/index.html target= _parent>Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->
