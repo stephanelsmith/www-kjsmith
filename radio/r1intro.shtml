@@ -26,7 +26,7 @@ A true confession, while I can ponder for hours the possible physical reasons be
 <A HREF="r1def.shtml">Next: Some Definitions..</a><br>
 <A HREF="/radio/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

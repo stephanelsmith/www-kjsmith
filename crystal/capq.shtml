@@ -278,7 +278,7 @@ Aluminum n Ceramic Estonia					337 AnC EB	Q = 1149 * f ^-2.429	0.9810
 
 <A HREF="lab.shtml">Return to Lab..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/index.html">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

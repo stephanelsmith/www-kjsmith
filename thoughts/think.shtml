@@ -30,7 +30,7 @@ The following essays and/or snippits of information were written at various time
 <a href="crueparis.shtml">something MUST be done..<br></a> Crues de la Seine a Austerlitz, Paris.<p>
 </center>
 <center><IMG SRC="/graphics/bar5e.jpg"></center><hr size=15><h3>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

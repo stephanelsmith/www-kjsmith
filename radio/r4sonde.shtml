@@ -30,7 +30,7 @@ The plot shows that the ionosphere goes through a morning period of fairly rapid
 <A HREF="r4waves.shtml">Next: Density waves..</a><br>
 <A HREF="/radio/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

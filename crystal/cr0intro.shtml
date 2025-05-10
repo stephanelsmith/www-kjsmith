@@ -112,7 +112,7 @@ I would love to hear from you if you have comments or questions.  Please write m
 </h4><h3>
 <A HREF="kjcrystal.shtml">Return..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="/kjsmith/html/footer.shtml" -->

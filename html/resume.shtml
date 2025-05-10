@@ -12,7 +12,7 @@ Gosh and Awww shucks, I must be SO important!</H2><P><h3>
 
 
 <hr size=15><h3>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

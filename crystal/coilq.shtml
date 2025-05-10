@@ -378,7 +378,7 @@ MHz	uH	pF		cal		Mohm	ohm			ohm
 <hr size=15><h3>
 <A HREF="lab.shtml">Return..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/index.html">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

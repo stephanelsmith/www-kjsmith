@@ -25,7 +25,7 @@ kjs<br>
 <hr size=15>
 <A HREF="msthesis.shtml">Back to Master's Thesis main page</a><p>
 <hr size=5>
-<A HREF="/html/main.shtml">Return to Main...</a></H3>
+<A HREF="/index.html">Return to Main...</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

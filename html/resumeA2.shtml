@@ -80,7 +80,7 @@
 <P ALIGN="JUSTIFY">Communications and Presentations Workshops</P></BODY>
 
 <hr size=15>
-<h3><A HREF="/html/main.shtml">Go back....</a></H3>
+<h3><A HREF="/index.html">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

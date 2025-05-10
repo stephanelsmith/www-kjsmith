@@ -31,7 +31,7 @@ Measurements of the Inductance show a large variation, from 163 uH to 1036 uH.  
 <hr size=15><h3>
 <A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/index.html">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

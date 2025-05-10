@@ -41,7 +41,7 @@ Finally, a small gallery of relays, and even an old auto vibrator that were test
 <hr size=15><h3>
 <A HREF="spark.shtml">Return..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/index.html">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

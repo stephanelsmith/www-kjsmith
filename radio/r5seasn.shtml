@@ -24,7 +24,7 @@ When plotting the length of time of the openings by season the situation is reve
 <A HREF="r5actv.shtml">Next: Signal strength by solar activity..</a><br>
 <A HREF="/radio/r0ctnts.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

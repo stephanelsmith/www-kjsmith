@@ -84,7 +84,7 @@ kjs<br>
 <hr size=15>
 <A HREF="/alsace/alsace.shtml">Retour à l'Alsace</a><p>
 <hr size=5>
-<A HREF="/html/main.shtml">Rentré à l'origine....</a></H3>
+<A HREF="/index.html">Rentré à l'origine....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

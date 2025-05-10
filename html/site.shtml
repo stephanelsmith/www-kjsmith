@@ -8,7 +8,7 @@
 Site Map:</h2><h3>
 An outline listing of all linked pages on this site.<p>
  <li><A HREF="/html/kjsmith.shtml">kjs home page, intro</A></li> 
- <li><A HREF="/html/main.shtml">kjs home page, main menu</A></li> 
+ <li><A HREF="/index.html">kjs home page, main menu</A></li> 
  <li><A HREF="/html/site.shtml">kjs SiteMap</A></li>
  <li><A HREF="/html/fam.shtml">kjs background</A></li>
  <li><A HREF="/html/tech.shtml">kjs technical backdoor</A></li> 
@@ -569,7 +569,7 @@ An outline listing of all linked pages on this site.<p>
  <li><A HREF="/html/resume.shtml">kjs resume page</A> </li>
  </ul>
 <center><IMG SRC="/graphics/bar1e.jpg"></center>
-<h3><A HREF="/html/main.shtml">Go back....</a>
+<h3><A HREF="/index.html">Go back....</a>
 </H3>
 
 <h4>

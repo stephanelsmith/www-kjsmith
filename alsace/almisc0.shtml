@@ -58,7 +58,7 @@ Villes Fortifiées d'Alsace<br>
 kjs<br>
 2018<p>
 <hr size=15>
-<A HREF="/html/main.shtml">Rentré à l'origine....</a>
+<A HREF="/index.html">Rentré à l'origine....</a>
 </H3>
 <H4>
 <!--#echo var="DATE_LOCAL" -->

@@ -19,7 +19,7 @@ Electron density versus altitude as per section 2.2.  This chart shows lines of 
 <hr size=25>
 <A HREF="r4sonde.shtml">Return..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

@@ -85,7 +85,7 @@ Ebers-Moll equation Vf = m (kTq) ln [(If / Is) +1]<p>
 <hr size=15><h3>
 <A HREF="lab.shtml">Return to Lab..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/index.html">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

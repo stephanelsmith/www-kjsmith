@@ -28,7 +28,7 @@ These are links to search engines that I am aware have indexed my page.  If you 
 kjs<p>
 
 <hr>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

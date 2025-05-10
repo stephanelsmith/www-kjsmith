@@ -25,7 +25,7 @@ I am the fifth of six children in the Smith household. My siblings include my ol
 The Smith's.<p>
  
 <IMG SRC="/graphics/bar4e.jpg"></center><p>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 
 <h4>
 <!--#echo var="DATE_LOCAL" -->

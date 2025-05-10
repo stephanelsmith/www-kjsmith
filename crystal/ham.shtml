@@ -60,7 +60,7 @@ With the lack of surface real-estate to lengthen the coil separation, I made a s
 <hr size=15><h3>
 <A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/index.html">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

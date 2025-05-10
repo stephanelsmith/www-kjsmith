@@ -130,7 +130,7 @@ KJS 04/2025<p>
 <A HREF="fr42.shtml">Next: Field guide etal..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
-<A HREF="/html/main.shtml">Go back....</a></H3>
+<A HREF="/index.html">Go back....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->

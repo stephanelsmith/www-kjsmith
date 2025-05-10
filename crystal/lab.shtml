@@ -81,7 +81,7 @@ So, for an investment in a few key pieces of good equipment, yes at some non-tri
 <hr size=15><h3>
 <A HREF="cr0intro.shtml">Return..</a><br>
 <hr>
-<A HREF="/html/main.shtml">Back to Main....</a></H3>
+<A HREF="/index.html">Back to Main....</a></H3>
 <h4>
 <!--#echo var="DATE_LOCAL" -->
 <!--#include virtual="html/footer.shtml" -->
