@@ -48,13 +48,13 @@ It is a pity that so little technical data is available for the Telinga Modular.
 
 Can we ever hope to even guess the relative sensitivities of the two dishes?. The Total Sensitivity is the Sensitivity of the microphone boosted by the gain of the 22” dish. Without knowing the microphone sensitivity the actual dish efficiency can only be guessed (and vice versa). ChatGPT suggests that a 22” parabolic microphone has an efficienty in the range of 30% to 60% in optimal conditions. So, lets assume 50% efficiency and start guessing! <p>
 
-Since Total Sensitivity = Dish 50% gain (8.46 dB) plus Microphone sensitivity<p>
+Since Total Sensitivity = Dish gain 50% eff (8.46 dB) plus Microphone sensitivity.<p>
 
-Wildtronics array microphone sensitivity = total sensitivity minus dish 50% gain:<br>
+Wildtronics array microphone sensitivity = Total sensitivity minus Dish gain 50% eff:<br>
 Wildtronics 1kHz: x = -4 dB - 8.46 dB = -12.46 dB for the Wildtronics array microphone.<br>
-At -12.5 dB thats a one heckuva sensitive microphone!<p>
+At -12.5 dB thats a one heckuva super sensitive microphone!.. maybe.<p>
 
-Telinga/Schoeps Total Sensitivity = Dish 50% gain plus Microphone Sensitivity<br>
+Telinga/Schoeps Total Sensitivity = Dish gain 50% eff plus Microphone Sensitivity.<br>
 Telinga/Schoeps	 1kHz: x= 8.46 dB + -37.7 dB = -29.24 dB <br>
 If the Schoeps mic is really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly. <p>
 
