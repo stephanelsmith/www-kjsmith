@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.10 Røde NT8 versus Sennheiser MKH 8070</TITLE>
+<TITLE>kjs field recording sourcebook, 3.10 Rode NT8 versus Sennheiser MKH 8070</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,20 +16,20 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Røde NT8 versus Sennheiser MKH 8070</h2><h3>
+</h3><h2>Rode NT8 versus Sennheiser MKH 8070</h2><h3>
 
-I have a little bone to pic with a review / recommendation that was presented on the Acoustic Nature website for 2023. Titled "Best Shotgun Mic for Field Recording in 2023" they compare the long shotguns Røde NTG8 with the Sennheiser MKH 8070. They declare the Sennheiser "Best Overall" while giving the Røde NTG8 a lower score of "Best Value". Given the difference in price (NTG8 $999 vs MKH 8070 $1599) I was hoping to understand what the extra $700 was getting you. <p>
+I have a little bone to pic with a review / recommendation that was presented on the Acoustic Nature website for 2023. Titled "Best Shotgun Mic for Field Recording in 2023" they compare the long shotguns Rode NTG8 with the Sennheiser MKH 8070. They declare the Sennheiser "Best Overall" while giving the Rode NTG8 a lower score of "Best Value". Given the difference in price (NTG8 $999 vs MKH 8070 $1599) I was hoping to understand what the extra $700 was getting you. <p>
 
 Things boil down to two factors: The MKH 8070 is "Slightly more sensitive" than the NTG8 and has "significantly better off-axis rejection". Oh come on! The sensitivity values of -20 dB vs -19 dB are virtually identical. For off-axis rejection the following plot compares the two microphones at 500 Hz, 1000 Hz, and 4000 Hz. It should be very clear that the NTG8 shows superior off-axis rejection at all frequencies. <p>
  
 <img src="fr310a.jpg"><p>
 
-The NTG8 is 22” long and the MKH 8070 is 18”, physics alone tells you the NTG8 will have a narrower fiels of view, the above plot shows it to be so. The Acoustic Nature conclusion is simply FALSE.<p>
+The NTG8 is 22” long and the MKH 8070 is 18”, physics alone tells you the NTG8 will have a narrower field of view, the above plot shows it to be so. The Acoustic Nature conclusion is simply FALSE.<p>
  
 
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr311.shtml">Next: Røde NTG8 RF-Bias long shotgun microphone..</a><br>
+<A HREF="fr311.shtml">Next: Rode NTG8 RF-Bias long shotgun microphone..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.05 Røde NT1 versus Lewitt LCT 540 S</TITLE>
+<TITLE>kjs field recording sourcebook, 3.05 Rode NT1 versus Lewitt LCT 540 S</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,21 +16,21 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Røde NT1 versus Lewitt LCT 540 S</h2><h3>
+</h3><h2>Rode NT1 versus Lewitt LCT 540 S</h2><h3>
 
-When I look at the microphone spec table for condenser microphones, that are non-shotgun, non-parabolic, the Lewitt LCT 540 S ($699) and the Røde NT1 ($159) stand out with the lowest noise (4 dB) and highest sensitivity, (LCT 540 S -28 dB, NT1 -32 dB). Looking at the prices though, you must wonder if those extra 4 dB are worth $540.  Here is where all the additional data and charts are wanted. How do these two microphones really stack up against each other? <p>
+When I look at the microphone spec table for condenser microphones, that are non-shotgun, non-parabolic, the Lewitt LCT 540 S ($699) and the Rode NT1 ($159) stand out with the lowest noise (4 dB) and highest sensitivity, (LCT 540 S -28 dB, NT1 -32 dB). Looking at the prices though, you must wonder if those extra 4 dB are worth $540.  Here is where all the additional data and charts are wanted. How do these two microphones really stack up against each other? <p>
 
 To start with, to properly compare the charts you need to take into account that the microphones have different sensitivities (which is why you are doing this in the first place). Also, the sensitivities are not flat at higher frequencies so you need to consult the Frequency Response charts as well. <p>
 
-To fix all these deficiencies I have digitized the charts for 1000 Hz, 4000 Hz, and 8000 Hz. With digital data I have first "normalized" the Røde data to 0 dB at 0 degrees. Then I have added the sensitivity of each microphone at the correct frequencies. (That is, the curves do not start at 0 dB and 0 deg but rather start at the measured sensitivity at 0 deg). NOW I have comparable data at the correct relative magnitudes for the two microphones. Take a look at the 0 degree crossings for the two microphones at 1000 Hz and you will find they correspond to the spec sheet sensitivities (which were measured at 1000 Hz). The higher 0 degree crossings for higher frequencies are due to the frequency response data where sensitivity is higher for higher frequencies. Theory meets practice, this is working. <p>
+To fix all these deficiencies I have digitized the charts for 1000 Hz, 4000 Hz, and 8000 Hz. With digital data I have first "normalized" the Rode data to 0 dB at 0 degrees. Then I have added the sensitivity of each microphone at the correct frequencies. (That is, the curves do not start at 0 dB and 0 deg but rather start at the measured sensitivity at 0 deg). NOW I have comparable data at the correct relative magnitudes for the two microphones. Take a look at the 0 degree crossings for the two microphones at 1000 Hz and you will find they correspond to the spec sheet sensitivities (which were measured at 1000 Hz). The higher 0 degree crossings for higher frequencies are due to the frequency response data where sensitivity is higher for higher frequencies. Theory meets practice, this is working. <p>
 
-In order to make this comparison chart I had to massage things somewhat. Just looking at the published polar charts is not very helpful in fact. Røde commits some slight-of-hand by plotting their curves at a +5 dB crossing of the 0 degree axis, most unconventional but readily mitigated. Lewitt commits their slight-of-hand by plotting with a Y-axis scale of just 20 dB, (0 to -20). That cuts off all measured data below -20 dB, which should be considerable. No mitigation here, you just do not get to see it.<p>
+In order to make this comparison chart I had to massage things somewhat. Just looking at the published polar charts is not very helpful in fact. Rode commits some slight-of-hand by plotting their curves at a +5 dB crossing of the 0 degree axis, most unconventional but readily mitigated. Lewitt commits their slight-of-hand by plotting with a Y-axis scale of just 20 dB, (0 to -20). That cuts off all measured data below -20 dB, which should be considerable. No mitigation here, you just do not get to see it.<p>
 
-On the following plot the Røde curves are in warm colors red/orange and Lewitt curves in cool blues. You should immediately see that at all frequencies and polar directions the Lewitt LCT 540S microphone is more sensitive. Interestingly the NT1 becomes more directional at high frequencies whereas the LCT does not. As the function of the secondary mic in my setup is to catch near-omnidirectional sounds (away from the directional parabolic) the LCT is the superior choice. But is that choice really worth the extra $540 ? Can you honestly hear the difference from a 4 dB boost in sensitivity? For $540 ? For the time being I think the NT1 is the right choice for me. Should I become dissatisfied with it later on I have not sacrificed too much and the LCT ought still to be available.<p>
+On the following plot the Rode curves are in warm colors red/orange and Lewitt curves in cool blues. You should immediately see that at all frequencies and polar directions the Lewitt LCT 540S microphone is more sensitive. Interestingly the NT1 becomes more directional at high frequencies whereas the LCT does not. As the function of the secondary mic in my setup is to catch near-omnidirectional sounds (away from the directional parabolic) the LCT is the superior choice. But is that choice really worth the extra $540 ? Can you honestly hear the difference from a 4 dB boost in sensitivity? For $540 ? For the time being I think the NT1 is the right choice for me. Should I become dissatisfied with it later on I have not sacrificed too much and the LCT ought still to be available.<p>
 
 <img src="fr305a.jpg"><p>
 
-[For those who may have noticed, I do not consider the Lewitt LCT 440. Compared to the Røde NT1 it has only marginally better sensitivity and has higher self-noise yet still costs more than the NT1. It is off the table.<br>
+[For those who may have noticed, I do not consider the Lewitt LCT 440. Compared to the Rode NT1 it has only marginally better sensitivity and has higher self-noise yet still costs more than the NT1. It is off the table.<br>
 Note also that the original NT1 had a sensitivity of -29 dB wheras the current NT1 signature / 5th Gen both have a sensitivity of -32. What a pity.]<p>
 
 KJS 04/2025<p>
