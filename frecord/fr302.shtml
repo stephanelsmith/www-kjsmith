@@ -57,7 +57,7 @@ Wildtronics array microphone sensitivity = total sensitivity minus dish 50% gain
 
 Wildtronics 1kHz: x = -4 dB - 8.46 dB = -12.46 dB for the Wildtronics array microphone.<p>
 
-At -12.5 dB thats a one heckuva sensitive microphone! .or is it?. I note that the most mensitive microphone "out there" (Sennheiser MKH 8070) have a sensitivity of -19 dB. So, -12 appears way too high. What else might be going on? Recall that the Wildtronics employs a "booster disk". I think that this is magical allowing a higher efficiency for the parabolic dish than operating alone. If the disk boosts the efficiency to say 85% efficiency then the array mic would need a sensitivity of -17.07 to achieve the overall -4 dB of the system. That becmes credible. So lets try again:<p>
+At -12.5 dB thats a one heckuva sensitive microphone! .or is it?. I note that the most sensitive microphone "out there" (Sennheiser MKH 8070) have a sensitivity of -19 dB. So, -12 appears way too high. What else might be going on? Recall that the Wildtronics employs a "booster disk". I think that this is magical allowing a higher efficiency for the parabolic dish than operating alone. If the disk boosts the efficiency to say 85% efficiency then the array mic would need a sensitivity of -17.07 to achieve the overall -4 dB of the system. That becmes credible. So lets try again:<p>
 
 Wildtronics 1kHz: x = -4 dB - 13.07 dB (85% eff) = -17.07 dB for the Wildtronics array microphone.<br>
 Wildtronics 1kHz: x = -4 dB - 14.48 dB (100% eff) = -18.48 dB for the Wildtronics array microphone.<p>
