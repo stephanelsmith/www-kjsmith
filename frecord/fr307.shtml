@@ -35,17 +35,17 @@ Telinga Modular a 22" foldable professional parabolic dish set offering your mic
 Please note: the Telinga Modular does not include microphone or cable/connectors. It is designed for professionals wishing to use a favorite configuration of own mics in the parabolic dish.<br>
 $1099<p>
 
-The image on the left is a polar plot of the Telinga 22" coupled with the Schoeps CCM 4 + MK 4 capsule. I is found with the User Manual of the Telinga Modular microphone. I digitized this plot in order to compare it to the Wildtronics.<p>
+The image on the left is a polar plot of the Telinga 22" coupled with the Schoeps CCM 4 + MK 4 capsule. It is included in the User Manual of the Telinga Modular microphone. I digitized this plot in order to compare it to the Wildtronics.<p>
 <br clear=left><p>
 <hr size=15>
 
-The Telinga Modular 22” parabolic dish microphone is a principal competitor / alternative to Wildtronics, therefor I think it best to do a bit of comparison. This is rather difficult as the Telinga is a modular design with a Choose-Your-Own-Microphone concept. As the polar response may be as much microphone specific as it is dish specific, it is non-unique.  Still, the Telinga Modular manual does publish a polar response chart for the dish coupled with a Schoeps CCM 4 microphone facing the dish. A setup that will put you back some $2957, (B&H kindly offers you the combo at a cool $3308) a lot of coin!<p>
+The Telinga Modular 22” parabolic dish microphone is a principal competitor / alternative to Wildtronics, therefor I think it best to do a bit of comparison. This is rather difficult as the Telinga is a modular design with a Choose-Your-Own-Microphone concept. As the polar response may be microphone specific as well as dish specific, it is non-unique (or not, keep reading!).  Still, the Telinga Modular manual does publish a polar response chart for the dish coupled with a Schoeps CCM 4 microphone facing the dish. A setup that will put you back some $2957, (B&H kindly offers you the combo at a cool $3308) a lot of coin!<p>
 
 The following polar chart compares the Wildtronics Pro Mono to the Telinga Modular. I retain the standard zero dB at zero degree polar. While Wildtronics does give data to allow me to calculate the absolute sensitivity vs polar angle, this was not available for the Telings/Schoeps configuration. (as they published a polar plot, the actual sensitivity ought to be somewhere unpublished).  <p>
 
 Note also that the Schoeps CCM 4 sensitivity is not that great at -37.7 dB. It does not even make it onto my microphone spec list. (The Røde NT1 S has -32 dB and the Lewitt LCT 540 S has -28 dB). I presume it was chosen because it is an end-address mic suitable for use with the Telinga dish.  <p>
 
-On the following plot I give the curves for 1000 Hz on both dishes, and the Wildtronics at 3150 Hz and the Telinga at 4000 Hz. The two curves at 1000 Hz are pretty much identical in the forward high-gain portion. The difference between 3150 Hz and 4000 Hz is significant (21%) which should explain the somewhat wider field on the Wildtronics curve. I strongly suspect that the two dishes at 4000 Hz would also be nearly the same, and so on up the frequency scale.    
+On the following plot I give the curves for 1000 Hz on both dishes, and the Wildtronics at 3150 Hz and the Telinga at 4000 Hz. The two curves at 1000 Hz are pretty much identical in the forward high-gain portion. The difference between 3150 Hz and 4000 Hz is significant (21%) which should explain the somewhat wider field on the Wildtronics curve. I strongly suspect that the two dishes at 4000 Hz would also be nearly the same, and so on up the frequency scale. So, the polar responce apparently is dish geometry specific but not microphone specific.
 <p>
 
 <img src="fr307a.jpg"><p>
@@ -58,7 +58,7 @@ Since Total Sensitivity = Dish gain 50% eff (8.46 dB) plus Microphone sensitivit
 
 Telinga/Schoeps Total Sensitivity = Dish gain 50% efficiency plus Microphone Sensitivity of -37.7 dB.<br>
 Telinga/Schoeps	 1kHz: x= 8.46 dB + -37.7 dB = -29.24 dB <br>
-The Telinga system lacks the integrated array microphone and booster disk technology. If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly. <p>
+The Telinga system lacks the integrated array microphone and booster disk technology included with the Wildtronics. If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly. <p>
 
 Wildtronics array microphone sensitivity = Total sensitivity minus Dish gain 85% efficiency with booster disk:<br>
 Wildtronics 1kHz: x = -4 dB - 13.07 dB = -17.07 dB for the Wildtronics array microphone.<br>
