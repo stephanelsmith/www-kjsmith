@@ -50,15 +50,15 @@ Can we ever hope to even guess the relative sensitivities of the two dishes?. Th
 
 Since Total Sensitivity = Dish gain 50% eff (8.46 dB) plus Microphone sensitivity.<p>
 
-Telinga/Schoeps Total Sensitivity = Dish gain 50% eff plus Microphone Sensitivity of -37.7.<br>
+Telinga/Schoeps Total Sensitivity = Dish gain 50% efficiency plus Microphone Sensitivity of -37.7 dB.<br>
 Telinga/Schoeps	 1kHz: x= 8.46 dB + -37.7 dB = -29.24 dB <br>
-Telinga system lacks the integrated array microphone and booster disk technology. If the Schoeps microphone is really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly. <p>
+The Telinga system lacks the integrated array microphone and booster disk technology. If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly. <p>
 
 Wildtronics array microphone sensitivity = Total sensitivity minus Dish gain 85% efficiency with booster disk:<br>
 Wildtronics 1kHz: x = -4 dB - 13.07 dB = -17.07 dB for the Wildtronics array microphone.<br>
 At -17.1 dB thats a credibly sensitive microphone!<p>
 
-My analysis strongly suggests that the Wildtronics setup easily has 25dB greater sensitivity than the Telinga/Schoeps setup while retaining the same directionality. $790 versus $2957, you be the judge.<p>
+My analysis strongly suggests that the Wildtronics setup easily has 25dB greater sensitivity than the Telinga/Schoeps setup while retaining the same directionality. <br> $790 versus $2957, you be the judge.<p>
 
 KJS 04/2025<p>
 <hr size=25>
