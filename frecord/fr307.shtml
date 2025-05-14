@@ -19,7 +19,8 @@
 </h3><h2>Wildtronics Pro Mono versus Telinga w/Schoeps CCM 4</h2><h3>
 Schoeps CCM4 LG<br>
 <img align=left src="fr307c.jpg">
-The Schoeps CCM4 is a small diaphragm cardioid microphone featuring a detachable cable and designed for use on singing and speaking voices as well as a wide variety of instruments. It can be used as a spot microphone or for stereo recording with additional mics in coincident, ORTF, or M/S microphone arrangements.<p>
+The Schoeps CCM4 is a small diaphragm cardioid microphone featuring a detachable cable and designed for use on singing and speaking voices as well as a wide variety of instruments. It can be used as a spot microphone or for stereo recording with additional mics in coincident, ORTF, or M/S microphone arrangements.<br>
+At -37.7 dB it most clearly was never intended for low-volume ambient and bird recording!<p>
 Sensitivity:	13 mV/Pa or -37.7 dB<br>
 Self Noise:	15 dB<br>
 $1858<p>
@@ -30,7 +31,7 @@ The image on the left is the polar plot for the Schoeps CCM 4 + MK 4 microphone.
 
 Telinga Modular<br>
 <img align=left src="fr307b.jpg">
-Telinga Modular a 22" foldable professional parabolic dish set offering your microphones to be used in mono or PZM stereo configurations*. Includes handle with mounting kit, foldable dish, Rycote Telinga OEM basket + OEM windjammer (currently supplied by Radius Windshields) + 2 pcs interchangeable Telinga foam cartridges:<p>
+Telinga Modular a 22" foldable professional parabolic dish set offering your microphones to be used in mono or PZM stereo configurations. Includes handle with mounting kit, foldable dish, Rycote Telinga OEM basket + OEM windjammer (currently supplied by Radius Windshields) + 2 pcs interchangeable Telinga foam cartridges:<p>
 
 Please note: the Telinga Modular does not include microphone or cable/connectors. It is designed for professionals wishing to use a favorite configuration of own mics in the parabolic dish.<br>
 $1099<p>
@@ -45,7 +46,7 @@ The following polar chart compares the Wildtronics Pro Mono to the Telinga Modul
 
 Note also that the Schoeps CCM 4 sensitivity is not that great at -37.7 dB. It does not even make it onto my microphone spec list. (The Røde NT1 S has -32 dB and the Lewitt LCT 540 S has -28 dB). I presume it was chosen because it is an end-address mic suitable for use with the Telinga dish.  <p>
 
-On the following plot I give the curves for 1000 Hz on both dishes, and the Wildtronics at 3150 Hz and the Telinga at 4000 Hz. The two curves at 1000 Hz are pretty much identical in the forward high-gain portion. The difference between 3150 Hz and 4000 Hz is significant (21%) which should explain the somewhat wider field on the Wildtronics curve. I strongly suspect that the two dishes at 4000 Hz would also be nearly the same, and so on up the frequency scale. So, the polar responce apparently is dish geometry specific but not microphone specific.
+On the following plot I give the curves for 1000 Hz on both dishes, and the Wildtronics at 3150 Hz and the Telinga at 4000 Hz. The two curves at 1000 Hz are pretty much identical in the forward high-gain portion. The difference between 3150 Hz and 4000 Hz is significant (21%) which should explain the somewhat wider field on the Wildtronics curve. I strongly suspect that the two dishes at 4000 Hz would also be nearly the same, and so on up the frequency scale. So, the polar responce apparently is dish geometry specific (depth vs microphone focal distance) but not microphone specific. Here I note that both setups appear to have the same basic geometry, so, same basic polar patterns.
 <p>
 
 <img src="fr307a.jpg"><p>
