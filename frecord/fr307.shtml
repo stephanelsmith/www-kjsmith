@@ -53,7 +53,7 @@ On the following plot I give the curves for 1000 Hz on both dishes, and the Wild
 
 It is a pity that so little technical data is available for the Telinga Modular. No frequency response and no dish gain curves are published. Given the very close similarity of the curves above I imagine the two dishes are the same in other aspects as well, ie: gain and efficiency.  <p>
 
-Can we ever hope to even guess the relative sensitivities of the two dishes?. The Total Sensitivity is the Sensitivity of the microphone boosted by the gain of the 22” dish. Without knowing the microphone sensitivity the actual dish efficiency can only be guessed (and vice versa). ChatGPT suggests that a 22” parabolic microphone has an efficienty in the range of 30% to 60% in optimal conditions. So, lets assume 50% efficiency and start guessing! <p>
+Can we ever hope to even guess the relative sensitivities of the two dishes?. The Total Sensitivity is the Sensitivity of the microphone boosted by the gain of the 22” dish. Without knowing the microphone sensitivity the actual dish efficiency can only be guessed (and vice versa). Referring to published literature: <em>"Practically, the dish efﬁciency η is in the range of 45% to 70% depending on the material, shape and construction. Here, we have calculated the gain by assuming efﬁciency as 50%."</em> Sawant, O. and Bhowmick, IEEE, Jan 2022.  Sounds good to me, lets assume 50% efficiency and start guessing! <p>
 
 Since Total Sensitivity = Dish gain 50% eff (8.46 dB) plus Microphone sensitivity.<p>
 
