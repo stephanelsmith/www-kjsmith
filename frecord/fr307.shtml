@@ -64,7 +64,7 @@ If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/
 Use the -23.5 dB capsule off a Rode NTG5 and you may increase the Telinga sensitivity to -15 dB. <p>
 
 Wildtronics:<br>
-For the Wildtronics system we know the sensitivity is -4 dB. Wildtronics publishes the microphone plus booster sensitivity as 10 dB!!  This is incredible as the best condenser mike "out there" (Sennheiser MKH 8070) has -19 dB. I must go out on a limb here and ASSUME the actual value is -10 dB. Since the mic plus booster = -10 dB, take away the 6 dB boundary boost and the microphone must have a fantastic but still credible -16 dB sensitivity. <p>
+For the Wildtronics system we know the answer, the sensitivity is -4 dB. All that follows is just showing off. Wildtronics publishes the microphone plus booster sensitivity as 10 dB!!  This is incredible as the best condenser mike "out there" (Sennheiser MKH 8070) has -19 dB. I must go out on a limb here and ASSUME the actual value is -10 dB. Since the mic plus booster = -10 dB, take away the 6 dB boundary boost and the microphone array must have a fantastic but still credible -16 dB sensitivity. <p>
 
 Total Sensitivity (-4 dB) = Dish 40% gain (6.52 dB) plus booster gain (6 dB) plus Microphone sensitivity (-16 dB) =~ -4 dB. <br>
 I use only 40% efficiency because that makes the numbers add up and I assume the 6" booster disk blocks enough of the dish to lower its efficiency. Its my best educated guess.<p>
