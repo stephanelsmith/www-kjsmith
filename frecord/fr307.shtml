@@ -53,19 +53,23 @@ On the following plot I give the curves for 1000 Hz on both dishes, and the Wild
 
 It is a pity that so little technical data is available for the Telinga Modular. No frequency response and no dish gain curves are published. Given the very close similarity of the curves above I imagine the two dishes are the same in other aspects as well, ie: gain and efficiency.  <p>
 
-Can we ever hope to even guess the relative sensitivities of the two dishes?. The Total Sensitivity is the Sensitivity of the microphone boosted by the gain of the 22” dish. Without knowing the microphone sensitivity the actual dish efficiency can only be guessed (and vice versa). Referring to published literature: <em>"Practically, the dish efﬁciency η is in the range of 45% to 70% depending on the material, shape and construction. Here, we have calculated the gain by assuming efﬁciency as 50%."</em> Sawant, O. and Bhowmick, IEEE, Jan 2022.  Sounds good to me, lets assume 50% efficiency and start guessing! <p>
+Can we ever hope to even guess the relative sensitivities of the two dishes?. Quite possibly. Total system sensitivity is the sensitivity of the microphone boosted by the gain of the dish (times some efficiency factor). Note that everything after this is based on numbers at 1000 Hz.<p>
 
-Since Total Sensitivity = Dish gain 50% eff (8.46 dB) plus Microphone sensitivity.<p>
+Telinga/Schoeps:<br>
+For the Telinga/Schoeps setop we know the microphone sensitivity and dish gain equation. We need only guess on the Telinga dish efficiency. IEEE provides for us a range of efficiency between 40 and 70% and suggests 50% as a starting place. Sounds good to me, lets assume 50% efficiency and start guessing!<p>
 
-Telinga/Schoeps Total Sensitivity = Dish gain 50% efficiency plus Microphone Sensitivity of -37.7 dB.<br>
-Telinga/Schoeps	 1kHz: x= 8.46 dB + -37.7 dB = -29.24 dB <br>
-The Telinga system lacks the integrated array microphone and booster disk technology included with the Wildtronics. If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly. <p>
+A) Total Sensitivity = Dish 50% gain (8.46 dB) plus Microphone sensitivity (-37.7 dB) = -29.3 dB.  <br>
+B) Total Sensitivity = Dish 65% gain (10.7 dB) plus Microphone sensitivity (-37.7 dB) = -27.0 dB.  (about as generous as I can imagine)<br>
+If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly.
+Use the -23.5 dB capsule off a Rode NTG5 and you may increase the Telinga sensitivity to -15 dB. <p>
 
-Wildtronics array microphone sensitivity = Total sensitivity minus Dish gain 85% efficiency with booster disk:<br>
-Wildtronics 1kHz: x = -4 dB - 13.07 dB = -17.07 dB for the Wildtronics array microphone.<br>
-At -17.1 dB thats a credibly sensitive microphone!<p>
+Wildtronics:<br>
+For the Wildtronics system we know the sensitivity is -4 dB. Wildtronics publishes the microphone plus booster sensitivity as 10 dB!!  This is incredible as the best condenser mike "out there" (Sennheiser MKH 8070) has -19 dB. I must go out on a limb here and ASSUME the actual value is -10 dB. Since the mic plus booster = -10 dB, take away the 6 dB boundary boost and the microphone must have a fantastic but still credible -16 dB sensitivity. <p>
 
-My analysis strongly suggests that the Wildtronics setup easily has 25dB greater sensitivity than the Telinga/Schoeps setup while retaining the same directionality. <br> $790 versus $2957, you be the judge.<p>
+Total Sensitivity (-4 dB) = Dish 40% gain (6.52 dB) plus booster gain (6 dB) plus Microphone sensitivity (-16 dB) =~ -4 dB. <br>
+I use only 40% efficiency because that makes the numbers add up and I assume the 6" booster disk blocks enough of the dish to lower its efficiency. Its my best educated guess.<p>
+
+My analysis strongly suggests that the Wildtronics setup easily has greater than 20 dB sensitivity than the Telinga/Schoeps setup while retaining the same directionality. <p> $790 versus $2957, you be the judge.<p>
 
 KJS 04/2025<p>
 <hr size=25>
