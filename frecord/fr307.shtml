@@ -46,8 +46,9 @@ The following polar chart compares the Wildtronics Pro Mono to the Telinga Modul
 
 Note also that the Schoeps CCM 4 sensitivity is not that great at -37.7 dB. It does not even make it onto my microphone spec list. (The Røde NT1 S has -32 dB and the Lewitt LCT 540 S has -28 dB). I presume it was chosen because it is an end-address mic suitable for use with the Telinga dish.  <p>
 
-On the following plot I give the curves for 1000 Hz on both dishes, and the Wildtronics at 3150 Hz and the Telinga at 4000 Hz. The two curves at 1000 Hz are pretty much identical in the forward high-gain portion. The difference between 3150 Hz and 4000 Hz is significant (21%) which should explain the somewhat wider field on the Wildtronics curve. I strongly suspect that the two dishes at 4000 Hz would also be nearly the same, and so on up the frequency scale. So, the polar responce apparently is dish geometry specific (depth vs microphone focal distance) but not microphone specific. Here I note that both setups appear to have the same basic geometry, so, same basic polar pattern is expected.
-<p>
+On the following plot I give the curves for 1000 Hz on both dishes, and the Wildtronics at 3150 Hz and the Telinga at 4000 Hz. The two curves at 1000 Hz are pretty much identical in the forward high-gain portion. Note here that on the Telings polar chart the curve labeled 32 kHz lies outside the lower frequency curves at 4, 8, and 16 kHz and I make the assumption that they are mis-labeled. That is, the curve labeled 32k is in fact the 4000 Hz curve and I present that accordingly. You should note here the close correspondance between the curves at the same/similar frequencies. The differences lie mainly in the positions of the side lobes. <p>
+
+The two dishes have the same basic geometry, diameter and focal depth, and this is what determines the hyper-cordioid pattern of the polar charts. Being both 22 inch dishes, they are equally directional. The main differences therfor lie in the sensitivities of the two systems.<p>
 
 <img src="fr307a.jpg"><p>
 
