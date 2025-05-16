@@ -1,4 +1,3 @@
-
 <HTML>
 <HEAD>
 <TITLE>kjs field recording sourcebook, 1.1 Avant Propos</TITLE>
@@ -18,36 +17,29 @@
 <hr size=5>
 </h3><h2>Avant Propos</h2><h3>
 
-The following PDF document presents a source of advice, and savoir-faire concerning recorders and microphones useful for ambient field / bird recording. Based on my personal research and experience, I have crafted what I feel are useful and otherwise unavailable charts on microphone sensitivity. These make comparison between microphones direct and unbiased. <p>
-
 A DISCLAIMER before I get started: Everything on this page is NON-COMMERCIAL and I receive absolutely no compensation of any kind from the manufactures of the gear being reviewed. These are my own observations based on my own research. My recommendations you may take as you wish. <p>
 
-Some background first. I started recording with just a simple Evistr V508 dictating recorder with the simple requirement of capturing audio at CD quality, 44.1 KHz, or 1536 kbps. In this regard the V508 served me well for over a year. Eventually I began seeking a more directional microphone. My worry was, and remains, that a 22 inch parabolic dish is overly directional and therefore "high maintenance". With the Evistr I could just set it up in a tree and record as I watched my patch with my principal documentary gear, a good DSLR.  I eventually chose a Wildtronics 11" parabolic (Pro Mini) as a compromise. Not too much directionality and of course, not much off-axis rejection. Overall it worked well for over a year. <p>
+This web page is the result of my odyssey in putting together a field recording setup for recording birds. Along the way I have made 100 zillion blunders and costly mistakes. Since one supposedly learns from their mistakes I have a lot of learnings to share here.<p>
 
-Finally when I was ready to up my game I was faced with the question of "off-axis" sounds. A narrowly-focused 22" dish will reject/supress bird calls from the side or behind the dish. My worry was that an interesting bird would call once or twice outside the field of view and before I could swing the dish in its direction the bird would be gone. This is not an unusual circumstance. Thus using a big dish would sacrifice a certain quantity of important records. <p>
+First things: Set your goals!  You will be recording in a noisy ambient setting listening for birds that are not always very loud. You will be wanting as sensitive as setup as possible. You will still be amplifying to some extent your recordings so you want as low noise as possible, no need to amplify that!  Other considerations include what type of microphone (dynamic, ribbon, condenser), what power source, cables etc. Let me simplify things a bit. Condenser microphones are the most sensitive and low noise, that is what you will want. So, lets start.<p>
 
-The solution for me was to use the unused second channel of my stereo recorder with input from a second omnidirectional microphone.  An important additional constraint was to power things with a big USB battery pack. I abhor changing batteries constantly and the more devices present the more batteries to change. My first foray was with a Tascam DR-05X recorder coupled to the 22" Wildtronics mic and a secondary Behringer B-5 omnidirectional condenser mic. Both mics require 48V phantom power not supplied by the recorder so I was obligated to add two pre-amp/phantom power supplies between the mics and the recorder. This worked but the entire setup was overly noisy and my recordings were not stellar. <p>
+For your recorder you want LOW NOISE (low EIN), you want phantom power with XLR cabling. <p>
 
-Eventually I swapped the Behringer B-5 small diaphragm mic with a B-2 large diaphragm mic and then a Røde NT1 with lower self-noise and greater sensitivity. Additionally I swapped the Tascam for a Zoom H5 recorder. The Zoom has significantly lower self-noise and importantly it provides phantom power to the mics so I could dispose of the noisy pre-amps. Also important, the unit allows independent channel input levelling with up to 55dB internal preamplification. This is important because of the very different nature of the two mics being employed. The omni picks up the most variety naturally while the parabolic, when pointed well, has noise-free gain.  I need to note here that most of the above gear changes were made with a minimum of research, mostly just looking at the specs. This is a mistake! My recorder is quite good, but I could have done much better, gear is expensive and a trial and error approach is more so.<p>
+For your microphone you want both high sensitivity (first) and low noise.<p>
 
-If you wish to craft a setup to record in the field you need to know what is available and what specs actually count. Just looking at spec sheets with a zillion parameters is confusing. So, what is actually important for field recording?  You will be wanting a setup that is SENSITIVE and LOW NOISE. Bird calls can be hard to hear and you will probably be amplifying your recordings, you do not want to amplify much noise along with it.<p>
+These are the parameters to look for and these are the parameters I have compiled on my specification tables. Not all manufactures provide all the specifications desired, or they provide the specs in different units making comparison difficult. For microphone polar plots they may also tinker deceptively with scales, beware!  For my specification tables I have downloaded the spec sheets for every unit listed. For microphones especially I have gone through and calculated missing parameters wherever possible. Mostly I do not list products if the manufacture withholds critical data. I do and must assume that what data that is presented is correct and accurate. <p>
 
-For recorders look first at the EIN (equivalent input noise), a small EIN, -120 dB or lower if you can find it. Your condenser microphone (because that is what you should be using) will want Phantom power, try to find a recorder that provides this as external power supplies / pre-amps are overly noisy. Getting a recorder with 32 bit A/D will also eliminate the need for pesky leveling. I use a Zoom H5 with EIN of -120 dB and two XLR ports providing phantom power. For just $87 more the Zoom F3 has 32bit and -127 EIN.<p>
+Microphones are a curious device that seem to come in an infinite variety. I am sure there are mics out there that I have not yet discovered, but those I list are certainly the main players on the market today. With so much to choose from it can be a daunting task to peer at every spec sheet to make sense. Polar charts in particular are important but difficult to use. Easy to get a general sense of the pattern, cardioid, hyper-cardioid, etc. Comparing polar charts is very difficult. Extracting quantitative information from charts requires that you digitize the curves, not something everybody wishes to do. I do. <p>
 
-For microphones look at the Self Noise and Sensitivity specs. Self noise ranges from 4 or 5 dB to over 20 dB, get as low as you can. Sensitivity is also important for soft sounds. Look for high sensitivity measured mV/Pa 20 or higher, measured in dB -35 or higher (note negative numbers, -28 is higher than -32). Signal to Noise ratio 85 dB or higher is also important. I use a 22" dish microphone with self noise (at the focus) of -8 dB and sensitivity of -4 dB! Røde makes an excellent condenser mic called RT-1. This mic has a self noise of just 4 dB (inaudible) and sensitivity of -32 dB (25 mV/Pa). Signal to noise is 90 dB. For the price you will probably never do better.<p>
+With digital curves it becomes possible to:<br> 
+1) display curves of different microphones together for comparison at a common scale, and <br> 
+2) calculate and display the curves adjusted for their sensitivity (absolute scaling). <p>
+Polar plots comparing microphones with relative sensitivities is truly enlightening. I have not seen this done anywhere else so my analysis and charts are unique, you will not find such anywhere else. I hope that the analyses presented here will be helpful.<p>
 
-Because of the very different nature of the two microphone types, I also desire that my recorder allows independant channel leveling. If you are just using the recorders’ built-in mics and walking along, then indepant leveling is not an issue. Note that 32bit A/D recorders can handle all inputs without the need for leveling, this is the way to go.<p>
+A note concerning web advice from forums and "reputable" recording sites. Use them, but beware of them. Forums are interesting and the members are often very knowledgeable. They are proud of their opinions and may express them with confidence way beyond what facts allow. Still, they are a good source for knowing what is generally considered worthy.<p>
+"Reputable" sites are another matter. Yes they also give a good idea of what is available. But I suspect most or ALL are in the pockets of the manufactures. They can be deceptive and/or just outright false. Without naming names, just be on your guard and double check every statement you read. <p>
 
-So:<p>
-1) Use condencer microphones.<br>
-Get a dish (for stationary work), or a shotgun (for walking) if you can afford it, their directional properties reduce off-axis interference, a dish gives gain as well. Or, just use the mics included with the recorder, they work too.<br>
-2) Use a low noise recorder that:<br>
-a) provides phantom power for your mics and<br>
-b) has 32 bit A/D or allows independant channel leveling (if you use more than one mic).<br>
-3) Use XLR cables between mic and recorder, they are low noise and allow phantom powering.<br>
-4) Finally, go look at the <A HREF="fr51.shtml">Zazu Field Recording Recommendation</a> at the end of the book!<p>
-
-I mount the whole shebang on a sturdy tripod and add a beefy USB Li ion battery to power the recorder for long runs. I hate frequently changing batteries!<p>
+I want this site to be a source of unbiased and critical evaluation. I am non-commercial, receive no compensation and accept no advertising. As I do own some equipment that is being reviewed I must admit some bias, but well earned I hope. As mentioned at the start, I have made costly mistakes. These pages are my attempt to set things right.<p>
 
 Finally, it is critically important here to SET YOUR EXPECTATIONS. You are likely not going to be submitting your recordings for inclusion is a National Geographic documentary. Even if you have put together a zazu noise-free setup, it will NOT prevent your neighbors from fireing up their gasoline-powered leaf blower right when that rare bird is calling. You live in a noisy environment, deal with it!<p>
 
