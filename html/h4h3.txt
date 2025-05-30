@@ -1,0 +1,115 @@
+</h4><h3>
+ <li>Crystal Radio</li>
+ <li><A HREF="/crystal/cr0intro.shtml">kjs crystal radio page</A>  </li>
+ </h3><h4>
+ <ul><li><A HREF="/crystal/cr0intro.shtml">Introduction to Crystal Radio</A> </li>
+ <li><A HREF="/crystal/lab.shtml">My radio "laboratory"</A> </li>
+<ul>
+ <li><A HREF="/crystal/atu.shtml">Antenna Tuning Unit</A> </li>
+ <li><A HREF="/crystal/modulation.shtml">Amplitude modulation</A> </li>
+ <li><A HREF="/crystal/coilqm.shtml">Coil Q</A> </li>
+ <li><A HREF="/crystal/coilq.shtml">Coil Q revisited</A> </li>
+ <li><A HREF="/crystal/capq.shtml">Capacitor Q</A> </li>
+ <li><A HREF="/crystal/dmodel.shtml">Diode Protocol</A> </li>
+ <li><A HREF="/crystal/dtest.shtml">Diode Test Results</A> </li>
+ <li><A HREF="/crystal/dvac.shtml">Vacuum Diodes</A> </li>
+ <li><A HREF="/crystal/dtalk.shtml">Diode Discussion</A> </li>
+ <li><A HREF="/crystal/resonance.shtml">Resonance theory</A> </li>
+ <li><A HREF="/crystal/mtrans.shtml">Matching Transformer</A> </li>
+ <li><A HREF="/crystal/rtest.shtml">Radio Test</A> </li>
+ <li><A HREF="/crystal/blitz.shtml">Big Litz Set</A> </li>
+
+</ul>
+ <li><A HREF="/crystal/catalog.shtml">Catalog of Crystal Radio Hook-Ups</A> </li>
+ <li><A HREF="/crystal/sgalena.shtml">Steel Galena, my thoughts</A> </li>
+ <li><A HREF="/crystal/kgow.shtml">KGOW, a local pest</A> </li>
+ <li><A HREF="/crystal/jmrd.shtml">JACQUEMARD.. The good Professeur's French Rig for MW/LW..</A> </li>
+ <li><A HREF="/crystal/ack.shtml">Acknowledgements</A> </li>
+ <li><A HREF="/crystal/dunwoody.shtml">A tale of my entry to the world of Crystal Radio</A> </li>
+ <li><A HREF="/crystal/mystery.shtml">My first homemade, Proton's Mystery</A> </li>
+ <li><A HREF="/crystal/homebrew.shtml">A double tuned set / prototyping testbed</A> </li>
+ <li><A HREF="/crystal/deforest.shtml">De Forest, Vintage beauty</A> </li>
+ <li><A HREF="/crystal/wt.shtml">Wavetrap, a useful gadget</A> </li>
+ <li><A HREF="/crystal/amp.shtml">A breadboard Audio Amplifier</A> </li>
+ <li><A HREF="/crystal/brt.shtml">A Bremer- Tully Transformer</A> </li>
+ <li><A HREF="/crystal/flm.shtml">Powered by Fleming's amazing valve</A> </li>
+ <li><A HREF="/crystal/erla.shtml">Erla Condencer / Torroidal Coil, a beaut! </A> </li>
+ <li><A HREF="/crystal/steinite.shtml">Vintage radio from the mid-1920's</A> </li>
+ <li><A HREF="/crystal/bbc.shtml">A bit of a mystery this one</A> </li>
+ </ul>
+
+
+
+ <li><A HREF="lab.shtml"><img border=0 SRC="btnlab.jpg"</a>
+ <li><A HREF="lab.shtml">RADIO LABORATORY..</a>  Know thy radio.....<p>
+<ul>
+ <li><A HREF="/crystal/atu.shtml">Antenna Tuning Unit</A> </li>
+ <li><A HREF="/crystal/modulation.shtml">Amplitude modulation</A> </li>
+ <li><A HREF="/crystal/coilqm.shtml">Coil Q</A> </li>
+ <li><A HREF="/crystal/coilq.shtml">Coil Q revisited</A> </li>
+ <li><A HREF="/crystal/capq.shtml">Capacitor Q</A> </li>
+ <li><A HREF="/crystal/dmodel.shtml">Diode Protocol</A> </li>
+ <li><A HREF="/crystal/dtest.shtml">Diode Test Results</A> </li>
+ <li><A HREF="/crystal/dvac.shtml">Vacuum Diodes</A> </li>
+ <li><A HREF="/crystal/dtalk.shtml">Diode Discussion</A> </li>
+ <li><A HREF="/crystal/resonance.shtml">Resonance theory</A> </li>
+ <li><A HREF="/crystal/mtrans.shtml">Matching Transformer</A> </li>
+ <li><A HREF="/crystal/rtest.shtml">Radio Test</A> </li>
+ <li><A HREF="/crystal/blitz.shtml">Big Litz Set</A> </li>
+</ul>
+ <li><A HREF="catalog.shtml"><img border=0 SRC="btncat.jpg"</a>
+ <li><A HREF="catalog.shtml">A Library of Crystal Hookups and Theory:..</a><p>
+ <li><A HREF="sgalena.shtml"><img border=0 SRC="btngal.jpg"</a>
+ <li><A HREF="sgalena.shtml">A Geological look at Steel Galena...</a><p>
+ <li><A HREF="kgow.shtml"><img border=0 SRC="btnpst.jpg"</a>
+ <li><A HREF="kgow.shtml">KGOW1650, a local PEST!!..</a><p>
+ <li><A HREF="jmrd.shtml"><img border=0 SRC="pjd0.jpg"</a>
+ <li><A HREF="jmrd.shtml">JACQUEMARD..</a>  The good Professeur's French Rig for MW/LW..<p>
+ <li><A HREF="ack.shtml"><img border=0 SRC="btncat.jpg"</a>
+ <li><A HREF="ack.shtml">Acknowledgements:..</a> (and useful links) <p>
+ <li><A HREF="spark.shtml"><img border=0 SRC="btnspk.jpg"</a>
+ <li><A HREF="spark.shtml">SPARK GAP TRANSMITTER..</a>  A Spark-Gap Transmitter project...<p>
+ <li><A HREF="dunwoody.shtml"><img border=0 SRC="btndun.jpg"</a>
+ <li><A HREF="dunwoody.shtml">DUNWOODY..</a>  A tale of my entry into the world of Crystal Radio<p>
+ <li><A HREF="mystery.shtml"><img border=0 SRC="btnmys.jpg"</a>
+ <li><A HREF="mystery.shtml">MYSTERY..</a>  My first homemade, Proton's Mystery<p>
+ <li><A HREF="homebrew.shtml"><img border=0 SRC="btnhbw.jpg"</a>
+ <li><A HREF="homebrew.shtml">HOME BREW..</a>  A double tuned set / prototyping testbed.<p>
+ <li><A HREF="deforest.shtml"><img border=0 SRC="btndft.jpg"</a>
+ <li><A HREF="deforest.shtml">DE FOREST..</a>  A showcase for some lovely vintage components.<p>
+ <li><A HREF="brt.shtml"><img border=0 SRC="btnbrt.jpg"</a>
+ <li><A HREF="brt.shtml">BREMER-TULLY..</a>  Bank-wound inductor, vintage components seeking their place..<p>
+ <li><A HREF="sw2.shtml"><img border=0 SRC="btndxr.jpg"</a>
+ <li><A HREF="sw2.shtml">GLOBAL DX'TER..</a>  Riding on the High Road<p>
+ <li><A HREF="flm.shtml"><img border=0 SRC="btnflm.jpg"</a>
+ <li><A HREF="flm.shtml">FLEMING..</a>  The first electronic detector, Fleming's amazing valve.<p>
+ <li><A HREF="minstrel.shtml"><img border=0 SRC="mbt1.jpg"</a>
+ <li><A HREF="minstrel.shtml">MINSTREL BOY..</a>  Triple-tuned link-coupled set veiled in green.<p>
+ <li><A HREF="ham.shtml"><img border=0 SRC="tham.jpg"</a>
+ <li><A HREF="ham.shtml">HAMMARLUND..</a>  Double-tuned set with Hammarlund caps.<p>
+ <li><A HREF="teflon.shtml"><img border=0 SRC="tef5.jpg"</a>
+ <li><A HREF="teflon.shtml">TEFLON..</a>  High-performance Double-tuned set, Contest Worthy.<p>
+ <li><A HREF="telefunken.shtml"><img border=0 SRC="tfktmb.jpg"</a>
+ <li><A HREF="telefunken.shtml">TELEFUNKEN..</a>  Another Mystery set, powerd by vacuum technology..<p>
+ <li><A HREF="blitz.shtml"><img border=0 SRC="blitz0.jpg"</a>
+ <li><A HREF="blitz.shtml">BIG LITZ..</a>  A venture into performance..<p>
+ <li><A HREF="kpb02.shtml"><img border=0 SRC="kpbbtn.jpg"</a>
+ <li><A HREF="kpb02.shtml">KPB-02 Matching Transformer..</a>  Delivering the most power to my ear.<p>
+ <li><A HREF="wt.shtml"><img border=0 SRC="btnwt.jpg"</a>
+ <li><A HREF="wt.shtml">WAVE TRAP..</a>  Problems eliminated<p>
+ <li><A HREF="wtpro.shtml"><img border=0 SRC="wtp9btn.jpg"</a>
+ <li><A HREF="wtpro.shtml">PRO WAVE TRAP..</a>  Playing with the big boys now...<p>
+ <li><A HREF="amp.shtml"><img border=0 SRC="btnamp.jpg"</a>
+ <li><A HREF="amp.shtml">AUDIO AMPLIFIER..</a>  For those times when....<p>
+ <li><A HREF="lcoil.shtml"><img border=0 SRC="btnvrm.jpg"</a>
+ <li><A HREF="lcoil.shtml">LOADING COIL..</a>  A Vintage Variometer finds a happy home.<p>
+ <li><A HREF="minilab.shtml"><img border=0 SRC="minl3b.jpg"</a>
+ <li><A HREF="minilab.shtml">MINILABS..</a>  A toy Crystal Radio my son made.<p>
+ <li><A HREF="sleeper.shtml"><img border=0 SRC="btnslp.jpg"</a>
+ <li><A HREF="sleeper.shtml">SLEEPER #1..</a>  Cheap shot, but it's a radio!<p>
+ <li><A HREF="steinite.shtml"><img border=0 SRC="btnstn.jpg"</a>
+ <li><A HREF="steinite.shtml">STEINITE..</a>  Vintage radio from the mid-1920's<p>
+ <li><A HREF="ars.shtml"><img border=0 SRC="btnars.jpg"</a>
+ <li><A HREF="ars.shtml">AMERICAN RADIO STORES..</a> Another vintage radio from the mid-1920's<p>
+ <li><A HREF="bbc.shtml"><img border=0 SRC="btnbbc.jpg"</a>
+ <li><A HREF="bbc.shtml">BBC COMMERATIVE..</a>  A bit of a mystery this one..<p>
