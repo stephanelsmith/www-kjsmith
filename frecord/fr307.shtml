@@ -56,21 +56,25 @@ It is a pity that so little technical data is available for the Telinga Modular.
 
 Can we ever hope to even guess the relative sensitivities of the two dishes?. Quite possibly. Total system sensitivity is the sensitivity of the microphone boosted by the gain of the dish (times some efficiency factor). Note that everything after this is based on numbers at 1000 Hz.<p>
 
+Wildtronics conservative model:<br>
+(see full Wildtronics evaluation in the Wildtronics chapter).<p>
+
+Total Sensitivity (-4 dB) = Dish 70% gain (11.4 dB) plus booster gain (2.7 dB) plus Microphone sensitivity (-18.1 dB) = -4.0 
+dB. <p>
+
 Telinga/Schoeps:<br>
-For the Telinga/Schoeps setop we know the microphone sensitivity and dish gain equation. We need only guess on the Telinga dish efficiency. IEEE provides for us a range of efficiency between 40 and 70% and suggests 50% as a starting place. Sounds good to me, lets assume 50% efficiency and start guessing!<p>
+For the Telinga/Schoeps setup we know the Schoeps microphone sensitivity and we have the dish gain equation. We need only guess on the Telinga dish efficiency. IEEE provides for us a range of efficiency between 45 and 70% and suggests 50% as a starting place. Sounds good to me, but lets assume 60% efficiency and start guessing!<p>
 
-A) Total Sensitivity = Dish 50% gain (8.46 dB) plus Microphone sensitivity (-37.7 dB) = -29.3 dB.  <br>
-B) Total Sensitivity = Dish 65% gain (10.7 dB) plus Microphone sensitivity (-37.7 dB) = -27.0 dB.  (about as generous as I can imagine)<br>
-If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly.
-Use the -23.5 dB capsule off a Rode NTG5 and you may increase the Telinga sensitivity to -15 dB. <p>
+A) Total Sensitivity = Dish 60% gain (10.0 dB) plus Microphone sensitivity (-37.7 dB) = -27.7 dB.<br>
+B) Total Sensitivity = Dish 80% gain (12.5 dB) plus Microphone sensitivity (-37.7 dB) = -25.2 dB. (outside IEEE, using the same dish efficiency as I used with Wildtronics).<p>
 
-Wildtronics:<br>
-For the Wildtronics system we know the answer, the sensitivity is -4 dB. All that follows is just showing off. Wildtronics publishes the microphone plus booster sensitivity as 10 dB!!  This is incredible as the best condenser mike "out there" (Sennheiser MKH 8070) has -19 dB. I must go out on a limb here and ASSUME the actual value is -10 dB. Since the mic plus booster = -10 dB, take away the 6 dB boundary boost and the microphone array must have a fantastic but still credible -16 dB sensitivity. <p>
+If the Schoeps microphone really has only -37.7 dB sensitivity then the Telinga/Schoeps combo is going to suffer significantly. The Sennheiser MKH 8070 or Rode NTG8 offer hypercordioid pickup similar to the Telinga and have higher sensitivity at -20 dB sensitivity.  Note, MOST end-address mics I can find have sensitives in the -34 to -48 dB range, so do not count on much.<p>
 
-Total Sensitivity (-4 dB) = Dish 40% gain (6.52 dB) plus booster gain (6 dB) plus Microphone sensitivity (-16 dB) =~ -4 dB. <br>
-I use only 40% efficiency because that makes the numbers add up and I assume the 6" booster disk blocks enough of the dish to lower its efficiency. Its my best educated guess.<p>
+I have been analyzing the Telinga with the Schoeps only because that is the setup for which Telinga publishes a polar chart. If you choose to go with Telinga then you will be wanting a more sensitive microphone than the Schoeps. What is available on the market seems to limit you, maybe the new Rode TF5 with -29 dB, that can get you to -16 dB for the Telinga at 80% efficiency. Even a professional recordist with plenty of cash should seriously consider the sensitivity limitations before making a decision.<p>
 
-My analysis strongly suggests that the Wildtronics setup easily has greater than 20 dB sensitivity than the Telinga/Schoeps setup while retaining the same directionality. <p> $790 versus $2957, you be the judge.<p>
+My analysis strongly suggests that the Wildtronics setup has significantly greater sensitivity than the Telinga/Schoeps setup while retaining the same directionality.<p>
+
+$790 versus $2957, you be the judge.<p>
 
 KJS 04/2025<p>
 <hr size=25>

@@ -50,17 +50,26 @@ W = wavelength inches<br>
 E =  efficiency  (0 to 1)
 <p>
 
-Does this actually mean the 22” dish has only 11% efficiency?  NOT necessarily so. The Pro Mono Sensitivity is the Sensitivity of the Array microphone boosted by the 22” dish with a 6" boundary booster disk. The three components we need to know for the system sensitivity are: 1) dish gain, 2) booster gain, and 3) array microphone sensitivity. <p>
+Does this actually mean the 22 inch dish has only 11% efficiency? NOT necessarily so. The Pro Mono Sensitivity is the Sensitivity of the Array microphone boosted by the 22 inch dish with a 6 inch boundary booster disk. The four components we need to know for the system sensitivity are: 1) dish gain, 2) dish efficiency, 3)booster gain, and 4) array microphone sensitivity. All numbers and computations in this analysis assume 1000 Hz frequency.<p>
 
-We know the system sensitivity is -4 dB. Wildtronics publishes the microphone plus booster sensitivity as 10 dB!!  This is incredible as the best condenser mike "out there" (Sennheiser MKH 8070) has -19 dB. I cannot get everything to ADD UP using 10 dB so I must go out on a limb here and ASSUME the actual value is -10 dB. Since the mic plus booster = -10 dB, take away the 6 dB boost and the microphone must have a fantastic but still credible -16 dB sensitivity. <p>
+For the total system sensitivity we know the answer, it is -4 dB*. Everything that follows is just showing off.<p>
 
-The dish gain equation allows calculating the dish gain but you now need another parameter, dish efficiency. Referring to published literature: <em>"Practically, the dish efﬁciency η is in the range of 45% to 70% depending on the material, shape and construction. Here, we have calculated the gain by assuming efﬁciency as 50%."</em> Sawant, O. and Bhowmick, IEEE, Jan 2022.  Sounds good to me, lets assume 50% efficiency and start guessing!<p>
+The Wildtronics website claims that the dish performs close to the theoretical maximum for a parabolic dish, that is a 13 dB gain at 1000 Hz. From the dish gain equation this corresponds to an efficiency of 85%! With "close to" I may assume a dish efficiency of say 80%, less that Wildtronics literature but higher than the range suggested by Sawant, O. and Bhowmick, IEEE, Jan 2022. Given the total is -4 dB, its a zero-sum game, if the dish is to be more efficient, the microphone must be less sensitive.<p>
 
-A) Total Sensitivity (-4 dB) = Dish 50% gain (8.46 dB) plus booster gain (6 dB) plus Microphone sensitivity (-16 dB) = -1.5 dB. does NOT add up.<br>
-B) Total Sensitivity (-4 dB) = Dish 40% gain (6.52 dB) plus booster gain (6 dB) plus Microphone sensitivity (-16 dB) = -3.5 dB. Close enough, so 40% dish efficiency is needed for things to add up. This seems at the low end of published suggestions. Here I must assume that the 6 inch booster plate is blocking a portion of the dish thus lowering the efficiency. <p>
+Also published on the Wildtronics website is the information that the integrated booster disk makes the 22 inch dish have the sensitivity of a 30 inch dish. For 1000 Hz at any dish efficiency the difference in gain between a 22 and a 30 inch dish is 2.7 dB. That is what the booster adds. The web site also suggests a 6 dB boost from the disk reflecting the boundary effect around the microphone. I note here that a full 6 dB boost would be as if the dish were 44 inches, not 30 so the booster benefit must be closer to 2.7 or 3 dB, not 6.<p>
+
+To test the full range of possible microphone sensitivities I made a spreadsheet varying the dish efficiency from 70 to 95% and booster efficiency from 2.7 to 6.0 dB. End members are thus: <br>
+Max case: 70% dish eff and 2.7 dB boost = -18.1 dB mic sensitivity. <br>
+Min case: 95% dish eff and 6.0 dB boost = -24.1 dB mic sensitivity. The array mic sensitivity cannot be any lower than this.<br>
+It would be nice if Wildtronics just published the measured array microphone sensitivity.<p>
+
+A conservative model:<br>
+Total Sensitivity (-4 dB) = Dish 80% gain (12.5 dB) plus booster gain (2.7 dB) plus Microphone sensitivity (-19.2 dB) = -4.0 
+dB. This neatly ties up everything I can glean from the Wildtronics website, at least all the numbers add up. <p>
 
 I feel that the system Mr. Rutkoski has designed with integrated dish, booster, and array microphone is as good as any on the market, likely better than most.<p>
 
+* recent testing shows -4.8 dB at 1 kHz. Note there are differences in sensitivity between units.<p>
 KJS 04/2025<p>
 <hr size=25>
 <A HREF="fr303.shtml">Next: Rode NT1 Signature..</a><br>
