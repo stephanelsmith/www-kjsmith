@@ -1,0 +1,45 @@
+
+<HTML>
+<HEAD>
+<TITLE>kjs field recording sourcebook, 3.07.1 Telinga w/Schoeps CCM 4 vs Rode NTG8</TITLE>
+
+<BODY BACKGROUND="FRbg.jpg"
+ BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
+
+</HEAD>
+<H2>Field Recording Sourcebook..</H2>
+
+<hr size=15>
+<H3>
+<table border=0 cellpadding=4 align=right><tr><td> <center>
+<img src="BCover8.jpg"> <br clear>
+</td></tr></table>
+
+<hr size=5>
+</h3><h2>Telinga w/Schoeps CCM 4 vs Rode NTG8</h2><h3>
+
+On the previous page I compared the Telinga 22 inch dish coupled with a Schoeps CCM 4 / MK 4 microphone set faciong the dish. As the Schoeps CCM 4 MK4 has a sensitivity of -37.7 dB at 1kHz I concluded that the dish/microphone combination was significantly less sensitive than the Wildtronics Pro Mono dish. <p>
+
+I further mentionned that the Telinga/Schoeps may be more comparable to a long shotgun such as a Rode NTG8 or Sennheiser MKH 8070. In order to be more careful in my statements I have gone ahead and plotted the Telinga/Schoeps against the Rode NTG8 as I already have all the points digitized. This time I am correcting the polar sensitivities to their relative comparable values. <p>
+
+For the Rode at 1000 Hz I simply added the microphone sensitivity (-20 dB) to the digital point data. At 4000 Hz I refered to the frequency response curve and found a 2.5 dB correction, or -17.5 dB sensitivity to be added. This data ia also shown on my "Rode NT8 versus Sennheiser MKH 8070" page with different scaling.<p>
+
+For the Telinga Schoeps I have digital polar data for which I have added two values, the microphone sensitivity (-37.7 dB) at 1000 Hz plus the 22 inch dish gain operating at 80% efficiency (12.5 dB). For 4000 Hz it is -37.7 dB plus dish gain of 30.6 dB (-7.1 dB) at 4000 Hz. These two corrections allow plotting the Telinga Schoeps at the same relative scale as the Rode NTG8. <p>
+
+<img src="fr3071a.jpg"><p>
+
+Note on the above polar plot that Telinga is indeed more narrowly focused than the NTG8. The dish gain kicks in rapidly so that by 4000 Hz and above the Telinga is giving superior performance. (Note, the straight line on the 400 Hz curve is because there is no data in that range on the original Schoeps plot). Overall though, the Rode NTG8 and the Telinga/Schoeps are indeed comparable and both are significantly lower sensitivity to the Wildtronics. <p>
+
+
+
+KJS 04/2025<p>
+<hr size=25>
+<A HREF="fr308.shtml">Next: Wildtronics Pro Mono versus Rode NT1..</a><br>
+<A HREF="RecordNotes0.shtml">Return to contents..</a><P>
+<hr>
+<A HREF="/index.html">Go back....</a></H3>
+<h4>
+<!--#echo var="DATE_LOCAL" -->
+<!--#include virtual="html/footer.shtml" -->
+
+</HTML>
