@@ -43,6 +43,7 @@ $790<p>
 Wildtronics Parabolic Microphone Technical:<p>
 <IMG SRC="fr302c.jpg"><p>
 
+My analysis starts here:<br>
 The following Frequency Responce chart was cobbled together with Wildtronics Sensitivity values overlain on the Dish Gain Equation. The three sensitivity values allowed me to calculate a relationship of gain vs frequency defined thus: Wildtronics Dish Gain = 7.7986ln(frequency Hz) - 57.379. This relation most closely matches the Gain Equation for a 22 inch dish with 11% efficiency. <p>
 
 <IMG SRC="fr302d.jpg"><p> 
