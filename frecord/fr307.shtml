@@ -59,10 +59,10 @@ Can we ever hope to even guess the relative sensitivities of the two dishes?. Qu
 Wildtronics conservative model:<br>
 (see full Wildtronics evaluation in the Wildtronics chapter).<p>
 
-Total Sensitivity (-4 dB) = Dish 80% gain (12.5 dB) plus booster gain (2.7 dB) plus Microphone sensitivity (-19.2 dB) = -4.0 dB. <p>
+Total Sensitivity (-4 dB) = Dish 80% gain (11.9 dB) plus booster gain (3.3 dB) plus Microphone sensitivity (-19.2 dB) = -4.0 dB. <p>
 
 Telinga/Schoeps:<br>
-For the Telinga/Schoeps setup we know the Schoeps microphone sensitivity and we have the dish gain equation. We need only guess on the Telinga dish efficiency. IEEE provides for us a range of efficiency between 45 and 70% and suggests 50% as a starting place. Sounds good to me, but lets assume 60% efficiency and start guessing!<p>
+For the Telinga/Schoeps setup we know the Schoeps microphone sensitivity and we have the dish gain equation. We need only guess on the Telinga dish efficiency. IEEE provides for us a range of efficiency between 45 and 70% and suggests 50% as a starting place. I will assume 60% efficiency and start guessing there!<p>
 
 A) Total Sensitivity = Dish 60% gain (10.0 dB) plus Microphone sensitivity (-37.7 dB) = -27.7 dB.<br>
 B) Total Sensitivity = Dish 80% gain (12.5 dB) plus Microphone sensitivity (-37.7 dB) = -25.2 dB. (outside IEEE, using the same dish efficiency as I used with Wildtronics).<p>

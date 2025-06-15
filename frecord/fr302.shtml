@@ -44,7 +44,7 @@ Wildtronics Parabolic Microphone Technical:<p>
 <IMG SRC="fr302c.jpg"><p>
 
 My analysis starts here:<br>
-The following Frequency Responce chart was cobbled together with Wildtronics Sensitivity values overlain on the Dish Gain Equation. The three sensitivity values allowed me to calculate a relationship of gain vs frequency defined thus: Wildtronics Dish Gain = 7.7986ln(frequency Hz) - 57.379. This relation most closely matches the Gain Equation for a 22 inch dish with 11% efficiency. <p>
+The following Frequency Responce chart was cobbled together with Wildtronics Sensitivity values overlain on the Dish Gain Equation for a 20.5 inch dish. The three sensitivity values allowed me to calculate a relationship of gain vs frequency defined thus: Wildtronics Dish Gain = 8.16 ln(frequency Hz) - 60.9. This relation most closely matches the Gain Equation for a 20.5 inch dish with 11% efficiency. <p>
 
 <IMG SRC="fr302d.jpg"><p> 
 Gain dB = 20LOG(3.25DE/W)  Where: D =  diameter inches<br>
@@ -52,21 +52,21 @@ W = wavelength inches<br>
 E =  efficiency  (0 to 1)
 <p>
 
-Does this actually mean the 22 inch dish has only 11% efficiency? NOT necessarily so. The Pro Mono Sensitivity is the Sensitivity of the Array microphone boosted by the 22 inch dish with a 6 inch boundary booster disk. The four components we need to know for the system sensitivity are: 1) dish gain, 2) dish efficiency, 3)booster gain, and 4) array microphone sensitivity. All numbers and computations in this analysis assume 1000 Hz frequency.<p>
+Does this actually mean the dish has only 11% efficiency? NOT so. The Pro Mono Sensitivity is the Sensitivity of the Array microphone boosted by the 22 (20.5) inch dish with a 6 inch boundary booster disk. The four components we need to know for the system sensitivity are: 1) dish gain, 2) dish efficiency, 3)booster gain, and 4) array microphone sensitivity. All numbers and computations in this analysis assume 1000 Hz frequency.<p>
 
 For the total system sensitivity we know the answer, it is -4 dB*. Everything that follows is just showing off.<p>
 
-The Wildtronics website claims that the dish performs close to the theoretical maximum for a parabolic dish, that is a 13 dB gain at 1000 Hz. From the dish gain equation this corresponds to an efficiency of 85%! With "close to" I may assume a dish efficiency of say 80%, less that Wildtronics literature but higher than the range suggested by Sawant, O. and Bhowmick, IEEE, Jan 2022. Given the total is -4 dB, its a zero-sum game, if the dish is to be more efficient, the microphone must be less sensitive.<p>
+Note that until now I have been speaking in generalities, now I wish to make a few calculations. This means that I need to start with the fact that the Wildtronics dish effective diameter is 20.5 inches, not 22. That is because the diameter includes a 3/4 inch flange that does not enter into the dish gain equation. The Wildtronics website claims that the dish performs close to the theoretical maximum for a parabolic dish, that is a 13 dB gain at 1000 Hz. From the dish gain equation this corresponds to an efficiency of 90%! Sawant, O. and Bhowmick, IEEE, Jan 2022 suggest acoustic dish efficiency ranges between 45 and 70% so in the following evaluation I will go with 80% as a compromise. Given the total is -4 dB, its a zero-sum game, if the dish is to be more efficient, the microphone must be less sensitive.<p>
 
-Also published on the Wildtronics website is the information that the integrated booster disk makes the 22 inch dish have the sensitivity of a 30 inch dish. For 1000 Hz at any dish efficiency the difference in gain between a 22 and a 30 inch dish is 2.7 dB. That is what the booster adds. The web site also suggests a 6 dB boost from the disk reflecting the boundary effect around the microphone. I note here that a full 6 dB boost would be as if the dish were 44 inches, not 30 so the booster benefit must be closer to 2.7 or 3 dB, not 6.<p>
+Also published on the Wildtronics website is the information that the integrated booster disk makes the 22 (20.5) inch dish have the sensitivity of a 30 inch dish. For 1000 Hz at any dish efficiency the difference in gain between a 20.5 and a 30 inch dish is 3.3 dB. That is what the booster adds. The web site also suggests a 6 dB boost from the disk reflecting the boundary effect around the microphone. I note here that a full 6 dB boost would be as if the dish were 44 inches, not 30 so the booster benefit must be closer to the 3.3 dB, not 6.<p>
 
-To test the full range of possible microphone sensitivities I made a spreadsheet varying the dish efficiency from 70 to 95% and booster efficiency from 2.7 to 6.0 dB. End members are thus: <br>
-Max case: 70% dish eff and 2.7 dB boost = -18.1 dB mic sensitivity. <br>
-Min case: 95% dish eff and 6.0 dB boost = -24.1 dB mic sensitivity. The array mic sensitivity cannot be any lower than this.<br>
+To test the full range of possible microphone sensitivities I made a spreadsheet varying the dish efficiency from 70 to 90% and booster efficiency from 3.3 to 6.0 dB. End members are thus: <br>
+Max case: 70% dish eff and 3.3 dB boost = -18.1 dB mic sensitivity. <br>
+Min case: 90% dish eff and 6.0 dB boost = -22.3 dB mic sensitivity. The array mic sensitivity cannot be any lower than this.<br>
 It would be nice if Wildtronics just published the measured array microphone sensitivity.<p>
 
 A conservative model:<br>
-Total Sensitivity (-4 dB) = Dish 80% gain (12.5 dB) plus booster gain (2.7 dB) plus Microphone sensitivity (-19.2 dB) = -4.0 
+Total Sensitivity (-4 dB) = Dish 80% gain (11.9 dB) plus booster gain (3.3 dB) plus Microphone sensitivity (-19.2 dB) = -4.0 
 dB. This neatly ties up everything I can glean from the Wildtronics website, at least all the numbers add up. <p>
 
 I feel that the system Mr. Rutkoski has designed with integrated dish, booster, and array microphone is as good as any on the market, likely better than most.<p>
