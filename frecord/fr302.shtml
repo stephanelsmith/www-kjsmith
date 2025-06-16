@@ -54,7 +54,7 @@ E =  efficiency  (0 to 1)
 
 Does this actually mean the dish has only 11% efficiency? NOT so. The Pro Mono Sensitivity is the Sensitivity of the Array microphone boosted by the 22 (20.5) inch dish with a 6 inch boundary booster disk. The four components we need to know for the system sensitivity are: 1) dish gain, 2) dish efficiency, 3)booster gain, and 4) array microphone sensitivity. All numbers and computations in this analysis assume 1000 Hz frequency.<p>
 
-For the total system sensitivity we know the answer, it is -4.8 dB*. Everything that follows is just showing off.<p>
+For the total system sensitivity we know the answer, it is -4.8 dB. Everything that follows is just showing off.<p>
 
 Note that until now I have been speaking in generalities, now I wish to make a few calculations. This means that I need to start with the fact that the Wildtronics dish effective diameter is 20.5 inches, not 22. That is because the diameter includes a 3/4 inch flange that does not enter into the dish gain equation. The Wildtronics website claims that the dish performs close to the theoretical maximum for a parabolic dish, that is a 13 dB gain at 1000 Hz. From the dish gain equation this corresponds to an efficiency of 90%! Sawant, O. and Bhowmick, IEEE, Jan 2022 suggest acoustic dish efficiency ranges between 45 and 70% so in the following evaluation I will go with 80% as a compromise. Given the total is -4 dB, its a zero-sum game, if the dish is to be more efficient, the microphone must be less sensitive.<p>
 
@@ -71,7 +71,6 @@ This neatly ties up everything I can glean from the Wildtronics website, at leas
 
 I feel that the system Mr. Rutkoski has designed with integrated dish, booster, and array microphone is as good as any on the market, likely better than most.<p>
 
-* recent testing shows -4.8 dB at 1 kHz. Note there are differences in sensitivity between units.<p>
 KJS 04/2025<p>
 <hr size=25>
 <A HREF="fr303.shtml">Next: Rode NT1 Signature..</a><br>
