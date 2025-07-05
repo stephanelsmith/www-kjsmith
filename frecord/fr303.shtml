@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.03 RODE NT1 Signature/5th Generation</TITLE>
+<TITLE>kjs field recording sourcebook, 3.03 Rode NTG8 RF-Bias Long Shotgun Microphone</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,35 +16,17 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Rode NT1 Signature/5th Generation</h2><h3>
+</h3><h2>Rode NTG8 RF-Bias Long Shotgun Microphone</h2><h3>
 
-<img align=left src="fr303a.jpg">
-[Ed. Note: Rode The NT1 is a side-address mic with a cardioid pickup pattern. It is my "secondary" microphone needed to pick up calls from outside the focus zone of the parabolic. It is extremely low noise (4 dBA) and quite sensitive at -32 dB. It is an excellent choice for the price.]<p>
-
-The Rode NT1 is a large-diaphragm condenser microphone suitable for a wide range of studio applications. <p>
-
-• Large 1” gold-sputtered capsule<br>
-• Exceptionally low noise (4.5dBA)<br>
-• Smooth frequency response (20Hz – 20kHz)<br>
-• True condenser operation with cardioid polar pattern<br>
-• $159<p>
-
-An addumdum seems appropriate here. As I use this microphone outdoors 2 to 3 hours a day in a humid Gulf Coast environment I have been getting problems. The microphone is sensitive to humidity and is starting to cut out frequently. I will be periodically swapping the mic out with an older less-sensitive mic so the Rode will dry out (hopefully). This is clearly an issue that need to be considered, especially if you opt for a more expensive microphone!<br>
-I was hoping the wind-muff would provide some humidity protection. Maybe it is just holding the humidity in instead. More to come as I deal with this..<p>
-
-<br clear=left><p>
+<img align=left src="fr303a.jpg"><p>
 <img src="fr303b.jpg"><p>
-<img src="fr303c.jpg"><br>
-Note in the above chart that the responce at zero degrees polar is plus 5 rather that a customary zero. I can only speculate that Rode marketing is attempting to "suggest" forward gain with their microphone. I find this plot deceptive and have digitized the curves to fix the deception.<p>
-
-<img src="fr303d.jpg"><p>
-
-What is the difference between the NT1 Signature and the 5th Generation?<br>
-The NT1 5th Generation offers a dual USB and XLR output that allows you to record 32-bit floating point audio, whereas the NT1 Signature Series has a single XLR output and is well-suited to musicians and producers, as well as content creators. The 5th Gen prevents clipping, has a built-in preamp, and has DSP effects. While the Signature Series doesn’t include these frills, it sounds identical and is priced more affordably.<p>
-
+<img src="fr303c.jpg"><br><br clear=left>
+Note in the above chart that the responce at zero degrees polar is plus 5 rather that a customary zero (see also the Rode NT1). I can only speculate that Rode marketing is attempting to "suggest" forward gain with their microphones. I find this plot deceptive and have digitized the curves to fix the deception.<p>
+ 
+<br clear=left>
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr304.shtml">Next: Lewitt LCT 540 S..</a><br>
+<A HREF="fr304.shtml">Next: Wildtronics vs Rode NTG8..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

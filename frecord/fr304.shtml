@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.04 Lewitt LCT 540 Subzero</TITLE>
+<TITLE>kjs field recording sourcebook, 3.04 Wildtronics vs Rode NTG8</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,28 +16,33 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Lewitt LCT 540 Subzero</h2><h3>
+</h3><h2>Wildtronics vs Rode NTG8</h2><h3>
 
-<img align=left src="fr304a.jpg">
+When it comes to highly directional microphones the bird recorder has two basic choices, a long shotgun microphone or a parabolic microphone. Each have their respective good points. The long gun is more portable and easier to carry about in the field, easier still when one goes to shorter guns (at the sacrifice of off-axis rejection). Parabolic microphones are quite bulky and are best suited to stationary setups. They become less bulky if one goes for smaller dishes but again at the sacrifice of directionality. Be aware that both parabolic and long gun microphones are high maintenance, very good when you can see the bird singing and wish to record only that.<p>
 
-[Ed. Note: Lewitt LCT 540 S is a side-address mic with a cardioid pickup pattern. It has extreme low noise (4 dBA) and extreme high sensitivity at -28 dB. The polar pattern is sufficiently wide to cover an entire hemisphere without notable drop in sensitivity. It is the BEST CHOICE for a general coverage microphone even if pricy.]<p>
+For directional microphone work I have identified two excellent microphones that seem both very sensitive and very low noise as well as highly directional (See Microphone Specification Table p51). The Wildtronics Pro Mono 22" parabolic dish, and the Rode NTG8 (22 in).<p>
 
+<img src="fr304a.jpg"><p>	
 
-1" true condenser studio microphone<br>
-Ultra-low noise microphone circuit<br>
-Fit for extreme processing<br>
-Low-cut filters and attenuation<br>
-The ultimate low noise / high sensitivity mic if you wish to afford it!<br>
-$699<p>
+I try to look at and compare the polar plots of the three mics but find it difficult as Wildtronics and Rode have chosen different dB scales. Where Wildtronics places the origin at -40dB and maximum gain at 0dB, Rode places the origin at -25dB with maximum gain of +5dB.  This is an excellent example of how companies can make comparison of charts as difficult as possible. In order to get my arms around the problem, I have accepted to go ahead and digitize the respective polar charts of the Wildtronics and Rode microphones. With the polar data in digital format I can recalculate the data to a common base. <p>
 
-<br clear=left><p>
+Standard polar plotting sets the chart with 0 dB amplitude at 0 degrees azimuth. (Rode is deceptive in altering this, perhaps wanting to "suggest" a forward gain of 5dB, who knows). In my first plot I simply present to curves together in their normalized scales. For Wildtronics I include curves for 1000 Hz and 3150 Hz. For Rode I include their curves at 1000 Hz and 4000 Hz. This gives a first-order comparison of the directionality of the two microphones. It should be apparent that the two mics are rather comparable and each should give satisfactory directionality in the field.<p>
+
 <img src="fr304b.jpg"><p>
+
+This first-order look does not tell the entire story. The Wildtronics and NTG8 appear fairly similar overall. One thing to note though, unlike the long Rode NTG8, the Wildtronics 22" dish DOES give noise-free gain. From the gain equation (G = 20Log(3.25DE/W) where G = dish gain dB, D = Diameter in inches, W = wavelength in inches, and E = Efficiency from 0 to l). Efficient dish gain is: @ 1000 Hz = 14 dB dish gain, and @ 4000 Hz = 27 dB dish gain. As you will see, the dish is NOT 100% efficient.<p>
+
+For the following plot, I added the sensitivity to the data, shifting the curves to their true relative positions. Thus you can see that each curve intersects the 0 degree line at its respective sensitivity and things go change as you get increasingly off-axis. Due to rescaling the plots the Wildtronics curves ballon out somewhat although I tried to compensate by plotting the chart origin at -35 dB. <p>
+
 <img src="fr304c.jpg"><p>
-<img src="fr304d.jpg"><p>
+
+Even though the Wildtronics curve “looks” slightly puffed out, it is unchanged and should be interpreted the same way as before. It should be more straightforward to interpret and compare the off-axis rejection now. Of course in plotting the true sensitivities with this scale, the Rode curves look itty bitty and some of their data has been lost in the singularity at the center of the chart. Which microphone do you want to own?<p>
+
+<p>
 
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr305.shtml">Next: Rode NT1 versus Lewitt LCT 540 S..</a><br>
+<A HREF="fr305.shtml">Next: Rode NT8 versus Sennheiser MKH 8070..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

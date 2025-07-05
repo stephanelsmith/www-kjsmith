@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.12 Rode NTG5 Broadcast shotgun microphone</TITLE>
+<TITLE>kjs field recording sourcebook, 3.12 Wildtronics Pro Mono versus Rode NTG5</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,26 +16,24 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Rode NTG5 Broadcast shotgun microphone<</h2><h3>
+</h3><h2>Wildtronics Pro Mono versus Rode NTG5</h2><h3>
 
-<img align=left src="fr312a.jpg"><p>
-The NTG5 is a short shotgun microphone designed for the most demanding recording applications. Tailored frequency response, tight polar pattern and smooth off-axis response deliver superb audio. Lightweight aluminium construction makes it perfect for location recording with a boom pole, and RF-bias circuitry and conformal coating ensure high resistance to adverse environmental conditions.<p>
+My field recording is predicated by the idea that I wish to document the birds in my garden. Document both photographically and with sound. For recording I use a Wildtronics Pro Mono 22" parabolic dish as my principal microphone. Due to its directionality and the availability of a second recording channel on my Zoom H5, I also wish to record a wide field channel so that any interesting birds that show up behind or to the side of my directional dish will also have a record. <p>
 
-The NTG5’s conformal coating is a thin layer of protective material that shields the active electronics from any moisture or particles, and the RF-biased circuitry is very resistant to moisture. This makes the NTG5 perfect for use in harsh weather conditions.<p>
+Originally I used a Rode NT1 as my wide-field mic but my intensive use in a humid Gulf Coast location fairly quickly rendered that mic unusable. Sennheiser makes an excellent RF-biased omni mic, MKH 8020 that is both sensitive (-30 dB) and low noise (-10 dB). This would be a great solution but the pricetag at $1400 is beyond what I wish to budget. The Rode NTG5 is an RF-biased short gun mic that is also robust in humid environments. It pattern is rather narrower than I care to have but it is the only current solution short of breaking the bank with the above Sennheiser.<p>
 
-$499<p>
+It remains my intention to have the Rode cover the space above, behind, and to the sides of the highly directional dish, zones otherwise “rejected”. Having constructed polar plots scaled to absolute sensitives when comparing directional microphones, I am struck by the incredible sensitivity of the Wildtronics dish at all polar angles. This should remind the reader that "Directional" in microphones is defined as a ratio between the sensitivity at zero polar angle to that at some large angle, say at 60 or 90 degrees. It is NOT NECESSARILY "off axis rejection" although it is often presented as such. <p>
 
-The revolutionary design is the result of many months of specialised acoustic testing that began during the development of the TF5 mic designed in collaboration with legendary engineer Tony Faulkner. The TF5’s capsule features a unique perforated acoustic vent design and this breakthrough lead us to completely reimagine the NTG5’s design, with acoustic perforations employed along the length of the microphone.<p>
+The following plot shows the Wildtronics polar responce for 1000 and 3150 Hz along with the Rode NT5 responce at 1000 and 4000 Hz. All curves are plotted with sensitivities relative to each other. On the chart I have rotated the NT1 120 degrees off the dish zero axis. This reflects my actual setup where the angle between the two microphone zero axes is about 120 degrees. Think of the chart as representing a vertical cut with the NT1 directed up and behind the dish. Note that the Wildtronics data appears “puffed out” due to the scale chosen in this plot. I assure you the data is unchanged and the plot correctly shows the relative amplitudes of the original.<p>
 
-<img src="fr312b.jpg"><p>
-<img src="fr312c.jpg"><p>
-<img src="fr312d.jpg"><br><br clear=left>
+<img src="fr312a.jpg"><p>
 
+The first and immediate impression is just how much lower the Rode NTG5 sensitivity (blue curves) is with respect to the Wildtronics dish (red curves) with its "free gain". My angst about missing the off-axis rarities was misplaced! Still the NTG5 should do a good job sweeping up sounds from above and behind the dish at least. Zones to the sides remain uncovered for the time being, maybe Rode will come out with an RF mic to compete with the MKH 8020 one day. Who knows? 
+<p>
 
-<br clear=left>
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr41.shtml">Next: Tripod and accessory hardware..</a><br>
+<A HREF="fr313.shtml">Next: Sennheiser MKH 8020..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>
