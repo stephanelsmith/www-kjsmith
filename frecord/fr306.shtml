@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.21 Wildtronics Pro Mono versus Telinga/Schoeps CCM 4</TITLE>
+<TITLE>kjs field recording sourcebook, 3.06 Wildtronics Pro Mono versus Telinga/Schoeps CCM 4</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -18,7 +18,7 @@
 <hr size=5>
 </h3><h2>Wildtronics Pro Mono versus Telinga/Schoeps CCM 4</h2><h3>
 Schoeps CCM4 LG<br>
-<img align=left src="fr321c.jpg">
+<img align=left src="fr306c.jpg">
 The Schoeps CCM4 is a small diaphragm cardioid microphone featuring a detachable cable and designed for use on singing and speaking voices as well as a wide variety of instruments. It can be used as a spot microphone or for stereo recording with additional mics in coincident, ORTF, or M/S microphone arrangements.<br>
 At -37.7 dB it most clearly was never intended for low-volume ambient and bird recording!<p>
 Sensitivity:	13 mV/Pa or -37.7 dB<br>
@@ -30,7 +30,7 @@ The image on the left is the polar plot for the Schoeps CCM 4 + MK 4 microphone.
 <br clear=left><p>
 
 Telinga Modular<br>
-<img align=left src="fr321b.jpg">
+<img align=left src="fr306b.jpg">
 Telinga Modular a 22" foldable professional parabolic dish set offering your microphones to be used in mono or PZM stereo configurations. Includes handle with mounting kit, foldable dish, Rycote Telinga OEM basket + OEM windjammer (currently supplied by Radius Windshields) + 2 pcs interchangeable Telinga foam cartridges:<p>
 
 Please note: the Telinga Modular does not include microphone or cable/connectors. It is designed for professionals wishing to use a favorite configuration of own mics in the parabolic dish.<br>
@@ -50,7 +50,7 @@ On the following plot I give the curves for 1000 Hz on both dishes, and the Wild
 
 The two dishes have the similar basic geometry, diameter and focal depth, and this is what determines the hyper-cordioid pattern of the polar charts. Being both 22 inch dishes, they are equally directional. The main difference between the two systems lie in the size and position of the side lobes. In this respect the Telinga dish / microphone geometry substantially reduces the magnitude of the side lobes thus increasing off-axis rejection. For Wildtronics the lobes are much more developed and the Wildtronics system will have less off-axis rejection.<p>
 
-<img src="fr321a.jpg"><p>
+<img src="fr306a.jpg"><p>
 
 It is a pity that so little technical data is available for the Telinga Modular. No frequency response and no dish gain curves are published. Given the very close similarity of the curves above I imagine the two dishes are the same in other aspects as well, ie: gain and efficiency.  <p>
 
@@ -79,7 +79,7 @@ $790 versus $2957, you be the judge.<p>
 
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr322.shtml">Next: Telinga/Schoeps CCM 4 versus Rode NTG5 versus Telinga/Rode TF5..</a><br>
+<A HREF="fr307.shtml">Next: Telinga w/Schoeps CCM 4 versus Rode NTG8 and TF5..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.22 Telinga/Schoeps CCM 4 versus Rode NTG5 versus Telinga/Rode TF5</TITLE>
+<TITLE>kjs field recording sourcebook, 3.07 Telinga/Schoeps CCM 4 versus Rode NTG8 versus Telinga/Rode TF5</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,7 +16,7 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Telinga/Schoeps CCM 4 versus Rode NTG5 versus Telinga/Rode TF5</h2><h3>
+</h3><h2>Telinga/Schoeps CCM 4 versus Rode NTG8 versus Telinga/Rode TF5</h2><h3>
 
 On the previous page I compared the Telinga 22 inch dish coupled with a Schoeps CCM 4 / MK 4 microphone set faciong the dish. As the Schoeps CCM 4 MK4 has a sensitivity of -37.7 dB at 1kHz I concluded that the dish/microphone combination was significantly less sensitive than the Wildtronics Pro Mono dish. <p>
 
@@ -26,7 +26,7 @@ For the Rode at 1000 Hz I simply added the microphone sensitivity (-20 dB) to th
 
 For the Telinga Schoeps I have digital polar data for which I have added two values, the microphone sensitivity (-37.7 dB) at 1000 Hz plus the 22 inch dish gain operating at 80% efficiency (12.5 dB). For 4000 Hz it is -37.7 dB plus dish gain of 30.6 dB (-7.1 dB) at 4000 Hz. These two corrections allow plotting the Telinga Schoeps at the same relative scale as the Rode NTG8. <p>
 
-<img src="fr322a.jpg"><p>
+<img src="fr307a.jpg"><p>
 
 Note on the above polar plot that Telinga is indeed more narrowly focused than the NTG8. The dish gain kicks in rapidly so that by 4000 Hz and above the Telinga is giving superior performance. (Note, the straight line on the Telinga 4000 Hz curve is because there is no data in that range on the original Schoeps plot). Overall though, the Rode NTG8 and the Telinga/Schoeps are indeed comparable and both are significantly lower sensitivity to the Wildtronics. <p>
 <hr size=5>
@@ -38,7 +38,7 @@ Given the same dish/microphone geometry I assume the same polar pattern will be 
 Given that both the schoeps CCM4 and Rode TF5 microphones are 20mm diameter I assume the TF5 will fit into the Telinga blimp.<br>
 Since Rode sells the TF5 only in matched pairs I assume the Telinga owner for whom money is no object will not be put off by buying two microphones in order to use one.<p>
 
-<img src="fr322b.jpg"><p>
+<img src="fr307b.jpg"><p>
 
 Wheras the 4000 Hz Telinga curve had a -13.1 zero-degree sensitivity with the Schoeps, now you find a -4.4 zero-degree sensitivity with the TF5, an 8.7 dB improvement. Again I need to point out that the Telinga 4000 Hz straight line portion of the curve results from a lack of data on the original Schoeps plot. Also because of the scale change the Telinga curves look moire "puffed out". This is due to scaling and in no way reflects an alteration of the data. This is about as good as you can do.<p>
 
@@ -46,11 +46,11 @@ If you have read this far I salute you! It should be obvious by now that I am ra
 
 Basically Telinga is offering VW Beetle performance for a Porch 911 price. <p>
 
-<img src="fr322c.png"><p>
+<img src="fr307c.png"><p>
 
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr41.shtml">Next: Tripod and accessory hardware..</a><br>
+<A HREF="fr311.shtml">Next: Rode NTG5 Broadcast shotgun microphone..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>
