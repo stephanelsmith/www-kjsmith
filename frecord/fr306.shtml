@@ -52,6 +52,10 @@ The two dishes have the similar basic geometry, diameter and focal depth, and th
 
 <img src="fr306a.jpg"><p>
 
+The above chart has all the curves in standard form normalized to 0 dB and 0 degrees polar. The following chart shows the same curves but this time with relative amplitude as measured at 0 degrees polar. The two systems share the same dish diameter and dish gain function. The only change being in the microphone element and a small boost from the Wildtronics boundary plate. That is, you are seeing the consequence of a low-sensitivity microphone facing the Telinga dish focus.<p>
+
+<img src="fr306d.jpg"><p>
+
 It is a pity that so little technical data is available for the Telinga Modular. No frequency response and no dish gain curves are published. Given the very close similarity of the curves above I imagine the two dishes are the same in other aspects as well, ie: gain and efficiency.  <p>
 
 Can we ever hope to even guess the relative sensitivities of the two dishes?. Quite possibly. Total system sensitivity is the sensitivity of the microphone boosted by the gain of the dish (times some efficiency factor). Note that everything after this is based on numbers at 1000 Hz.<p>
