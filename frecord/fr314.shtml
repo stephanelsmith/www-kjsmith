@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.14 RODE NT1 Signature/5th Generation</TITLE>
+<TITLE>kjs field recording sourcebook, 3.14 Rode NTG5 vs Sennheiser MKH8020</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,35 +16,22 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Rode NT1 Signature/5th Generation</h2><h3>
+</h3><h2>Rode NTG5 vs Sennheiser MKH8020</h2><h3>
 
-<img align=left src="fr314a.jpg">
-[Ed. Note: Rode The NT1 is a side-address mic with a cardioid pickup pattern. It is extremely low noise (4 dBA) and quite sensitive at -32 dB. It is an excellent choice for the price. Note though, this microphone is sensitive to humidity. If you live in a dry climate or make fairly light use of the microphone, it may serve you well. In my Gulf Coast location under intensive use (-3 hours/day, 5 days a week) it quickly became unusable.]<p>
+My recent experience with the Rode NT1 failing due to humidity has necessitated a new outlook on choosing microphones for field recording. From now on I require humidity resistance for any microphone. In practice that means that I am looking for RF biased condenser microphones. Yes I still seek omni or cardioid mics with high sensitivity and low self noise, that is just no longer sufficient. <p>
 
-The Rode NT1 is a large-diaphragm condenser microphone suitable for a wide range of studio applications. <p>
+This requirement immediately narrows my possibilities. Actually it narrows it to the RF biased Sennheiser MKH 8020 or 8040 only. As these mics are priced out of my range I have had to compromise with the Rode NTG5 which is an RF biased short shotgun with very high sensitivity and low self noise. It is available at a fair price and this is how I have gone.<p>
 
-* Large 1” gold-sputtered capsule<br>
-* Exceptionally low noise (4.5dBA)<br>
-* Smooth frequency response (20Hz – 20kHz)<br>
-* True condenser operation with cardioid polar pattern<p>
+In order to understand this compromise better I have constructed a comparison plot of the NTG5 and the MKH8020 (with the MKH8040 tossed in for fun). Just how much do I lose with the NTG5 in terms of wide field? Also, since it is more sensitive than the 8020, what if anything do I win? <p>
+<img src="fr314a.jpg"><p>
 
-$159<p>
+Looking at the plot you see immediately that the NTG5 has a significantly narrower field of view. The MKH8020 is omnidirectional after all. On the plus side, between -300 degrees to +60 degrees (a wide 120 degree window) the NTG5 actually gives superior sensitivity over the 8020. I am still going to miss ringer bird calls from behind the NTG5, but then the Wildtronics has that mostly covered. If/until Rode comes out with an RF biased omni the NTG5 is a good choice and it is giving better pickup over much of the forward direction. <p>
 
-<br clear=left><p>
-<img src="fr314b.jpg"><p>
-<img src="fr314c.jpg"><br>
-Note in the above chart that the responce at zero degrees polar is plus 5 rather that a customary zero. I can only speculate that Rode marketing is attempting to "suggest" forward gain with their microphone. I find this plot deceptive and have digitized the curves to fix the deception.<p>
-
-<img src="fr314d.jpg"><p>
-
-Addendum: I have recently had to retire the RT1 from my setup. I record 2 to 3 hours a day, up to 5 days a week in a humid Gulf Coast (Houston) environment. The humidity has taken its toll. The following graphic shows a portion of a session with frequent sound cut-outs. If you live in a dry environment or if your usage is light then perhaps the NT1 is the right choice. For me it no longer works.
-
-<img src="fr314e.jpg"><p>
-<p>
+Honestly, given the comparison I might now opt for the NTG5 even if a (reasonably priced) omni were available. Note that the Sennheiser MKH8040 cardioid is a less sensitive choice in every respect. I would never go that direction.<p>
 
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr315.shtml">Next: Lewitt LCT 540 S..</a><br>
+<A HREF="fr315.shtml">Next: Rode NT1 Signature..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

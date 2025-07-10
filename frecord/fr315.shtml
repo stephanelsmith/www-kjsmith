@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.15 Lewitt LCT 540 Subzero</TITLE>
+<TITLE>kjs field recording sourcebook, 3.15 RODE NT1 Signature/5th Generation</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,30 +16,35 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Lewitt LCT 540 Subzero</h2><h3>
+</h3><h2>Rode NT1 Signature/5th Generation</h2><h3>
 
 <img align=left src="fr315a.jpg">
+[Ed. Note: Rode The NT1 is a side-address mic with a cardioid pickup pattern. It is extremely low noise (4 dBA) and quite sensitive at -32 dB. It is an excellent choice for the price. Note though, this microphone is sensitive to humidity. If you live in a dry climate or make fairly light use of the microphone, it may serve you well. In my Gulf Coast location under intensive use (-3 hours/day, 5 days a week) it quickly became unusable.]<p>
 
-[Ed. Note: Lewitt LCT 540 S is a side-address mic with a cardioid pickup pattern. It has extreme low noise (4 dBA) and extreme high sensitivity at -28 dB. The polar pattern is sufficiently wide to cover an entire hemisphere without notable drop in sensitivity. It is the BEST CHOICE for a general coverage microphone even if pricy.]<p>
+The Rode NT1 is a large-diaphragm condenser microphone suitable for a wide range of studio applications. <p>
 
+* Large 1” gold-sputtered capsule<br>
+* Exceptionally low noise (4.5dBA)<br>
+* Smooth frequency response (20Hz – 20kHz)<br>
+* True condenser operation with cardioid polar pattern<p>
 
-1" true condenser studio microphone<br>
-Ultra-low noise microphone circuit<br>
-Fit for extreme processing<br>
-Low-cut filters and attenuation<br>
-The ultimate low noise / high sensitivity mic if you wish to afford it!<p>
-$699<p>
-
-Let the buyer beware: This microphone is not made for outdoor use and is not moisture/humidity resistant. If you live in a dry environment of yourusage is light then this may be a fine solution. At $700 this is a risk only you can choose. <p>
+$159<p>
 
 <br clear=left><p>
 <img src="fr315b.jpg"><p>
-<img src="fr315c.jpg"><p>
+<img src="fr315c.jpg"><br>
+Note in the above chart that the responce at zero degrees polar is plus 5 rather that a customary zero. I can only speculate that Rode marketing is attempting to "suggest" forward gain with their microphone. I find this plot deceptive and have digitized the curves to fix the deception.<p>
+
 <img src="fr315d.jpg"><p>
+
+Addendum: I have recently had to retire the RT1 from my setup. I record 2 to 3 hours a day, up to 5 days a week in a humid Gulf Coast (Houston) environment. The humidity has taken its toll. The following graphic shows a portion of a session with frequent sound cut-outs. If you live in a dry environment or if your usage is light then perhaps the NT1 is the right choice. For me it no longer works.
+
+<img src="fr315e.jpg"><p>
+<p>
 
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr316.shtml">Next: Rode NT1 versus Lewitt LCT 540 S..</a><br>
+<A HREF="fr316.shtml">Next: Lewitt LCT 540 S..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>
