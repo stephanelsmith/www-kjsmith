@@ -26,12 +26,12 @@ To fix all these deficiencies I have digitized the charts for 1000 Hz, 4000 Hz, 
 
 In order to make this comparison chart I had to massage things somewhat. Just looking at the published polar charts is not very helpful in fact. Rode commits some slight-of-hand by plotting their curves at a +5 dB crossing of the 0 degree axis, most unconventional but readily mitigated. Lewitt commits their slight-of-hand by plotting with a Y-axis scale of just 20 dB, (0 to -20). That cuts off all measured data below -20 dB, which should be considerable. No mitigation here, you just do not get to see it.<p>
 
-On the following plot the Rode curves are in warm colors red/orange and Lewitt curves in cool blues. You should immediately see that at all frequencies and polar directions the Lewitt LCT 540S microphone is more sensitive. Interestingly the NT1 becomes more directional at high frequencies whereas the LCT does not. As the function of the secondary mic in my setup is to catch near-omnidirectional sounds (away from the directional parabolic) the LCT is the superior choice. But is that choice really worth the extra $540 ? Can you honestly hear the difference from a 4 dB boost in sensitivity? For $540 ? For the time being I think the NT1 is the right choice for me. Should I become dissatisfied with it later on I have not sacrificed too much and the LCT ought still to be available.<p>
+On the following plot the Rode curves are in warm colors red/orange and Lewitt curves in cool blues. You should immediately see that at all frequencies and polar directions the Lewitt LCT 540S microphone is more sensitive. Interestingly the NT1 becomes more directional at high frequencies whereas the LCT does not. As the function of the secondary mic in my setup is to catch near-omnidirectional sounds (away from the directional parabolic) the LCT is the superior choice. But is that choice really worth the extra $540 ? Can you honestly hear the difference from a 4 dB boost in sensitivity? For $540 ? For the time being I think the NT1 is a good choice. Neither of the two mics are moisture/humidity resistant and I cannot in all honestly recommend them for any field use excpet in dry climates.<p>
 
 <img src="fr317a.jpg"><p>
 
 [For those who may have noticed, I do not consider the Lewitt LCT 440. Compared to the Rode NT1 it has only marginally better sensitivity and has higher self-noise yet still costs more than the NT1. It is off the table.<br>
-Note also that the original NT1 had a sensitivity of -29 dB wheras the current NT1 signature / 5th Gen both have a sensitivity of -32. What a pity.]<p>
+As I mentionned before neither of the two mics are moisture/humidity resistant and I cannot in all honestly recommend them for any field use excpet in dry climates.]<p>
 
 KJS 04/2025<p>
 <hr size=25>
