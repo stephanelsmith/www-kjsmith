@@ -52,7 +52,7 @@ The two dishes have the similar basic geometry, diameter and focal depth, and th
 
 <img src="fr306a.jpg"><p>
 
-The above chart has all the curves in standard form normalized to 0 dB and 0 degrees polar. The following chart shows the same curves but this time with relative amplitude as measured at 0 degrees polar. The two systems share the same dish diameter and dish gain function. The only change being in the microphone element and a small boost from the Wildtronics boundary plate. That is, you are seeing the consequence of a low-sensitivity microphone facing the Telinga dish focus.<p>
+The above chart has all the curves in standard form normalized to 0 dB and 0 degrees polar. The following chart shows the same curves but this time with relative amplitude as measured at 0 degrees polar. Note that the Telinga/Schoeps 1000 Hz curve crosses the 0 degree line at -25 dB, just as it is supposed to. The two systems share the same dish diameter and dish gain function. The only difference being in the microphone elements and a small boost from the Wildtronics boundary plate. That is, for Telinga/Schoeps you are seeing the consequence of a low-sensitivity microphone facing the Telinga dish focus. In order to even see the Telinga curves I have had to deease the dB scale down to -40 dB. This scale change is what makes the Wildtronics curves appear "puffed out" with respect to the prior chart.<p>
 
 <img src="fr306d.jpg"><p>
 
