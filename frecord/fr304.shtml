@@ -32,7 +32,7 @@ Standard polar plotting sets the chart with 0 dB amplitude at 0 degrees azimuth.
 
 This first-order look does not tell the entire story. The Wildtronics and NTG8 appear fairly similar overall. One thing to note though, unlike the long Rode NTG8, the Wildtronics 22" dish DOES give noise-free gain. From the gain equation (G = 20Log(3.25DE/W) where G = dish gain dB, D = Diameter in inches, W = wavelength in inches, and E = Efficiency from 0 to l). Efficient dish gain is: @ 1000 Hz = 14 dB dish gain, and @ 4000 Hz = 27 dB dish gain. As you will see, the dish is NOT 100% efficient.<p>
 
-For the following plot, I added the sensitivity to the data, shifting the curves to their true relative positions. Thus you can see that each curve intersects the 0 degree line at its respective sensitivity and things go change as you get increasingly off-axis. Due to rescaling the plots the Wildtronics curves ballon out somewhat although I tried to compensate by plotting the chart origin at -35 dB. <p>
+For the following plot, I added the sensitivity to the data, shifting the curves to their true relative positions. Thus you can see that each curve intersects the 0 degree line at its respective sensitivity and things change as you get increasingly off-axis. Note that dish gain increases with increasing frequency so that in the relative plot the 3150 Hz curve expands outside the 1000 Hz curve as compared to the original normalized plot above. Due to rescaling the amplitude axis the Wildtronics curves ballon out somewhat although I tried to compensate by plotting the chart origin at -35 dB.<p>
 
 <img src="fr304c.jpg"><p>
 

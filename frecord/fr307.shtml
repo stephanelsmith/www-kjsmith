@@ -22,7 +22,7 @@ On the previous page I compared the Telinga 22 inch dish coupled with a Schoeps 
 
 I further mentionned that the Telinga/Schoeps may be more comparable to a long shotgun such as a Rode NTG8 or Sennheiser MKH 8070. In order to be more careful in my statements I have gone ahead and plotted the Telinga/Schoeps against the Rode NTG8 as I already have all the points digitized. This time I am correcting the polar sensitivities to their relative comparable values. <p>
 
-For the Rode at 1000 Hz I simply added the microphone sensitivity (-20 dB) to the normalized sensitivity data. At 4000 Hz I refered to the frequency response curve and found a 2.5 dB correction, or -17.5 dB sensitivity to be added. This data ia also shown on my "Rode NT8 versus Sennheiser MKH 8070" page with different scaling.<p>
+For the Rode NTG8 at 1000 Hz I simply added the microphone sensitivity (-20 dB) to the normalized sensitivity data. At 4000 Hz I refered to the frequency response curve and found a 2.5 dB correction, or -17.5 dB sensitivity to be added. This data ia also shown on my "Rode NT8 versus Sennheiser MKH 8070" page with different scaling.<p>
 
 For the Telinga Schoeps I have digital polar data for which I have added two values, the microphone sensitivity (-37.7 dB) at 1000 Hz plus the 22 inch dish gain operating at 80% efficiency (12.5 dB) equals 25.2 dB at zero degrees polar. For 4000 Hz it is -37.7 dB plus dish gain of 24.6 dB, equals -13.1 dB at zero degrees polar. These two corrections allow plotting the Telinga Schoeps at the same relative scale as the Rode NTG8. <p>
 
