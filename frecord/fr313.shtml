@@ -39,6 +39,19 @@ The MKH 8020 is a high-end omni-directional studio condenser microphone from the
 <img src="fr313c.jpg"><p>
 <img src="fr313d.jpg"><p>
 
+<pre>
+Sennheiser MKH 8000 series specs:
+MKH	pattern		   sensitivity	noise	dia	length
+				dBV/Pa	dBA	mm	mm
+8020	omni directional	-30	10	19	41
+8030	figure of eight		-31	13	19	59
+8040	cardioid		-34	13	19	41
+8050	super cardioid		-34	13	19	59
+8060	shotgun			-24	11	19	145
+8070	shotgun			-19	8	19	432
+</pre>
+
+
 KJS 04/2025<p>
 <hr size=25>
 <A HREF="fr314.shtml">Next: Rode NTG5 vs Sennheiser MKH8020..</a><br>
