@@ -35,16 +35,6 @@ Modified on: Wed, 3 May, 2023 at 2:30 PM<p>
 
 [Ed note: eBird quality ratings, in my experience, are subjective and worthless (to me). I would MUCH rather see “Views” given as it is both objective and interesting.]<p>
 
-</h3><h2>
-Making A Quick And Effective Boundary Microphone<p></h2><h3>
-
-If a mic is placed in the pressure zone, then it’s voltage output will be roughly doubled over what it would be in free space, resulting in a 6 dB increase in output level from the mic. If multiple boundaries are used, the increase will be even greater.<p>
-
-The boundary size must be large enough to reflect the lowest frequency of interest. Wavelengths that are large relative to the boundary size will simply diffract around it rather than be reflected.<p>
-
-A method of obtaining free accoustic gain is a pressure zone of boundary plate. This essentially means placing a microphone within 0.035 inches from a ﬂat surface. Each ﬂat surface can provide 6dB of accoustic gain. So, if you have two plates 90 degrees perpendicluar to each other, you can get l2dB of gain. <p>
- 
-<br clear=left>
 KJS 04/2025<p>
 <hr size=25>
 <A HREF="fr43.shtml">Next: Sound frequency vs wavelength (in)..</a><br>

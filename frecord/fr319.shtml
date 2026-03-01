@@ -31,9 +31,10 @@ From now on I discuss "Boundary Microphone" in terms of sensitivity enhancement 
 I have written to the manufacturer for data concerning the microphone (stereo) sensitivity and recorder self noise but have received no reply. I am on my own here! How do I know if this is working? Doing At-Home audio measurements is a fools errand. The needed equipment for minimum results is prohibitively expensive and with the equipment I do have access to most/all is woefully uncalibrated.<p>
 
 I Tested a homemade boundary jig measuring 23 x 11 inch lacquered 1/4 inch plywood panels.<br>
-	F transition = 750/D = 750 / 1.9 = 391 Hz<br>
-	F -6 dB       = 188/D = 188 / 1.9 =   98 Hz<br>
-	where D is the side length of the panel in ft.<br>
+<pre>
+	F transition  = 750/D = 750 / 1.9 = 391 Hz	(two-thirds wavelength c = 1125, c * 2/3 = 750)
+	F -6 dB       = 188/D = 188 / 1.9 =  98 Hz	(one-sixth wavelength  c = 1125, c * 1/6 = 188))
+	where D is the side length of the panel in ft.<br></pre>
 <img src="fr319b.jpg"><br>
  Fig 1<p>
 
@@ -67,14 +68,14 @@ F Hz	Vol	Track L	Track R	Av LR	Enhancement?
 
 *Note: The low enhancement at 250 Hz is explainable because the rig loses efficiency below 390 Hz. Something wonky was happening at 2000 and 8000 Hz and I was never able to get it right. I suspect it is my test environment.<p>
 
-The above testing and analysis confirms that a two-Boundary rig adds a 12 dB free gain across the audio spectrum above some lower limit defined by the size of the boundary employed. This is especially important at low frequencies say below 1000 Hz where a parabolic dish does not give significant gain. The following chart (Fig 3) gives curves of Gain versus Frequency for a 22 inch (20.5") dish (Telinga or Wildtronics) operating at 80 and 60% efficiency overlain by the expected response of the two-Boundary rig. The low frequency benefit is clear. Additionally I have plotted the power spectra of a Barred owl recorded (Fig 4) with my Evistr V508 while utilizing the two-boundary rig. The frequency signature of the owl is centered at 480 Hz where the two-boundary gain is higher than that of a dish. <p>
+The above testing and analysis confirms that a two-Boundary rig adds a 12 dB free gain across the audio spectrum above some lower limit defined by the size of the boundary employed. This is especially important at low frequencies say below 1000 Hz where a parabolic dish does not give significant gain. The following chart (Fig 3) gives curves of Gain versus Frequency for a 22 inch (20.5") dish (Telinga or Wildtronics) operating at 80 and 60% efficiency overlain by the expected response of the two-Boundary rig. The low frequency benefit is clear. Additionally I have plotted the power spectra of a Barred owl recorded (Fig 4) with my Evistr V508 while utilizing the two-boundary rig. The frequency signature of the owl is centered at 536 Hz where the two-boundary gain is higher than that of a dish. <p>
 
 <img src="fr319d.jpg"><br>
 Fig 3.<p>
 
 <img src="fr319e.jpg"><br>
 Fig 4.<p>
-<a href="fr319e.wav">Listen: Chouette Rayee02_24fev2026.wav</a>(file normalized to -3 dB)<p>
+<a href="fr319e.wav">Listen: Chouette Rayeé </a>(file un-normalized)<p>
 
 The use of a dish or boundary is not a panacea for low frequency recording. Like a Telinga dish it requires that you provide a microphone of your choice. I have in my kit an unused Behringer B-5 microphone. This mic has an omni sensitivity of -40 dB. The boundary will improve this to -28 dB, very nice. Now, my Rode NTG5 short shotgun has a sensitivity of -23.5 dB, a better choice! Still, the Behringer B-5 for $75 plus a couple pieces of plywood (next time I will use plexiglass) gives you a descent result while the NTG5 sets you back over $400. If you have an unused Sennheiser MKH 8020 laying around (shame on you!) then its sensitivity of -30 dB will be improved to -18 dB. Now we are talking about a significant performance increase! <p>
 
