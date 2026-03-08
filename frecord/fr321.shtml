@@ -39,7 +39,7 @@ Now with an improved microphone element specifically designed for 3.5mm PIP inpu
 <img src="fr321d.jpg"><p>
 $75<p>
 
-The 11.5 inch dish plus Mini PiP microphone frequency can be determined from information given on the Wildtronics website and using the Dish Gain equation. On the following chart I plot several curves, 1) in grey I show the PiP microphone response normalized to 0 dB as published by Wildtronics. 2) the blue curve shows the absolute responce where the microphone has -24 dB sensitivity at 1000 Hz. 3) the green curve is the dish gain for a 10.5 inch effective dish working at 80% efficiency. 4) finally I add the blue and green curves together to obtain the heavy red curve of the Dish plus Microphone Frequency Response.<p>
+The 11.5 inch dish plus Mini PiP microphone frequency response can be determined from information given on the Wildtronics website and using the Dish Gain equation. On the following chart I plot several curves, 1) in grey I show the PiP microphone response normalized to 0 dB as published by Wildtronics. 2) the blue curve shows the absolute responce where the microphone has -24 dB sensitivity at 1000 Hz. 3) the green curve is the dish gain for a 10.5 inch effective dish working at 80% efficiency. 4) finally I add the blue and green curves together to obtain the heavy red curve of the Dish plus Microphone Frequency Response.<p>
 
 Frequency Response:<br>
 <img src="fr321e.jpg"><p>
