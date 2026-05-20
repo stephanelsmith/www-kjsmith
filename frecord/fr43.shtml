@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 4.3 Sound frequency vs wavelength (in)</TITLE>
+<TITLE>kjs field recording sourcebook, 4.3 Increasing the value of your audio recordings</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,18 +16,34 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Sound frequency vs wavelength (in)</h2><h3>
+</h3><h2>Increasing the value of your audio recordings</h2><h3>
 
-The following little plot illustrates the correspondance between sound wavelength in inches and frequency in Hertz. It assumes conditions of 20 dC or 68 dF. Speed of sound at these conditions is 343 m/s or 1125 ft/s.<br>
-This may give a good idea of the frequency responce versus the dish diameter. A 22" dish corresponds to a frequency of 614 Hz, below that frequency there will be no "gain". <p>
+[Ed Note: I recently received this note from Blaine Carnes at Merlin/eBird. While addressed to me personally, it provides some good advice to anyone submitting audio files to eBird.)<p>
 
-<img src="fr43a.jpg">
+<hr size=5>
+
+Hi Kevin,<p>
+
+Given the amount of audio recordings you've added to your eBird checklists in the past few years, some of the other Macaulay Library staff and I wanted to personally reach out with some tips on how to increase the value of your recordings for use in Merlin Sound ID and the other research projects that tap into our audio archive. You seem to have a lot of enthusiasm for recording and, between that and the high-quality recording equipment you're using, we feel like you'd be able to easily take the jump up to the next level.<p>
+
+The first tip is to increase the length of your recordings. Audio files need to be at least 9 seconds long to be "eligible" for use in the Merlin Sound ID model, and longer recordings tend to capture more variation in an individual bird's songs and calls, as well as valuable background information. We generally try to encourage a 30-second minimum length when possible, which we try to emphasize whenever we have audio-based challenges for the eBirder of the Month contest. An easy way to increase recording length is to group multiple recordings of the same individual bird on a checklist into a single sound file before you upload it, as outlined in our "Audio preparation and upload guidelines" page found here in the eBird Help Center.<p>
+
+The second is to add more metadata to your recordings when you upload them. You're already doing more than most eBird users do by adding the information about your recording gear (thank you very much for that!), and including some of the other information like bird age and sex, vocalization type, background species, and behaviors when possible can be even more important to researchers. Explanations of the different metadata tags for audio recordings can be found here in the eBird Help Center.<p>
+
+The third tip is a slight settings change on your recording equipment. It looks like you're currently recording mostly at 44 kHz/16bit, and if you change that to 48 kHz/24bit the audio quality will increase a little.<p>
+
+I don't know if you've had the opportunity to go over our "Sound recording tips" page in the Help Center or the "Audio preparation and upload guidelines" page, but both of these also have a lot of useful information about how to get the most out of your recordings.<p>
+
+Thanks for the volume of your audio contributions to Macaulay Library. It's been an absolutely staggering amount — you've climbed up into our top ten contributors globally — and good luck with adding more species to your already impressive yard list.<p>
+
+Blaine Carnes <br>
+Merlin Sound ID US and Canada Project coordinator
 <p>
  
 <br clear=left>
-KJS 04/2025<p>
+KJS 05/2026<p>
 <hr size=25>
-<A HREF="fr44.shtml">Next: Bit Rate calculation..</a><br>
+<A HREF="fr45.shtml">Next: Bit Rate calculation..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

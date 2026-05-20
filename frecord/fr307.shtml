@@ -31,11 +31,12 @@ For the Telinga Schoeps I have digital polar data for which I have added two val
 Note on the above polar plot that Telinga is indeed more narrowly focused than the NTG8. The dish gain kicks in rapidly so that by 4000 Hz and above the Telinga is giving superior performance. (Note, the straight line on the Telinga 4000 Hz curve is because there is no data in that range on the original Schoeps plot). Overall though, the Rode NTG8 and the Telinga/Schoeps are indeed comparable and both are significantly lower sensitivity with respect to the Wildtronics. <p>
 <hr size=5>
 
-Because of the above mediocre performance using the Schoeps CCM 4 at -37.7 dB I have decided to see what the Telinga dish might do with a more sensitive microphone, this time a Rode TF5 with a sensitivity of -29 dB, significantly higher than the Schoeps. (I know, I should have compared with a Sennheiser RF biased MKH mic.) In order to construct the following graphic I have had to make a number of assumptions. Therefor what follows is a model or simulation, not actual data.<p>
+Because of the above mediocre performance using the Schoeps CCM 4 at -37.7 dB I have decided to see what the Telinga dish might do with a more sensitive cardioid microphone, this time a Rode TF5 with a sensitivity of -29 dB, significantly higher than the Schoeps. (The TF5 is cardioid but not RF biased, not moisture resistant.) In order to construct the above graphic I have had to make a number of assumptions. Therefor what follows is a model or simulation, not actual data.<p>
 
 Assumptions I made include: <br>
-Given the same dish/microphone geometry I assume the same polar pattern will be produced. Thus I used the Schoeps polar as my base.<br>
-Given that both the schoeps CCM4 and Rode TF5 microphones are 20mm diameter I assume the TF5 will fit into the Telinga blimp.<p>
+1. Given the same dish/microphone geometry I assume a similar polar pattern will be produced. Thus I used the Schoeps polar as my base. (The TF5 is cardioid but not moisture resistant. The Sennheiser RF Biased 8040 carioid is moisture resistant but at -34dB sensitivity is hardly worth the substitutuion).<br>
+2. Given that both the schoeps CCM4 and Rode TF5 microphones are 20mm diameter I assume the TF5 will fit into the Telinga blimp.
+<p>
 
 <img src="fr307b.jpg"><p>
 

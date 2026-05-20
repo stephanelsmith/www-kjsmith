@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 4.4 Bit Rate calculation</TITLE>
+<TITLE>kjs field recording sourcebook, 4.4 Sound frequency vs wavelength (in)</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,19 +16,18 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Bit Rate calculation</h2><h3>
+</h3><h2>Sound frequency vs wavelength (in)</h2><h3>
 
-(Uncompressed Format) bit rate=bitspersample (16-bit or 24-bit)*samplespersec(44.1KHz-48KHz)*no.of channels. Example 16-bit 48Khz strereo contains bitrate of 1.5Mb/sec. File size calculation For Uncompressed Format file size=((bitspersample(16-bit or 24-bit)*samplespersec(44.1KHz-48KHz)*no.of channels*duration(no.of sec the music played))/8. Example 16-bit 44.1Khz stereo for 60 min the file size is 630MB. For Compressed Format File size=((bit rate in kbps)*(length of the audio in sec))/8 Example 16 bit 44.1Khz stereo for 60min at 128Kbps the file size is 10.8MB <p>
+The following little plot illustrates the correspondance between sound wavelength in inches and frequency in Hertz. It assumes conditions of 20 dC or 68 dF. Speed of sound at these conditions is 343 m/s or 1125 ft/s.<br>
+This may give a good idea of the frequency responce versus the dish diameter. A 22" dish corresponds to a frequency of 614 Hz, below that frequency there will be no "gain". <p>
 
-For live streaming the bandwidth required can be calculated using the formula: bandwidth=listeners*bit rate*length(audio length per day)*no. of days. The bandwidth required for  bit rate of 128Kbps is 57.6MB/hr. Table Representing the bandwidth for various Bitrates The length of the file is taken as  60min(180 sec).<p>
-
-<img src="fr44a.jpg">
+<img src="fr43a.jpg">
 <p>
  
 <br clear=left>
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr45.shtml">Next: Technical links..</a><br>
+<A HREF="fr45.shtml">Next: Bit Rate calculation..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>
