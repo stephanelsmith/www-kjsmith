@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.19 Boundary surface microphone sensitivity enhancement</TITLE>
+<TITLE>kjs field recording sourcebook, 3.21 Wildtronics Pro Mini Parabolic with Micro PiP Microphone</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,79 +16,44 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Boundary surface microphone sensitivity enhancement</h2><h3>
+</h3><h2>Wildtronics Pro Mini Parabolic with Micro PiP Microphone</h2><h3>
 
-I have read an aside on the Wildtronics web page that field microphone sensitivity may be "boosted" or enhanced by 6 dB by using a flat surface "boundary plate" adjacent to the microphone. This is a doubling of the sensitivity which is desirable. On further web research I discover that placing a microphone at the corner of two boundaries set 90 degrees to each other can further enhance sensitivity to 12 dB total. Furthermore, this represents Free Gain and thus increases the signal to noise ratio of your microphone, (ambient noise still amplified, sorry).<p>
+<IMG align=left SRC="fr321a.jpg"><p>The Wildtronics Pro Mini Parabolic will transform an omnidirectional microphone into a shotgun-like microphone, but with better isolation and reach. Boost your microphone for dramatically improved reach and isolation. Parabolic reflectors provide gain, so you can reach subjects that are outside the range of other microphones, including shotgun microphones.<p>
 
-<IMG align=left SRC="fr319a.jpg">
+Fits most omnidirectional microphones less than 26mm in diameter. We recommend using omnidirectional microphones for best results. You can use cardioid microphones, if you use the included seal to cover the vents on the side of the microphone. The kit comes with adapters for 19-26mm pencil style microphones and most lavalier microphones.<p>
 
-For some perspective, a 22 inch parabolic dish will also give an approximately 12 dB (1kHz) frequency dependent free gain. It is also highly directional and rather expensive. The two-boundary rig gives 12 dB across the spectrum and has a wide hemispherical field of view. There are times when that is exactly what is wanted.<p>
+Handle base has metal 1/4-20 threads for easy tripod/hotshoe mounting. Accessory bar mount provision. The accessory mount will allow you to mount our Mini-Accessory Bar directly to the handle. The Mini-Accessory Bar can hold a small, hand-held recorder for quick easy use with just one short cable to your microphone. <p>
+<br clear=left><p>
+<IMG SRC="fr321b.jpg"><p>
 
-A web search turfs up virtually only commercial "boundary microphone" products with little in the way of technique or theory. Few resources discuss the use of boundaries to enhance sensitivity as a field technique. Basically the "Boundary Microphone" is seen as a recording method for studio or theater used to reduce or eliminate "comb filtering" which occurs when sound reaches a microphone from two separate paths, direct and reflected. Sensitivity gain is mentioned primarily as a "perk". The Crown website gives by far the most information including methods of mounting microphones on one or multiple boundaries and includes various polar and frequency response (cartoon) charts. They also provide a Frequency response formula that allows one to calculate the lowest frequencies attainable for a given surface side length. Everything in the context of studio or theater environment.<p>
+$260 without microphone <p>
 
-From now on I discuss "Boundary Microphone" in terms of sensitivity enhancement for field recording. As a two-boundary setup is almost trivial to construct I had to try this out. I own a small Evistr V508 portable dictating recorder. It records stereo at 1536 kbps CD quality, has an internal Li-ion battery and can record with battery and internal memory for up to 12 hours. I often use to record nighttime ambience and, hopefully, an occasional owl. <p>
+</h3><h2>Wildtronics Micro PiP Microphone</h2><h3>
 
-I have written to the manufacturer for data concerning the microphone (stereo) sensitivity and recorder self noise but have received no reply. I am on my own here! How do I know if this is working? Doing At-Home audio measurements is a fools errand. The needed equipment for minimum results is prohibitively expensive and with the equipment I do have access to most/all is woefully uncalibrated.<p>
+Omnidirectional response, meaning it will pick up sounds from all directions. When used with our parabolic reflector kits, a highly directional response results.<p>
 
-I Tested a homemade boundary jig measuring 23 x 11 inch lacquered 1/4 inch plywood panels.<br>
-<pre>
-	F transition  = 750/D = 750 / 1.9 = 391 Hz	(two-thirds wavelength c = 1125, c * 2/3 = 750)
-	F -6 dB       = 188/D = 188 / 1.9 =  98 Hz	(one-sixth wavelength  c = 1125, c * 1/6 = 188))
-	where D is the side length of the panel in ft.<br></pre>
-<img src="fr319b.jpg"><br>
- Fig 1<p>
+<IMG align=left SRC="fr321c.jpg"><p>Includes a 6 foot, replaceable cable. One 3.5mm straight connector and the other side is a 90 degree angle 3.5mm connector, both gold plated. The Wildtronics Micro-Mic PIP is a good low noise, high sensitivity, low cost microphone that perfectly fits our All Purpose Parabolic or Pro Mini Parabolic.<p>
 
-Measurements were conducted by 1) playing tones (250, 500, 1000, 2000, 4000, and 8000 Hz) with an online tone generator, 2) adjusting the % volume on the computer (attempting) to get a flat frequency vs volume dB recording from the V508 in the open (no boundaries). Given that, I then repeated the measurement with the recorder attached to the boundary rig. Tones were again played with the same volume % as gave the open field flat response. This is an iterative and time-consuming process and results are barely repeatable due to the uncalibrated/unspecified equipment used. The final results before I threw in the towel are plotted in Fig 2 below. It is clear I could not get a good "flat" open field response. <p>
+Now with an improved microphone element specifically designed for 3.5mm PIP inputs with 2-5 volt power. The improved element also has higher sensitivity, meaning it has a higher output that will overwhelm the noise typical in low cost 3.5mm recorders. You can also use these great little microphones by themselves, outside of the dish, as a general omnidirectional microphone. You can even use a pair of them for stereo recording set-ups, using a Y cable, that we also have available. The Micro-Mic PIP requires a recorder and or camera, that has a 3.5mm input with 2-5 volt PIP, or Plug-in Power. The Micro-Mic PIP is less than 2 inches long, weighs less than 1oz, has a good 14dBA noise floor, and has a built-in windscreen. This mic fits directly into the central Mic Tube of our All Purpose Parabolic, hub of our Pro Universal Parabolic, or Pro Mini Parabolic. The mic has a machined aluminum construction, is fully shielded, and has a gold plated, Neutrik 3.5mm stereo jack. The left channel is connected to the mic, and the unused right channel is grounded through a 100 ohm resistor. If you want the Micro Mic PIP to record on both the left and right channels, we offer a 3.5mm mono to stereo adapter, listed under the Accessories for our Performance Series Microphones in our webstore. A 6 foot, 3.5mm cable, with gold plated connectors, is included. The reason why we use a detachable cable is that cables will wear and need replacing far more often than a connector and you may want different length cables for different applications. You can replace the cable anytime inexpensively and still have a good microphone.<p>
 
-<img src="fr319c.jpg"><br>
- Fig 2<p>
+<img src="fr321d.jpg"><p>
+$75<p>
 
-<pre>
-Open field measurement			
-F Hz	Vol	Track L	Track R	Av LR
-	%	dB	dB	dB
-250	32	-35.6	-32.9	-34.3
-500	43	-38.3	-34.6	-36.5
-1000	53	-38.4	-36.5	-37.5
-2000	78	-36.7	-33.0	-34.9
-4000	72	-41.8	-31.5	-36.7
-8000	61	-34.3	-32.9	-33.6
+The 11.5 inch dish plus Mini PiP microphone frequency response can be determined from information given on the Wildtronics website and using the Dish Gain equation. On the following chart I plot several curves, 1) in grey I show the PiP microphone response normalized to 0 dB as published by Wildtronics. 2) the blue curve shows the absolute responce where the microphone has -24 dB sensitivity at 1000 Hz. 3) the green curve is the dish gain for a 10.5 inch effective dish working at 80% efficiency. 4) finally I add the blue and green curves together to obtain the heavy red curve of the Dish plus Microphone Frequency Response.<p>
 
-Large Two-boundary measurement			
-F Hz	Vol	Track L	Track R	Av LR	Enhancement?
-	%	dB	dB	dB	dB
-250*	32	-33.1	-30.3	-31.7	2.6
-500	43	-26.3	-23.5	-24.9	11.6
-1000	53	-26.8	-24.3	-25.6	11.9
-2000	78	-30.3	-30.4	-30.4	4.5
-4000	72	-27.0	-24.6	-25.8	10.9
-8000	61	-33.1	-28.3	-30.7	2.9
-					7.4 Av 11.9 Mx dB
-</pre><p>
+Frequency Response:<br>
+<img src="fr321e.jpg"><p>
 
-*Note: The low enhancement at 250 Hz is explainable because the rig loses efficiency below 390 Hz. Something wonky was happening at 2000 and 8000 Hz and I was never able to get it right. I suspect it is my test environment.<p>
+The Frequency Response is far from "flat" with this setup. One must be aware of this effect, the resulting audio will be colored with a heavy boost at higher frequencies. My intended use for this setup is for evening and night recording of A) Owls and B) spring and fall migration. For owls I am primarily interested in the response in the vicinity of 400 to 600 Hz. For migration I can appreciate the boost at the higher frequencies expected of migrating bird calls. Additionally, the small diameter dish means I am getting a much broader “field of view”, (cardioid to super cardioid, NOT hyper cardioid like the 22 inch dish.)<p>
 
-The above testing and analysis confirms that a two-Boundary rig adds a 12 dB free gain across the audio spectrum above some lower limit defined by the size of the boundary employed. This is especially important at low frequencies say below 1000 Hz where a parabolic dish does not give significant gain. The following chart (Fig 3) gives curves of Gain versus Frequency for a 22 inch (20.5") dish (Telinga or Wildtronics) operating at 80 and 60% efficiency overlain by the expected response of the two-Boundary rig. The low frequency benefit is clear. Additionally I have plotted the power spectra of a Barred owl recorded (Fig 4) with my Evistr V508 while utilizing the two-boundary rig. The frequency signature of the owl is centered at 536 Hz where the two-boundary gain is higher than that of a dish. <p>
+The following chart is a repeat of that above for which I have added a curve in orange showing the power spectrum of a Barred owl calling. The greatest power in the call at 510 Hz lies right in the -26 dB sensitivity range.<p>
+<img src="fr321f.jpg"><p>
 
-<img src="fr319d.jpg"><br>
-Fig 3.<p>
-
-<img src="fr319e.jpg"><br>
-Fig 4.<p>
-<a href="fr319e.wav">Listen: Chouette Rayeé </a>(file un-normalized)<p>
-
-The use of a dish or boundary is not a panacea for low frequency recording. Like a Telinga dish it requires that you provide a microphone of your choice. I have in my kit an unused Behringer B-5 microphone. This mic has an omni sensitivity of -40 dB. The boundary will improve this to -28 dB, very nice. Now, my Rode NTG5 short shotgun has a sensitivity of -23.5 dB, a better choice! Still, the Behringer B-5 for $75 plus a couple pieces of plywood (next time I will use plexiglass) gives you a descent result while the NTG5 sets you back over $400. If you have an unused Sennheiser MKH 8020 laying around (shame on you!) then its sensitivity of -30 dB will be improved to -18 dB. Now we are talking about a significant performance increase! <p>
-
-A boosted MKH8020 has 5.5 dB greater sensitivity than the NTG5, but costs $1100 more! At $200 per dB gained I leave it to you to decide which route to take. For me, the two-boundary rig is inexpensive and easy to construct and allows me to set out the little V508 more effectively. Some day when an anonymous doner gives me a MKH8020 then I will switch to that!<p>
-
-Conclusions:<br>
-
-The above analysis makes it clear that a two-boundary rig can add up to 12 dB of sensitivity enhancement to a field microphone. My data is rather scattered as expected from the lack of proper calibrated and/or specified measurement tools. Still, this does validate the boundary concept. A simple construct can seriously increase the sensitivity of a microphone. This has broad application in a field environment where soft ambient sounds are sought after. As a field recordist you should consider adding this to your kit.
-<p>
+Currently I am starting to experience moisture issues with the Mini PiP. Houston and Gulf (of Mexico) Coast humidity spells trouble for ambient field recording. There is no easy solution and an evening / night owl recording setup remains a work in progress.  <p>
 
 KJS 02/2026<p>
 <hr size=25>
-<A HREF="fr320.shtml">Next: Sound professionals SP-LAV-1 Ultra-high sensitivity..</a><br>
+<A HREF="fr41.shtml">Next: Tripod and accessory hardware..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

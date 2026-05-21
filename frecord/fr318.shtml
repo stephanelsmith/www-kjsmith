@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.18 Rode NT1 versus NTG5</TITLE>
+<TITLE>kjs field recording sourcebook, 3.18 Sound professionals SP-LAV-1 Ultra-high sensitivity</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,20 +16,33 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Rode NT1 versus NTG5</h2><h3>
+</h3><h2>Sound professionals SP-LAV-1 Ultra-high sensitivity</h2><h3>
 
-I mentioned earlier that the NTG5 polar chart appears cardioid. Lets take a closer look.<p>
+The Sound Professionals miniature lavaliere (lapel) omni-directional microphone is very small – about the size of pencil eraser tip (roughly 1/4″ in diameter 1/2″ long ). The cable is terminated in 3.5mm (1/8 inch), gold plated male connector. <p>
 
-<img src="fr318a.jpg"><p>
-I have recently turned to the NTG5 for my wide field backup mic. This decision is driven principally by the fact that the NTG5 is RF-biased and weather/humidity resistant, a major factor for me it turns out. I am not partictularily happy to go with a Shotgun mic as my "Wide Field" solution, but there you have it. A possibly better alternative would be the Sennheiser MKH 8020 RF-biased omnidirectional microphone but that mic is priced out of my range. <p>
+[Ed Note: This is a -24 dB sensitivity microphone, about as sensitive as any microphone on the market today.  Powered by PiP with small recorders that do not provide phantom power, like my Evistr! I have placed the microphone between two boundary surfaces at right angles to each other, the mic facing outward and nearly flush with the surfaces. Presumably that should provide upwards of 12 dB boost to the sensitivity, making the setup have an overall -12 dB sensitivity. Sounds fantastic! I am not seeing it in my records. I am not even sure if the mic itself has a -24 dB sensitivity.<p>
 
-The following polar chart compares the Rode NT1 to the NTG5. Here you see that the NTG5 provides a narrower field of view compared to the NT1 and is significantly more sensitive. How they get a small-diaphragm mic to be more sensitive than a large-diaphragm is a mystery to me, something about a Mr. Tony Faulkner engineering some magic with round holes. This should justify the difference in price ($159 vs $499) for field recording. For walking it even comes with a nifty pistol grip.  Having the microphone in hand may help you quickly change the aim when desired.<p>
+Web pages I have consulted for suggestions on Lavs used for field recording mostly stress their small size and portability. I mean virtually ALL field recording web pages stress this. That's it. I am unsure if there is any other particular advantage in them, maybe price. My current limited evaluation of this microphone leaves me less than optimistic that it will perform well. Right now I have the impression it is not much more sensitive than the internal Evistr mics. The mics supplied with my Tascam DR-05X are more sensitive.]
+<p>
 
-<img src="fr318b.jpg"><p>
+$90
+<p>
 
-KJS 04/2025<p>
+<IMG SRC="fr320a.jpg"><p>
+<IMG SRC="fr320b.jpg"><p>
+
+Features:<br>
+Flat frequency response<br>
+Can be used directly with device that has 1.5 to 10vdc “plug-in-power” available at the mic jack<br>
+Premium windscreen and removable clip included<p>
+
+The following image shows the SP-LAV-1 mounted flush in the center of my homegrown two-surface boundary rig. A german criticism of the PZM concept appears to favor the microhone to be forward-facing with an obstacle in front. The function of the obstacle is to prevent an increase in the high frequencies. As my goal is to record low-frequency owl calls, and because fashioning and placing an obstacle is trouble, I have neglected this aspect.<p>
+<IMG SRC="fr320c.jpg"><p>
+Overall I am most underwhelmed with the performance of this setup. The Wildtronics Pro-Mini dish with Mini PiP microphone (also -24 dB sensitivity) gives greater response. On the down side, I am starting to experience moisture issues with the Mini PiP. The SP-LAV-1 may or may not be more moisture sensitive though I have no reason to believe so. My evening / night owl recording setup remains a work in progress.<p>
+
+KJS 02/2026<p>
 <hr size=25>
-<A HREF="fr319.shtml">Next: Boundary surface microphone sensitivity enhancement..</a><br>
+<A HREF="fr319.shtml">Next: Wildtronics Pro Mini Parabolic with Micro PiP Microphone..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>

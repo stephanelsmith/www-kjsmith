@@ -1,7 +1,7 @@
 
 <HTML>
 <HEAD>
-<TITLE>kjs field recording sourcebook, 3.16 Lewitt LCT 540 Subzero</TITLE>
+<TITLE>kjs field recording sourcebook, 3.16 Rode NT1 versus NTG5</TITLE>
 
 <BODY BACKGROUND="FRbg.jpg"
  BGCOLOR="#C0C0C0" TEXT="#000000" LINK="#FF0000" VLINK="#800000 ALINK="#FFFFFF">
@@ -16,31 +16,20 @@
 </td></tr></table>
 
 <hr size=5>
-</h3><h2>Lewitt LCT 540 Subzero</h2><h3>
+</h3><h2>Rode NT1 versus NTG5</h2><h3>
 
-<img align=left src="fr316a.jpg">
+I mentioned earlier that the NTG5 polar chart appears cardioid. Lets take a closer look.<p>
 
-[Ed. Note: Lewitt LCT 540 S is a side-address mic with a cardioid pickup pattern. It has extreme low noise (4 dBA) and extreme high sensitivity at -28 dB. The polar pattern is sufficiently wide to cover an entire hemisphere without notable drop in sensitivity. It would work for a general coverage dry climate microphone even if pricy.<p>
-Being non-humidity resistant I can no longer recommend this microphone for outdoor use.]<p>
+<img src="fr318a.jpg"><p>
+I have recently turned to the NTG5 for my wide field backup mic. This decision is driven principally by the fact that the NTG5 is RF-biased and weather/humidity resistant, a major factor for me it turns out. I am not partictularily happy to go with a Shotgun mic as my "Wide Field" solution, but there you have it. A possibly better alternative would be the Sennheiser MKH 8020 RF-biased omnidirectional microphone but that mic is priced out of my range. <p>
 
+The following polar chart compares the Rode NT1 to the NTG5. Here you see that the NTG5 provides a narrower field of view compared to the NT1 and is significantly more sensitive. How they get a small-diaphragm mic to be more sensitive than a large-diaphragm is a mystery to me, something about a Mr. Tony Faulkner engineering some magic with round holes. This should justify the difference in price ($159 vs $499) for field recording. For walking it even comes with a nifty pistol grip.  Having the microphone in hand may help you quickly change the aim when desired.<p>
 
-1" true condenser studio microphone<br>
-Ultra-low noise microphone circuit<br>
-Fit for extreme processing<br>
-Low-cut filters and attenuation<br>
-The ultimate low noise / high sensitivity mic if you wish to afford it!<p>
-$699<p>
-
-Let the buyer beware: This microphone is not made for outdoor use and is not moisture/humidity resistant. If you live in a dry environment of yourusage is light then this may be a fine solution. At $700 the risk is yours to accept or not. <p>
-
-<br clear=left><p>
-<img src="fr316b.jpg"><p>
-<img src="fr316c.jpg"><p>
-<img src="fr316d.jpg"><p>
+<img src="fr318b.jpg"><p>
 
 KJS 04/2025<p>
 <hr size=25>
-<A HREF="fr317.shtml">Next: Rode NT1 versus Lewitt LCT 540 S..</a><br>
+<A HREF="fr317.shtml">Next: Boundary surface microphone sensitivity enhancement..</a><br>
 <A HREF="RecordNotes0.shtml">Return to contents..</a><P>
 <hr>
 <A HREF="/index.html">Go back....</a></H3>
